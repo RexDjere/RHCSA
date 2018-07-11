@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T19:25:45-04:00
+
+====== GnuPG ======
+Created Wednesday 11 July 2018
+
+[[encryption]]
+
+[[GnuPG]] stands for GNU Privacy Guard.  It is a free software implementation of the [[OpenPGP]] standard defined in [[https://www.ietf.org/rfc/rfc4880.txt|RFC4880.]] [[GnuPG]] is one utility that can be used to encrypt files, folders, and messages in Unix-like computer operating systems, such as Linux.

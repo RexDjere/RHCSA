@@ -11,7 +11,7 @@ tasks
 * [[001 - understand and use essential tools]]
 * [[002 - operate running systems]]
 * [[003 - configure local storage]]
-* [[create and configure file systems and file system attributes]]
+* [[004 - create and configure file systems]]
 * [[005 - deploy, configure, and maintain systems]]
 * [[006 - manage users and groups]]
 * [[007 - manage security]]
