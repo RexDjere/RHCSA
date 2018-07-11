@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T16:29:57-04:00
+
+====== tar-compress example 1 ======
+Created Wednesday 11 July 2018
+
+[[tar-compress]]
+
+tar syntax:  tar -czvf name-ofarchive.tar.gz /path/to/directory-or-file
+
+Tasks: 
+* Navigate to the [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex001|tar-compress_ex001]] folder in the examples/tar folder.
+* Create a directory called mydir using the [[mkdir]] command.
+* Create 3 files inside of mydir called myfile1, myfile2, and myfile 3 using the [[touch]] command.
+* Compress the mydir directory to a file called mydir.tar.gz using the [[tar]] command.
+
+{{./pasted_image.png}}

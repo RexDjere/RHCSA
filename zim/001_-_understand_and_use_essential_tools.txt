@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:40:05-04:00
+
+====== 001 - understand and use essential tools ======
+Created Wednesday 11 July 2018
+
+[[objectives]]
+
+RHCSA exam objective 001 - understand and use essentials tools
+* [[001 - left branches]]
+* [[001 - right branches]]

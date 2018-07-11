@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-10T22:40:59-04:00
 
-====== configure local storage ======
+====== 003 - configure local storage ======
 Created Tuesday 10 July 2018
 
 [[tasks]]

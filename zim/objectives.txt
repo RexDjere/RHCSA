@@ -8,10 +8,10 @@ Created Wednesday 11 July 2018
 [[exam]]
 
 objectives
-* [[understand and use essential tools]]
-* [[operate running systems]]
-* [[configure local storage]]
-* [[create and configure file systems]]
-* [[deploy, configure, and maintain systems]]
-* [[manage users and groups]]
-* [[manage security]] 
+* [[001 - understand and use essential tools]]
+* [[002 - operate running systems]]
+* [[003 - configure local storage]]
+* [[004 - create and configure file systems]]
+* [[005 - deploy, configure, and maintain systems]]
+* [[006 - manage users and groups]]
+* [[007 - manage security]] 

@@ -9,11 +9,11 @@ Created Tuesday 10 July 2018
 
 tasks
 * [[understand and use essentials tools]]
-* [[operate running systems]]
-* [[configure local storage]]
+* [[002 - operate running systems]]
+* [[003 - configure local storage]]
 * [[create and configure file systems and file system attributes]]
-* [[deploy, configure, and maintain systems]]
-* [[manage users and groups]]
-* [[manage security]]
+* [[005 - deploy, configure, and maintain systems]]
+* [[006 - manage users and groups]]
+* [[007 - manage security]]
 * [[tasks template]]
 

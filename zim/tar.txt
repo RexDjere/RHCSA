@@ -7,7 +7,7 @@ Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 
-command template:
-* command-compress
-* command-unpack
-* command-uncompress
+tar:
+* [[tar-compress]]
+* [[tar-unpack]]
+* [[tar-uncompress]]

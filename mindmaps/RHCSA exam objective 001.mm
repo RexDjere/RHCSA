@@ -1,6 +1,17 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1531281129527" ID="ID_1125958557" MODIFIED="1531281220521" TEXT="RHCSA exam objective 1">
+<node CREATED="1531281129527" ID="ID_1125958557" MODIFIED="1531340359592">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      RHCSA exam objective 001
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1531281345671" ID="ID_889604766" MODIFIED="1531281356568" POSITION="right" TEXT="Access a shell prompt and issue commands with correct syntax"/>
 <node CREATED="1531281360873" ID="ID_1916830777" MODIFIED="1531281368630" POSITION="right" TEXT="Use input-output redirection (&gt;, &gt;&gt;, |, 2&gt;, etc.)"/>
 <node CREATED="1531281372734" ID="ID_1409298610" MODIFIED="1531281380654" POSITION="right" TEXT="Use grep and regular expressions to analyze text"/>

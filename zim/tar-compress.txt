@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T16:29:03-04:00
+
+====== tar-compress ======
+Created Wednesday 11 July 2018
+
+[[tar]]
+
+tar-compress
+* [[tar-compress example 1]]
