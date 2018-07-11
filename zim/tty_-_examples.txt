@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T00:24:48-04:00
+
+====== tty - examples ======
+Created Wednesday 11 July 2018
+
+[[tty]]
+
+It has the following flags:
+* -s, --silent, --quiet
+	* prints nothing, only returns an exit status
+* --help
+	* displays help information then exits
+* --version
+	* displays version information then exits
+
+{{./pasted_image.png}}
+
+{{./pasted_image001.png}}
