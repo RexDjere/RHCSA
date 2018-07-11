@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:07:52-04:00
+
+====== whoami ======
+Created Tuesday 10 July 2018
+
+[[users]]

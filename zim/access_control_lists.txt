@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:14:26-04:00
+
+====== access control lists ======
+Created Tuesday 10 July 2018
+
+[[create and configure file systems and file system attributes]]

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:59:30-04:00
+
+====== cd ======
+Created Tuesday 10 July 2018
+
+[[directories]]

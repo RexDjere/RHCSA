@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:40:52-04:00
+
+====== understand and use essentials tools ======
+Created Tuesday 10 July 2018
+
+[[tasks]]
+
+understand and use essentials tools
+* [[files]]
+* [[directories]]
+* [[command-line environments]]
+* [[documentation]]

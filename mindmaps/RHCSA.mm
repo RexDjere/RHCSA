@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1531272880711" ID="ID_290260075" MODIFIED="1531272890250" TEXT="RHCSA">
-<node CREATED="1531272900533" ID="ID_599590570" MODIFIED="1531275614329" POSITION="right" TEXT="tasks">
+<node CREATED="1531272900533" ID="ID_599590570" MODIFIED="1531277471765" POSITION="right" TEXT="tasks">
 <node CREATED="1531272906662" ID="ID_492883234" MODIFIED="1531275479441" TEXT="understand and use essential tools">
 <node CREATED="1531272925081" ID="ID_658594013" MODIFIED="1531274476306" TEXT="files">
 <node CREATED="1531273393080" ID="ID_1568196201" MODIFIED="1531275942405" TEXT="tty"/>
@@ -83,8 +83,7 @@
       create and configure file systems and file system attributes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1531275542517" ID="ID_1250643638" MODIFIED="1531275550626" TEXT="permissions"/>
 <node CREATED="1531275553712" ID="ID_491503600" MODIFIED="1531275559853" TEXT="encryption"/>
 <node CREATED="1531275566127" ID="ID_1133583896" MODIFIED="1531275575505" TEXT="access control lists"/>
@@ -101,6 +100,23 @@
 <node CREATED="1531275827885" ID="ID_352423725" MODIFIED="1531275836239" TEXT="manage security">
 <node CREATED="1531275841078" ID="ID_1518105859" MODIFIED="1531275858321" TEXT="basic firewall configuration"/>
 <node CREATED="1531275863239" ID="ID_10309183" MODIFIED="1531275871960" TEXT="SELinux configuration"/>
+</node>
+<node CREATED="1531277477329" ID="ID_1677361032" MODIFIED="1531277495917" TEXT="tasks template">
+<node CREATED="1531277503050" ID="ID_1048025927" MODIFIED="1531277510750" TEXT="command - function"/>
+<node CREATED="1531277516582" ID="ID_120325746" MODIFIED="1531277586944">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      command - description
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1531277533838" ID="ID_344441812" MODIFIED="1531277544775" TEXT="command - examples"/>
 </node>
 </node>
 <node CREATED="1531276203111" ID="ID_1448371367" MODIFIED="1531276207821" POSITION="left" TEXT="exam">

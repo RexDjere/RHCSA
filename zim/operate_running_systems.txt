@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:40:56-04:00
+
+====== operate running systems ======
+Created Tuesday 10 July 2018
+
+[[tasks]]
+
+operate running systems
+* [[boot into different run levels]]
+* [[identify users]]
+* [[start and stop VMs]]
+* [[control services]]

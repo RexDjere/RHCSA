@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:11:33-04:00
+
+====== boot into different run levels ======
+Created Tuesday 10 July 2018
+
+[[operate running systems]]

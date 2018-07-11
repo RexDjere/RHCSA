@@ -15,4 +15,5 @@ tasks
 * [[deploy, configure, and maintain systems]]
 * [[manage users and groups]]
 * [[manage security]]
+* [[tasks template]]
 
