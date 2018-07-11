@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T18:08:31-04:00
+
+====== tar - description ======
+Created Wednesday 11 July 2018
+
+[[tar]]
+
+tar is a utility for compressing, unpacking, and uncompressing archives.
+
+Commonly used tar flags:
+* -c: creates an archive.
+* -z: compress the archive using gzip.
+* -v: verbose => diplay progress during the archiving process.
+* -f: enable specifying the filename of the archive.

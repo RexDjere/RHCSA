@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T18:08:28-04:00
+
+====== tar - function ======
+Created Wednesday 11 July 2018
+
+[[tar]]
+
+tar is a utility for compressing, unpacking, and uncompressing archives.
