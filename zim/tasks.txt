@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:32:15-04:00
+
+====== tasks ======
+Created Tuesday 10 July 2018
+
+[[RHCSA]]
+
+tasks
+* [[understand and use essentials tools]]
+* [[operate running systems]]
+* [[configure local storage]]
+* [[create and configure file systems and file system attributes]]
+* [[deploy, configure, and maintain systems]]
+* [[manage users and groups]]
+* [[manage security]]
+
