@@ -7,7 +7,8 @@ Created Wednesday 11 July 2018
 
 [[tar-compress]]
 
-tar syntax:  tar -czvf name-ofarchive.tar.gz /path/to/directory-or-file
+tar syntax - compressing a single file or directory:  
+* tar -czvf name-ofarchive.tar.gz /path/to/file-or-directory
 
 Tasks: 
 * Navigate to the [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex001|tar-compress_ex001]] folder in the examples/tar folder.
