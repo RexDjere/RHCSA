@@ -6,6 +6,7 @@ Creation-Date: 2018-07-10T22:41:12-04:00
 Created Tuesday 10 July 2018
 
 [[tasks]]
+[[objectives]]
 
 manage users and groups
 * [[centralized directory for authentication]]

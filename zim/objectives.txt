@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:35:46-04:00
+
+====== objectives ======
+Created Wednesday 11 July 2018
+
+[[exam]]
+
+objectives
+* [[understand and use essential tools]]
+* [[operate running systems]]
+* [[configure local storage]]
+* [[create and configure file systems]]
+* [[deploy, configure, and maintain systems]]
+* [[manage users and groups]]
+* [[manage security]] 

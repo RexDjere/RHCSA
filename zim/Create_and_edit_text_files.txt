@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:46:24-04:00
+
+====== Create and edit text files ======
+Created Wednesday 11 July 2018
+
+[[left branches]]

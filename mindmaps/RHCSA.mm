@@ -132,7 +132,18 @@
 <node CREATED="1531280983406" ID="ID_430947067" MODIFIED="1531281253519" TEXT="configure local storage">
 <icon BUILTIN="full-3"/>
 </node>
-<node CREATED="1531281000583" ID="ID_698099948" MODIFIED="1531281260798" TEXT="create and cofigure file systems">
+<node CREATED="1531281000583" ID="ID_698099948" MODIFIED="1531319956759">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      create and configure file systems
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1531281021106" ID="ID_178883838" MODIFIED="1531281274169" TEXT="deploy, configure, and maintain systems">

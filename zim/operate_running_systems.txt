@@ -6,6 +6,7 @@ Creation-Date: 2018-07-10T22:40:56-04:00
 Created Tuesday 10 July 2018
 
 [[tasks]]
+[[objectives]]
 
 operate running systems
 * [[boot into different run levels]]

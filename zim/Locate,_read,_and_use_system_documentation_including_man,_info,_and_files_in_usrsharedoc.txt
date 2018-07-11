@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:46:36-04:00
+
+====== Locate, read, and use system documentation including man, info, and files in usrsharedoc ======
+Created Wednesday 11 July 2018
+
+[[left branches]]

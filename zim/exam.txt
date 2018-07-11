@@ -6,3 +6,9 @@ Creation-Date: 2018-07-10T22:32:19-04:00
 Created Tuesday 10 July 2018
 
 [[RHCSA]]
+
+exam
+* [[name]]
+* [[duration]] 
+* [[cost]]
+* [[objectives]]
