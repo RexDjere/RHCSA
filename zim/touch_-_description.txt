@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T00:53:08-04:00
+
+====== touch - description ======
+Created Wednesday 11 July 2018
+
+[[touch]]
+
+touch is used to change file timestamps and to create new empty files.
+
+Some flags commonly used with touch:
+* -a 
+	* changes the access time
+* -m
+	* changes the modification time
+* -r
+	* reference option. uses the file's time stamp vice the current time
+* -B
+	* modifies the timestamp by going back the specified number of seconds
+* -F
+	* modified the file timestamp by going forward the specified number of seconds
+* -d, --date=STRING
+	* stamps file with given date (STRING) instead of actual date
+* -t
+	* timestamps file with given time instead of actual time
+* --time=WORD (TODO: fully understand this option)
+* --help
+	* display help text and exit
+* --version
+	* dispay version information and exit
+
