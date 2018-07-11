@@ -8,7 +8,7 @@ Created Tuesday 10 July 2018
 [[RHCSA]]
 
 tasks
-* [[understand and use essentials tools]]
+* [[001 - understand and use essential tools]]
 * [[002 - operate running systems]]
 * [[003 - configure local storage]]
 * [[create and configure file systems and file system attributes]]

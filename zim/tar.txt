@@ -9,7 +9,7 @@ Created Wednesday 11 July 2018
 [[tasks]]
 [[tasks template]]
 
-tar:
+tar
 * [[tar - function]]
 * [[tar - description]]
 * [[tar - examples]]

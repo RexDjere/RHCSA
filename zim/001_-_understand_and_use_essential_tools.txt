@@ -6,7 +6,12 @@ Creation-Date: 2018-07-11T10:40:05-04:00
 Created Wednesday 11 July 2018
 
 [[objectives]]
+[[tasks]]
 
 RHCSA exam objective 001 - understand and use essentials tools
 * [[001 - left branches]]
 * [[001 - right branches]]
+* [[files]]
+* [[directories]]
+* [[command-line environments]]
+* [[documentation]]

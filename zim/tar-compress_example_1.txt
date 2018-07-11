@@ -7,6 +7,12 @@ Created Wednesday 11 July 2018
 
 [[tar-compress]]
 
+In example 1, we will compress a single directory using tar.  We will use the -czvf flags.  
+* -c: creates an archive.
+* -z: compress the archive using gzip.
+* -v: verbose => diplay progress during the archiving process.
+* -f: enable specifying the filename of the archive.
+
 tar syntax - compressing a single file or directory:  
 * tar -czvf name-ofarchive.tar.gz /path/to/file-or-directory
 

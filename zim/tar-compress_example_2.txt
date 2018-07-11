@@ -7,9 +7,14 @@ Created Wednesday 11 July 2018
 
 [[tar-compress]]
 
+In example 2, we will compress a several directories into one tar.gz file. We will use the -czvf flags.  
+* -c: creates an archive.
+* -z: compress the archive using gzip.
+* -v: verbose => diplay progress during the archiving process.
+* -f: enable specifying the filename of the archive.
+
 tar syntax - compressing a multiple files or directories into a single archive:  
 * tar -czvf name-ofarchive.tar.gz /path/to/file-or-directory1 /path/to/file-or-directory2...
-
 
 Tasks: 
 * Navigate to the [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex002|tar-compress_ex002]] folder in the examples/tar folder.

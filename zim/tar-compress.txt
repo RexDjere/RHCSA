@@ -10,3 +10,4 @@ Created Wednesday 11 July 2018
 tar-compress
 * [[tar-compress example 1]]
 * [[tar-compress example 2]]
+* [[tar-compress example 3]]

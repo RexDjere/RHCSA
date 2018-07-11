@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T18:32:46-04:00
+
+====== 002 - left branches ======
+Created Wednesday 11 July 2018
+
+[[002 - operate running systems]]
+
+002 - left branches
+* [[Access a virtual machine's console]]
+* [[Start and stop virtual machines]]
+* [[Start, stop, and check the status of network services]]
+* [[Securely transfer files between systems]]
