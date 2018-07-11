@@ -12,6 +12,5 @@
 <node CREATED="1531281502142" ID="ID_1308188189" MODIFIED="1531281503863" POSITION="left" TEXT="Create hard and soft links"/>
 <node CREATED="1531281513516" ID="ID_1709118347" MODIFIED="1531281515409" POSITION="left" TEXT="List, set, and change standard ugo/rwx permissions"/>
 <node CREATED="1531281525891" ID="ID_1326050033" MODIFIED="1531281529329" POSITION="left" TEXT="Locate, read, and use system documentation including man, info, and files in /usr/share/doc"/>
-<node CREATED="1531281721071" ID="ID_606840366" MODIFIED="1531281725166" POSITION="right" TEXT="TEST"/>
 </node>
 </map>
