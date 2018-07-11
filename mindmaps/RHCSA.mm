@@ -113,16 +113,38 @@
       command - description
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1531277533838" ID="ID_344441812" MODIFIED="1531277544775" TEXT="command - examples"/>
 </node>
 </node>
-<node CREATED="1531276203111" ID="ID_1448371367" MODIFIED="1531276207821" POSITION="left" TEXT="exam">
+<node CREATED="1531276203111" ID="ID_1448371367" MODIFIED="1531280924017" POSITION="left" TEXT="exam">
 <node CREATED="1531276263115" ID="ID_993148265" MODIFIED="1531276277489" TEXT="name"/>
 <node CREATED="1531276283684" ID="ID_1745907826" MODIFIED="1531276288372" TEXT="duration"/>
 <node CREATED="1531276291895" ID="ID_50887559" MODIFIED="1531276296785" TEXT="cost"/>
+<node CREATED="1531280924023" ID="ID_1633058795" MODIFIED="1531280929132" TEXT="objectives">
+<node CREATED="1531280934130" ID="ID_965835204" MODIFIED="1531281235763" TEXT="understand and use essential tools">
+<icon BUILTIN="full-1"/>
+</node>
+<node CREATED="1531280957088" ID="ID_295243404" MODIFIED="1531281247376" TEXT="operate running systems">
+<icon BUILTIN="full-2"/>
+</node>
+<node CREATED="1531280983406" ID="ID_430947067" MODIFIED="1531281253519" TEXT="configure local storage">
+<icon BUILTIN="full-3"/>
+</node>
+<node CREATED="1531281000583" ID="ID_698099948" MODIFIED="1531281260798" TEXT="create and cofigure file systems">
+<icon BUILTIN="full-4"/>
+</node>
+<node CREATED="1531281021106" ID="ID_178883838" MODIFIED="1531281274169" TEXT="deploy, configure, and maintain systems">
+<icon BUILTIN="full-5"/>
+</node>
+<node CREATED="1531281047820" ID="ID_1109721852" MODIFIED="1531281277713" TEXT="manage users and groups">
+<icon BUILTIN="full-6"/>
+</node>
+<node CREATED="1531281078250" ID="ID_437358940" MODIFIED="1531281285055" TEXT="manage security">
+<icon BUILTIN="full-7"/>
+</node>
+</node>
 </node>
 </node>
 </map>
