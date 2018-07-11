@@ -1,6 +1,6 @@
 # RHCSA
 This is a Red Hat Certified System Administrator (RHCSA) Study Guide.
-_______________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 About the RHCSA Exam:
 - The RHCSA exam is hands on and performance-based (no multiple-choice questions).
@@ -15,3 +15,7 @@ ________________________________________________________________________________
 To build this study guide, I used the following software:
 - Freemind: http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
+________________________________________________________________________________________________________________________________________
+Navigation:
+- [mindmaps](mindmaps)
+- [zim](zim)
