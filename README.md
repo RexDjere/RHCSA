@@ -21,7 +21,7 @@ To build this study guide, I used the following <a href="https://www.fsf.org/abo
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
 - Havea standalone computer with the latest version of CentOS installed to do the exercises (https://www.centos.org/)
-- install Freemind, Zim, Anki, and git-gui (I started writing this guide on a Fedora 28 computer. 
+- install Freemind, Zim, Anki, and git-gui (I started writing this guide on a Fedora 28 computer). 
 	- For me I'd install them with this command: su -c "dnf install freemind zim anki git-gui"
 	- On CentOS, you might use this command: su -c "yum install freemind zim anki git-gui"
 - (optional) Sign up for a free AnkiWeb account (https://ankiweb.net/)
