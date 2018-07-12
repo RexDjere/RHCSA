@@ -6,8 +6,12 @@ Creation-Date: 2018-07-11T10:49:37-04:00
 Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+[[tar-compress example 4]]
 
-command template:
-* command-compress
-* command-unpack
-* command-uncompress
+bzip2
+* [[bzip2-function]]
+* [[bzip2-description]]
+* [[bzip2-examples]]
+* [[bzip2-compress]]
+* [[bzip2-unpack]]
+* [[bzip2-uncompress]]

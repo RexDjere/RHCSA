@@ -11,3 +11,4 @@ tar-compress
 * [[tar-compress example 1]]
 * [[tar-compress example 2]]
 * [[tar-compress example 3]]
+* [[tar-compress example 4]]

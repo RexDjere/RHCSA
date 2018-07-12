@@ -14,3 +14,4 @@ Commonly used tar flags:
 * -z: compress the archive using gzip.
 * -v: verbose => diplay progress during the archiving process.
 * -f: enable specifying the filename of the archive.
+* -x: extract file
