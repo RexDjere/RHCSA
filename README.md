@@ -16,6 +16,7 @@ To build this study guide, I used the following software:
 - Freemind (for mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
 - Anki (for flashcards): https://apps.ankiweb.net/
+	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/11989504
 - git/git-gui (https://git-scm.com/) 
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
