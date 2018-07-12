@@ -8,3 +8,10 @@ Created Thursday 12 July 2018
 [[tar-compress]]
 
 In the first 3 tar-compress examples, we did not use [[bzip2]] compression. In example 4, we will use the -j flag on the [[tar]] command to ensure that the file is compressed using bzip2.
+
+Tasks
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex004]]
+* Create a new file called myfile using the [[touch]] command.
+* Verbosely compress myfile to myfile.tbz using the appropriate [[tar]] command.
+
+{{./pasted_image.png}}

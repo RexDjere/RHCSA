@@ -1,4 +1,4 @@
 What command would you use to create 3 empty files: myfile1 myfile2 myfile3?	touch myfile1 myfile2 myfile3
 What command would you use to create a private key to encrypt files?	gpg --gen-key
 You want to verbosely create a tar archive (mydir.tar) of a directory named mydir in your current working directory. What command would you issue?	tar -cvf mydir.tar mydir
-You want to find the Libreoffice binary file, but cannot remember where it is located. What command would you use?	whereis -b libreoffice
+Compress a file named myfile in your working directory using bzip2 compression with the tar command in verbose mode. The compressed file should have the same name + the appropriate extension.	tar -cjvf myfile.tbz myfile OR tar -cjvf myfile.bz2 myfile
