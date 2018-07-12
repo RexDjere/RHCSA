@@ -7,4 +7,4 @@ Created Thursday 12 July 2018
 
 [[tar-compress]]
 
-In the first 3 tar-compress examples, we did not use [[bzip2]] compression. In example 4, 
+In the first 3 tar-compress examples, we did not use [[bzip2]] compression. In example 4, we will use the -j flag on the [[tar]] command to ensure that the file is compressed using bzip2.
