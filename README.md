@@ -26,11 +26,12 @@ To get the most out of this study guide, you should do the following:
 - (optional) Sign up for a free AnkiWeb account (https://ankiweb.net/)
 - Clone https://github.com/RexDjere/RHCSA to this directory on your Linux pc: /home/your_username/Sync/PROJECTS/RHCSA
 - After cloning the git repository, RHCSA should have the following files/folders inside:
-	- examples
-	- LICENSE.md
-	- mindmaps
-	- README.md
-	- zim
+	- anki (holds exported text file holding all flashcard Q&As)
+	- examples (holds all study guide examples)
+	- LICENSE.md (contains GPL v3 license text)
+	- mindmaps (hold all mindmaps created with Freemind)
+	- README.md (the study guides home page)
+	- zim (holds all zim wiki pages)
 	- .git (if you have it set up to show hidden files)
 - When you run Zim, you'll want to open the zim folder as a notebook.  Once, you do, you'll be able to navigate/edit all of the wiki pages.
 - Freemind will allow you to open and edit the mindmaps, and Anki will allow you to view/edit the flashcards.
@@ -44,4 +45,5 @@ Navigation:
 - [mindmaps](mindmaps)
 - [zim](zim)
 - [examples](examples)
+- [anki](anki)
 
