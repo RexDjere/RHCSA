@@ -17,7 +17,7 @@ To build this study guide, I used the following <a href="https://www.fsf.org/abo
 - Zim Desktop Wiki: http://zim-wiki.org/
 - Anki (for flashcards): https://apps.ankiweb.net/
 	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/11989504
-- git/git-gui (https://git-scm.com/) 
+- git/git-gui (version control): https://git-scm.com/
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
 - Havea standalone computer with the latest version of CentOS installed to do the exercises (https://www.centos.org/)
