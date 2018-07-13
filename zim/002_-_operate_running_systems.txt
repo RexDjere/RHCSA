@@ -8,7 +8,7 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[objectives]]
 
-operate running systems
+002 - operate running systems
 * [[002 - left branches]]
 * [[002 - right branches]]
 * [[boot into different run levels]]

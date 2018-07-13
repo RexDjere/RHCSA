@@ -8,7 +8,7 @@ Created Tuesday 10 July 2018
 [[objectives]]
 [[tasks]]
 
-create and configure file systems and file system attributes
+004 - create and configure file systems
 * [[permissions]]
 * [[encryption]]
 * [[access control lists]]

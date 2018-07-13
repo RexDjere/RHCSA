@@ -8,6 +8,8 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[objectives]]
 
-configure local storage
+003 - configure local storage
+* [[003 - left branches]]
+* [[003 - right branches]]
 * [[partitions]]
 * [[logical volumes]]

@@ -8,6 +8,6 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[objectives]]
 
-manage security
+007 - manage security
 * [[basic firewall configuration]]
 * [[SELinux configuration]]

@@ -8,7 +8,7 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[objectives]]
 
-deploy, configure, and maintain systems
+005 - deploy, configure, and maintain systems
 * [[software installation]]
 * [[software update]]
 * [[core services]]

@@ -8,7 +8,7 @@ Created Wednesday 11 July 2018
 [[objectives]]
 [[tasks]]
 
-RHCSA exam objective 001 - understand and use essentials tools
+001 - understand and use essential tools
 * [[001 - left branches]]
 * [[001 - right branches]]
 * [[files]]
