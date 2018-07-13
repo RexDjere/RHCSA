@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-13T15:01:22-04:00
+
+====== touch -t deep dive ======
+Created Friday 13 July 2018
+
+[[touch - description]]
+
+The touch -t flag allows you to explicity set the timestamp on a file .  The systax for this is as follows:
+* touch -t [[CC]YY]MMDDhhmm[.ss]
+	* CC is the first 2 digits of the year
+	* YY is the last two digits of the year
+		* If YY is in the range 70-99, then CC is assumed to equal 19. 
+		* If YY is in the range 00-37, then CC is assumed to equal 20.
+		* Date cannot currently be set beyond January 18, 2038.
+	* MM is the month
+	* DD is the date
+	* hh is the hour 
+	* mm is the minute
+	* ss is the second
+
+So let us put all of this information to use in [[touch - example 002]] .  We will copy all of the information above to the example file to make life a little bit easier.
+
+
+
+

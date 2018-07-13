@@ -24,6 +24,7 @@ Some flags commonly used with touch:
 	* stamps file with given date (STRING) instead of actual date
 * -t
 	* timestamps file with given time instead of actual time
+	* [[touch -t deep dive]]
 * --time=WORD (TODO: fully understand this option)
 * --help
 	* display help text and exit
