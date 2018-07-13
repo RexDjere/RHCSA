@@ -16,3 +16,4 @@ Commonly used tar flags:
 * -v: verbose => diplay progress during the archiving process.
 * -f: enable specifying the filename of the archive.
 * -x: extract file
+* --exclude=[file pattern] or [directory location]:  excludes files or directories based on a given file pattern or directory location

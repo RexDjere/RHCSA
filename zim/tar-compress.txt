@@ -8,7 +8,8 @@ Created Wednesday 11 July 2018
 [[tar]]
 
 tar-compress
-* [[tar-compress example 1]]
-* [[tar-compress example 2]]
-* [[tar-compress example 3]]
-* [[tar-compress example 4]]
+* [[tar-compress example 1]] - compress single directory using tar gzip option
+* [[tar-compress example 2]] - compress several directories into single tar archive using tar gzip option
+* [[tar-compress example 3]] - create a tar archive without gzip compression
+* [[tar-compress example 4]] - create tar archive using bzip2 compression
+* [[tar-compress example 5]] - create a tar archive and exclude some files from the archive
