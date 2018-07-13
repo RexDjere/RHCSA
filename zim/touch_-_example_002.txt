@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-13T14:35:01-04:00
+
+====== touch - example 002 ======
+Created Friday 13 July 2018
+
+[[touch - examples]]

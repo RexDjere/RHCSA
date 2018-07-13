@@ -6,3 +6,9 @@ Creation-Date: 2018-07-11T00:53:11-04:00
 Created Wednesday 11 July 2018
 
 [[touch]]
+
+touch - examples
+* [[touch - example 001]]
+* [[touch - example 002]]
+* [[touch - example 003]]
+
