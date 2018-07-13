@@ -6,6 +6,7 @@ Creation-Date: 2018-07-10T22:29:02-04:00
 Created Tuesday 10 July 2018
 
 [[Home]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
 RHCSA
 * [[tasks]]

@@ -7,6 +7,7 @@ Created Wednesday 11 July 2018
 
 [[objectives]]
 [[tasks]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 001.mm]]
 
 001 - understand and use essential tools
 * [[001 - left branches]]
