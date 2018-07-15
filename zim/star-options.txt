@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T21:50:44-04:00
+
+====== star-options ======
+Created Saturday 14 July 2018
+
+[[star-description]]
+
+star-options
+* -c
+	* creates a new tarfile and writes named files to it
+	* writing starts at the beginning of the tarfile
+	* verbosity can be increased by adding the -v (verbose) option
+	* [[star -c deep dive]]

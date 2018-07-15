@@ -7,8 +7,11 @@ Created Tuesday 10 July 2018
 
 [[objectives]]
 [[tasks]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 004.mm]]
 
 004 - create and configure file systems
+* [[004 - left branches]]
+* [[004 - right branches]]
 * [[permissions]]
 * [[encryption]]
 * [[access control lists]]

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T21:15:52-04:00
+
+====== star-description ======
+Created Saturday 14 July 2018
+
+[[star]]
+
+star is a unique standard tape archiver with the following characteristics:
+* fast
+* improved functionality when compared to [[tar]]
+* originally designed to archive to  and extract files from tarfiles on magnetic tapes
+* Modern star can store/extract archives to/from any kind of storage medium.
+* uses [[fifo]] to optimize data flow to/from tape
+* star has a sophisticated diff command that is implemented with the -diff flag (note that [[tar]] also has diff implemented with the --diff or --compare flag)
+
+Star has many options, so I decided to break off its options to a separate file:
+* [[star-options]]

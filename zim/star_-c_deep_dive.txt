@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T21:52:56-04:00
+
+====== star -c deep dive ======
+Created Saturday 14 July 2018
+
+[[star-options]]
+
+star-options
+* -c
+	* creates a new tarfile and writes named files to it
+	* writing starts at the beginning of the tarfile
+	* verbosity can be increased by adding the -v (verbose) option
+
+**star -c deep dive**
+This deep dive will take a closer look at with tarfiles with the [[star]] -c command
+
+Tasks
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001]]
+* Create 5 new files using the [[touch]] command:
+	* star_file1
+	* star_file2
+	* star_file3
+	* star_file4
+	* star_file5
+
+

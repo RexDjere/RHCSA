@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T22:01:26-04:00
+
+====== touch - example 004 ======
+Created Saturday 14 July 2018
+
+[[touch - examples]]
+
+The [[touch]] utility can more easily create multiple files using [[regular expressions]].  Instead of typing out multiple file names by hand, the user can instead give the touch command a regular expression to evaluate when creating the files.  A regular expression is basically just a pattern for the command to follow.
+
+How can we use regular expressions to creat shorter commands? Consider the task of creating five files with a similar name:
+* department_1
+* department_2
+* department_3
+* department_4
+* department_5
+
+This is the long way of creating them:
+* touch department_1 department_2 department_3 department_4 department_5
+
+This is the much shorter way of creating them:
+* touch department_{1,2,3,4,5}
+
+Tasks
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex004]]
+* Create department_1 to department_5 using the long command.
+* View the newly created files using [[ls]].
+* Delete the five files using this command: [[rm]] -r department*
+* Verify that all five files were deleted using [[ls]].
+* Re-create the files using the shorter command.
+* View the newly created files using [[ls]].
+* Now create your own tasks to practice.
+
+{{./pasted_image.png}}
+
+
