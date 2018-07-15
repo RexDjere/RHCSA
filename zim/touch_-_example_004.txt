@@ -20,7 +20,7 @@ This is the long way of creating them:
 * touch department_1 department_2 department_3 department_4 department_5
 
 This is the much shorter way of creating them:
-* touch department_{1,2,3,4,5}
+* touch department_ {1,2,3,4,5}
 
 Tasks
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex004]]
