@@ -1,4 +1,4 @@
-This RHCSA Study Guide Project is licensed under GPL version 3 or later.
+All files in this RHCSA Study Guide Project are licensed under GPL version 3 or later.
 
 ______________________________________________________________________________________________________________________________________
 
