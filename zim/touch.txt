@@ -9,6 +9,9 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[tasks template]]
 
+**Summary**
+The primary function of the touch command is to allow users to update the access time/modification time of files or directories.  A secondary function of touch is to allow user to create new empty files.
+
 touch
 * [[touch - function]]
 * [[touch - description]]

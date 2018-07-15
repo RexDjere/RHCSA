@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T17:27:06-04:00
+
+====== stat-examples ======
+Created Sunday 15 July 2018
+
+[[stat]]
+
+stat-examples
+* [[stat example 1]] - running stat on a simple file
+* [[stat example 2]] - running stat on a simple directory

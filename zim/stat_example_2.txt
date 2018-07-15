@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T17:43:19-04:00
+
+====== stat example 2 ======
+Created Sunday 15 July 2018
+
+[[stat-examples]]
+
+In sta example 2, we will use [[stat]] to view the status of a simple directory.
+
+Tasks:
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/stat/stat_ex002]]
+* Create a new directory called health_service_records using [[mkdir]]
+* View its status using [[stat]]
+
+{{./pasted_image.png}}

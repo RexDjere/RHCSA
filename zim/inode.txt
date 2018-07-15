@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T17:28:47-04:00
+
+====== inode ======
+Created Sunday 15 July 2018
+
+[[stat-function]]
+
+An inode is a data structure in Linux, and other Unix-like operating systems, that describes a filesystem object such as a file or directory.

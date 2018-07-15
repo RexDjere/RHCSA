@@ -12,6 +12,7 @@ touch is used to change file timestamps and to create new empty files.
 Some flags commonly used with touch:
 * -a 
 	* changes the access time
+	* [[touch -a deep dive]]
 * -m
 	* changes the modification time
 * -r
