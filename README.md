@@ -12,7 +12,7 @@ About the RHCSA Exam:
 - More information on the exam can be found here: https://www.redhat.com/en/services/certification/rhcsa
 ________________________________________________________________________________________________________________________________________
 
-To build this study guide, I used the following <a href="https://www.fsf.org/about/what-is-free-software" target="_blank">free software</a>:
+To build this study guide, I am using the following <a href="https://www.fsf.org/about/what-is-free-software" target="_blank">free software</a>:
 - Freemind (for mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
 - Anki (for flashcards): https://apps.ankiweb.net/
