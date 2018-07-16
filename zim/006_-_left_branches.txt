@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:07:33-04:00
+
+====== 006 - left branches ======
+Created Monday 16 July 2018
+
+[[006 - manage users and groups]]
+
+006 - left branches
+* [[Create, delete, and modify local user accounts]]
+* [[Change passwords and adjust password aging for local user accounts]]

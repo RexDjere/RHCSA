@@ -8,6 +8,9 @@ Created Tuesday 10 July 2018
 [[RHCSA]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
+**Summary**
+[[RHCSA]] is an acronym for [[Red Hat Certified System Administrator]], an IT industy certification offered by [[Red Hat]] Corporation.  RHCSA is an entry-level certification that certifies that the associated RHCSA professional has demonstrated a minimum level of proficiency administering [[Red Hat Enterprise Linux]], and/or equivalent computer operating systems (e.g. [[CentOS]]).
+
 tasks
 * [[001 - understand and use essential tools]]
 * [[002 - operate running systems]]

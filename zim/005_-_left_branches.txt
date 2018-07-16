@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:00:57-04:00
+
+====== 005 - left branches ======
+Created Monday 16 July 2018
+
+[[005 - deploy, configure, and maintain systems]]
+
+005 - left branches
+* [[Configure networking and hostname resolution statically or dynamically]]
+* [[Schedule tasks using at and cron]]
+* [[Start and stop services and configure services to start automatically at boot]]
+* [[Configure systems to boot into a specific target automatically]]
+* [[Install Red Hat Enterprise Linux systems as virtual guests]]
+* [[Configure systems to launch virtual machines at boot]]

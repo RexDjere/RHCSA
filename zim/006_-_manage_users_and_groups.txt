@@ -9,4 +9,6 @@ Created Tuesday 10 July 2018
 [[objectives]]
 
 006 - manage users and groups
+* [[006 - left branches]]
+* [[006 - right branches]]
 * [[centralized directory for authentication]]

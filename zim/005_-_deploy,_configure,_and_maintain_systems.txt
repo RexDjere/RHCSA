@@ -9,6 +9,8 @@ Created Tuesday 10 July 2018
 [[objectives]]
 
 005 - deploy, configure, and maintain systems
+* [[005 - left branches]]
+* [[005 - right branches]]
 * [[software installation]]
 * [[software update]]
 * [[core services]]

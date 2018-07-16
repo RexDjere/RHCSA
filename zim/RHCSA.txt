@@ -8,6 +8,9 @@ Created Tuesday 10 July 2018
 [[Home]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
+**Summary**
+[[Red Hat Certified System Administrator]] ([[RHCSA]]) is [[Red Hat|Red Hat's]] entry-level certification. The certification exam for RHCSA is hands on and focused testing whether the prospective RHCSA has achieved the core competencies required to successfully administer, install, and configure [[Red Hat Enterprise Linux]] ([[RHEL]]).
+
 RHCSA
 * [[tasks]]
 * [[exam]]

@@ -14,15 +14,8 @@ star-options
 	* verbosity can be increased by adding the -v (verbose) option
 
 **star -c deep dive**
-This deep dive will take a closer look at with tarfiles with the [[star]] -c command
+This deep dive will take a closer look at with tarfiles with the [[star]] -c command in [[star example 1]].
 
-Tasks
-* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001]]
-* Create 5 new files using the [[touch]] command:
-	* star_file1
-	* star_file2
-	* star_file3
-	* star_file4
-	* star_file5
+
 
 

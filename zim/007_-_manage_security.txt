@@ -9,5 +9,7 @@ Created Tuesday 10 July 2018
 [[objectives]]
 
 007 - manage security
+* [[007 - left branches]]
+* [[007 - right branches]]
 * [[basic firewall configuration]]
 * [[SELinux configuration]]

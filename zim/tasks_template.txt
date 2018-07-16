@@ -8,6 +8,9 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[tasks template]]
 
+**Summary**
+Write a good summary of the task that provides a good high level view of what the task is designed to do.
+
 tasks template
 * command - function
 * command - description
