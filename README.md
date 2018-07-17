@@ -1,4 +1,4 @@
-# RHCSA
+## RHCSA
 This is a Red Hat Certified System Administrator (RHCSA) Study Guide.
 ________________________________________________________________________________________________________________________________________
 
@@ -18,7 +18,7 @@ To build this study guide, I am using the following <a href="https://www.fsf.org
 - Anki (for flashcards): https://apps.ankiweb.net/
 	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/649267865
 	- See here for important information about how I share the flashcard deck on Anki: 
-		anki/Anki Shared Decks.md
+		[anki/Anki Shared Decks.md](anki/Anki Shared Decks.md)
 - git/git-gui (version control): https://git-scm.com/
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
