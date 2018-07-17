@@ -16,7 +16,8 @@ To build this study guide, I am using the following <a href="https://www.fsf.org
 - Freemind (for mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
 - Anki (for flashcards): https://apps.ankiweb.net/
-	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/11989504
+	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/649267865
+	- See here for important information about how I share the flashcard deck on Anki:
 - git/git-gui (version control): https://git-scm.com/
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
