@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T14:05:01-04:00
+
+====== star-examples ======
+Created Tuesday 17 July 2018
+
+[[star]]
+
+star-examples
+* [[star example 1]]
+* [[star example 2]]
+* [[star example 3]]

@@ -1,0 +1,68 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T13:30:18-04:00
+
+====== ls - options ======
+Created Tuesday 17 July 2018
+
+[[ls - description]]
+
+ls - options
+* -a, --all
+* -A, --almost-all
+* --author
+* -b, --escape
+* --block-size=SIZE
+* -B, --ignore-backups
+* -c
+* -C
+* --color
+* -d, --directory
+* -D, --dired
+* -f
+* -F, --classify
+* --file-type
+* --format=WORD
+* --full-time
+* -g
+* --group-directories-first
+* -G, --no-group
+* -h, --human-readable
+* --si
+* -H, --dereference-command-line-sysmlink-to-dir
+* --hide=PATTERN
+* --hyperlink[=WHEN]
+* --indicator-style=WORD
+* -i, --inode
+* -I, --ignore=PATTERN
+* -k, --kikibytes
+* -l
+* -L, --dereference
+* -m
+* -n, --numeric-uid-gid
+* -N, --literal
+* -o
+* -p, --indicator-style=slash
+* -q, --hide-control-chars
+* --show-control-cars
+* -Q, --quote-name
+* --quoting-style=WORD
+* -r, --reverse
+* -R, --recursive
+* -s, --size
+* -S
+* --sort=WORD
+* --time=WORD
+* --time-style=TIME_STYLE
+* -t
+* -T, --tabsize=COLS
+* -u
+* -U
+* -v
+* -w, --with=COLS
+* -x
+* -X
+* -Z, --context
+* -1
+* --help
+* --version

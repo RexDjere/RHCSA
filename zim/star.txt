@@ -23,7 +23,7 @@ star man page locations:
 star
 * [[star-function]]
 * [[star-description]]
-* [[stat-examples:star-examples]]
+* [[star-examples]]
 * [[star-compress]]
 * [[star-unpack]]
 * [[star-uncompress]]

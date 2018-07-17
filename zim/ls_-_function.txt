@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T13:26:45-04:00
+
+====== ls - function ======
+Created Tuesday 17 July 2018
+
+[[ls]]
+
+The [[ls]] utility is used to list the contents of a directory, and to see file/folder attributes.
