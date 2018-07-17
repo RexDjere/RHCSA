@@ -2,7 +2,7 @@
 ___________________________________________________________________________________________________________________________________
 
 Contributing to this RHCSA Study Guide is easy. Please follow the guidelines below:
-- Don't violate our [Code of Conduct](Code_of_Conduct.md).
+- Don't violate our [Code of Conduct](CODE_OF_CONDUCT.md).
 - When adding new material, try to follow a similar pattern to what is already there to keep the study guide consistent.
 - Make sure what you enter is 100% accurate. Our goal is to help people pass the RHCSA exam by providing them accurate information.
 - To follow up on the last bullet, test your solutions carefully before you add them to the study guide. For example, if you state that a particular command works, run it in a terminal window and add a snapshot to the study guide to demonstrate that it works.
