@@ -13,5 +13,6 @@ Each time that I share the deck, I'll keep all of the parameters exactly the sam
 		rhcsa linux
 	Descsription:
 		This Anki flash card deck complements the RHCSA Study Guide that I created [here.](../../../../RHCSA)
+		
 		Enjoy! 
 	 
