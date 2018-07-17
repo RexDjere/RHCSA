@@ -44,10 +44,5 @@ To get the most out of this study guide, you should do the following:
 Enjoy the definitive RHCSA Study Guide!
 	
 
-__________________________________________________________________________________________________________________
-Navigation:
-- [mindmaps](mindmaps)
-- [zim](zim)
-- [examples](examples)
-- [anki](anki)
+
 
