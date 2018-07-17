@@ -12,5 +12,5 @@ Anki has a very nice feature: it allows you to share your flash card decks with 
 	- Tags:
 		- rhcsa linux
 	- Description:
-		- This Anki flash card deck complements the RHCSA Study Guide that I created [here.](../../../../RHCSA) Enjoy! 
+		- This Anki flash card deck complements the RHCSA Study Guide that I created here: https://github.com/RexDjere/RHCSA  Enjoy! 
 	 
