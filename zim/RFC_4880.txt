@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T21:08:43-04:00
+
+====== RFC 4880 ======
+Created Tuesday 17 July 2018
+
+[[OpenPGP]]
+
+RFC 4880 is a document created by the IETF
+* provides guidance to those who want to create interoperable OpenPGP-enabled applications
+* describes functions needed to process encrytion keys, encrypted messages and digital signatures
+
+More information of RFC 4880 can be found here: https://www.openpgp.org/about/standard/

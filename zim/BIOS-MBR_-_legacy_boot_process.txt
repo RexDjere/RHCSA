@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T21:28:47-04:00
+
+====== BIOS-MBR - legacy boot process ======
+Created Tuesday 17 July 2018
+
+[[boot]]
+
+In Linux, the legacy boot process generally has 6 stages:
+* [[legacy boot process - stage 1 - BIOS]]
+* [[legacy boot process - stage 2 - MBR]]
+* [[legacy boot process - stage 3 - GRUB]]
+* [[legacy boot process - stage 4 - Kernel]]
+* [[legacy boot process - stage 5 - Init]]
+* [[legacy boot process - stage 6 - Runlevel]]

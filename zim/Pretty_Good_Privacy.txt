@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T21:13:51-04:00
+
+====== Pretty Good Privacy ======
+Created Tuesday 17 July 2018
+
+[[Phil Zimmermann]]
+
+Pretty Good Privacy (PGP) is an email encryption program created by [[Phil Zimmermann]] is 1991.
+
+More information on PGP can be found here: https://en.wikipedia.org/wiki/Pretty_Good_Privacy
