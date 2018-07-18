@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:29:35-04:00
+
+====== legacy boot process - stage 5 - Init ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]

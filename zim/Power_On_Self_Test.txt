@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:08:31-04:00
+
+====== Power On Self Test ======
+Created Wednesday 18 July 2018
+
+[[BIOS]]
+
+See [[POST]].

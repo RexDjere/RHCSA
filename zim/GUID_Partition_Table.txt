@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:41:00-04:00
+
+====== GUID Partition Table ======
+Created Wednesday 18 July 2018
+
+[[Boot Loader]]
+
+**Summary**
+The GUID Partition Table is a newer disk architecture that introduces better functionality when compared to the older [[MBR]] (Master Boot Record) partitioning method. For more information on the GUID Partition Table, see here: https://support.microsoft.com/en-us/help/302873/frequently-asked-questions-about-the-guid-partitioning-table-disk-arch

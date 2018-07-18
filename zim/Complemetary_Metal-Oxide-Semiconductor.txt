@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:25:01-04:00
+
+====== Complemetary Metal-Oxide-Semiconductor ======
+Created Wednesday 18 July 2018
+
+[[BIOS]]
+
+See [[CMOS]].

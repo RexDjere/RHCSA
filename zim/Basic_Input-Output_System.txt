@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:02:15-04:00
+
+====== Basic Input-Output System ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]
+
+See [[BIOS]].
