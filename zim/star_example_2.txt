@@ -32,7 +32,7 @@ Tasks
 	* Delete to 20 new files (leave the .tar file intact).
 	* Decompress the tar archive.
 	* View the SELinux context of the resulting 20 files, and compare them to the context before compression.  Note the changes.
-star -c -f=/home/john.doe/example.star /etc
+
 **PART 1**
 {{./pasted_image001.png}}
 

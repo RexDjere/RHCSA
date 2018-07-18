@@ -6,3 +6,49 @@ Creation-Date: 2018-07-16T19:26:12-04:00
 Created Monday 16 July 2018
 
 [[star-examples]]
+[[star-compress]]
+
+In star example 3, we will create a new directory, and add 60 new files to it.  We will then compress those 60 files into a tarfile, delete the 60 input files, and then extract the 60 files from the archive.
+
+ Let us look at the general format of the commands we will use:
+* create new directory: [[mkdir]] new_directory_name
+* add 60 new files to directory: [[touch]] new_file_name{01..60}
+* compress the 60 files into a new tarfile named new_tarfile.tar: 
+	* star -cv -f=new_tarfile.tar new_file_name{01..60}
+	* OR
+	* star -cv -file=tarfile.tar new_file_name{01..60}
+* delete the 60 input files: rm new_file_name{00..60}
+* extract the 60 files from the archive: star -xv f=new_tarfile.tar
+
+Let's do it.
+
+Tasks
+* **PART 1**
+	* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex003]]
+	* Use [[mkdir]] to create two new directories called red_hat_servers01 and red_hat_servers02
+	* [[cd]] into red_hat_servers01
+	* Using [[touch]], create 60 new Kubernetes config files: kubernetes_config{01..60}.yaml
+	* Using [[star]], compress the 60 files into a tarfile named kubernetes_archive_07192021.tar (in this instance we will use the -f flag vice the -file flag, but keep in mind that they are equivalent).
+* **PART 2**
+	* Delete the 60 input files using [[rm]].
+	* Extract the 60 files frm the archive using the star command.
+* **PART 3** 
+	* List all of the files in the directory using [[ls]]
+
+**PART 1**
+{{./pasted_image.png}}
+
+**PART 2**
+{{./pasted_image001.png}}
+
+**PART 3**
+{{./pasted_image002.png?width=900}}
+
+Now, in the second directory, red_hat_servers02, we will just verify that the -file option does what we expect it to.
+* [[cd]] into red_hat_servers02 ( cd [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex003/red_hat_servers02]])
+* Create 25 files: training_doc.001.odt to training_doc025.odt
+* Add the 25 docs to an archive named training_doc.tar (this time we will use the -file option)
+* Use [[ls]] to verify that all of the correct documents were created.
+
+{{./pasted_image003.png?width=1000}}
+
