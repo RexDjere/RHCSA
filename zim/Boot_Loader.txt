@@ -10,6 +10,11 @@ Created Wednesday 18 July 2018
 **Summary**
 The function of the Boot Loader is the load the computer's operating system into memory during the boot process. The Boot Loader is found in the [[MBR]] (Master Boot Record), or in the [[GUID Partition Table]]. The Boot Loader is not enabled until after the POST (Power On Self Test) is completed, and the POST status is "PASS". In Linux, the most popular Boot Loader is [[GRUB]]. The Boot Loader is sometimes referred to as the [[Bootstrap Loader]].  They are one and the same.
 
+The Boot Loader is divided into two categories:
+* The [[First-Stage Boot Loader]]
+* The [[Second-Stage Boot Loader]] - this is typically Grub on most Linux systems.
+
+
 **Description**
 The following steps occur after you hit the power button to turn on your computer:
 * [[POST]] (Power On Self Test)

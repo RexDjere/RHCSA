@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:04:39-04:00
+
+====== Linux Loader ======
+Created Thursday 19 July 2018
+
+[[LILO]]
+
+See [[LILO]].

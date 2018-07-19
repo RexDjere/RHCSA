@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:19:31-04:00
+
+====== initrd ======
+Created Thursday 19 July 2018
+
+[[legacy boot process - stage 4 - Kernel]]
+
+**Summary**
+initrd stands for [[initial RAM disk]]. it provides an initial root filesystem that is mounted prior to the "real" filesystem being mounted. initrd is initialized in concert with the kernel initialization.
+
+For more information on initrd, visit here:
+https://www.ibm.com/developerworks/library/l-initrd/index.html

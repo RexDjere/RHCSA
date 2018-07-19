@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:56:12-04:00
+
+====== systemctl ======
+Created Thursday 19 July 2018
+
+[[systemd]]
+
+**Summary**
+systemctl is used to start, stop and view the status of systemd processes.
+
+More information on systemctl can be found here:
+https://www.freedesktop.org/software/systemd/man/systemctl.html

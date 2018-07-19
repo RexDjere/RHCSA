@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T01:41:07-04:00
+
+====== GRUB image files ======
+Created Thursday 19 July 2018
+
+[[boot.img]]
+
+GRUB image files
+* [[boot.img]]
+	* the first part of [[GRUB]] to start
+	* is contained in the Master Boot Record ([[MBR]])
+	* since boot sector is 512 bytes, boot.img is 512 bytes as well => designed to fit in the boot sector
+	* boot.img has a simple function: read the first sector of the core image and jump to it (the first sector of the core image contains diskboot.img).
+* [[diskboot.img]]
+	* is contained in the first sector of the core image
+	* does not have file handling, so the location of core.img is hard coded into it
+	* reads remainder of core image into memory and loads the operating system kernel
+* [[cdboot.img]]
+	* performs the same functions as diskboot image if booting from a CD-ROM.
+	* acts as first sector of core image when booting from CD-ROM
+* [[pxeboot.img]]
+	* acts as stage of core image when booting from network using PXE boot
+* [[lnxboot.img]]
+	* image that looks very similar to Linux kernel
+	* when placed at start of core image, allows booting via [[LILO]]
+* [[kernel.img]]
+	* contains GRUB's basic run-time facilities. Is rarely used.
+* [[core.img]]
+	* is the core image of GRUB
+	* is built dynamically from the kernel image and kernel modules
+	* is designed to be kept small

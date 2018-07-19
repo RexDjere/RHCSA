@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:09:47-04:00
+
+====== lnxboot.img ======
+Created Thursday 19 July 2018
+
+[[GRUB image files]]
+
+lnxboot.img
+	* image that looks very similar to Linux kernel
+	* when placed at start of core image, allows booting via [[LILO]]

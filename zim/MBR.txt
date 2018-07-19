@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T00:42:28-04:00
+
+====== MBR ======
+Created Thursday 19 July 2018
+
+[[legacy boot process - stage 2 - MBR]]
+
+**Summary**
+MBR stands for Master Boot Record. The MBR is located in the first physical sector of a bootable storage device, such as a hard drive. The MBR contains computer code needed for the [[Boot Loader]] to load the operating system kernel into memory.
