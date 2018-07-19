@@ -13,10 +13,11 @@ About the RHCSA Exam:
 ________________________________________________________________________________________________________________________________________
 
 To build this study guide, I am using the following <a href="https://www.fsf.org/about/what-is-free-software" target="_blank">free software</a>:
+- Fedora (my GNU/Linux computer operating system of choice): https://getfedora.org/
 - Freemind (for mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
 - Anki (for flashcards): https://apps.ankiweb.net/
-	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/1920411171
+	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/347026375
 	- See here for important information about how I share the flashcard deck on Anki: 
 		[Anki Shared Deck](anki/Anki_Shared_Deck.md)
 - git/git-gui (version control): https://git-scm.com/
