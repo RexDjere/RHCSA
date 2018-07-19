@@ -8,7 +8,7 @@ Created Wednesday 18 July 2018
 [[BIOS-MBR - legacy boot process]]
 
 **Summary**
-Linux is in the process of transitioning from the old Init system run levels to [[systemd]] targets. Systemd replaced the Init term "runlevel" with "target".  In systemd, each target provides the computer user different levels of capabilities. For example, runlevel3.target (also known as multi-user.target) provides a command-line-only interface, while runlevel5.target (AKA graphical.target) provides a graphical interface. Systemd provides 7 target levels.  The systemd target levels map to the old seven Init run levels, plus systemd adds an eighth level: emergency
+Linux is in the process of transitioning from the old Init system run levels to [[systemd targets]]. Systemd replaced the Init term "runlevel" with "target".  In systemd, each target provides the computer user different levels of capabilities. For example, runlevel3.target (also known as multi-user.target) provides a command-line-only interface, while runlevel5.target (AKA graphical.target) provides a graphical interface. Systemd provides 7 target levels.  The systemd target levels map to the old seven Init run levels, plus systemd adds an eighth level: emergency
 
 Here is a breakdown and comparison of Init run levels versus systemd targets:
 * lowest level - level 0:

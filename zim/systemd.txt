@@ -8,7 +8,9 @@ Created Thursday 19 July 2018
 [[legacy boot process - stage 5 - Init]]
 
 **Summary**
-systemd is a newer system that replaced the older System V init system.  
+systemd is a newer system that replaced the older System V Init system. systemd replaces the Init system concept of run levels with [[systemd targets]]. Each systemd target defines a different mode of operation. 
+
+sytemd targets are represented by target units which each end with a .target file extension. There are eight systemd targets, and they are all described [[systemd targets|here]].
 
 **Advantages of systemd over init:**
 * better dependency handling
