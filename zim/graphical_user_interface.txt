@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T23:02:06-04:00
+
+====== graphical user interface ======
+Created Thursday 19 July 2018
+
+**Summary**
+The graphical user interface offers the computer user or Linux system administrator a graphical interface to programs such as Firefox, Libreoffice, Audacity and Evolution. In contrast, the [[command line interface]] offers a text-based interface to programs.

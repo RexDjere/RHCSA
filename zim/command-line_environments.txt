@@ -14,3 +14,8 @@ command-line environments
 * [[hardware]]
 * [[users]]
 * [[groups]]
+
+
+See also:
+* [[command line interface]]
+* [[graphical user interface]]

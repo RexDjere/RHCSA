@@ -6,3 +6,6 @@ Creation-Date: 2018-07-11T18:26:41-04:00
 Created Wednesday 11 July 2018
 
 [[001 - right branches]]
+
+**Summary**
+Linux offers several ways of accessing a [[command line interface]].  From a graphical environment such as Gnome or KDE, the Linux system administrator can use a terminal emulator such as Xterm, Konsole or GNOME Terminal.

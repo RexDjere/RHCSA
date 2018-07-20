@@ -20,6 +20,6 @@ tar
 * [[tar-unpack]]
 * [[tar-uncompress]]
 
-
-
+tar executable location: [[/usr/bin/tar]]
+tar man page locations: [[/usr/share/man/man5/tar.5.gz]] , [[file:///usr/share/man/man1/tar.1.gz|/usr/share/man/man1/tar.1.gz]]
 

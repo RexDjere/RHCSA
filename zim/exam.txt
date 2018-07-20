@@ -7,6 +7,9 @@ Created Tuesday 10 July 2018
 
 [[RHCSA]]
 
+**Summary**
+RHCSA stands for Red Hat Certified System Administrator. The RHCSA exam is a hands on performanced-based exam that the prospective RHCSA must pass to become certified.
+
 exam
 * [[name]]
 * [[duration]] 
