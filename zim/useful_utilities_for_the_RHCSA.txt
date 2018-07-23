@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-23T00:45:53-04:00
+
+====== useful utilities for the RHCSA ======
+Created Monday 23 July 2018
+
+[[002 - operate running systems]]
+
+Utilities
+* [[formatting USB drives]]

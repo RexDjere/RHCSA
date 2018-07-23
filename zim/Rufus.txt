@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-23T00:47:59-04:00
+
+====== Rufus ======
+Created Monday 23 July 2018
+
+[[formatting USB drives]]
+
+**Summary**
+Rufus is a utility that allows you to format and create bootable USB flash drives. On the Rufus website, Rufus is downloadable as a Windows .exe file, so the Linux sysadmin could use Rufus to create a Linux boot disk on a Windows machine.  Rufus is free software licensed under the GPL.
+
+More information of Rufus can be found here: https://rufus.akeo.ie/

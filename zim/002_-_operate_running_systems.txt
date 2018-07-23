@@ -8,6 +8,7 @@ Created Tuesday 10 July 2018
 [[tasks]]
 [[objectives]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 002.mm]]
+[[useful utilities for the RHCSA]]
 
 002 - operate running systems
 * [[002 - left branches]]
