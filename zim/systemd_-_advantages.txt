@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T00:56:56-04:00
+
+====== systemd - advantages ======
+Created Thursday 26 July 2018
+
+[[systemd]]
+
+**Advantages of systemd over init:**
+* better dependency handling
+* faster system startups due to more parallel (vice linear) operations
+* can snapshot system state, and restore to a known good configuration

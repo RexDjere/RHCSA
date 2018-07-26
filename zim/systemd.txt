@@ -6,19 +6,19 @@ Creation-Date: 2018-07-19T02:41:13-04:00
 Created Thursday 19 July 2018
 
 [[legacy boot process - stage 5 - Init]]
+[[systemd targets]]
 
 **Summary**
 systemd is a newer system that replaced the older System V Init system. systemd replaces the Init system concept of run levels with [[systemd targets]]. Each systemd target defines a different mode of operation. 
 
-sytemd targets are represented by target units which each end with a .target file extension. There are eight systemd targets, and they are all described [[systemd targets|here]].
+systemd
+* [[systemd - function]]
+* [[systemd - description]]
+* [[systemd - examples]]
+* [[systemd - advantages]]
+* [[systemd - targets]]
+* [[systemd - analogies]]
 
-**Advantages of systemd over init:**
-* better dependency handling
-* faster system startups due to more parallel (vice linear) operations
-* can snapshot system state, and restore to a known good configuration
-
-**Analogies to the old init system**
-In the traditional init system, the system run levels were stored in /etc/inittab. Run level 5 had full user access with a graphical display environment and networking enabled.  The graphical.target level in systemd is the equivalent of the old init run level 5.
 
 The current systemd level can be viewed using the [[systemctl]] get-default command:
 {{./pasted_image.png}}

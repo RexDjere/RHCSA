@@ -8,7 +8,9 @@ Created Thursday 19 July 2018
 [[systemd]]
 
 **Summary**
-systemctl is used to start, stop and view the status of systemd processes.
+systemctl is used to start, stop and view the status of systemd processes. To see which version of systemd is installed on your system, run this command:
+systemctl --version
 
 More information on systemctl can be found here:
-https://www.freedesktop.org/software/systemd/man/systemctl.html
+* https://www.freedesktop.org/software/systemd/man/systemctl.html
+* https://www.tecmint.com/manage-services-using-systemd-and-systemctl-in-linux/

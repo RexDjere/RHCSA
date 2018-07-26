@@ -21,7 +21,7 @@ What function does the Boostrap Loader perform during a computer's boot process?
 Where in the filesystem are the systemd target files physically located?	/lib/systemd/system
 What two systemd target files correspond to the old Init system's runlevel 0?	runlevel0.target and poweroff.target
 Harry's Linux computer systemd target unit is currently runlevel3.target. &nbsp;What is the status of Harry's computer?	Multi-user system with no graphical interface
-Laura's Linux box is current set to a systemd target unit of runlevel5.target. What is the status of her computer system?	Multi-user system with a graphical interface
+Laura's Linux box is currently set to a systemd target unit of runlevel5.target. What is the status of her computer system?	Multi-user system with a graphical interface
 Ramon's RHEL computer has a systemd target unit of runlevel1.target. &nbsp;What is the status of Ramon's system?	Rescue shell is set up
 Maya's CentOS computer was just set to a systemd target unit of runlevel6.target. What is Maya's system about to do?	Shut down, and the system will then reboot.
 Marcos wants to know what systemd target unit is set as default on his RHEL laptop. He opens up a terminal. What command will he issue?	systemctl get-default
@@ -32,3 +32,6 @@ Which tar flag tell it to compress the archive using gzip?	-z
 Which tar flag tells it to compress the archive using bzip2?	-j
 Which tar flag is used to extract files from an archive?	-x
 Which tar flag is used to exlude files or directories from an archive?	--exclude=[file pattern] or [directory location]
+Michael wants to host a simple web page on his RHEL system. He needs to use systemd to enable Apache Web Server. What command will he issue?	systemctl start httpd.service
+Michael has started Apache Web Server on his RHEL system. What command will he use to verify that it is running?	systemctl status httpd.service
+Michael is done serving his webpage recipes.html on his RHEL system. He has deleted recipes.html and he wants to stop Apache Web Server. What command will he issue?	systemctl stop httpd.service

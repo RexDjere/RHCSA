@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T01:09:43-04:00
+
+====== systemd - options ======
+Created Thursday 26 July 2018
+
+[[systemd - description]]
+
+system-d options
+* −−test
+* −−dump−configuration−items
+* −−unit=
+* −−system, −−user
+* −−dump−core
+* −−crash−vt=VT
+* −−crash−shell
+* −−crash−reboot
+* −−confirm−spawn
+* −−show−status=
+* −−log−target=
+* −−log−level=
+* −−log−color=
+* −−log−location=
+* −−default−standard−output=, −−default−standard−error=
+* −−machine−id=
+* −−service−watchdogs=
+* −h, −−help
+* −−version

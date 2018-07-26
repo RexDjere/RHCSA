@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T01:01:11-04:00
+
+====== systemd - description ======
+Created Thursday 26 July 2018
+
+[[systemd]]
+
+**Summary**
+Systemd is used to manage computer systems, and system services in Linux operating systems. It runs as the first process on boot (PID 1), and it starts up other required services during the startup process. Systemd replaces the older [[SysV]] init system.
+
+**Systemd Options**
+Systemd options are described here:
+[[systemd - options]]
