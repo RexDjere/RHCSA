@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T23:49:43-04:00
+
+====== SysV ======
+Created Thursday 26 July 2018
+
+[[systemd]]
+
+**Summary**
+[[SysV]] Init was the older init system used by most Linux operating systems before systemd became dominant. The configuration files for [[SysV]] init are located in the [[/etc/rc.d/]] directory. This directory contains rc, rc.local, and rc.sysinit scripts and the folders listed below.
+
+[[/etc/rc.d/]] directory contains:
+* init.d
+* rc0.d
+* rc1.d
+* rc2.d
+* rc3.d
+* rc4.d
+* rc5.d
+* rc6.d
+
+The default [[SysV]] Init runlevel is listed in [[/etc/initab]]. For example:
+id:3:initdefault:
+
+[[/etc/inittab]] can be editted by root.
