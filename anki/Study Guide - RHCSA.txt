@@ -35,3 +35,5 @@ Which tar flag is used to exlude files or directories from an archive?	--exclude
 Michael wants to host a simple web page on his RHEL system. He needs to use systemd to enable Apache Web Server. What command will he issue?	systemctl start httpd.service
 Michael has started Apache Web Server on his RHEL system. What command will he use to verify that it is running?	systemctl status httpd.service
 Michael is done serving his webpage recipes.html on his RHEL system. He has deleted recipes.html and he wants to stop Apache Web Server. What command will he issue?	systemctl stop httpd.service
+The first partition of the first drive on Allyn's Red Hat Enterprise Linux pc is /dev/sda1. Allyn wants to find out what the block size of the partition is. What command will he run?	"su -c ""blockdev --getbsz /dev/sda1"""
+Allyn wants to find status information on the /dev/sda drive's filesystem on his RHEL pc. What command will he run? Does running the command require root privileges?	stat -f /dev/sda<div><br /></div><div>No, running this command does not require root privileges.</div>

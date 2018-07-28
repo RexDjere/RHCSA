@@ -7,7 +7,8 @@ Created Sunday 15 July 2018
 
 [[stat-examples]]
 
-In sta example 2, we will use [[stat]] to view the status of a simple directory.
+**Summary**
+In stat example 2, we will use [[stat]] to view the status of a simple directory.
 
 Tasks:
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/stat/stat_ex002]]
