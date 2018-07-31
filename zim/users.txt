@@ -6,6 +6,8 @@ Creation-Date: 2018-07-10T23:01:47-04:00
 Created Tuesday 10 July 2018
 
 [[command-line environments]]
+[[tasks template]]
+[[alphabetical list of essential tools]]
 
 users
 * [[adduser]]

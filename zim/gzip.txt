@@ -6,6 +6,8 @@ Creation-Date: 2018-07-11T10:49:34-04:00
 Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+[[tasks template]]
+[[alphabetical list of essential tools]]
 
 **Summary**
 gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-compress example 1]] for more details.
@@ -17,3 +19,7 @@ gzip:
 * [[gzip-compress]]
 * [[gzip-unpack]]
 * [[gzip-uncompress]]
+
+gzip [[executable location]]: [[/usr/bin/gzip]]
+gzip [[man page locations]]: gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz
+

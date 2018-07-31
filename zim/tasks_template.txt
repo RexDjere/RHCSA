@@ -15,3 +15,6 @@ tasks template
 * command - function
 * command - description
 * command - examples
+
+command [[executable location]]:
+command [[man page locations]]:

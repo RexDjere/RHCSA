@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T02:24:46-04:00
+
+====== executable location ======
+Created Tuesday 31 July 2018
+
+[[tasks template]]
+
+**Summary**
+The location of executable files in Linux be determined using the whereis command with the -b option. For example, to find the location of the gzip executable, we would run this command:
+whereis -b
+
+The output:
+/usr/bin/gzip

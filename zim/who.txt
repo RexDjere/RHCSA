@@ -6,3 +6,5 @@ Creation-Date: 2018-07-10T23:07:55-04:00
 Created Tuesday 10 July 2018
 
 [[users]]
+[[tasks template]]
+[[alphabetical list of essential tools]]

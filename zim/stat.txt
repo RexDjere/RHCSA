@@ -6,6 +6,8 @@ Creation-Date: 2018-07-15T17:24:24-04:00
 Created Sunday 15 July 2018
 
 [[touch -a deep dive]]
+[[tasks template]]
+[[alphabetical list of essential tools]]
 
 **Summary**
 The stat utility allows you to see several pieces of information about a file or directory. See [[stat-description]] for more details.

@@ -8,6 +8,7 @@ Created Tuesday 10 July 2018
 [[files]]
 [[tasks]]
 [[tasks template]]
+[[alphabetical list of essential tools]]
 
 tty
 * [[tty - function]]

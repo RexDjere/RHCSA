@@ -7,8 +7,9 @@ Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 [[tasks]]
-[[tasks template]]
 [[gzip]]
+[[tasks template]]
+[[alphabetical list of essential tools]]
 
 **Summary:**
 The tar utility is used to create archives, extract from archives, and to update archives.  The tar utility was orginally used to store archives on magnetic tapes => the name tar comes from tape archiver.
@@ -21,6 +22,7 @@ tar
 * [[tar-unpack]]
 * [[tar-uncompress]]
 
-tar executable location: [[/usr/bin/tar]]
-tar man page locations: [[/usr/share/man/man5/tar.5.gz]] , [[file:///usr/share/man/man1/tar.1.gz|/usr/share/man/man1/tar.1.gz]]
+tar [[executable location]]: [[/usr/bin/tar]]
+tar [[man page locations]]: tar: /usr/share/man/man5/tar.5.gz /usr/share/man/man1/tar.1.gz /usr/share/info/tar.info-1.gz /usr/share/info/tar.info-2.gz /usr/share/info/tar.info.gz
+
 
