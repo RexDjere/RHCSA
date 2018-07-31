@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:03:45-04:00
+
+====== Install Red Hat Enterprise Linux systems as virtual guests ======
+Created Monday 16 July 2018
+
+[[005 - right branches]]
+[[TODO LIST]]
+
+**Summary**
+On Monday July 30th, 2018, I installed Centos 7 Minimal ISO as a virtual guest on my Fedora 28 system, and took notes during the install, for the first time.  In this article, I will walk you through the entire process.
+
+**My Thought Process**
+I decided to go with the Minimal ISO because it would give me the biggest opportunity to learn: I would have to install and configure a lot of apps and services on my own. I went to https://www.centos.org/download, and I chose to download the Minimal ISO.
+{{./pasted_image.png?width=800}}
+
+I clicked on Minimal ISO, and chose the top mirror: 
+http://mirrors.centos.webair.com/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1804.iso 
+{{./pasted_image001.png?width=800}}
+
+The download was 906 MB, so you want to make sure that you have enough room for it on the computer that you are going to virtual machine host on. I had plenty of space: about 258 GB free in my home directory.  I found this out using the [[df]] -BG command.  See [[df - example 1]] for more info on this. 
+
+For a virtualization platform, I decided to use the preferred virtualization manager in the Red Hat: KVM. I already had the main package, qemu-kvm installed, but I had to install virt-manager. For this demo, I decided to uninstall qemu-kvm first so that you could see the entire installation process. So now, I am going to install qemu-kvm and virt-manager plus all of their dependencies by using the dnf command.  On a Red Hat or Centos system, you will probably use the yum command instead. Here is the command I will use (it has to be run as root, so I use su -c:
+* su -c "dnf install qemu-kvm virt-manager" 
+* the RHEL/CentOS equivalent would be: su -c "yum install qemu-kvm virt-manager"
+* The terminal output was way too long for me to paste the whole thing here, so I will just paste the bottom of the terminal wndow:
+{{./pasted_image002.png}}
+
+It is now time to create the Centos 7 virtual machine:
+* I click on the Virtual Machine Manager icon in my Fedora 28 apps window, and it asks me for my root password.  
+* After entering the root password, I am greeted with the window below:
+* {{./pasted_image003.png}}
+* I click on the "create a new virtual machine" icon in the upper left corner.
+* I select "Local install media (ISO image or CDROM)" and hit "Forward"
+* "Use ISO image" is pre-selected, so I hit "Browse" and navigate to the folder where I just downloaded the Minimal ISO.
+* I hit "Browse Local" and navigate to the download folder (this folder will differ based on where YOU downloaded the Minimal ISO file).
+* Once in the correct folder, I select CentOS-7-x86_64-Minimal-1804.iso and hit "Open" (the file name may differ slightly depending on when you follow this example).
+* The "Automatically detect..." checkbox is automatically checked.  I leave it as is, and hit "Forward".
+* These next numbers will be different based on how poweful your system is.  
+	* I have almost 16 GB of RAM in my system, so I decided to allocate 5 GB of RAM to my virtual machine.
+	* I have 8 CPU cores available, so I decided to allocate 3 cores to my virtual machine.
+	* At the screen below, I hit "Forward":
+	* {{./pasted_image004.png}}
+	* At step 4 of 5, I left the "Enable storage.." box checked, and left it at the default value of 10.0 GiB.
+	* I hit "Forward".
+	* In the next step, 5 of 5, I left the default chosen name of centos7.0, and hit "Finish".
+	* A window popped up sa

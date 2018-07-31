@@ -11,4 +11,5 @@ Created Monday 30 July 2018
 This TODO list helps me to keep track of items that I decided to leave for later completion.
 
 TODO LIST
-* Add option descriptions to [[df - options]]
+* Add option descriptions to [[df - options]] .
+* Add [[KVM]] article and link to KVM article to [[Install Red Hat Enterprise Linux systems as virtual guests]] .
