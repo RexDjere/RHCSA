@@ -22,7 +22,7 @@ To build this study guide, I am using the following <a href="https://www.fsf.org
 		[Anki Shared Deck](anki/Anki_Shared_Deck.md)
 - git/git-gui (version control): https://git-scm.com/
 - KVM (Kernel-based Virtual Machine that I use for hosting guest CentOS VM on Fedora): https://www.linux-kvm.org/page/Main_Page
-- CentOS (Community EnTerprise Operating System: the guest OS that I run in KVM): https://www.centos.org/
+- CentOS (Community Enterprise Operating System: the guest OS that I run in KVM): https://www.centos.org/
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, you should do the following:
 - Have a standalone computer with the latest version of CentOS installed to do the exercises (https://www.centos.org/)
