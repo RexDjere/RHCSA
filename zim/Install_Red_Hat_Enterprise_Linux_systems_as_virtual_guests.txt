@@ -29,7 +29,9 @@ It is now time to create the Centos 7 virtual machine:
 * To let the KVM kernel modules take effect, I will first reboot my system.
 * When my system is back up, I click on the Virtual Machine Manager icon in my Fedora 28 apps window, and it asks me for my root password.  
 * After entering the root password, I am greeted with the window below:
-* {{./pasted_image003.png}}
+
+{{./pasted_image003.png?width=800}}
+
 * I click on the "create a new virtual machine" icon in the upper left corner.
 * I select "Local install media (ISO image or CDROM)" and hit "Forward"
 * "Use ISO image" is pre-selected, so I hit "Browse" and navigate to the folder where I just downloaded the Minimal ISO.
@@ -40,14 +42,19 @@ It is now time to create the Centos 7 virtual machine:
 	* I have almost 16 GB of RAM in my system, so I decided to allocate 5 GB of RAM to my virtual machine.
 	* I have 8 CPU cores available, so I decided to allocate 3 cores to my virtual machine.
 	* At the screen below, I hit "Forward":
-	* {{./pasted_image004.png}}
+
+	{{./pasted_image004.png?width=600}}
+	
 	* At step 4 of 5, I left the "Enable storage.." box checked, and left it at the default value of 10.0 GiB.
 	* I hit "Forward".
 	* In the next step, 5 of 5, I left the default chosen name as centos7.0, and hit "Finish".
 	* My Centos 7 virtual machine was built and started after I hit "Finish".
 	* A pop up widow asked me if I wanted to allow the VM Manager to inhibit shortcuts. I chose "Allow".
 	* At this point, I was greeted by the Centos 7 installation window below:
-	* {{./pasted_image005.png}}
+
+{{./pasted_image005.png?width=800}}
+
+
 	* I won't go through every step of the install.  You can practice with the parameters that you feel best, and if you mess up, you can always do it all over again. Virtual Machines can be created, destroyed, and re-created easily.
 	* My only major decision during the install was not choosing to enable networking during the graphical install.  I want to learn how to do it from the command line later.
 	* I did choose automatic partitioning, and I did create a root password and a non-root user account for myself during the installation.
@@ -56,4 +63,5 @@ It is now time to create the Centos 7 virtual machine:
 	* WARNING: depending on how modern your pc is, the "performing post-installation setup tasks" could take a very long time. It took several minutes on my system.
 	* After the installation was complete, I hit "Reboot".
 	* I am proud to present my [[CentOS]] 7 virtual machine below:
-	* {{./pasted_image006.png}}
+
+{{./pasted_image006.png?width=800}}
