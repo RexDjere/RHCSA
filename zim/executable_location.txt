@@ -12,4 +12,4 @@ The location of executable files in Linux be determined using the whereis comman
 whereis -b
 
 The output:
-/usr/bin/gzip
+gzip: /usr/bin/gzip

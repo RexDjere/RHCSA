@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T16:51:13-04:00
+
+====== GitHub ======
+Created Tuesday 31 July 2018
+
+[[open source]]
+[[article template]]
+
+**Summary**
+[[GitHub]] (https://github.com/) is operated by [[GitHub]] Inc., a subsidiary of [[Microsoft]]. [[GitHub]] is a web-based source code hosting service that is tightly integregated with the [[free software]] / [[open source]] [[version control system]] known as [[git]].
+
+More information about [[GitHub]] can be found here:
+https://en.wikipedia.org/wiki/GitHub 

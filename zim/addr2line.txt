@@ -7,3 +7,16 @@ Created Tuesday 31 July 2018
 
 [[tasks template]]
 [[alphabetical list of essential tools]]
+[[TODO LIST]]
+
+**Summary**
+addr2line is a computer programming tool that is part of the GNU Binary Utilities suite, also called binutils. It is used to convert addresses into file names and line numbers.
+
+addr2line
+* [[addr2line - function]]
+* [[addr2line - description]]
+* [[addr2line - examples]]
+
+addr2line [[executable location]]: /usr/bin/addr2line
+addr2line [[man page locations]]: addr2line: /usr/share/man/man1/addr2line.1.gz
+

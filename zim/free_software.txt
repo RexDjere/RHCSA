@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T16:33:03-04:00
+
+====== free software ======
+Created Tuesday 31 July 2018
+
+[[KVM]]
+[[open source]]
+
+**Summary**
+Free software is software that guarantees the software's user four basic freedoms:
+* The freedom to study the software's source code.
+* The freedom to modify the software's source code in anyway that he or she sees fit.
+* The freedom to share their modifications with anyone who wants or needs to use them.
+* The freedom to re-distribute the software, and its source code, in a way that guarantees that the recipient will retain all four freedoms.
+
+More information on free software can be found here:
+* https://www.fsf.org/about/what-is-free-software
+* https://en.wikipedia.org/wiki/Free_software
+

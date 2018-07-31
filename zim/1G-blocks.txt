@@ -6,8 +6,12 @@ Creation-Date: 2018-07-30T21:21:20-04:00
 Created Monday 30 July 2018
 
 [[df - example 1]]
+[[article template]]
 
 **Summary**
 1G-blocks refers to the filesystem size units returned by the df -BG command. 1G-blocks means that each block unit is equal to 1024^3 bytes.  1024^3 bytes = 2^30 bytes = 1,073,741,824 bytes = 1 [[GB]] = 1 [[GiB]].
 
 **Note**: This is a very confusing topic for many. 1 GB technically means 1x10^9 bytes, but in the topic of on-disk storage, 1 GB usually means 1 [[GiB]] or 1.073741824x10^9 bytes.
+
+Links to more information on the 1G-blocks are here:
+* https://community.spiceworks.com/topic/126914-convert-blocks-to-gb

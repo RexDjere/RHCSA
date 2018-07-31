@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T17:33:23-04:00
+
+====== article template ======
+Created Tuesday 31 July 2018
+
+[[links to significant backlinks go here]]
+
+**Summary**
+Write a short concise summary of the topic here. If you need to elaborate, please feel free to add detailed paragraphs below.
+
+Links to more information on the topic are here:
+* link 1
+* link 2

@@ -6,7 +6,7 @@ Creation-Date: 2018-07-16T12:03:45-04:00
 Created Monday 16 July 2018
 
 [[005 - right branches]]
-[[TODO LIST]]
+[[KVM]]
 
 **Summary**
 On Monday July 30th/Tuesday July 31st 2018, I installed Centos 7 Minimal ISO as a virtual guest on my Fedora 28 system for the first time.  In this article, I will walk you through the process.
@@ -20,7 +20,7 @@ I clicked on Minimal ISO, and chose the top mirror:
 
 The download was 906 MB, so you'll want to make sure that you have enough room for it on your host computer. I had plenty of space: about 258 GB free in my home directory.  I found this out using the [[df]] -BG command.  See [[df - example 1]] for more info on this. 
 
-For a virtualization platform, I decided to use the preferred virtualization manager in the Red Hat: KVM. I already had the main package, qemu-kvm installed, but I had to install virt-manager. For this demo, I decided to uninstall qemu-kvm first so that you could see the entire installation process. Now, I am going to install KVM, and all of its dependencies, by using the dnf command.  On a Red Hat or Centos system, you will probably use the yum command instead. Here is the command I will use (it has to be run as root, so I use su -c):
+For a virtualization platform, I decided to use the preferred virtualization manager in the Red Hat: [[KVM]]. I already had the main package, qemu-kvm installed, but I had to install virt-manager. For this demo, I decided to uninstall qemu-kvm first so that you could see the entire installation process. Now, I am going to install KVM, and all of its dependencies, by using the dnf command.  On a Red Hat or Centos system, you will probably use the yum command instead. Here is the command I will use (it has to be run as root, so I use su -c):
 * su -c "dnf install qemu-kvm qemu-img virt-manager libvirt libvirt-python libvirt-client virt-install virt-viewer" 
 * the RHEL/CentOS equivalent would be: su -c "yum install qemu-kvm qemu-img virt-manager libvirt libvirt-python libvirt-client virt-install virt-viewer" 
 * The terminal output was very long, so I chose not to paste it here.

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T17:10:08-04:00
+
+====== virtualization software ======
+Created Tuesday 31 July 2018
+
+[[virtual machine]]
+
+**Summary**
+Virtualization software allows a virtual computer, or multiple virtual computers, to be created within the confines of physical host computer hardware. For example, a mainframe computer (the physical host machine in this case) with 2 TB of RAM and 400 TB of disk storage could host dozens of virtual computers (known as [[virtual machine|virtual machines]]).  Each of these virtual machines would exist only in the virtualization software, and the software would allow the guest machines to share the resources of the physical host machine.
+
+More information on virtualization can be found here:
+https://en.wikipedia.org/wiki/Virtualization
