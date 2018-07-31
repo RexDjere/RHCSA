@@ -6,3 +6,12 @@ Creation-Date: 2018-07-10T23:04:22-04:00
 Created Tuesday 10 July 2018
 
 [[system information]]
+[[Install Red Hat Enterprise Linux systems as virtual guests]]
+
+**Summary**
+The df utility is used to report file system space usage.
+
+df
+* [[df - function]]
+* [[df - description]]
+* [[df - examples]]

@@ -6,6 +6,7 @@ Creation-Date: 2018-07-11T10:35:46-04:00
 Created Wednesday 11 July 2018
 
 [[exam]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
 objectives
 * [[001 - understand and use essential tools]]

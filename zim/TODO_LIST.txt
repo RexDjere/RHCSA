@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T19:29:27-04:00
+
+====== TODO LIST ======
+Created Monday 30 July 2018
+
+[[Home]]
+
+**Summary**
+This TODO list helps me to keep track of items that I decided to leave for later completion.
+
+TODO LIST
+* Add option descriptions to [[df - options]]

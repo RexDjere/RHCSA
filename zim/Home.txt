@@ -6,6 +6,7 @@ Creation-Date: 2018-07-10T22:28:27-04:00
 Created Tuesday 10 July 2018
 
 [[RHCSA]]
+[[TODO LIST]]
 
 **Summary**
 This is the homepage for this [[RHCSA]] Study Guide.  This guide is designed to prepare prospective Linux system administrators for the [[exam|RHCSA exam]].

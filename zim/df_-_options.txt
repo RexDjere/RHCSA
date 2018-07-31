@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T19:26:19-04:00
+
+====== df - options ======
+Created Monday 30 July 2018
+
+[[df - description]]
+[[TODO LIST]]
+
+**Summary**
+The [[df]] utility has several options which are discussed in detail below.
+
+df - options
+* −a, −−all
+* −B, −−block−size=SIZE
+* −−direct
+* −h, −−human−readable
+* −H, −−si
+* −i, −−inodes
+* −k
+* −l, −−local
+* −−no−sync
+* −−output[=FIELD_LIST]
+* −P, −−portability
+* −−sync
+* −−total
+* −t, −−type=TYPE
+* −T, −−print−type
+* −x, −−exclude−type=TYPE
+* −v
+* −−help
+* −−version

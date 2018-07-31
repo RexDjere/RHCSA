@@ -5,4 +5,17 @@ Creation-Date: 2018-07-16T12:03:45-04:00
 ====== Install Red Hat Enterprise Linux systems as virtual guests ======
 Created Monday 16 July 2018
 
-[[005 - left branches]]
+[[005 - right branches]]
+
+**Summary**
+On Monday July 30th, 2018, I installed Centos 7 Minimal ISO as a virtual guest on my Fedora 28 system, and took notes during the install, for the first time.  In this article, I will walk you through the entire process.
+
+**My Thought Process**
+I decided to go with the Minimal ISO because it would give me the biggest opportunity to learn: I would have to install and configure a lot of apps and services on my own. I went to https://www.centos.org/download, and I chose to download the Minimal ISO.
+{{./pasted_image.png?width=800}}
+
+I clicked on Minimal ISO, and chose the top mirror: 
+http://mirrors.centos.webair.com/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1804.iso 
+{{./pasted_image001.png?width=800}}
+
+The download was 906 MB, so you want to make sure that you have enough room for it on the computer that you are going to virtual machine host on. I had plenty of space: about 258 GB free in my home directory.  If found this out using the [[df]] -BG command.

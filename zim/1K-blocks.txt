@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T20:49:16-04:00
+
+====== 1K-blocks ======
+Created Monday 30 July 2018
+
+[[df - example 1]]
+
+**Summary**
+1K-blocks refers to the default filesystem size unit used in the [[df]] and [[du]] commands. 1k_blocks means that each block unit is equal to 1024 bytes.  **Note**: 1KB or 1KiB equals 1024 bytes, while 1kB equals 1000 bytes.
