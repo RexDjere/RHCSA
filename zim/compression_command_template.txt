@@ -6,6 +6,10 @@ Creation-Date: 2018-08-01T22:56:58-04:00
 Created Wednesday 01 August 2018
 
 [[templates]]
+[[bzip2]]
+[[gzip]]
+[[star]]
+[[tar]]
 
 **Summary**
 concise description of the command goes here.
@@ -14,6 +18,6 @@ compression-command template:
 * compression-command-function
 * compression-command-description
 * compression-command-examples
-* compression-command-compress
-* compression-command-unpack
-* compression-command-uncompress
+* compression-command-compress - examples
+* compression-command-unpack - examples
+* compression-command-uncompress - examples

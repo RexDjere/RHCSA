@@ -6,8 +6,13 @@ Creation-Date: 2018-07-11T18:06:38-04:00
 Created Wednesday 11 July 2018
 
 [[tar]]
+[[examples homepage template]]
+[[examples template]]
 
-See 
-* [[tar-compress]]
-* [[tar-unpack]]
-* [[tar-uncompress]]
+**Summary**
+The links below are examples of the usage of the [[tar]] command.
+
+tar - examples:
+* [[tar-compress - examples]]
+* [[tar-unpack - examples]]
+* [[tar-uncompress - examples]]

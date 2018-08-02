@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T10:25:48-04:00
+
+====== cp - example 1 ======
+Created Thursday 02 August 2018
+
+[[examples template]]
+[[cp - examples]]
+
+**Summary**
+In cp - example 1, we will create a file, and copy it from one directory to another.
+
+Tasks
+* Step 1
+* Step 2
+* Step 3

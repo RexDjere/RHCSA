@@ -2,11 +2,13 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-11T16:29:57-04:00
 
-====== tar-compress example 1 ======
+====== tar-compress - example 1 ======
 Created Wednesday 11 July 2018
 
-[[tar-compress]]
+[[tar-compress - examples]]
+[[examples template]]
 
+**Summary**
 In example 1, we will compress a single directory using [[tar]].  We will use the -czvf flags.  
 * -c: creates an archive.
 * -z: compress the archive using [[gzip]].
@@ -16,7 +18,7 @@ In example 1, we will compress a single directory using [[tar]].  We will use th
 tar syntax - compressing a single file or directory:  
 * tar -czvf name-ofarchive.tar.gz /path/to/file-or-directory
 
-Tasks: 
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to the [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex001|tar-compress_ex001]] folder in the examples/tar folder.
 * Create a directory called mydir using the [[mkdir]] command.
 * Create 3 files inside of mydir called myfile1, myfile2, and myfile 3 using the [[touch]] command.

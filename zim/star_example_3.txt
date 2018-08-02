@@ -6,8 +6,10 @@ Creation-Date: 2018-07-16T19:26:12-04:00
 Created Monday 16 July 2018
 
 [[star-examples]]
-[[star-compress]]
+[[star-compress - examples]]
+[[examples template]]
 
+**Summary**
 In star example 3, we will create a new directory, and add 60 new files to it.  We will then compress those 60 files into a tarfile, delete the 60 input files, and then extract the 60 files from the archive.
 
  Let us look at the general format of the commands we will use:
@@ -22,7 +24,7 @@ In star example 3, we will create a new directory, and add 60 new files to it.  
 
 Let's do it.
 
-Tasks
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * **PART 1**
 	* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex003]]
 	* Use [[mkdir]] to create two new directories called red_hat_servers01 and red_hat_servers02

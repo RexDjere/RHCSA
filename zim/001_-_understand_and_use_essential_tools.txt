@@ -14,6 +14,6 @@ Created Wednesday 11 July 2018
 * [[001 - right branches]]
 * [[files]]
 * [[directories]]
-* [[command-line environments]]
+* command-line environments
 * [[documentation]]
 * [[alphabetical list of essential tools]]

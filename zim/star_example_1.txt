@@ -7,6 +7,7 @@ Created Monday 16 July 2018
 
 [[star -c deep dive]]
 [[star-examples]]
+[[examples template]]
 
 **Summary**
 In [[star]] example 1, we will compress several files into an archive using the star -c command. Let us review what the -c option does for a given star command:
@@ -17,19 +18,22 @@ star-options
 	* writing starts at the beginning of the tarfile
 	* verbosity can be increased by adding the -v (verbose) option
 
-Tasks
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001]]
+	* __cd ~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001__
 * Create 5 new files using the [[touch]] command (we've learned the shortened [[touch]] command using regular expressions, so we'll use that):
-	* star_file1
-	* star_file2
-	* star_file3
-	* star_file4
-	* star_file5
-* Use the [[ls]] command to verify that the files were correctly created.
+	* __touch star_file{1..5}__
+		* star_file1
+		* star_file2
+		* star_file3
+		* star_file4
+		* star_file5
+* Use the [[ls]] command to verify that the files were correctly created: __ls__
 * Use the [[star]] -c command to create a new tar archive named star_files.tar containing all 5 files 
 	* to create a shorter command, we will use a [[regular expressions|regular expression]] instead of typing all of the file names out by hand.
 	* Since we want to name the tarfile, we have to add the -f option. The syntax for this is -f=tarfile_name. 
 	* For example: star -c -f=tarfile_name.tar files{1..5}
-* Use ls to verify that the .tar archive was correctly created.
+	* Our command: __star -c -f=star_files.tar star_file(1..5}__
+* Use ls to verify that the .tar archive was correctly created: __ls__
 
 {{./pasted_image.png}}

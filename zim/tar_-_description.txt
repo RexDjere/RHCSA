@@ -6,7 +6,9 @@ Creation-Date: 2018-07-11T18:08:31-04:00
 Created Wednesday 11 July 2018
 
 [[tar]]
+[[command_description template]]
 
+**Summary**
 tar is a utility for compressing, unpacking, and uncompressing archives.
 
 Commonly used tar flags:
@@ -17,3 +19,7 @@ Commonly used tar flags:
 * -f: enable specifying the filename of the archive.
 * -x: extract file
 * --exclude=[file pattern] or [directory location]:  excludes files or directories based on a given file pattern or directory location
+
+Syntax examples:
+* tar -cjvf archive_name.tar.bz2 SOURCE 
+* tar -czvf archive_name.tar.gz SOURCE 

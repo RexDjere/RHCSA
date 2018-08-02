@@ -7,5 +7,18 @@ Created Tuesday 10 July 2018
 
 [[files]]
 [[directories]]
+[[tasks]]
 [[tasks template]]
 [[alphabetical list of essential tools]]
+
+**Summary**
+The cp cp is used to copy files and directories.
+
+tasks template
+* [[cp - function]]
+* [[cp - description]]
+* [[cp - examples]]
+
+cp [[executable location]]:
+cp [[man page locations]]:
+

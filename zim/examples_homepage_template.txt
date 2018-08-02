@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T10:15:56-04:00
+
+====== examples homepage template ======
+Created Thursday 02 August 2018
+
+backlink to the main command go here (for example, on the cp examples homepage, this would link back to cp)
+[[examples homepage template]]
+[[examples template]]
+other relevant backlinks would go here
+
+**Summary**
+Summarize the examples homepage here.
+
+command - examples:
+* [[command - example 1]] - short description of example 1 (the short description is not part of the link)
+* [[command - example 2]] - short description of example 2 (the short description is not part of the link)
+* [[command - example 3]] - short description of example 3 (the short description is not part of the link)

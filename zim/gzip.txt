@@ -10,7 +10,7 @@ Created Wednesday 11 July 2018
 [[alphabetical list of essential tools]]
 
 **Summary**
-gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-compress example 1]] for more details.
+gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-compress - example 1]] for more details.
 
 gzip:
 * [[gzip-function]]

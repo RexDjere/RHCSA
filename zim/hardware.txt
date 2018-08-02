@@ -5,7 +5,7 @@ Creation-Date: 2018-07-10T23:01:45-04:00
 ====== hardware ======
 Created Tuesday 10 July 2018
 
-[[command-line environments]]
+command-line environments
 
 hardware
 * [[lspci]]

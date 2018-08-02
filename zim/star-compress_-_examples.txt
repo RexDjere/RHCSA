@@ -2,10 +2,13 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-14T21:14:39-04:00
 
-====== star-compress ======
+====== star-compress - examples ======
 Created Saturday 14 July 2018
 
 [[star]]
+[[examples homepage template]]
+[[examples template]]
+[[star-examples]]
 
 **Summary**
 In general, the [[star]] command is used to compress files and folers into an archive using the -c option. 
@@ -16,5 +19,8 @@ In general, the [[star]] command is used to compress files and folers into an ar
 So a complete star compression command might look something like this:
 * star -cv -f=tarfilename input_file1 input_file2........
 
-In [[star example 3]], we will take a closer look at how the star -cv -f=tarfilename command works.
+star-compress - examples
+* [[star-compress - example 1]]
+* [[star-compress - example 2]]
 
+{{./pasted_image.png}}

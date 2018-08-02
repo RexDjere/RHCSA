@@ -6,7 +6,7 @@ Creation-Date: 2018-07-10T22:53:53-04:00
 Created Tuesday 10 July 2018
 
 [[tasks]]
-[[templates]]
+[[tasks template]] 
 
 **Summary**
 Write a good summary of the task that provides a good high level view of what the task is designed to do.

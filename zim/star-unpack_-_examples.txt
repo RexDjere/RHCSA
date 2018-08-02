@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T11:22:19-04:00
+
+====== star-unpack - examples ======
+Created Thursday 02 August 2018
+
+[[examples template]]
+[[star-examples]]
+
+**Summary**
+Summarize the example here.
+
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
+* Step 1
+* Step 2
+* Step 3
+
+Screenshot(s) go here.

@@ -6,7 +6,9 @@ Creation-Date: 2018-07-16T19:26:08-04:00
 Created Monday 16 July 2018
 
 [[star-examples]]
+[[examples template]]
 
+**Summary**
 When the [[star]] utility is used to compress files or folders into an archive, the [[extended attributes]] are not retained by default.  
 
 The [[extended attributes]] on Linux have four namespaces:
@@ -21,7 +23,7 @@ To fully understand keeping the extended attibutes, we will compress two sets of
 
 First, lets compress a set of files not using -xattr and -H=exustar:
 
-Tasks
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * **PART 1**
 	* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex002/star-compress_002a]]
 	* Create 20 new files: service_request001 to service_request020.

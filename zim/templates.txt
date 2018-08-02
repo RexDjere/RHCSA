@@ -12,6 +12,9 @@ These templates make creating different kinds of pages in this study guide much 
 
 templates:
 * [[article template]]
+* [[command description template]]
 * [[compression command template]]
+* [[examples template]]
+* [[examples homepage template]]
 * [[tasks template]]
 

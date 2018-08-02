@@ -8,6 +8,7 @@ Created Wednesday 11 July 2018
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 [[tasks]]
 [[gzip]]
+[[compression command template]]
 [[tasks template]]
 [[alphabetical list of essential tools]]
 
@@ -18,9 +19,9 @@ tar
 * [[tar - function]]
 * [[tar - description]]
 * [[tar - examples]]
-* [[tar-compress]]
-* [[tar-unpack]]
-* [[tar-uncompress]]
+* [[tar-compress - examples]]
+* [[tar-unpack - examples]]
+* [[tar-uncompress - examples]]
 
 tar [[executable location]]: [[/usr/bin/tar]]
 tar [[man page locations]]: tar: /usr/share/man/man5/tar.5.gz /usr/share/man/man1/tar.1.gz /usr/share/info/tar.info-1.gz /usr/share/info/tar.info-2.gz /usr/share/info/tar.info.gz
