@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-01T22:52:20-04:00
+
+====== templates ======
+Created Wednesday 01 August 2018
+
+[[Home]]
+
+**Summary**
+These templates make creating different kinds of pages in this study guide much easier.
+
+templates:
+* [[article template]]
+* [[compression command template]]
+* [[tasks template]]
+

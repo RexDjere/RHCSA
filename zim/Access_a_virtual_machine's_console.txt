@@ -6,3 +6,11 @@ Creation-Date: 2018-07-11T18:35:00-04:00
 Created Wednesday 11 July 2018
 
 [[002 - left branches]]
+[[article template]]
+
+**Summary**
+
+
+Links to more information on virtual machine consoles are here:
+* N/A
+

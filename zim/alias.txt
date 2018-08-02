@@ -7,3 +7,14 @@ Created Tuesday 31 July 2018
 
 [[tasks template]]
 [[alphabetical list of essential tools]]
+
+**Summary**
+Write a good summary of the task that provides a good high level view of what the task is designed to do.
+
+tasks template
+* alias - function
+* alias - description
+* alias - examples
+
+alias [[executable location]]: 
+alias [[man page locations]]:

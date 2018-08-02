@@ -6,6 +6,7 @@ Creation-Date: 2018-07-11T10:46:22-04:00
 Created Wednesday 11 July 2018
 
 [[001 - left branches]]
+[[templates]]
 
 Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 * [[tar]]
@@ -13,7 +14,4 @@ Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 * [[gzip]]
 * [[bzip2]]
 
-command template:
-* command-compress
-* command-unpack
-* command-uncompress
+
