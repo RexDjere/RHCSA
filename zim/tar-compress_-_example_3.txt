@@ -6,7 +6,7 @@ Creation-Date: 2018-07-11T18:41:52-04:00
 Created Wednesday 11 July 2018
 
 [[tar-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In the previous two examples, we used tar -czvf.  The -z option tells tar to compress the archive using gzip. In example 3,

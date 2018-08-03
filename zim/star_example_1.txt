@@ -7,7 +7,7 @@ Created Monday 16 July 2018
 
 [[star -c deep dive]]
 [[star-examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In [[star]] example 1, we will compress several files into an archive using the star -c command. Let us review what the -c option does for a given star command:

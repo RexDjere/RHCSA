@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T10:29:38-04:00
 ====== cp - example 3 ======
 Created Thursday 02 August 2018
 
-[[examples template]]
+examples template
 [[cp - examples]]
 
 **Summary**

@@ -5,7 +5,7 @@ Creation-Date: 2018-07-31T02:57:27-04:00
 ====== gawk ======
 Created Tuesday 31 July 2018
 
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary**

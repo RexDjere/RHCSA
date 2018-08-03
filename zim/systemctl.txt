@@ -6,7 +6,7 @@ Creation-Date: 2018-07-19T02:56:12-04:00
 Created Thursday 19 July 2018
 
 [[systemd]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary**

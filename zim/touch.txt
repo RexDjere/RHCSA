@@ -7,7 +7,7 @@ Created Tuesday 10 July 2018
 
 [[files]]
 [[tasks]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary**

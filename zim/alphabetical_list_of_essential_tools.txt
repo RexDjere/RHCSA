@@ -6,11 +6,11 @@ Creation-Date: 2018-07-31T02:37:49-04:00
 Created Tuesday 31 July 2018
 
 [[001 - understand and use essential tools]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essentials tools - sources]]
 [[TODO LIST]]
 
-< INSERT: Taken from [[tasks template]]. Verify that stays up-to-date with [[tasks template]].>
+< INSERT: Taken from tasks template. Verify that stays up-to-date with tasks template.>
 --------------------
 
 **Summary**

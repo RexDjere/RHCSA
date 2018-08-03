@@ -6,7 +6,7 @@ Creation-Date: 2018-07-15T17:24:24-04:00
 Created Sunday 15 July 2018
 
 [[touch -a deep dive]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary**

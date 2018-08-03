@@ -6,7 +6,7 @@ Creation-Date: 2018-07-11T16:29:57-04:00
 Created Wednesday 11 July 2018
 
 [[tar-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In example 1, we will compress a single directory using [[tar]].  We will use the -czvf flags.  

@@ -6,7 +6,7 @@ Creation-Date: 2018-08-02T10:12:19-04:00
 Created Thursday 02 August 2018
 
 [[cp]]
-[[command description template]]
+utilities description template
 
 **Summary**
 The cp command is used to copy a file or directory from a //SOURCE// location to a //DESTINATION// location. The general systax of the command is as follows:

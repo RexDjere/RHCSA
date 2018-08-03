@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T11:34:19-04:00
 ====== star-compress - example 2 ======
 Created Thursday 02 August 2018
 
-[[examples template]]
+examples template
 [[star-compress - examples]]
 other relevant backlinks go here
 

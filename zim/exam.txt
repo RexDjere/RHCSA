@@ -5,6 +5,10 @@ Creation-Date: 2018-07-10T22:32:19-04:00
 ====== exam ======
 Created Tuesday 10 July 2018
 
+[[Home]]
+[[generic template]]
+[[all templates]]
+[[TODO LIST]]
 [[RHCSA]]
 
 **Summary**

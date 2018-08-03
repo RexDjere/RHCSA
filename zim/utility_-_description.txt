@@ -1,22 +1,23 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T12:28:11-04:00
+Creation-Date: 2018-08-02T18:53:26-04:00
 
-====== command description template ======
+====== utility - description ======
 Created Thursday 02 August 2018
 
 [[link]] to parent command goes here (for example, if this is page is [[cp - description]], then this link would go to [[cp]])
-[[command_description template]]
+utilities description template
 
 **Summary**
-Describe the command here.
+Describe the command here. Use find and replace to replace the appropriate word below with the actual name of the command.
 
-Commonly used command flags:
+Commonly used utility flags:
 * -a: does this...
 * -b: does this...
 * -c: does this...
 
 
-Syntax examples:
+utility syntax examples:
 * command -a
 * command -b
+

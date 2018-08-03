@@ -6,8 +6,8 @@ Creation-Date: 2018-07-11T16:29:03-04:00
 Created Wednesday 11 July 2018
 
 [[tar]]
-[[examples homepage template]]
-[[examples template]]
+examples homepage template
+examples template
 
 **Summary**
 These examples demonstrate usage of the tar command for the compression of files and folders into archives.

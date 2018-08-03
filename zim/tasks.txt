@@ -5,13 +5,24 @@ Creation-Date: 2018-07-10T22:32:15-04:00
 ====== tasks ======
 Created Tuesday 10 July 2018
 
+[[Home]]
+[[generic template]]
+[[all templates]]
 [[RHCSA]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
-**Summary**
-[[RHCSA]] is an acronym for [[Red Hat Certified System Administrator]], an IT industy certification offered by [[Red Hat]] Corporation.  RHCSA is an entry-level certification that certifies that the associated RHCSA professional has demonstrated a minimum level of proficiency administering [[Red Hat Enterprise Linux]], and/or equivalent computer operating systems (e.g. [[CentOS]]).
+**KYWRD:** tasks
 
-tasks
+**Summary**
+The purpose of this page is to link to the tasks that the RHCSA should master to pass the certification exam.
+
+**tasks:**
+* tasks - function: N/A
+* tasks - description: N/A
+* tasks - options-flags N/A
+* tasks - examples N/A
+
+**Relevant tasks links:**
 * [[001 - understand and use essential tools]]
 * [[002 - operate running systems]]
 * [[003 - configure local storage]]
@@ -19,5 +30,10 @@ tasks
 * [[005 - deploy, configure, and maintain systems]]
 * [[006 - manage users and groups]]
 * [[007 - manage security]]
-* [[tasks template]]
+
+**Relevant tasks notes**
+* N/A
+
+**Relevant tasks Screenshots**
+N/A
 

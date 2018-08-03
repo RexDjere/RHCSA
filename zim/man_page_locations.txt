@@ -5,7 +5,7 @@ Creation-Date: 2018-07-31T02:31:00-04:00
 ====== man page locations ======
 Created Tuesday 31 July 2018
 
-[[tasks template]]
+tasks template
 
 **Summary**
 Man pages can be located using the whereis command with the -m option. For example, if we wanted to find the locations of the gzip man pages, we will invoke this command:

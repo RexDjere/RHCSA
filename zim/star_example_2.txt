@@ -6,7 +6,7 @@ Creation-Date: 2018-07-16T19:26:08-04:00
 Created Monday 16 July 2018
 
 [[star-examples]]
-[[examples template]]
+examples template
 
 **Summary**
 When the [[star]] utility is used to compress files or folders into an archive, the [[extended attributes]] are not retained by default.  

@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T11:22:27-04:00
 ====== star-uncompress - examples ======
 Created Thursday 02 August 2018
 
-[[examples template]]
+examples template
 [[star-examples]]
 
 **Summary**

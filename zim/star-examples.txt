@@ -6,8 +6,8 @@ Creation-Date: 2018-07-17T14:05:01-04:00
 Created Tuesday 17 July 2018
 
 [[star]]
-[[examples homepage template]]
-[[examples template]]
+examples homepage template
+examples template
 
 star-examples
 * [[star example 1]]

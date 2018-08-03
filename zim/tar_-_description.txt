@@ -6,7 +6,7 @@ Creation-Date: 2018-07-11T18:08:31-04:00
 Created Wednesday 11 July 2018
 
 [[tar]]
-[[command_description template]]
+utilities description template
 
 **Summary**
 tar is a utility for compressing, unpacking, and uncompressing archives.

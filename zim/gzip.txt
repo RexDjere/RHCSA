@@ -6,7 +6,7 @@ Creation-Date: 2018-07-11T10:49:34-04:00
 Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary**

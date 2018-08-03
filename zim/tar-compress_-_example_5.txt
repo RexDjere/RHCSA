@@ -6,7 +6,7 @@ Creation-Date: 2018-07-13T12:20:48-04:00
 Created Friday 13 July 2018
 
 [[tar-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 --exclude=[file pattern] or [directory location]:  excludes files or directories based on a given file pattern or directory location

@@ -5,20 +5,40 @@ Creation-Date: 2018-07-10T22:28:27-04:00
 ====== Home ======
 Created Tuesday 10 July 2018
 
-[[RHCSA]]
+[[Home]]
+[[generic template]]
+[[all templates]]
 [[TODO LIST]]
+[[RHCSA]]
 [[alphabetical list of essential tools]]
-[[templates]]
+
+**KYWRD:** Home
 
 **Summary**
 This is the homepage for this [[RHCSA]] Study Guide.  This guide is designed to prepare prospective Linux system administrators for the [[exam|RHCSA exam]].
 
-More information on the RHCSA certification can be found at these resources:
+**Home:**
+* Home - function: The homepage is the starting point for this study guide.
+* Home - description: N/A
+* Home - option-flags N/A
+* Home - examples N/A
+
+**Relevant Home links:**
 * https://www.redhat.com/en/services/certification/rhcsa
-* https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
 * https://en.wikipedia.org/wiki/Red_Hat_Certification_Program
 
-The [[GitHub]] repository associated with this study guide is here:
-* https://github.com/RexDjere/RHCSA
+**Relevant Home notes**
+* N/A
+
+
+**Relevant Home Screenshots**
+N/A
+
+
+
+
+
+
+
 
 

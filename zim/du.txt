@@ -5,5 +5,5 @@ Creation-Date: 2018-07-31T02:52:51-04:00
 ====== du ======
 Created Tuesday 31 July 2018
 
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]

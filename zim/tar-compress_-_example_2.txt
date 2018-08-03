@@ -6,7 +6,7 @@ Creation-Date: 2018-07-11T17:35:36-04:00
 Created Wednesday 11 July 2018
 
 [[tar-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In example 2, we will compress a several directories into one tar.gz file. We will use the -czvf flags.  

@@ -7,7 +7,7 @@ Created Wednesday 11 July 2018
 
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 [[tar-compress - example 4]]
-[[tasks template]]
+tasks template
 [[alphabetical list of essential tools]]
 
 bzip2

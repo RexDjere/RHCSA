@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T11:22:19-04:00
 ====== star-unpack - examples ======
 Created Thursday 02 August 2018
 
-[[examples template]]
+examples template
 [[star-examples]]
 
 **Summary**

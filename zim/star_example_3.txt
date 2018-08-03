@@ -7,7 +7,7 @@ Created Monday 16 July 2018
 
 [[star-examples]]
 [[star-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In star example 3, we will create a new directory, and add 60 new files to it.  We will then compress those 60 files into a tarfile, delete the 60 input files, and then extract the 60 files from the archive.

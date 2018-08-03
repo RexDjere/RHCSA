@@ -8,8 +8,8 @@ Created Wednesday 11 July 2018
 [[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 [[tasks]]
 [[gzip]]
-[[compression command template]]
-[[tasks template]]
+compression command template
+tasks template
 [[alphabetical list of essential tools]]
 
 **Summary:**

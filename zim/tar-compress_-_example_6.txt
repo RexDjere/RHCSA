@@ -6,7 +6,7 @@ Creation-Date: 2018-08-02T12:15:30-04:00
 Created Thursday 02 August 2018
 
 [[tar-compress - examples]]
-[[examples template]]
+examples template
 
 **Summary**
 In tar-compress - example 6, I will compress a large directory called "Sync", and save it to an external USB hard drive in .tar.bz2 format. My external USB drive is named external_drive_0 , and it is mounted at [[/run/media/rdjere/external_drive_0]]

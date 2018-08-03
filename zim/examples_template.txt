@@ -1,20 +1,36 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T10:23:32-04:00
+Creation-Date: 2018-08-02T20:03:40-04:00
 
 ====== examples template ======
 Created Thursday 02 August 2018
 
-backlink to the examples homepage for the utility go here (e.g. if this is [[cp - example 1]], this link would go back to [[cp - examples]])
-[[examples template]]
-other relevant backlinks go here
+[[Home]]
+[[generic template]]
+[[all templates]]
+relevant backlink 1
+relevant backlink 2
+
+**KYWRD:** type the kywrd here.
 
 **Summary**
-Summarize the example here.
+This paragraph is a template of a page summary. Edit this paragraph as necessary to summarize the page that you paste this template into. This generic template is used to build all of the pages in this wiki.  Find and Replace the KEYWORD below.
 
-Tasks (NOTE: in examples, terminal commands are __highlighted__):
-* Step 1
-* Step 2
-* Step 3
+**KEYWORD:**
+* KEYWORD - function: state the main function of the topic here.
+* KEYWORD - provide a more detail description here.
+* [[KEYWORD - option-flags]] [Options are on a  separate page. Create the KEYWORD options page using this template: [[options template]]]
+* [[KEYWORD - examples]] [Examples are on a separate page. Create the KEYWORD examples page using this template: [[examples template]] ]
 
-Screenshot(s) go here.
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD notes**
+* note 1
+* note 2
+* note 3
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.
