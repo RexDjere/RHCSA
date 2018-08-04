@@ -5,7 +5,7 @@ Creation-Date: 2018-07-10T22:46:12-04:00
 ====== text files - view ======
 Created Tuesday 10 July 2018
 
-[[files]]
+[[objectives:001 - understand and use essential tools:files]]
 
 text files - view
 * [[cat]]

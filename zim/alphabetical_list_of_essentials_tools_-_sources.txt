@@ -5,8 +5,8 @@ Creation-Date: 2018-07-31T02:54:45-04:00
 ====== alphabetical list of essentials tools - sources ======
 Created Tuesday 31 July 2018
 
-[[alphabetical list of essential tools]]
-[[TODO LIST]]
+alphabetical list of essential tools
+TODO LIST
 
 **Summary**
 This is a list of sources that I used to come up with the alphabetical list of essential tools.

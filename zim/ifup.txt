@@ -6,4 +6,4 @@ Creation-Date: 2018-07-31T03:01:07-04:00
 Created Tuesday 31 July 2018
 
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools

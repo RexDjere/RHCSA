@@ -6,8 +6,8 @@ Creation-Date: 2018-08-02T20:00:32-04:00
 Created Thursday 02 August 2018
 
 [[Home]]
-[[generic template]]
-[[all templates]]
+generic template
+[[Home:all templates]]
 relevant backlink 1
 relevant backlink 2
 

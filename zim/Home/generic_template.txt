@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T21:29:11-04:00
+
+====== generic template ======
+Created Thursday 02 August 2018
+
+generic template version: Thursday 31 2018 09:48:00 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:generic template]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+relevant backlink 1
+relevant backlink 2
+
+**KYWRD:** type the kywrd here.
+
+**Summary**
+This page is a template used to create wiki generic pages in this study guide. Please follow these steps when creating a page using this template:
+1. Find and Replace any occurence of KEYWORD in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+
+**KEYWORD:**
+* KEYWORD - function: State the main function of the topic here.
+* KEYWORD - description: Provide a more detail description here.
+* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[options template]]]
+* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template: [[examples template]]]
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD notes**
+* note 1
+* note 2
+* note 3
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.

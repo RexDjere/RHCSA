@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T18:32:49-04:00
 ====== 002 - right branches ======
 Created Wednesday 11 July 2018
 
-[[002 - operate running systems]]
+[[objectives:002 - operate running systems]]
 
 002 - right branches
 * [[Boot, reboot, and shut down a system normally]]

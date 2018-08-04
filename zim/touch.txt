@@ -5,10 +5,10 @@ Creation-Date: 2018-07-10T22:45:45-04:00
 ====== touch ======
 Created Tuesday 10 July 2018
 
-[[files]]
-[[tasks]]
+[[objectives:001 - understand and use essential tools:files]]
+[[Home:RHCSA:tasks]]
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools
 
 **Summary**
 The primary function of the touch command is to allow users to update the access time/modification time of files or directories.  A secondary function of touch is to allow user to create new empty files.

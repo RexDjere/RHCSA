@@ -6,7 +6,7 @@ Creation-Date: 2018-07-31T02:45:15-04:00
 Created Tuesday 31 July 2018
 
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools
 
 **Summary**
 Write a good summary of the task that provides a good high level view of what the task is designed to do.

@@ -6,8 +6,8 @@ Creation-Date: 2018-07-31T05:46:13-04:00
 Created Tuesday 31 July 2018
 
 tasks template
-[[alphabetical list of essential tools]]
-[[TODO LIST]]
+alphabetical list of essential tools
+TODO LIST
 
 **Summary**
 addr2line is a computer programming tool that is part of the GNU Binary Utilities suite, also called binutils. It is used to convert addresses into file names and line numbers.

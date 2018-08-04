@@ -5,7 +5,7 @@ Creation-Date: 2018-07-23T00:45:53-04:00
 ====== useful utilities for the RHCSA ======
 Created Monday 23 July 2018
 
-[[002 - operate running systems]]
+[[objectives:002 - operate running systems]]
 
 Utilities
 * [[formatting USB drives]]

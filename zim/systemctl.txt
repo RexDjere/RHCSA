@@ -7,7 +7,7 @@ Created Thursday 19 July 2018
 
 [[systemd]]
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools
 
 **Summary**
 systemctl is used to start, stop and view the status of systemd processes. To see which version of systemd is installed on your system, run this command:

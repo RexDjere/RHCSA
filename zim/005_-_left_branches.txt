@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:01:02-04:00
 ====== 005 - left branches ======
 Created Monday 16 July 2018
 
-[[005 - deploy, configure, and maintain systems]]
+[[objectives:005 - deploy, configure, and maintain systems]]
 
 005 - right branches
 * [[Configure network services to start automatically at boot]]

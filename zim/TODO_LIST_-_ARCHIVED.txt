@@ -6,13 +6,13 @@ Creation-Date: 2018-07-31T17:18:23-04:00
 Created Tuesday 31 July 2018
 
 [[Home]]
-[[TODO LIST]]
+TODO LIST
 
 **Summary**
 This TODO list archive helps me keep track of what TODO tasks were completed in the past.
 
 TODO LIST
-* Add option descriptions to [[df - options]] .
+* Add option descriptions to [[df:df - options]] .
 * ~~Add KVM article and link to KVM article in Install Red Hat Enterprise Linux systems as virtual guests . (started working on this 7/31/18)(completed 7/31/18)~~
-* add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf to [[alphabetical list of essential tools]]
+* add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf to alphabetical list of essential tools
 * [[addr2line]] and [[adduser]] articles need to be beefed up a lot more.

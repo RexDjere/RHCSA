@@ -5,7 +5,7 @@ Creation-Date: 2018-07-30T21:25:03-04:00
 ====== GB ======
 Created Monday 30 July 2018
 
-[[df - example 1]]
+[[df:df - examples:df - example 1]]
 
 **Summary**
 See [[gigabyte]].

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:32:19-04:00
+
+====== exam ======
+Created Tuesday 10 July 2018
+
+[[Home]]
+[[Home:generic template]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[Home:RHCSA]]
+
+**Summary**
+RHCSA stands for Red Hat Certified System Administrator. The RHCSA exam is a hands on performanced-based exam that the prospective RHCSA must pass to become certified.
+
+exam
+* [[name]]
+* [[duration]] 
+* [[cost]]
+* [[objectives]]

@@ -5,4 +5,4 @@ Creation-Date: 2018-07-10T23:16:56-04:00
 ====== centralized directory for authentication ======
 Created Tuesday 10 July 2018
 
-[[006 - manage users and groups]]
+[[objectives:006 - manage users and groups]]

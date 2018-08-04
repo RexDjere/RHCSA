@@ -7,8 +7,8 @@ Created Tuesday 10 July 2018
 
 [[users]]
 tasks template
-[[alphabetical list of essential tools]]
-[[TODO LIST]]
+alphabetical list of essential tools
+TODO LIST
 
 **Summary**
 adduser is used to create a new user account, and to modify user account settings during the creation process.  The [[adduser]] and [[useradd]] commands are interchangeable.

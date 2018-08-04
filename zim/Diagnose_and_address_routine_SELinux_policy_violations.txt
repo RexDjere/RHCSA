@@ -5,4 +5,4 @@ Creation-Date: 2018-07-16T12:14:37-04:00
 ====== Diagnose and address routine SELinux policy violations ======
 Created Monday 16 July 2018
 
-[[007 - right branches]]
+[[objectives:007 - manage security:007 - right branches]]

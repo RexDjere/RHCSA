@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:07:36-04:00
 ====== 006 - right branches ======
 Created Monday 16 July 2018
 
-[[006 - manage users and groups]]
+[[objectives:006 - manage users and groups]]
 
 006 - right branches
 * [[Create, delete, and modify local groups and group memberships]]

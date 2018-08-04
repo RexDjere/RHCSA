@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:32:15-04:00
+
+====== tasks ======
+Created Tuesday 10 July 2018
+
+[[Home]]
+generic template
+[[Home:all templates]]
+[[RHCSA]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
+
+**KYWRD:** tasks
+
+**Summary**
+The purpose of this page is to link to the tasks that the RHCSA should master to pass the certification exam.
+
+**tasks:**
+* tasks - function: N/A
+* tasks - description: N/A
+* tasks - options-flags N/A
+* tasks - examples N/A
+
+**Relevant tasks links:**
+* [[objectives:001 - understand and use essential tools]]
+* [[objectives:002 - operate running systems]]
+* [[objectives:003 - configure local storage]]
+* [[objectives:004 - create and configure file systems]]
+* [[objectives:005 - deploy, configure, and maintain systems]]
+* [[objectives:006 - manage users and groups]]
+* [[objectives:007 - manage security]]
+
+**Relevant tasks notes**
+* N/A
+
+**Relevant tasks Screenshots**
+N/A
+

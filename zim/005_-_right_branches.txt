@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:00:57-04:00
 ====== 005 - right branches ======
 Created Monday 16 July 2018
 
-[[005 - deploy, configure, and maintain systems]]
+[[objectives:005 - deploy, configure, and maintain systems]]
 
 005 - left branches
 * [[Configure networking and hostname resolution statically or dynamically]]

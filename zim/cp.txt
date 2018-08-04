@@ -5,11 +5,11 @@ Creation-Date: 2018-07-10T22:45:48-04:00
 ====== cp ======
 Created Tuesday 10 July 2018
 
-[[files]]
-[[directories]]
-[[tasks]]
+[[objectives:001 - understand and use essential tools:files]]
+[[objectives:001 - understand and use essential tools:directories]]
+[[Home:RHCSA:tasks]]
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools
 
 **Summary**
 The cp cp is used to copy files and directories.

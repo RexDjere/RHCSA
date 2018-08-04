@@ -7,7 +7,7 @@ Created Tuesday 10 July 2018
 
 command-line environments
 tasks template
-[[alphabetical list of essential tools]]
+alphabetical list of essential tools
 
 groups
 * [[addgroup]]

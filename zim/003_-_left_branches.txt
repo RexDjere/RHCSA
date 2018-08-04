@@ -5,7 +5,7 @@ Creation-Date: 2018-07-13T13:14:40-04:00
 ====== 003 - left branches ======
 Created Friday 13 July 2018
 
-[[003 - configure local storage]]
+[[objectives:003 - configure local storage]]
 
 003 - left branches
 * [[Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]

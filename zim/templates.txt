@@ -11,6 +11,6 @@ Created Wednesday 01 August 2018
 These templates make creating different kinds of pages in this study guide much easier.
 
 templates:
-* [[generic template]]
+* generic template
 
 

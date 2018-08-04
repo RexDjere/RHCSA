@@ -6,10 +6,10 @@ Creation-Date: 2018-07-16T18:24:00-04:00
 Created Monday 16 July 2018
 
 [[Home]]
-[[generic template]]
-[[all templates]]
-[[TODO LIST]]
-[[tasks]]
+generic template
+[[Home:all templates]]
+TODO LIST
+[[Home:RHCSA:tasks]]
 
 **Summary** 
 Red Hat Corporation is an open source technology company headquartered in Raleigh, North Carolina.  Their flagship product is [[Red Hat Enterprise Linux]], a commercial Linux distribution aimed at enterprise customers. 

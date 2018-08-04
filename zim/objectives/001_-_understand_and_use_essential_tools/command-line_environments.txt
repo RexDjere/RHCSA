@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T22:08:18-04:00
+
+====== command-line environments ======
+Created Thursday 02 August 2018
+
+
+test
