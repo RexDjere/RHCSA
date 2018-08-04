@@ -20,7 +20,7 @@ relevant backlink 2
 A console is a test based window or terminal that sends and receives message with the Linux kernel. In this article, we will walk through some examples of working with a virtual machine's console.
 
 **console - examples:**
-* console - example 1 : 
+* [[console - example 1]] : I installed [[CentOS]] on  KVM as a minimal install with networking disabled. In example 1, I will show you how I check the network service status.
 * console - example 2 :
 * console - exampl3 3 :
 

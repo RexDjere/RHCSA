@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-03T23:13:06-04:00
+
+====== console - example 1 ======
+Created Friday 03 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[console - examples]]
+
+**KYWRD:** console
+
+**Summary**
+In console - example 1, we will see how we can view the network service status on a newly created virtual machine.
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+* Step 1: we will boot into our virtual machine, and login.
+* Step 2: we will use systemctl to view the status of network services: __systemctl status network__
+* Step 3: step 2 shows us that we have an active network service running. Now let's see if can view our network adapters. To do so, we will use this command: __lspci | egreg -i --color 'network|ethernet'__
+* Step 4: I installed a minimal iso install of [[CentOS,]] so many utilities are not installed. lspci is part of the pciutils package. Since lspci is not installed, I'll try to install it with this command: su -c "yum install pciutils"
+* Step 5: step 4 basically told me that the network adapter cannot connect to the Internet, so though my network service is active, either I don't have a network connection device setup, or the one setup cannot connect to the Internet. How will I test what's going on? Using the [[ping]] command.
+* Step 6: [[ping]] tests the capability of a source computer to reach a destination computer through a pinnetwork. I will have the virtual machine ping itself: __ping localhost__
+* Step 7: ping works. Some kind of network adapter is active, but it cannot connect to the Internet. Next I'll try to find out details about the network adapter using this command: __ip link show__
+* Step 8: now we are getting somewhere. __ip link show__ showed that I have the network interfaces available: lo and eth0. In example 2, I will try to dicover how I can activate eth0 so that it can connect to the Internet by connecting to the network adapter on the host Fedora machine.
+
+**Relevant console Screenshots**
+Step 1
+{{./pasted_image.png}}
+Step 2
+{{./pasted_image001.png}}
+Step 3
+{{./pasted_image002.png}}
+Step 4
+{{./pasted_image003.png}}
+Step 6
+{{./pasted_image004.png}}
