@@ -6,7 +6,6 @@ Creation-Date: 2018-08-02T19:55:07-04:00
 Created Thursday 02 August 2018
 
 [[Home]]
-[[generic template]]
 [[all templates]]
 relevant backlink 1
 relevant backlink 2
@@ -23,9 +22,10 @@ This page contains links to all of the templates available for use in this study
 * templates - examples N/A
 
 **Relevant templates links:**
-* generic template
-* [[options template]]
-* [[examples template]]
+* [[+generic template]]
+* [[+options template]]
+* [[+examples homepage template]]
+* [[+examples homepage template:examples template]]
 
 **Relevant templates notes**
 * N/A

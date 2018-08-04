@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-03T22:41:23-04:00
+
+====== console - examples ======
+Created Friday 03 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+relevant backlink 1
+relevant backlink 2
+
+**KYWRD:** console
+
+**Summary**
+A console is a test based window or terminal that sends and receives message with the Linux kernel. In this article, we will walk through some examples of working with a virtual machine's console.
+
+**console - examples:**
+* console - example 1 : 
+* console - example 2 :
+* console - exampl3 3 :
+
+**Relevant console Screenshots**
+Paste any relevant screenshots here.

@@ -6,7 +6,6 @@ Creation-Date: 2018-07-10T22:28:27-04:00
 Created Tuesday 10 July 2018
 
 [[Home]]
-[[+generic template]]
 [[+all templates]]
 [[+TODO LIST]]
 [[+RHCSA]]

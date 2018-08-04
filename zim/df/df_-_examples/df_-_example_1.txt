@@ -9,7 +9,7 @@ Created Monday 30 July 2018
 
 **Summary**
 In df - example 1, we will display the size of our mounted filesystems in units of 1K-blocks (the default), and in 1GB-blocks using the [[df]] command.
-* We will use the df command with no options to display sizes in [[1K-blocks]].
+* We will use the df command with no options to display sizes in [[+1K-blocks]].
 * We will use the df -BG command to display sizes in [[+1G-blocks]]. df -BG tells df to use a blocksize unit of 1 GB (1 [[GiB]] of storage capacity).
 
 By default, the [[df]] command displays filesystem size information in units of 1K-blocks.
