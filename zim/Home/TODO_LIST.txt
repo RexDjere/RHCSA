@@ -16,3 +16,5 @@ TODO LIST
 * add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf to [[RHCSA:alphabetical list of essential tools]]
 * [[addr2line]] and [[adduser]] articles need to be beefed up a lot more.
 * Standardize every page in the wiki to that it complies with its appropriate template.
+* Read https://www.linux-kvm.org/page/HOWTO_BONDING
+* Read http://www.linux-kvm.org/page/Networking
