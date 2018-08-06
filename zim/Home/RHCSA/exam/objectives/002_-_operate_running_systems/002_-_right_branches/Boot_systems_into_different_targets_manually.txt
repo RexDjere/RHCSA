@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T17:01:37-04:00
+
+====== Boot systems into different targets manually ======
+Created Monday 06 August 2018
+
+jjj

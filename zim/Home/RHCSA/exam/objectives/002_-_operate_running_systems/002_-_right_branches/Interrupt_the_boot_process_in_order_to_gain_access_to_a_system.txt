@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T17:03:29-04:00
+
+====== Interrupt the boot process in order to gain access to a system ======
+Created Monday 06 August 2018
+
+jjjj

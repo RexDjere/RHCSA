@@ -5,7 +5,7 @@ Creation-Date: 2018-07-17T21:22:00-04:00
 ====== boot ======
 Created Tuesday 17 July 2018
 
-[[Boot, reboot, and shut down a system normally]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally]]
 
 The boot process is the process of starting up the computer.  On modern Linux systems, the boot process in one of two ways:
 * [[BIOS-MBR - legacy boot process]]

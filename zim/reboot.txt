@@ -5,6 +5,6 @@ Creation-Date: 2018-07-17T21:22:02-04:00
 ====== reboot ======
 Created Tuesday 17 July 2018
 
-[[Boot, reboot, and shut down a system normally]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally]]
 tasks template
 alphabetical list of essential tools

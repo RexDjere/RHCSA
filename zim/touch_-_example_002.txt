@@ -24,7 +24,7 @@ The touch -t flag allows you to explicity set the timestamp on a file .  The sys
 In example 2, we will create a new file, view its timestamp information, and then change the timestamp to a different time.
 
 Tasks
-* We have already learned how to create a new empty file using [[touch]] in [[touch - example 001]] .
+* We have already learned how to create a new empty file using [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] in [[touch - example 001]] .
 * We will navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex002]]
 * We will create a new empty file called timestamp_example.txt
 * We will view the new file's timestamp using the [[stat]] command.

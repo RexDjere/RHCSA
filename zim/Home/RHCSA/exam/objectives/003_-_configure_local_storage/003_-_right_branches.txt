@@ -8,5 +8,5 @@ Created Friday 13 July 2018
 [[objectives:003 - configure local storage]]
 
 003 - right branches
-* [[List, create, delete partitions on MBR and GPT disks]]
-* [[Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes]]
+* [[+List, create, delete partitions on MBR and GPT disks]]
+* [[+Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes]]

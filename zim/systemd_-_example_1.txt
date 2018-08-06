@@ -12,7 +12,7 @@ In systemd - example 1, we will use systemd's systemctl utility to enable the Ap
 
 Tasks
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/systemd/systemd_ex001]]
-* Run [[ls]]
+* Run [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls]]
 * You will notice our simple example web page: systemd_ex001.html
 * Start the Apache Web Server (httpd) with the [[systemctl]] command: 
 	* systemctl start httpd.service (you will be prompted for the admin password => enter it)

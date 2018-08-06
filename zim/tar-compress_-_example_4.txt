@@ -9,11 +9,11 @@ Created Thursday 12 July 2018
 examples template
 
 **Summary**
-In the first 3 tar-compress examples, we did not use [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:bzip2]] compression. In example 4, we will use the -j flag on the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] command to ensure that the file is compressed using bzip2.
+In the first 3 tar-compress examples, we did not use [[Home:RHCSA:alphabetical list of essential tools:B:bzip2]] compression. In example 4, we will use the -j flag on the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] command to ensure that the file is compressed using bzip2.
 
 Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex004]]
-* Create a new file called myfile using the [[touch]] command.
+* Create a new file called myfile using the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] command.
 * Verbosely compress myfile to myfile.tbz using the appropriate [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] command.
 
 {{./pasted_image.png}}

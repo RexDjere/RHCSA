@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:29:27-04:00
+
+====== legacy boot process - stage 3 - GRUB ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]
+[[:BIOS-MBR - legacy boot process:legacy boot process - stage 3 - GRUB]]
+
+**Summary**
+[[GRUB]] stands for GRand Unified Bootloader. Its job is to load the operating system kernel into memory, and to then tranfer control to the kernel so that the boot process can be completed. Initializing GRUB is the 3rd stage of the overall boot process, but GRUB itself has three internal stages:
+* [[GRUB Stage 1]]
+* [[GRUB Stage 1.5]]
+* [[GRUB Stage 2]]
+
+More information about GRUB can be found here: 
+https://linoxide.com/booting/boot-process-of-linux-in-detail/

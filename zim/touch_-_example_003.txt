@@ -7,7 +7,7 @@ Created Friday 13 July 2018
 
 [[touch - examples]]
 
-[[regular expressions|Regular expressions]] can be very helpful in shortening commands.  A regular expression is a string of text that indicates a pattern.  You can create multiple [[touch]] files by typing out the name of each empty file to be created:
+[[regular expressions|Regular expressions]] can be very helpful in shortening commands.  A regular expression is a string of text that indicates a pattern.  You can create multiple [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] files by typing out the name of each empty file to be created:
 * touch myfile 1 myfile2 myfile3 myfile4 myfile5
 
 What if I had to create 10,000 files with a similar name? There must be a more concise way of creating a large number of files with a similar name. This is where regular expressions come in. In example 003, we are going to create ten files with very similar names with a very short touch command.
@@ -15,6 +15,6 @@ What if I had to create 10,000 files with a similar name? There must be a more c
 Tasks
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex003]]
 * Create ten empty files (myfile1 - myfile10) using the shortest possible touch command.
-* Use [[ls]] to view the newly created files.
+* Use [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls]] to view the newly created files.
 
 {{./pasted_image.png}}

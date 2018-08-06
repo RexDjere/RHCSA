@@ -5,11 +5,11 @@ Creation-Date: 2018-07-22T22:33:18-04:00
 ====== Abraham Lempel ======
 Created Sunday 22 July 2018
 
-[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip]]
+[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip|gzip]]
 article template
 
 **Summary**
-Co-creator of the [[Lempel-Ziv coding]] ([[LZ77]]), lossless compression algorithm used in [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip]].
+Co-creator of the [[Lempel-Ziv coding]] ([[LZ77]]), lossless compression algorithm used in [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip|gzip]].
 
 Links to more information on Abraham Lempel are here:
 * https://en.wikipedia.org/wiki/Abraham_Lempel

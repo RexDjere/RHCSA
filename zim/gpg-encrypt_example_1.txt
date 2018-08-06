@@ -9,7 +9,7 @@ Created Wednesday 11 July 2018
 
 Tasks
 * Goto directory [[~/Sync/PROJECTS/RHCSA/examples/gpg/gpg-encrypt_ex001|Sync/PROJECTS/RHCSA/examples/gpg/gpg-encrypt_ex001]]
-* Create a new empty file called myfile using the [[touch]] command.
+* Create a new empty file called myfile using the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] command.
 * Encrypt myfile using the [[gpg]] command (we will use this as the password: 123456mypassword )
 * Upon completion, you should see a new encypted file, myfile.gpg, as shown below.
 

@@ -16,7 +16,7 @@ generic template version: Friday 31 2018 09:50:26 PM
 **KYWRD:** text filles
 
 **Summary**
-In the Linux command line, the [[vi]] utility is generally used to create and edit text files. The [[touch]] command can be used to create empty text files.
+In the Linux command line, the [[vi]] utility is generally used to create and edit text files. The [[files:touch]] command can be used to create empty text files.
 
 **text files:**
 * text files - function: Text files are used to store Linux configuration information, so the Red Hat Certified System Administrator must be an expert on working with text files from the command line.

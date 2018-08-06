@@ -5,21 +5,42 @@ Creation-Date: 2018-07-11T10:49:34-04:00
 ====== gzip ======
 Created Wednesday 11 July 2018
 
-[[:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
-tasks template
-alphabetical list of essential tools
+generic template version: Friday 31 2018 09:50:26 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+[[G]]
+
+**KYWRD:** gzip
 
 **Summary**
-gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] command. See [[tar-compress - example 1]] for more details.
+gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-c`ompress - example 1]] for more details.
 
-gzip:
-* [[+gzip-function]]
-* [[+gzip-description]]
-* [[+gzip-examples]]
+**gzip:**
+* gzip - function: gzip, gunzip, zcat − compress or expand files using [[Lempel-Ziv coding]].
+* gzip - description: gzip compresses named files using the [[Lempel-Ziv coding]] scheme. The associated file extension is .gz. gzip decompresses as follows: gzip -d.
+* gzip - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gzip options page using this template: [[all templates:options template]]]
+* [[+gzip-examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gzip examples page using this template: [[all templates:examples homepage template]]]
 * [[+gzip-compress]]
 * [[+gzip-unpack]]
 * [[+gzip-uncompress]]
 
-gzip [[binary location]]: [[/usr/bin/gzip]]
-gzip [[man location]]: gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz
+gzip [[man location]]: 
 
+**Relevant gzip links:**
+* N/A
+
+**Relevant gzip notes**
+* N/A
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* [[binary location]]: gzip: [[/usr/bin/gzip]]
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* [[man location]] 1: gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz
+
+**Relevant gzip Screenshots**
+Paste any relevant screenshots here.

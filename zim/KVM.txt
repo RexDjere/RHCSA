@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T16:19:11-04:00
 ====== KVM ======
 Created Tuesday 31 July 2018
 
-[[virtual machine]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:virtual machine]]
 
 **Summary**
-KVM stands for [[Kernel-based Virtual Machine]]. It is an [[open source]] / [[free software]] program that allows a host computer system to operate [[virtual machine|virtual machines]] running on guest operating systems.  For example, KVM would allow one to run [[CentOS]] on a virtual machine hosted on a physical computer running the [[Fedora]] operating system.
+KVM stands for [[Kernel-based Virtual Machine]]. It is an [[open source]] / [[free software]] program that allows a host computer system to operate [[Home:RHCSA:exam:objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:virtual machine|virtual machines]] running on guest operating systems.  For example, KVM would allow one to run [[CentOS]] on a virtual machine hosted on a physical computer running the [[Fedora]] operating system.
 
 More information on KVM can be found here:
 * https://www.linux-kvm.org/page/Main_Page

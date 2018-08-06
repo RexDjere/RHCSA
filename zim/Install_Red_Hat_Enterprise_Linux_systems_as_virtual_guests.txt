@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:03:45-04:00
 ====== Install Red Hat Enterprise Linux systems as virtual guests ======
 Created Monday 16 July 2018
 
-[[005 - right branches]]
+[[Home:RHCSA:exam:objectives:005 - deploy, configure, and maintain systems:005 - right branches]]
 [[KVM]]
 
 **Summary**

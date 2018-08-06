@@ -14,7 +14,7 @@ The systemd target files are kept in [[/lib/systemd/system]] directory. There ar
 
 The 8 main .target files can be seen as follows:
 * [[cd]] [[/lib/systemd/system]]
-* [[ls]] run*.target emerg*.target
+* [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls]] run*.target emerg*.target
 * The results are show in **Figure 1** below:
 
 **Figure 1 - the eight main systemd target files**

@@ -11,4 +11,4 @@ directories
 * [[pwd]]
 * [[cd]]
 * [[mkdir]]
-* [[cp]]
+* [[files:cp]]

@@ -9,7 +9,7 @@ Created Wednesday 11 July 2018
 tasks template
 alphabetical list of essential tools
 
-The gpg command allows to encrypt, decypt, and digitally sign files, folders, and messages. The gpg command runs GNU Privacy Guard (GnuPG), a free software implementation of the [[OpenPGP]] standard.
+The gpg command allows to encrypt, decypt, and digitally sign files, folders, and messages. The gpg command runs GNU Privacy Guard (GnuPG), a free software implementation of the [[+OpenPGP]] standard.
 
 One of the most commonly used gpg flags is -c.  This option encrypts with a symmetric cipher using a passphrase.  For example, the command below would encrypt the file name myfile
 

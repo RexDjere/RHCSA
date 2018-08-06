@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T17:14:25-04:00
+
+====== Locate and interpret system log files and journals ======
+Created Monday 06 August 2018
+
+jjjj

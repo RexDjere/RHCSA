@@ -10,8 +10,8 @@ Created Tuesday 10 July 2018
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 005.mm]]
 
 005 - deploy, configure, and maintain systems
-* [[005 - left branches]]
-* [[005 - right branches]]
-* [[software installation]]
-* [[software update]]
-* [[core services]]
+* [[+005 - left branches]]
+* [[+005 - right branches]]
+* [[+software installation]]
+* [[+software update]]
+* [[+core services]]

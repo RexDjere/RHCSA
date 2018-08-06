@@ -5,7 +5,29 @@ Creation-Date: 2018-07-14T14:23:34-04:00
 ====== gzip-compress ======
 Created Saturday 14 July 2018
 
-:Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip:gzip
+examples homepage template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
 
-gzip-compress examples
-* [[+gzip-compress example 1]]
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[gzip]]
+
+**KYWRD: gzip-compress**
+
+**Summary**
+This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:
+1. Find and Replace any occurence of gzip-compress in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**gzip-compress - examples:**
+* [[+gzip-compress - example 1]] : compress files in a directory using the gzip -r command.
+* [[+gzip-compress - example 2]] : compressing a single file using gzip.
+* [[+gzip-compress - example 3]] : briefly describe example 3.
+
+**Relevant gzip-compress Screenshots**
+N/A.
+
+
+

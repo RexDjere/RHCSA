@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-12T13:45:06-04:00
+
+====== bzip2-description ======
+Created Thursday 12 July 2018
+
+[[bzip2]]
+
+bzip2- compresses or decompresses single files
+* free software/open source file compression program
+* uses [[Burrows-Wheeler algorithm]]
+* cannot combine multiple files into a single archive
+* only used to compress single files
+* to compress an archive of mulitple files, you would first have to compress the files in a single archive using a different compression algorithm first.  Then this single archive file could be further compressed using bzip2.

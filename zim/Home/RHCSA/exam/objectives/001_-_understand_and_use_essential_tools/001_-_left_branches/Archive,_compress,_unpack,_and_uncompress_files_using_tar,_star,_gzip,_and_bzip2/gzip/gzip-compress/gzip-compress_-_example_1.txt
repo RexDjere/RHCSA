@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-22T23:10:48-04:00
+
+====== gzip-compress - example 1 ======
+Created Sunday 22 July 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[gzip-compress]]
+
+**KYWRD:** gzip
+
+**Summary**
+gzip can only compress one file at a time.  You can compress multiple files like this:
+* gzip filename1 filename2 ...filenameZ
+* gzip -r directory-name
+
+**gzip - tasks **(command line commands are __highlighted__)**:**
+1. Navigate to [[~/Sync/PROJECTS/RHCSA/examples/gzip/gzip-compress_ex001]]
+2. Create a new directory called my_libreoffice_files: __mkdir my_libreoffice_files__
+3. [[cd]] to my_libreoffice_files and create myodt.1.odt through myodt.8.odt => __touch myodt.{1..8}.odt__
+4. Move up one level (__cd ..__), and compress all of the .odt files using this command: __gzip -r my_libreoffice_files__
+5. Note that myodt.1.odt.gz through myodt.8.odt.gz are created inside my_libreoffice_files
+6. Note that the compressed version of the files replaces the original versions.
+
+In bullet 3 above, [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip|gzip]] will compress all of the files in the directory directory-name.  For example, if directory-name contains myfile.1.odt, myfile2.odt and myfile3.odt, gzip -r directory-name will result in directory name containing myfile.1.odt.gz, myfile.2.odt.gz and myfile.3.odt.gz.  Let us see this in action.
+
+**Relevant gzip Screenshots**
+
+{{./pasted_image.png}}
+
+If you want to include more than one file in a gzip archive, you have to roll the files up into a single tarfile.  In gzip-compress example  2, we will first create a set of .odt documents.  We will then roll them up into a .tar archive. Then we will use gzip to compress that tarfile.

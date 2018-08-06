@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T00:24:48-04:00
 ====== tty - examples ======
 Created Wednesday 11 July 2018
 
-[[tty]]
+[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:tty]]
 
 It has the following flags:
 * -s, --silent, --quiet

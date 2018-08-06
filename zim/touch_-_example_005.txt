@@ -9,7 +9,7 @@ Created Sunday 15 July 2018
 
 In touch - example 005, we will see how the touch -a command can be used to change the access time and change time of files and folers to the current time
 
-While [[touch]] allows you to modify the three file/folder times below, [[stat]] lets you view them:
+While [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] allows you to modify the three file/folder times below, [[stat]] lets you view them:
 1. access time
 2. modify time
 3. change time

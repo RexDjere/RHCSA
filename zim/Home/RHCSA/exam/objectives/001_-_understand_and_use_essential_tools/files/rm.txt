@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:45:56-04:00
+
+====== rm ======
+Created Tuesday 10 July 2018
+
+[[files]]
+tasks template
+alphabetical list of essential tools

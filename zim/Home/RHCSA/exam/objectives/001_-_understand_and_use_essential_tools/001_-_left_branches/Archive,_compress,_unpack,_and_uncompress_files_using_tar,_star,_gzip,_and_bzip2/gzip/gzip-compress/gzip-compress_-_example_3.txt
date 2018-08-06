@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T16:38:23-04:00
+
+====== gzip-compress - example 3 ======
+Created Monday 06 August 2018
+
+ddddd

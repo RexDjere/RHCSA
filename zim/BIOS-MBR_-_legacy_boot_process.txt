@@ -17,9 +17,9 @@ The BIOS-MBR - legacy boot process is composed of the following steps:
 
 
 In Linux, the legacy boot process generally has 6 stages:
-* [[legacy boot process - stage 1 - BIOS]]
-* [[legacy boot process - stage 2 - MBR]]
-* [[legacy boot process - stage 3 - GRUB]]
-* [[legacy boot process - stage 4 - Kernel]]
-* [[legacy boot process - stage 5 - Init]]
-* [[legacy boot process - stage 6 - Runlevel]]
+* [[+legacy boot process - stage 1 - BIOS]]
+* [[+legacy boot process - stage 2 - MBR]]
+* [[+legacy boot process - stage 3 - GRUB]]
+* [[+legacy boot process - stage 4 - Kernel]]
+* [[+legacy boot process - stage 5 - Init]]
+* [[+legacy boot process - stage 6 - Runlevel]]

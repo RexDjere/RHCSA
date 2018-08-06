@@ -8,5 +8,5 @@ Created Friday 13 July 2018
 [[objectives:003 - configure local storage]]
 
 003 - left branches
-* [[Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]
-* [[Add new partitions and logical volumes, and swap to a system non-destructively]]
+* [[+Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]
+* [[+Add new partitions and logical volumes, and swap to a system non-destructively]]

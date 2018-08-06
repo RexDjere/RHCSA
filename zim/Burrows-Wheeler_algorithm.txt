@@ -5,7 +5,7 @@ Creation-Date: 2018-07-12T13:57:58-04:00
 ====== Burrows-Wheeler algorithm ======
 Created Thursday 12 July 2018
 
-[[bzip2-description]]
+[[Home:RHCSA:alphabetical list of essential tools:B:bzip2:bzip2-description]]
 
 Burrows-Wheeler algorithm
 * very good compression performance

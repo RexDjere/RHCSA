@@ -8,9 +8,9 @@ Created Sunday 15 July 2018
 [[touch - description]]
 
 touch -a deep dive
-The [[touch]] -a sets the access time and change time of a file or directory.  __Touch -a does NOT change the modify time.__  To change the modify time, the -m option must be invoked.
+The [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] -a sets the access time and change time of a file or directory.  __Touch -a does NOT change the modify time.__  To change the modify time, the -m option must be invoked.
 
-If the file does not currently exist, then the touch -a command will create it.  Two commands can be used closely together to see/modify time stats of a file or folder: [[touch]] and [[stat]].
+If the file does not currently exist, then the touch -a command will create it.  Two commands can be used closely together to see/modify time stats of a file or folder: [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] and [[stat]].
 
 While touch -a allows you to modify the access time and change time below, stat lets you view all three of them:
 1. access time
