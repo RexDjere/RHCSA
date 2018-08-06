@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T10:40:05-04:00
 ====== 001 - understand and use essential tools ======
 Created Wednesday 11 July 2018
 
-[[:objectives:objectives]]
+[[objectives]]
 [[Home:RHCSA:tasks]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 001.mm]]
 

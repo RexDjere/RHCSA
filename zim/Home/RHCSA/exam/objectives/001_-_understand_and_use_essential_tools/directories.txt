@@ -5,7 +5,7 @@ Creation-Date: 2018-07-10T22:42:54-04:00
 ====== directories ======
 Created Tuesday 10 July 2018
 
-[[:objectives:001 - understand and use essential tools:001 - understand and use essential tools]]
+[[001 - understand and use essential tools]]
 
 directories
 * [[pwd]]
