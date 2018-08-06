@@ -14,7 +14,7 @@ This TODO list helps me to keep track of items that I decided to leave for later
 TODO LIST
 * Add option descriptions to [[df:df - options]] .
 * add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf to [[RHCSA:alphabetical list of essential tools]]
-* [[addr2line]] and [[adduser]] articles need to be beefed up a lot more.
+* [[RHCSA:alphabetical list of essential tools:A:addr2line]] and [[RHCSA:alphabetical list of essential tools:A:adduser]] articles need to be beefed up a lot more.
 * Standardize every page in the wiki to that it complies with its appropriate template.
 * Read https://ask.fedoraproject.org/en/question/9584/while-using-libvirt-how-can-i-use-a-location-other-than-varliblibvirtimages-to-store-my-images/
 * Add screenshot of VM ping failure to [[objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:console - examples:console - example 2]]

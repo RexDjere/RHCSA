@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T15:18:12-04:00
 ====== adduser - example 1 ======
 Created Tuesday 31 July 2018
 
-[[adduser - examples]]
+[[Home:RHCSA:alphabetical list of essential tools:A:adduser:adduser - examples]]
 
 **Summary**
-In [[adduser]] - example 1, we will add a new user called test_user to our [[CentOS]] virtual machine. We will also use the passwd command to create a password for test_user: this_is_not_a_strong_password_12345
+In [[Home:RHCSA:alphabetical list of essential tools:A:adduser]] - example 1, we will add a new user called test_user to our [[CentOS]] virtual machine. We will also use the passwd command to create a password for test_user: this_is_not_a_strong_password_12345
 
 Tasks:
 * Creating the test_user account.

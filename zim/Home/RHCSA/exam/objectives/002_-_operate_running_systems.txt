@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:40:56-04:00
+
+====== 002 - operate running systems ======
+Created Tuesday 10 July 2018
+
+[[Home:RHCSA:tasks]]
+[[:objectives:objectives]]
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 002.mm]]
+[[useful utilities for the RHCSA]]
+
+002 - operate running systems
+* [[+002 - left branches]]
+* [[+002 - right branches]]
+* [[+boot into different run levels]]
+* [[+identify users]]
+* [[+start and stop VMs]]
+* [[+control services]]

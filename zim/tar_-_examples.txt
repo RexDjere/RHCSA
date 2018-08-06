@@ -5,12 +5,12 @@ Creation-Date: 2018-07-11T18:06:38-04:00
 ====== tar - examples ======
 Created Wednesday 11 July 2018
 
-[[tar]]
+[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]]
 examples homepage template
 examples template
 
 **Summary**
-The links below are examples of the usage of the [[tar]] command.
+The links below are examples of the usage of the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] command.
 
 tar - examples:
 * [[tar-compress - examples]]

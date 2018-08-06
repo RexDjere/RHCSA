@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T05:46:13-04:00
+
+====== addr2line ======
+Created Tuesday 31 July 2018
+
+generic template version: Friday 31 2018 09:50:26 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[A]]
+
+**KYWRD:** addr2line
+
+**Summary**
+addr2line is a computer programming tool that is part of the GNU Binary Utilities suite, also called binutils. It is used to convert addresses into file names and line numbers.
+
+**addr2line:**
+* addr2line - function: addr2line is used to convert addresses into file names and line numbers.
+* addr2line - description: addr2line is a computer programming tool that is part of the GNU Binary Utilities suite, also called binutils. It is used to convert addresses into file names and line numbers.
+* [[+addr2line - options-flags]] 
+* [[+addr2line - examples]] 
+
+**Relevant addr2line links:**
+* http://man7.org/linux/man-pages/man1/addr2line.1.html
+
+**Relevant addr2line notes**
+* N/A
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* addr2line: /usr/bin/addr2line
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* addr2line: /usr/share/man/man1/addr2line.1.gz
+
+**Relevant addr2line Screenshots**
+Paste any relevant screenshots here.

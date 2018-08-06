@@ -5,7 +5,7 @@ Creation-Date: 2018-07-12T13:45:03-04:00
 ====== bzip2-function ======
 Created Thursday 12 July 2018
 
-[[bzip2]]
+[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:bzip2]]
 
 bzip2 - compresses or decompresses single files
 

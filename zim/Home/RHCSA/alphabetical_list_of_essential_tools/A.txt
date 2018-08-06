@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:51:55-04:00
+
+====== A ======
+Created Sunday 05 August 2018
+
+[[alphabetical list of essential tools]]
+
+**Summary**
+All utitlies starting with the letter A are sub-pages to this page.

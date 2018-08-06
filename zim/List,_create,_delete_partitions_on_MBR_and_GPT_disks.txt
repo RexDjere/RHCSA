@@ -5,4 +5,4 @@ Creation-Date: 2018-07-13T13:19:43-04:00
 ====== List, create, delete partitions on MBR and GPT disks ======
 Created Friday 13 July 2018
 
-[[003 - right branches]]
+[[objectives:003 - configure local storage:003 - right branches]]

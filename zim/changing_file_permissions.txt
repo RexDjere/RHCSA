@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T19:16:41-04:00
 ====== changing file permissions ======
 Created Wednesday 11 July 2018
 
-[[permissions]]
+[[Home:RHCSA:exam:objectives:004 - create and configure file systems:permissions]]
 
 changing file permissions with [[chmod]]
 * File permissions are also known as access modes.  

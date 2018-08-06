@@ -19,6 +19,6 @@ tasks template
 * [[cp - description]]
 * [[cp - examples]]
 
-cp [[executable location]]:
-cp [[man page locations]]:
+cp [[binary location]]:
+cp [[man location]]:
 

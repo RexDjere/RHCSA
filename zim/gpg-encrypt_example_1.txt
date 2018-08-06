@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T19:36:01-04:00
 ====== gpg-encrypt example 1 ======
 Created Wednesday 11 July 2018
 
-[[encryption]]
+[[Home:RHCSA:exam:objectives:004 - create and configure file systems:encryption]]
 
 Tasks
 * Goto directory [[~/Sync/PROJECTS/RHCSA/examples/gpg/gpg-encrypt_ex001|Sync/PROJECTS/RHCSA/examples/gpg/gpg-encrypt_ex001]]

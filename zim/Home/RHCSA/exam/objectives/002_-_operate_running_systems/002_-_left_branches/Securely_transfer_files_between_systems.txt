@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T18:35:11-04:00
+
+====== Securely transfer files between systems ======
+Created Wednesday 11 July 2018
+
+generic template version: Friday 31 2018 09:50:26 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[objectives:002 - operate running systems:002 - left branches]]
+
+**KYWRD:** file transfer
+
+**Summary**
+The most commonly used program for securely transferring files between Linux systems is [[scp.]]
+
+**file transfer:**
+* file transfer - function: File transfer utilities move files securely between Linux systems.
+* file transfer - description: There are many utilities that can be used to transfer files between Linux pcs. One of the most commonly used utilities to do this is [[scp]].
+* file transfer - options-flags N/A
+* [[file transfer - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the file transfer examples page using this template: [[Home:all templates:examples homepage template]]]
+
+**Relevant file transfer links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant file transfer notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* binary location 1
+* binary location 2
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* man location 1
+* man location 2
+
+**Relevant file transfer Screenshots**
+Paste any relevant screenshots here.

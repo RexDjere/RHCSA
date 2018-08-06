@@ -10,7 +10,7 @@ tasks template
 alphabetical list of essential tools
 
 users
-* [[adduser]]
+* [[Home:RHCSA:alphabetical list of essential tools:A:adduser]]
 * [[passwd]]
 * [[whoami]]
 * [[who]]

@@ -5,13 +5,13 @@ Creation-Date: 2018-07-14T21:14:39-04:00
 ====== star-compress - examples ======
 Created Saturday 14 July 2018
 
-[[star]]
+[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]]
 examples homepage template
 examples template
 [[star-examples]]
 
 **Summary**
-In general, the [[star]] command is used to compress files and folers into an archive using the -c option. 
+In general, the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]] command is used to compress files and folers into an archive using the -c option. 
 * The star -c command compresses the named files and/or directories in a tarfile.  The c in -c stands for create, as in create the tar archive.
 * When the command is invoved, the desired name of the tar archive is also given.  This done with the -f flag  or the -file flag
 * If the user wants detailed information as to what is going on during the compression, they can invoke the -v flag (v stands for verbose).

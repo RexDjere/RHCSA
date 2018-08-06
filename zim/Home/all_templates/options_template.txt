@@ -9,7 +9,6 @@ options template version: Friday 31 2018 09:56:05 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
 [[Home]]
-[[generic template]]
 [[Home:all templates]]
 [[Home:TODO LIST]]
 relevant backlink 1

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:49:37-04:00
+
+====== bzip2 ======
+Created Wednesday 11 July 2018
+
+[[:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+[[tar-compress - example 4]]
+tasks template
+alphabetical list of essential tools
+
+bzip2
+* [[bzip2-function]]
+* [[bzip2-description]]
+* [[bzip2-examples]]
+* [[bzip2-compress]]
+* [[bzip2-unpack]]
+* [[bzip2-uncompress]]

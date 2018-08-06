@@ -15,7 +15,7 @@ Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001a]]
 * Create 15 empty files using the touch commmand: climate_assessment.001.data though climate_assessment015.data : 
 	* __touch climate_assessment.{001..015}.data__
-* Roll up all 15 files into a tar archive named climate_assessments.tar with the [[star]] command: 
+* Roll up all 15 files into a tar archive named climate_assessments.tar with the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]] command: 
 	* __star -cv -f=climate_assessments.tar climate_assessment.{001..015}.data__
 * Verify that the tar archive actually contains all 15 files:
 	* Go up 1 level using the [[cd]] command: //cd ..//

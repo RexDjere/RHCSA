@@ -14,7 +14,7 @@ star-options
 	* verbosity can be increased by adding the -v (verbose) option
 	* [[star -c deep dive]]
 * -v
-	* tell [[star]] to operate in verbose mode
+	* tell [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]] to operate in verbose mode
 * -f=filename or -file=filename
 	* tells star the desired filename of the tarfile that it is going to create
 

@@ -9,7 +9,7 @@ Created Monday 16 July 2018
 examples template
 
 **Summary**
-When the [[star]] utility is used to compress files or folders into an archive, the [[extended attributes]] are not retained by default.  
+When the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]] utility is used to compress files or folders into an archive, the [[extended attributes]] are not retained by default.  
 
 The [[extended attributes]] on Linux have four namespaces:
 * user

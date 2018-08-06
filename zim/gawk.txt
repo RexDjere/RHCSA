@@ -9,4 +9,4 @@ tasks template
 alphabetical list of essential tools
 
 **Summary**
-See [[awk]].
+See [[Home:RHCSA:alphabetical list of essential tools:A:awk]].

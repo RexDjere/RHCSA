@@ -5,4 +5,4 @@ Creation-Date: 2018-07-13T13:19:46-04:00
 ====== Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes ======
 Created Friday 13 July 2018
 
-[[003 - right branches]]
+[[objectives:003 - configure local storage:003 - right branches]]

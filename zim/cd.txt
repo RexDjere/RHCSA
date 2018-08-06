@@ -8,3 +8,6 @@ Created Tuesday 10 July 2018
 [[objectives:001 - understand and use essential tools:directories]]
 tasks template
 alphabetical list of essential tools
+
+**Summary**
+cd stands for "change directory". This command is used to move from one directory to another on Linux systems.

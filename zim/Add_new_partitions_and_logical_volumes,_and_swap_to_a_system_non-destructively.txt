@@ -5,4 +5,4 @@ Creation-Date: 2018-07-13T13:16:22-04:00
 ====== Add new partitions and logical volumes, and swap to a system non-destructively ======
 Created Friday 13 July 2018
 
-[[003 - left branches]]
+[[objectives:003 - configure local storage:003 - left branches]]

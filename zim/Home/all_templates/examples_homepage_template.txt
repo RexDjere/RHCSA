@@ -9,7 +9,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
 [[Home]]
-[[all templates]]
+[[Home:all templates]]
 [[Home:TODO LIST]]
 relevant backlink 1
 relevant backlink 2

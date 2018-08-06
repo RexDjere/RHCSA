@@ -5,43 +5,35 @@ Creation-Date: 2018-08-02T21:39:23-04:00
 ====== alphabetical list of essential tools ======
 Created Tuesday 31 July 2018
 
-[[objectives:001 - understand and use essential tools]]
+exam:objectives:objectives:001 - understand and use essential tools
 tasks template
 [[alphabetical list of essentials tools - sources]]
 [[TODO LIST]]
 
-< INSERT: Taken from tasks template. Verify that stays up-to-date with tasks template.>
+
 --------------------
 
 **Summary**
-Write a good summary of the task that provides a good high level view of what the task is designed to do.
-
-tasks template
-* command - function
-* command - description
-* command - examples
-
-command [[executable location]]:
-command [[man page locations]]:
+This is an alphabetically list of essential Linux tools.
 
 --------------------
 </INSERT>
 
 **alphabetical list of essential tools:**
-* [[addr2line]]
-* [[adduser]]
-* [[alias]] , [[unalias]]
-* [[apropos]]
-* [[apt-cache]]
-* [[apt-get]]
-* [[aptitude]]
-* [[awk]]
+* [[+A:addr2line]]
+* [[+A:adduser]]
+* [[+A:alias]] , [[unalias]]
+* [[+A:apropos]]
+* [[+A:apt-cache]]
+* [[+A:apt-get]]
+* [[+A:aptitude]]
+* [[+A:awk]]
 --------------------
 * [[badblocks]]
 * [[bash]]
 * [[bg]] , [[fg]]
 * [[bunzip2]]
-* [[bzip2]]
+* [[exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:bzip2]]
 --------------------
 * [[cal]]
 * [[cat]]
@@ -113,7 +105,7 @@ command [[man page locations]]:
 * groupadd
 * [[groups]]
 * [[gunzip]]
-* [[gzip]]
+* [[exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip]]
 --------------------
 * [[hdparm]]
 * [[head]] , [[tail]]
@@ -244,7 +236,7 @@ command [[man page locations]]:
 * [[tac]]
 * [[tail]] , [[head]]
 * [[talk]]
-* [[tar]]
+* [[exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]]
 * [[tcpdump]]
 * [[tee]]
 * [[telnet]]
@@ -259,7 +251,7 @@ command [[man page locations]]:
 * [[type]]
 --------------------
 * [[umount]] , [[mount]]
-* [[unalias]] , [[alias]]
+* [[unalias]] , [[+A:alias]]
 * [[uname]]
 * [[uniq]]
 * [[unsetenv]]

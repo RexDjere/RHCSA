@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T22:31:09-04:00
+
+====== Create and configure set-GID directories for collaboration ======
+Created Sunday 05 August 2018
+
+ffff
