@@ -11,12 +11,12 @@ generic template version: Friday 31 2018 09:50:26 PM
 [[Home]]
 [[Home:all templates]]
 [[Home:TODO LIST]]
-:Home:RHCSA:exam:objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:virtual machine:virtual machine
+[[:Home:RHCSA:exam:objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:virtual machine:virtual machine]]
 
 **KYWRD:** Virtual Machine Manager
 
 **Summary**
-The Virtual Machine Manager is a software application that allows one to manage virtual machines (VMs).
+The Virtual Machine Manager is a software application that allows one to manage [[:Home:RHCSA:exam:objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:virtual machine:virtual machine|virtual machines]] (VMs).
 **Virtual Machine Manager:**
 * Virtual Machine Manager - function: State the main function of the topic here.
 * Virtual Machine Manager - description: Provide a more detail description here.
