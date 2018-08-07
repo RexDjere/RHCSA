@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:45:42-04:00
+
+====== tty ======
+Created Tuesday 10 July 2018
+
+[[files]]
+[[tasks]]
+tasks template
+alphabetical list of essential tools
+
+tty
+* [[alphabetical list of essential tools and terms:P-T:T:tty - function]]
+* [[alphabetical list of essential tools and terms:P-T:T:tty - description]]
+* [[alphabetical list of essential tools and terms:P-T:T:tty - examples]]

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:04:44-04:00
+
+====== ps ======
+Created Tuesday 10 July 2018
+
+[[S:system information]]
+tasks template
+alphabetical list of essential tools
+[[P]]

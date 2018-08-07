@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T16:51:13-04:00
+
+====== GitHub ======
+Created Tuesday 31 July 2018
+
+[[K-O:O:open source]]
+article template
+[[G]]
+
+**Summary**
+:Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub (https://github.com/) is operated by :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub Inc., a subsidiary of [[K-O:M:Microsoft]]. :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub is a web-based source code hosting service that is tightly integregated with the Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:free software / [[K-O:O:open source]] [[U-Z:V:version control system]] known as Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:git.
+
+More information about :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub can be found here:
+https://en.wikipedia.org/wiki/GitHub 

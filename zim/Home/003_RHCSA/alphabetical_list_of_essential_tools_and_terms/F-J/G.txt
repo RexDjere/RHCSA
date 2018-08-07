@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:48:13-04:00
+
+====== G ======
+Created Sunday 05 August 2018
+
+[[F-J]]
+
+G:
+* [[+g++]]
+* [[+gawk]]
+* [[+GB]]
+* [[+gcc]]
+* [[+gdb]]
+* [[+GiB]]
+* [[+gigabyte]]
+* [[+gigibyte]]
+* [[+git]] , [[P-T:T:tig]]
+* [[+GitHub]]
+* [[+GnuPG]]
+* [[+gpg]]
+* [[+gphoto2]]
+* [[+GRand Unified Bootloader]]
+* [[+graphical user interface]]
+* [[+grep]] , [[A-E:E:egrep]]
+* [[+groupadd]]
+* [[+groups]]
+* [[+GRUB]]
+* [[+GUI]]
+* [[+gunzip]]
+* [[+GUID Partition Table]]
+* [[+gunzip]]
+* [[+gzip]]

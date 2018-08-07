@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:09:53-04:00
+
+====== core.img ======
+Created Thursday 19 July 2018
+
+[[F-J:G:GRUB:GRUB image files]]
+[[C]]
+
+ core.img
+	* is the core image of GRUB
+	* is built dynamically from the kernel image and kernel modules
+	* is designed to be kept small

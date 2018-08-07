@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-22T22:33:18-04:00
+
+====== Abraham Lempel ======
+Created Sunday 22 July 2018
+
+gzip
+article template
+
+**Summary**
+Co-creator of the [[K-O:L:Lempel-Ziv coding]] ([[K-O:L:LZ77]]), lossless compression algorithm used in gzip.
+
+Links to more information on Abraham Lempel are here:
+* https://en.wikipedia.org/wiki/Abraham_Lempel

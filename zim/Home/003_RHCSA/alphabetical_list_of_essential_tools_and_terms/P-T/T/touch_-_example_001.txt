@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-13T14:34:59-04:00
+
+====== touch - example 001 ======
+Created Friday 13 July 2018
+
+[[touch - examples]]
+[[T]]
+
+One use for the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command is to create new files that are empty.  In example 1, we will create several empty files using the touch command.
+
+Tasks:
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex001]]
+* Create the following 5 files using a single touch command:
+	* dept_training_admins.txt
+	* dept_finance_auditors.html
+	* dept_softwaredev_developers.info
+	* dept_security_officers.txt
+	* dept_hardware_agents.html
+* List all of the file in your current working directory using Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls to ensure that all 5 files were correctly created.
+* Your boss wants a text file report to show her superiors proving that all 5 files were created.  Create a file named report.txt in the same directory with this proof.
+* Use the Home:RHCSA:alphabetical list of essential tools:C:cat command to view the contents of report.txt
+
+{{./pasted_image001.png}}

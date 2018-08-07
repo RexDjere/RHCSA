@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T21:12:42-04:00
+
+====== Phil Zimmermann ======
+Created Tuesday 17 July 2018
+
+:gpg:OpenPGP:OpenPGP
+
+Phil Zimmermann
+* born February 12, 1954
+* created [[P-T:P:Pretty Good Privacy]] ([[P-T:P:PGP]]), widely used email encryption software
+* follows the :gpg:OpenPGP:OpenPGP standard for encrypting/decrypting data defined in  :gpg:OpenPGP:OpenPGP:RFC 4880
+
+More information on Phil Zimmermann can be found here: https://en.wikipedia.org/wiki/Phil_Zimmermann

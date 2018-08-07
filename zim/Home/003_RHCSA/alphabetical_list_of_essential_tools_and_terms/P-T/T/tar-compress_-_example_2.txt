@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T17:35:36-04:00
+
+====== tar-compress - example 2 ======
+Created Wednesday 11 July 2018
+
+[[tar-compress - examples]]
+examples template
+[[T]]
+
+**Summary**
+In example 2, we will compress a several directories into one tar.gz file. We will use the -czvf flags.  
+* -c: creates an archive.
+* -z: compress the archive using gzip.
+* -v: verbose => diplay progress during the archiving process.
+* -f: enable specifying the filename of the archive.
+
+tar syntax - compressing a multiple files or directories into a single archive:  
+* tar -czvf name-ofarchive.tar.gz /path/to/file-or-directory1 /path/to/file-or-directory2...
+
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
+* Navigate to the [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex002|tar-compress_ex002]] folder in the examples/tar folder.
+* Create 5 empty directories using the mkdir command: mydir1 mydir2 mydir3 mydir4 mydir5
+* Compress the 5 directories to a file called mydirs.tar.gz using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar command.
+
+{{./pasted_image.png?width=800}}

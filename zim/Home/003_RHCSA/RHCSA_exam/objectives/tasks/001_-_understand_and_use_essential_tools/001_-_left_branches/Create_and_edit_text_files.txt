@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T10:46:24-04:00
+
+====== Create and edit text files ======
+Created Wednesday 11 July 2018
+
+generic template version: Friday 31 2018 09:50:26 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+001 - understand and use essential toolsxxxxssswww:001 - left branches:001 - left branches
+
+**KYWRD:** text filles
+
+**Summary**
+In the Linux command line, the [[alphabetical list of essential tools and terms:U-Z:V:vi]] utility is generally used to create and edit text files. The 001 - understand and use essential toolsxxxxssswww:001 - left branches:files:touch command can be used to create empty text files.
+
+**text files:**
+* text files - function: Text files are used to store Linux configuration information, so the Red Hat Certified System Administrator must be an expert on working with text files from the command line.
+* text files - description: N/A
+* text files - options-flags N/A
+* [[+text files - examples]] 
+
+**Relevant text files links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant text files notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* all templates:options template:alphabetical list of essential tools:B:binary location 1:
+* all templates:options template:alphabetical list of essential tools:B:binary location 2:
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* [[alphabetical list of essential tools and terms:K-O:M:man location]] 1:
+* [[alphabetical list of essential tools and terms:K-O:M:man location]] 2:
+
+**Relevant text files Screenshots**
+Paste any relevant screenshots here.

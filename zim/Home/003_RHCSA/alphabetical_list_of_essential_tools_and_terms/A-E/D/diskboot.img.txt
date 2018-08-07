@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:09:38-04:00
+
+====== diskboot.img ======
+Created Thursday 19 July 2018
+
+[[F-J:G:GRUB:GRUB image files]]
+v
+
+diskboot.img
+	* is contained in the first sector of the core image
+	* does not have file handling, so the location of core.img is hard coded into it
+	* reads remainder of core image into memory and loads the operating system kernel

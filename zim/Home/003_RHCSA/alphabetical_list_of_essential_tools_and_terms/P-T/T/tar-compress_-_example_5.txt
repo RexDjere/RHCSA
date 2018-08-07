@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-13T12:20:48-04:00
+
+====== tar-compress - example 5 ======
+Created Friday 13 July 2018
+
+[[tar-compress - examples]]
+examples template
+[[T]]
+
+**Summary**
+--exclude=[file pattern] or [directory location]:  excludes files or directories based on a given file pattern or directory location
+
+In example 5, we will create several files, and try to include them in a tar archive.  We will exclude a file that matches a certain pattern.
+
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex005]]
+* Create the following files using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command:
+	* myfile1.mp3
+	* myfile2.mp3
+	* myfile3.mp3
+	* myfile4.mp4
+* Change directory (Home:RHCSA:alphabetical list of essential tools:C:cd) to go up one level
+* Compress tar-compress_ex005 to an archive called tar-compress_ex005.tar.gz, but exclude myfile4.mp4
+* Note that only myfile1.mp3, myfile2.mp3, and myfile3.mp3 were added to the archive
+
+{{./pasted_image.png}}

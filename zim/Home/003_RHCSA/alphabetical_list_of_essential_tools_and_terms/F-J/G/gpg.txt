@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T19:47:05-04:00
+
+====== gpg ======
+Created Wednesday 11 July 2018
+
+[[+gpg-encrypt example 1]]
+tasks template
+alphabetical list of essential tools
+[[G]]
+
+The gpg command allows to encrypt, decypt, and digitally sign files, folders, and messages. The gpg command runs GNU Privacy Guard (GnuPG), a free software implementation of the [[+OpenPGP]] standard.
+
+One of the most commonly used gpg flags is -c.  This option encrypts with a symmetric cipher using a passphrase.  For example, the command below would encrypt the file name myfile
+
+gpg -c myfile

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:26:10-04:00
+
+====== RHEL ======
+Created Monday 16 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RHCSA
+[[R]]
+
+**Summary**
+[[RHEL]] is an acronym for Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:Red Hat Enterprise Linux. RHEL is a commercial Linux distribution aimed at enterprise customers. Red Hat Corporation provides technical support for RHEL, training programs for system administrators, and industry certifications for Linux professionals.  More information abour Red Hat Enterprise Linux can be found here: https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux

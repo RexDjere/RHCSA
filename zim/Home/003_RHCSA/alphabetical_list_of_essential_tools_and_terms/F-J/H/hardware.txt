@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:01:45-04:00
+
+====== hardware ======
+Created Tuesday 10 July 2018
+
+command-line environments
+[[H]]
+
+hardware
+* [[K-O:L:lspci]]
+* [[K-O:L:lsusb]]
+* [[I:ishal]]
+* [[K-O:L:lshw]]

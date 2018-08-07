@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T21:00:16-04:00
+
+====== gigibyte ======
+Created Monday 30 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - example 1
+[[G]]
+
+**Summary**
+1 gigibyte equals 2^30 bytes which equals 1,073,741,824 bytes.

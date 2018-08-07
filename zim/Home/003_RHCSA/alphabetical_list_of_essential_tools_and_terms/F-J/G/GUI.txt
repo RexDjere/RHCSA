@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T22:45:56-04:00
+
+====== GUI ======
+Created Thursday 19 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:graphical user interface
+[[G]]
+
+See Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:graphical user interface.

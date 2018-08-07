@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T21:02:51-04:00
+
+====== GiB ======
+Created Monday 30 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - example 1
+
+**Summary**
+See [[gigibyte]].

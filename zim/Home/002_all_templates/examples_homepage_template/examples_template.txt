@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-03T22:51:53-04:00
+
+====== examples template ======
+Created Friday 03 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+relevant backlink 1
+relevant backlink 2
+
+**KYWRD:** type the kywrd here.
+
+**Summary**
+This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
+1. Find and Replace any occurence of KEYWORD in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+* Briefly describe task 1.
+* Briefly describe task 2.
+* Briefly describe task 3.
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.

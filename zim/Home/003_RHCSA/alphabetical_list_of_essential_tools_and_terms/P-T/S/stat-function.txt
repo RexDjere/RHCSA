@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T17:27:00-04:00
+
+====== stat-function ======
+Created Sunday 15 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat
+[[S]]
+
+The primary function of the Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat utility is to return files attributes of a given Home:RHCSA:alphabetical list of essential tools and terms:F-J:I:inode.

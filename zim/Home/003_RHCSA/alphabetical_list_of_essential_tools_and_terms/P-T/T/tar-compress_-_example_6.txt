@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T12:15:30-04:00
+
+====== tar-compress - example 6 ======
+Created Thursday 02 August 2018
+
+[[tar-compress - examples]]
+examples template
+[[T]]
+
+**Summary**
+In tar-compress - example 6, I will compress a large directory called "Sync", and save it to an external USB hard drive in .tar.bz2 format. My external USB drive is named external_drive_0 , and it is mounted at [[/run/media/rdjere/external_drive_0]]
+
+The biggest thing that I learned in this example was this: .tar.bz2 archives offer higher compression ratios than .tar.gz, but this comes at a cost: archiving in the .bz2 format is SLOW.  If you are backing up a very big directory, be prepared to go relax and do something else while you wait for the archive to be created.
+
+Here is a basic overview of the command options (flags) that we will use:
+* We want to create a new archive, so we use the -c flag.
+* We want to create a .bz2 archive, so we use the -j flag.
+* We want verbose output, so we use the -v flag. 
+* We want to specify the filename of the archive, so we use the -f flag.
+* Since we want to save the archive to a different directory (the external USB drive), we will use the full path when specifying the name of the .tar.bz2 file. 
+* Finally, we specify "Sync", the directory that we want to archive.
+
+So our command will look like this:
+* __tar -cjvf /run/media/rdjere/external_drive_0/Sync.tar.bz2 Sync__
+
+Tasks (NOTE: in examples, terminal commands are __highlighted__):
+* First, I'll list the contents of my home directory to verify that the Sync folder exists there: __ls__ 
+	* Result: Sync does exist
+* Then, I'll issue the correct command: __tar -cjvf /run/media/rdjere/external_drive_0/Sync.tar.bz2 Sync__
+* Creating the archive takes a very long time because Sync is a very large directory. As the archive is being created, tar gives verbose updates as to what is being added to the archive. The terminal output is very long, and it contains personal data, so I will not paste it here, but I will paste a screenshot of the first two steps:
+{{./pasted_image.png}}
+* Once the archive has been completely built, tar reports the successful completion:
+* How well did tar do in compressing the directory?
+	* Sync was originally 30,907 items totalling 33.3 GB.
+
+{{./pasted_image001.png}}
+	* After compresson, Sync.tar.bz2 was 30.8 GB.
+	* Statistics(Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar did not give me this info, I compiled and calculated all of it myself using File Properties):
+		* Compression Ratio = Ucompressed Size/Compressed Size = 33.3 GB/30.8 GB = 1.0812:1
+		* Space Savings = 1 - Compressed Size/Uncompressed Size = 1 - 30.8 GB/33.3 GB = 0.075075075 = 7.507505708 %
+		* Total Time to Compress: 06:11:22 PM EDT - 03:37:19 PM EDT = 2 hours 34 minutes 3 seconds
+{{./pasted_image002.png}}
+
+* Unfortunately, tar did not give any kind of success message or statistics after the archive creation was complete.
+
+

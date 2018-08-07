@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:23:41-04:00
+
+====== Red Hat Certified System Administrator ======
+Created Monday 16 July 2018
+
+[[Home]]
+generic template
+[[002 all templates]]
+TODO LIST
+:Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RHCSA
+[[R]]
+
+See the :Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RHCSA article.

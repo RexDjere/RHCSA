@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:09:41-04:00
+
+====== cdboot.img ======
+Created Thursday 19 July 2018
+
+[[F-J:G:GRUB:GRUB image files]]
+[[C]]
+
+cdboot.img
+	* performs the same functions as diskboot image if booting from a CD-ROM.
+	* acts as first sector of core image when booting from CD-ROM

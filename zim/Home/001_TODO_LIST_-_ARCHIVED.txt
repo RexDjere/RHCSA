@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T17:18:23-04:00
+
+====== 001 TODO LIST - ARCHIVED ======
+Created Tuesday 31 July 2018
+
+[[Home]]
+[[00 TODO LIST]]
+
+**Summary**
+This TODO list archive helps me keep track of what TODO tasks were completed in the past.
+
+TODO LIST
+* Add option descriptions to Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - options .
+* ~~Add KVM article and link to KVM article in Install Red Hat Enterprise Linux systems as virtual guests . (started working on this 7/31/18)(completed 7/31/18)~~
+* ~~Read https://www.linux-kvm.org/page/HOWTO_BONDING~~
+* ~~Read http://www.linux-kvm.org/page/Networking~~
+* add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf to alphabetical list of essential tools
+* Home:RHCSA:alphabetical list of essential tools:A:addr2line and Home:RHCSA:alphabetical list of essential tools:A:adduser articles need to be beefed up a lot more.

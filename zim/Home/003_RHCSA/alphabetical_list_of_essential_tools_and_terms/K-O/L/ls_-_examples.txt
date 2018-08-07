@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T13:26:52-04:00
+
+====== ls - examples ======
+Created Tuesday 17 July 2018
+
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls
+[[L]]
+
+ls - examples
+* Home:RHCSA:alphabetical list of essential tools and terms:K-O:L:ls example 1
+* Home:RHCSA:alphabetical list of essential tools and terms:K-O:L:ls example 2
+

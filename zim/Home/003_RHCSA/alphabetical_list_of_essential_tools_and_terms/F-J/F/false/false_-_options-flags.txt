@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T16:24:58-04:00
+
+====== false - options-flags ======
+Created Tuesday 07 August 2018
+
+options template version: Monday 08/06/18 10:37:52 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[false]]
+
+**KYWRD:** false
+
+**Summary**
+false is a very simple command with only two options. false does nothing, and exits with a failure exit code (1).
+
+**false - options:**
+* --help: displays help message and exits.
+* ---version: displays version information and exits.
+
+
+**Relevant false Screenshots**
+N/A

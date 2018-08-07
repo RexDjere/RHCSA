@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-31T05:55:26-04:00
-
-====== true ======
-Created Tuesday 31 July 2018
-
-tasks template
-alphabetical list of essential tools

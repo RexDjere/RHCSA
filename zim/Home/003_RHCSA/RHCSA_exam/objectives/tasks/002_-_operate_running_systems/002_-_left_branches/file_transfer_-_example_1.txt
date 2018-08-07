@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:24:29-04:00
+
+====== file transfer - example 1 ======
+Created Sunday 05 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+
+**KYWRD:** file transfer example
+
+**Summary**
+In file transfer - example 1, we will walkthrough using the scp utility to transfer files between Linux systems.
+
+**file transfer example - tasks **(command line commands are __highlighted__)**:**
+* Briefly describe task 1.
+* Briefly describe task 2.
+* Briefly describe task 3.
+
+**Relevant file transfer example Screenshots**
+Paste any relevant screenshots here.

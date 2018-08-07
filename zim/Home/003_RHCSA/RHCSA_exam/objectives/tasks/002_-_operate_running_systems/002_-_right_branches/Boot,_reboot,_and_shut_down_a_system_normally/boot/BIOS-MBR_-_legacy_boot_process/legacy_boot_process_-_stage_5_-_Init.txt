@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:29:35-04:00
+
+====== legacy boot process - stage 5 - Init ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]
+
+**Summary**
+The Init Proccess has been supplanted on most systems by [[alphabetical list of essential tools and terms:P-T:S:systemd]]. However, Init is still used on some Linux distributions. For example, the Slackware Linux distribution still uses Init, and has no plans of shifting to systemd, as on mid-2018. 
+
+The Init Process simply causes the computer system to boot into the run level specified in /etc/inittab.  However, inittab is no longer used on most Linux systems. It has been superceded by [[alphabetical list of essential tools and terms:P-T:S:systemd]].

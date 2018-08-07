@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-12T13:59:59-04:00
+
+====== Huffman coding ======
+Created Thursday 12 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Burrows-Wheeler algorithm
+[[H]]
+
+Huffman coding
+* lossless data compression algorithm

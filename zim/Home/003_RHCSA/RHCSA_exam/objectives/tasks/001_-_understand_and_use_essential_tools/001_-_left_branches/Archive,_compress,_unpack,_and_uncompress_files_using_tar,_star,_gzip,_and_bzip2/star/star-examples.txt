@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T14:05:01-04:00
+
+====== star-examples ======
+Created Tuesday 17 July 2018
+
+001 - understand and use essential toolsxxxxssswww:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star
+examples homepage template
+examples template
+
+star-examples
+* [[alphabetical list of essential tools and terms:P-T:S:star example 1]]
+* [[alphabetical list of essential tools and terms:P-T:S:star example 2]]
+* [[alphabetical list of essential tools and terms:P-T:S:star example 3]]
+
+See also:
+* 003 RHCSA:exam:objectives:tasks:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star-examples:star-compress - examples
+* 003 RHCSA:exam:objectives:tasks:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star-examples:star-unpack - examples
+* [[alphabetical list of essential tools and terms:P-T:S:star-uncompress - examples]]
+

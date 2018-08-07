@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:47:25-04:00
+
+====== C ======
+Created Sunday 05 August 2018
+
+[[A-E]]
+
+**Summary**
+All utitlies starting with the letter C are sub-pages to this page.
+
+C:
+* [[+cal]]
+* [[+cat]]
+* [[+cd]]
+* [[+cdboot.img]]
+* [[+CentOS]]
+* [[+chcon]]
+* [[+chgrp]]
+* [[+chmod]]
+* [[+chown]]
+* [[+chsh]]
+* [[+clear]]
+* [[+CMOS]]
+* [[+cmp]]
+* [[+comm]]
+* [[+command]]
+* [[+command line interface]]
+* [[+Complemetary Metal-Oxide-Semiconductor]]
+* [[+core.img]]
+* [[+cp]]
+* [[+cpio]]
+* [[+cron]]
+* [[+csplit]]
+* [[+Ctrl-C]]
+* [[+Ctrl-D]]
+* [[+Ctrl-Z]]
+* [[+curl]]
+* [[+cut]]

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T00:24:45-04:00
+
+====== tty - description ======
+Created Wednesday 11 July 2018
+
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:tty
+[[T]]
+
+The tty command prints the file name of the terminal connected to the standard input (the keyboard).
+
+It has the following flags:
+* -s, --silent, --quiet
+	* prints nothing, only returns an exit status
+* --help
+	* displays help information then exits
+* --version
+	* displays version information then exits

@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:28:05-04:00
+
+====== gunzip ======
+Created Tuesday 31 July 2018
+
+tasks template
+
+[[Home]]
+[[002 all templates:generic template]]
+[[002 all templates]]
+[[00 TODO LIST]]
+Home:RHCSA:alphabetical list of essential tools
+[[G]]
+
+
+**KYWRD:** gunzip
+
+**Summary**
+The gunzip utility is used to decompress archives.
+
+**gunzip:**
+* gunzip - function: Decompress files.
+* gunzip - description: gunzip can be used to decompress archives that were created using gzip, zip, compress, compress _H or pack .
+* gunzip - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip options page using this template: [[002 all templates:options template]]]
+* gunzip - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip examples page using this template: [[002 all templates:examples homepage template]]]
+
+**Relevant gunzip links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant gunzip notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+**Associated man pages: **associated man pages can be found using the whereis -m command (e.g. whereis -m cat)
+
+**Relevant gunzip Screenshots**
+Paste any relevant screenshots here.
+
+[[Home]]

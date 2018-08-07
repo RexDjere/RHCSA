@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T01:13:39-04:00
+
+====== systemd - example 1 ======
+Created Thursday 26 July 2018
+
+[[systemd - examples]]
+[[S]]
+
+**Summary**
+In systemd - example 1, we will use systemd's systemctl utility to enable the Apache Web Server (httpd). We will then copy a simple web page to the appropriate Apache directory, and view the web page using a web browser. We will then disable httpd, and delete the web page from the Apache directory.
+
+Tasks
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/systemd/systemd_ex001]]
+* Run Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls
+* You will notice our simple example web page: systemd_ex001.html
+* Start the Apache Web Server (httpd) with the Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemctl command: 
+	* systemctl start httpd.service (you will be prompted for the admin password => enter it)
+* Verify httpd is running: systemctl status httpd (hit "q" to quit after you have observed "active (running)" as httpd's status)
+* Copy systemd_ex001.html to [[/var/www/html]] (this will require admin privileges, so we will use su -c):
+	* su -c "cp systemd_ex001.html [[/var/www/html"]]
+	* Enter you admin password
+* Open the web browser of your choice and go to this page: localhost/systemd_ex001.html
+* You should see the web page below:
+{{./pasted_image.png}}
+* Disable httpd: 
+	* systemctl stop httpd.service (when prompted, enter your admin password)
+* Verify httpd is no longer running by refreshing your web browser at localhost/systemd_ex001.html
+* The web page should no longer be viewable.
+* Delete systemd_ex001.html from [[/var/www/html:]] su -c "rm [[/var/www/html/]]systemd_ex001.html"
+* Verify that systemd_ex001.html is deleted: cd [[/var/www/html]];ls
+* This completes systemd example 1. A summary of everything that we did can be seen in the image below. (Note: I had a small typo when I first tried to delete systemd_example001.html, but I quickly recovered).
+
+{{./pasted_image001.png}}

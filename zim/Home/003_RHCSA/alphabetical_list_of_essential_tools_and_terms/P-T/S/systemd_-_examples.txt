@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-26T01:01:50-04:00
+
+====== systemd - examples ======
+Created Thursday 26 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd
+[[S]]
+
+**Summary**
+In systemd - examples, we will give examples of how to use sytemd on live Linux systems.
+
+systemd - examples
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd - example 1

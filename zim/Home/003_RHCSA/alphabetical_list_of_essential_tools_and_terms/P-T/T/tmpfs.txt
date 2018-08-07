@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-28T00:06:09-04:00
+
+====== tmpfs ======
+Created Saturday 28 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat example 3
+[[T]]
+
+**Summary**
+tmpfs is the temporary file system for Linux.  It is similar in construction to a Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RAM disk.
+
+More info on tmpfs can found here: https://en.wikipedia.org/wiki/Tmpfs

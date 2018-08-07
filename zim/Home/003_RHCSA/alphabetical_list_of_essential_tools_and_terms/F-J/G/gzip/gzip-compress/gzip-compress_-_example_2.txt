@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T16:36:01-04:00
+
+====== gzip-compress - example 2 ======
+Created Monday 06 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+001 - understand and use essential toolsxxxxssswww:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:gzip:gzip-compress:gzip-compress
+
+**KYWRD:** gzip-compress
+
+**Summary**
+In this example, compress a single file on our [[alphabetical list of essential tools and terms:A-E:C:CentOS]] virtual machine using the gzip command.
+
+**gzip-compress - tasks **(command line commands are __highlighted__)**:**
+* Startup your [[alphabetical list of essential tools and terms:A-E:C:CentOS]] VM using the .
+* Briefly describe task 2.
+* Briefly describe task 3.
+
+**Relevant gzip-compress Screenshots**
+Paste any relevant screenshots here.

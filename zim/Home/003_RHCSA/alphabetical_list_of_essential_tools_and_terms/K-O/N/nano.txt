@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:57:24-04:00
+
+====== nano ======
+Created Tuesday 10 July 2018
+
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:text files - view
+tasks template
+alphabetical list of essential tools
+[[N]]

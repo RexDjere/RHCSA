@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T02:31:00-04:00
+
+====== man location ======
+Created Tuesday 31 July 2018
+
+tasks template
+[[M]]
+
+**Summary**
+Man pages can be located using the whereis command with the -m option. For example, if we wanted to find the locations of the gzip man pages, we will invoke this command:
+whereis -m gzip
+
+Output of the command above:
+gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz

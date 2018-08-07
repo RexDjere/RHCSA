@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T16:51:17-04:00
+
+====== touch -a deep dive ======
+Created Sunday 15 July 2018
+
+[[touch - description]]
+[[T]]
+
+touch -a deep dive
+The Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch -a sets the access time and change time of a file or directory.  __Touch -a does NOT change the modify time.__  To change the modify time, the -m option must be invoked.
+
+If the file does not currently exist, then the touch -a command will create it.  Two commands can be used closely together to see/modify time stats of a file or folder: Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch and Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat.
+
+While touch -a allows you to modify the access time and change time below, stat lets you view all three of them:
+1. access time
+2. modify time
+3. change time
+
+In [[touch - example 005]], we will see touch - a in use.

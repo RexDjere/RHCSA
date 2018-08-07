@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:01:43-04:00
+
+====== system information ======
+Created Tuesday 10 July 2018
+
+command-line environments
+[[S]]
+
+system information
+* Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df
+* Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:free
+* [[T:top]]
+* [[U-Z:U:uname]]
+* Home:RHCSA:alphabetical list of essential tools and terms:K-O:L:lsb release
+* Home:RHCSA:alphabetical list of essential tools and terms:F-J:I:ifconfig
+* Home:RHCSA:alphabetical list of essential tools and terms:F-J:I:iwconfig
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:P:ps

@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:29:39-04:00
+
+====== legacy boot process - stage 6 - Runlevel ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]
+
+**Summary**
+Linux is in the process of transitioning from the old Init system run levels to [[alphabetical list of essential tools and terms:P-T:S:systemd targets]]. Systemd replaced the Init term "runlevel" with "target".  In systemd, each target provides the computer user different levels of capabilities. For example, runlevel3.target (also known as multi-user.target) provides a command-line-only interface, while runlevel5.target (AKA graphical.target) provides a graphical interface. Systemd provides 7 target levels.  The systemd target levels map to the old seven Init run levels, plus systemd adds an eighth level: emergency
+
+Here is a breakdown and comparison of Init run levels versus systemd targets:
+* lowest level - level 0:
+	* Init: run level 0
+	* systemd: runlevel0.target, poweroff.target
+	* system status: halt the system
+* level 1:
+	* Init: run level 1
+	* systemd: runlevel1.target, rescue.target
+	* system status: single user mode
+* levels 2, 4:
+	* Init: run level 2, run level 4
+	* systemd: runlevel2.target, runlevel4.target, multi-user.target
+	* system status: identical to level 3, user-defined/site-specific run levels
+* level 3:
+	* Init: run level 3
+	* systemd: runlevel3.target, multi-user.target
+	* system status: multi-user, command-line only, no graphical interface
+* level 5:
+	* Init: run level 5
+	* systemd: runlevel5.target, graphical.target
+	* system status: multi-user with graphical interface
+* level 6:
+	* Init: run level 6
+	* systemd: runlevel6.target, reboot.target
+	* system status: reboot
+* emergency level
+	* Init: N/A
+	* systemd: emergency.target
+	* system status: emergency shell
+
+More information about systemd compared to Init can be found here:
+* https://fedoraproject.org/wiki/SysVinit_to_Systemd_Cheatsheet
+

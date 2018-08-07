@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T18:24:00-04:00
+
+====== Red Hat ======
+Created Monday 16 July 2018
+
+[[Home]]
+generic template
+[[002 all templates]]
+TODO LIST
+Home:RHCSA:exam:objectives:tasks
+[[R]]
+
+**Summary** 
+Red Hat Corporation is an open source technology company headquartered in Raleigh, North Carolina.  Their flagship product is [[Red Hat Enterprise Linux]], a commercial Linux distribution aimed at enterprise customers. 
+
+More information about Red Hat can be found at the links below:
+* https://www.redhat.com/en
+* https://en.wikipedia.org/wiki/Red_Hat

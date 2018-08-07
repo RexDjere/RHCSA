@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:07:50-04:00
+
+====== passwd ======
+Created Tuesday 10 July 2018
+
+[[U-Z:U:users]]
+tasks template
+alphabetical list of essential tools
+[[P]]

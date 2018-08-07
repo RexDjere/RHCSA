@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T16:29:03-04:00
+
+====== tar-compress - examples ======
+Created Wednesday 11 July 2018
+
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar
+examples homepage template
+examples template
+[[T]]
+
+**Summary**
+These examples demonstrate usage of the tar command for the compression of files and folders into archives.
+
+tar-compress - examples:
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 1 - compress single directory using tar gzip option
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 2 - compress several directories into single tar archive using tar gzip option
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 3 - create a tar archive without gzip compression
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 4 - create tar archive using bzip2 compression
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 5 - create a tar archive and exclude some files from the archive
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - example 6 - I create a tar.bz2 backup of a large directory on my pc, and save it to an external usb drive

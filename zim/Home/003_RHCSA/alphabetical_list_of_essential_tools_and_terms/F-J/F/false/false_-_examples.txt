@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T16:24:15-04:00
+
+====== false - examples ======
+Created Tuesday 07 August 2018
+
+Monday 08/06/18 10:50:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:false:false
+
+**KYWRD:** false
+
+**Summary**
+These examples will show how the false command is used.
+
+**false - examples:**
+* [[+false - example 1]] : show that the exit code for the false command is in fact 1 (failure), and that the exit code for the true command is in fact 0 (success).
+* false - example 2 : briefly describe example 2.
+* false - example 3 : briefly describe example 3.
+
+**Relevant false Screenshots**
+Paste any relevant screenshots here.

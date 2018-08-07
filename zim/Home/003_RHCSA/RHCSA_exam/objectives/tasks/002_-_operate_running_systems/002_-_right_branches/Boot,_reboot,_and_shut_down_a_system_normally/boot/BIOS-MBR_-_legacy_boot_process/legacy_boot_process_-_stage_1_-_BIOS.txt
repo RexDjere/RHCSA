@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:29:19-04:00
+
+====== legacy boot process - stage 1 - BIOS ======
+Created Wednesday 18 July 2018
+
+[[BIOS-MBR - legacy boot process]]
+
+**Summary**
+BIOS controls the first couple of steps in the legacy boot process:
+1. The Power On Self Test ([[alphabetical list of essential tools and terms:P-T:P:POST]]).
+2. The [[+BIOS:BIOS Boot Handoff]].

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T21:39:23-04:00
+
+====== alphabetical list of essential tools ======
+Created Tuesday 31 July 2018
+
+
+[[00 TODO LIST]]
+
+**Summary**
+This is an alphabetically list of essential Linux tools and terms.
+
+**alphabetical list of essential tools:**
+* [[+A-E]]
+* [[+F-J]]
+* [[+K-O]]
+* [[+P-T]]
+* [[+U-Z]]
+
+

@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T15:18:12-04:00
+
+====== adduser - example 1 ======
+Created Tuesday 31 July 2018
+
+[[adduser - examples]]
+
+**Summary**
+In adduser - example 1, we will add a new user called test_user to our [[C:CentOS]] virtual machine. We will also use the passwd command to create a password for test_user: this_is_not_a_strong_password_12345
+
+Tasks:
+* Creating the test_user account.
+	* We will first login to the Centos system:
+
+{{./pasted_image.png}}
+* Next, we'll create the test_user account:
+	* We'll first try to do it with this command: __adduser test_user__. This should fail because we should need administrative privileges to create a new user account:
+
+{{./pasted_image001.png}}
+	* As expected, it failed. The correct command is this: su -c "adduser test_user"
+	* We will run the correct command, and we will use this command to verify that test_user was created: [[C:cat]] [[/etc/passwd]] | [[F-J:G:grep]] test_user
+{{./pasted_image002.png}}
+	* Now, we will set a password for test_user: this_is_not_a_strong_password_12345
+	* Again, we will first try to do it without admin privileges, expecting it to fail:
+
+{{./pasted_image003.png}}
+	* It did. We are starting to build an intuitive sense of what kinds of things require admin privileges, and what kinds of things do not.
+	* We know how the command should be properly constructed: su -c "passwd test_user"
+
+{{./pasted_image004.png}}
+	* Success! Now, the final test will be to logout, and then login as test_user:
+
+{{./pasted_image005.png}}
+	* Success!
+	* We will continue working with the test_user account. In a future example, we'll change test_user's password to something more secure, and we'll start learning how to deal with user accounts.
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:42:54-04:00
+
+====== directories ======
+Created Tuesday 10 July 2018
+
+
+
+directories
+* [[alphabetical list of essential tools and terms:P-T:P:pwd]]
+* all templates:options template:alphabetical list of essential tools:C:cd
+* [[alphabetical list of essential tools and terms:K-O:M:mkdir]]
+* all templates:options template:alphabetical list of essential tools:C:cp

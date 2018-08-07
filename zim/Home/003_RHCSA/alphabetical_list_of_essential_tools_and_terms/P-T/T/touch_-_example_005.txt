@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T16:54:12-04:00
+
+====== touch - example 005 ======
+Created Sunday 15 July 2018
+
+[[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch -a deep dive]]
+[[T]]
+
+In touch - example 005, we will see how the touch -a command can be used to change the access time and change time of files and folers to the current time
+
+While Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch allows you to modify the three file/folder times below, Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat lets you view them:
+1. access time
+2. modify time
+3. change time
+
+Tasks
+* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/touch/touch_ex005]]
+* Create a new folder called myfolder using the Home:RHCSA:alphabetical list of essential tools and terms:K-O:M:mkdir command.
+* Use Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat to view the access time, modify time, and change time of myfolder.
+* Use touch -a to change the times associated with myfolder.
+* View the myfolder times again with stat.
+* Note that the modify time has stayed the same, while the access time and change time have both been updated to the time when touch -a was run.
+
+{{./pasted_image.png}}
+
+Now let's see if this works the same for a file.
+* In the same directory (touch_ex005), create a new file called myfile using the touch command.
+* View access, modify and change time for myfile using stat.
+* Update myfile using touch -a.
+* View access, modify and change time for myfile using stat.
+* Note again that modify time has stayed the same while access time and change time have been updated to the time when touch -a was run.
+
+{{./pasted_image001.png}}
+
+

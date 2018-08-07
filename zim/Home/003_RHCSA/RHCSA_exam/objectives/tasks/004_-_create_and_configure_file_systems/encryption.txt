@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:14:24-04:00
+
+====== encryption ======
+Created Tuesday 10 July 2018
+
+[[004 - create and configure file systems:004 - create and configure file systems]]
+
+Linux files or folders can be encrypted using the  [[GnuPG]] utility.  [[GnuPG]] is used to encrypt or decrypt files and folders via the [[alphabetical list of essential tools and terms:F-J:G:gpg]] command.  The general syntax for encrypting a file with gpg is as follows:
+* gpg -c document_name
+
+Examples
+* Please see [[alphabetical list of essential tools and terms:F-J:G:gpg:gpg-encrypt example 1]] for more details on encrypting files using GnuPG.
+

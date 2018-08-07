@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T00:53:11-04:00
+
+====== touch - examples ======
+Created Wednesday 11 July 2018
+
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch
+[[T]]
+
+touch - examples
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - example 001]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - example 002]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - example 003]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - example 004]]
+

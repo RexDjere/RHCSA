@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:07:52-04:00
+
+====== whoami ======
+Created Tuesday 10 July 2018
+
+[[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:users]]
+tasks template
+alphabetical list of essential tools
+[[U-Z:W]]

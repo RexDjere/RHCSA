@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T05:51:22-04:00
+
+====== false ======
+Created Tuesday 31 July 2018
+
+generic template version: Monday 08/06/18 10:14:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:F
+
+**KYWRD:** false
+
+**Summary**
+The false command does nothing, and then exits with a status code indicating failure.
+
+**false:**
+* false - function: does nothing, and exits with failure status code.
+* false - description: N/A
+* [[+false - options-flags]] 
+* [[+false - examples]] 
+
+**Relevant false links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant false notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* binary location 1:
+* binary location 2:
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:K-O:M:man location 1:
+* Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:K-O:M:man location 2:
+
+**Relevant false Screenshots**
+Paste any relevant screenshots here.
+
+[[Home]]
+tasks template
+alphabetical list of essential tools
+
+

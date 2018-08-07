@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:55:36-04:00
+
+====== GRand Unified Bootloader ======
+Created Wednesday 18 July 2018
+
+[[GRUB]]
+[[G]]
+
+See [[GRUB]].

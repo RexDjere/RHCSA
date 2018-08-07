@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:01:47-04:00
+
+====== users ======
+Created Tuesday 10 July 2018
+
+command-line environments
+tasks template
+alphabetical list of essential tools
+[[U]]
+
+users
+* Home:RHCSA:alphabetical list of essential tools:A:adduser
+* Home:RHCSA:alphabetical list of essential tools and terms:P-T:P:passwd
+* [[W:whoami]]
+* [[W:who]]
+* Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:deluser

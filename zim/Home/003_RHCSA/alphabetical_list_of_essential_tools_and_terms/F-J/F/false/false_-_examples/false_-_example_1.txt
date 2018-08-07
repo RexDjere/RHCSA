@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T16:37:54-04:00
+
+====== false - example 1 ======
+Created Tuesday 07 August 2018
+
+examples template version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[false - examples]]
+
+**KYWRD:** false
+
+**Summary**
+false - example 1 shows that the exit code for the false command is in fact 1 (failure), and that the exit code for the true command is in fact 0 (success). To show the exit code of the false command, we will use this echo command: __echo $?__ 
+$? is a special variable that stores the exit code of the most recently run command.
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+* Start your CentOS VM using the Virtual Machine Manager.
+* Login as a non-root user.
+* From the command line, issue the following command: __false;echo $?__
+* Note that the false command exits with an exit code of 1, which means "FAILURE".
+* From the command line, issue the following command: __true;echo $?__
+* Note that the true command exits with an exit code of 0, which means "SUCCESS".
+
+**Relevant KEYWORD Screenshots**
+{{./pasted_image.png}}

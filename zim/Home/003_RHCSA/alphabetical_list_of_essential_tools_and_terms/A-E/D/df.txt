@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:04:22-04:00
+
+====== df ======
+Created Tuesday 10 July 2018
+
+Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:P-T:S:system information
+Home:RHCSA:exam:objectives:tasks:005 - deploy, configure, and maintain systems:005 - right branches:Install Red Hat Enterprise Linux systems as virtual guests
+Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:D
+
+**Summary**
+The df utility is used to report file system space usage.
+
+df
+* [[+df - function]]
+* [[+df - description]]
+* [[+df - examples]]
