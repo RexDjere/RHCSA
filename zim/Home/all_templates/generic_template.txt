@@ -5,8 +5,8 @@ Creation-Date: 2018-08-02T21:29:11-04:00
 ====== generic template ======
 Created Thursday 02 August 2018
 
-generic template version: Friday 31 2018 09:50:26 PM
-(command to get timestamp: date '+%A %W %Y %X' )
+generic template version: Monday 08/06/18 10:14:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[Home:all templates]]
@@ -40,8 +40,8 @@ This page is a template used to create wiki generic pages in this study guide. P
 * note 3
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[RHCSA:alphabetical list of essential tools:B:binary location]] 1:
-* [[RHCSA:alphabetical list of essential tools:B:binary location]] 2:
+* [[RHCSA:alphabetical list of essential tools:B:binary location|binary location]] 1:
+* [[RHCSA:alphabetical list of essential tools:B:binary location|binary location]] 2:
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1:

@@ -15,12 +15,12 @@ In example 5, we will create several files, and try to include them in a tar arc
 
 Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/tar/tar-compress_ex005]]
-* Create the following files using the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] command:
+* Create the following files using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command:
 	* myfile1.mp3
 	* myfile2.mp3
 	* myfile3.mp3
 	* myfile4.mp4
-* Change directory ([[cd]]) to go up one level
+* Change directory ([[Home:RHCSA:alphabetical list of essential tools:C:cd]]) to go up one level
 * Compress tar-compress_ex005 to an archive called tar-compress_ex005.tar.gz, but exclude myfile4.mp4
 * Note that only myfile1.mp3, myfile2.mp3, and myfile3.mp3 were added to the archive
 

@@ -24,7 +24,7 @@ Created Tuesday 10 July 2018
 * RHCSA - examples N/A
 
 **Relevant RHCSA links:**
-* [[+tasks]]
+* [[+exam:objectives:tasks]]
 * [[+exam]]
 
 **Relevant RHCSA notes**

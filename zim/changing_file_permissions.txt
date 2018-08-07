@@ -5,11 +5,11 @@ Creation-Date: 2018-07-11T19:16:41-04:00
 ====== changing file permissions ======
 Created Wednesday 11 July 2018
 
-[[Home:RHCSA:exam:objectives:004 - create and configure file systems:permissions]]
+[[Home:RHCSA:exam:objectives:tasks:004 - create and configure file systems:permissions]]
 
-changing file permissions with [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:chmod]]
+changing file permissions with Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:chmod
 * File permissions are also known as access modes.  
-* Changing the permission of a file is done using the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:chmod]] command.
+* Changing the permission of a file is done using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:chmod command.
 * Tis is the general syntax for chmod:
 	* //chmod ?-permissions filename//
 * In the sample chmod command above, the ? is replaced with one of the letters below:

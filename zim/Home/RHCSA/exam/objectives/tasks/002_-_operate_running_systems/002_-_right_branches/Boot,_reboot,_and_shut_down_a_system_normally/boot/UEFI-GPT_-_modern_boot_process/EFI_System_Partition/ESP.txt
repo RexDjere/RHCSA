@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T21:59:50-04:00
+
+====== ESP ======
+Created Monday 06 August 2018
+
+[[EFI System Partition]]
+
+See: [[EFI System Partition]]

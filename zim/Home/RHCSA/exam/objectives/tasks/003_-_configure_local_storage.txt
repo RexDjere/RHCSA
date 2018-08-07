@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:40:59-04:00
+
+====== 003 - configure local storage ======
+Created Tuesday 10 July 2018
+
+[[tasks]]
+
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 003.mm]]
+
+003 - configure local storage
+* [[+003 - left branches]]
+* [[+003 - right branches]]
+* [[+partitions]]
+* [[+logical volumes]]

@@ -6,7 +6,7 @@ Creation-Date: 2018-08-02T11:10:26-04:00
 Created Thursday 02 August 2018
 
 examples template
-[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star-compress - examples]]
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star-compress - examples
 
 **Summary**
 In star-compress - example 1, we will create 15 empty files, and compress them into a tar archive. We will then verify that the files were correctly archived.
@@ -15,12 +15,12 @@ Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001a]]
 * Create 15 empty files using the touch commmand: climate_assessment.001.data though climate_assessment015.data : 
 	* __touch climate_assessment.{001..015}.data__
-* Roll up all 15 files into a tar archive named climate_assessments.tar with the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star]] command: 
+* Roll up all 15 files into a tar archive named climate_assessments.tar with the Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star command: 
 	* __star -cv -f=climate_assessments.tar climate_assessment.{001..015}.data__
 * Verify that the tar archive actually contains all 15 files:
-	* Go up 1 level using the [[cd]] command: //cd ..//
+	* Go up 1 level using the [[Home:RHCSA:alphabetical list of essential tools:C:cd]] command: //cd ..//
 	* Create a new directory using the [[mkdir]] command: //mkdir star-compress_ex001b//
-	* Copy climate_assessments.tar to the new directory using the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp]] command:
+	* Copy climate_assessments.tar to the new directory using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp command:
 		* __cp star-compress_ex001a/climate_assessments.tar star-compress_ex001b__
 * cd to star-compress_ex001b and decompress climate_assessments.tar. You should get back the 15 files in the star-compress_ex001b folder:
 	* cd to star-compress_ex001b: __cd star-compress_ex001b__

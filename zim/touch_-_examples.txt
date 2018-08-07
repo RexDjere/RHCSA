@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T00:53:11-04:00
 ====== touch - examples ======
 Created Wednesday 11 July 2018
 
-[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]]
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch
 
 touch - examples
 * [[touch - example 001]]

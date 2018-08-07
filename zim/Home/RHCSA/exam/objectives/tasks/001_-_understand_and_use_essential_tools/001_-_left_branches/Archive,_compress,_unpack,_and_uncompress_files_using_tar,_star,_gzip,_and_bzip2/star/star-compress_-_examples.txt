@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T21:14:39-04:00
+
+====== star-compress - examples ======
+Created Saturday 14 July 2018
+
+001 - understand and use essential toolsxxxxssswww:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star
+
+**Summary**
+In general, 001 - understand and use essential toolsxxxxssswww:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star command is used to compress files and folers into an archive using the -c option. 
+* The star -c command compresses the named files and/or directories in a tarfile.  The c in -c stands for create, as in create the tar archive.
+* When the command is invoved, the desired name of the tar archive is also given.  This done with the -f flag  or the -file flag
+* If the user wants detailed information as to what is going on during the compression, they can invoke the -v flag (v stands for verbose).
+
+So a complete star compression command might look something like this:
+* star -cv -f=tarfilename input_file1 input_file2........
+
+star-compress - examples
+* [[star-compress - example 1]]
+* [[star-compress - example 2]]
+
+{{./pasted_image.png}}

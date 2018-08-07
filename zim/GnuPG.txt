@@ -5,6 +5,6 @@ Creation-Date: 2018-07-11T19:25:45-04:00
 ====== GnuPG ======
 Created Wednesday 11 July 2018
 
-[[Home:RHCSA:exam:objectives:004 - create and configure file systems:encryption]]
+[[Home:RHCSA:exam:objectives:tasks:004 - create and configure file systems:encryption]]
 
 [[GnuPG]] stands for GNU Privacy Guard.  It is a free software implementation of the [[gpg:OpenPGP]] standard defined in [[https://www.ietf.org/rfc/rfc4880.txt|RFC4880.]] [[GnuPG]] is one utility that can be used to encrypt files, folders, and messages in Unix-like computer operating systems, such as Linux.

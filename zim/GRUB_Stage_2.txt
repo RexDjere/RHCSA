@@ -5,4 +5,4 @@ Creation-Date: 2018-07-19T01:15:33-04:00
 ====== GRUB Stage 2 ======
 Created Thursday 19 July 2018
 
-[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 3 - GRUB]]
+Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 3 - GRUB

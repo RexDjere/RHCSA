@@ -20,7 +20,7 @@ Tasks:
 
 {{./pasted_image001.png}}
 	* As expected, it failed. The correct command is this: su -c "adduser test_user"
-	* We will run the correct command, and we will use this command to verify that test_user was created: [[cat]] [[/etc/passwd]] | [[grep]] test_user
+	* We will run the correct command, and we will use this command to verify that test_user was created: [[C:cat]] [[/etc/passwd]] | [[grep]] test_user
 {{./pasted_image002.png}}
 	* Now, we will set a password for test_user: this_is_not_a_strong_password_12345
 	* Again, we will first try to do it without admin privileges, expecting it to fail:

@@ -10,14 +10,14 @@ Created Sunday 15 July 2018
 **Summary**
 The primary function of the [[stat]] utility is to return files attributes of a given [[inode]]. In example 1, we will run stat to see the attributes of a simple text file.
 
-In previous examples, we have used the [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]] command to create empty files. In this example, we will try something a little bit different: we will create a new file with content using the [[echo]] command.
+In previous examples, we have used the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command to create empty files. In this example, we will try something a little bit different: we will create a new file with content using the [[echo]] command.
 
 Tasks
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/stat/stat_ex001]]
 * Note: in this example I used wildcards to my advantage.  Instead of typing out the entire name of departmental_report.txt, I used a wildcard shortcut: d*
 * Creat a new file called departmental_report.txt with the echo command:
 	* The content of the file will be: Departmental Report - July 8th, 2027
-* View the contents of the new file using the [[cat]] command.
+* View the contents of the new file using the [[Home:RHCSA:alphabetical list of essential tools:C:cat]] command.
 * View the status of departmental_report.txt using [[stat]].
 
 {{./pasted_image.png}}

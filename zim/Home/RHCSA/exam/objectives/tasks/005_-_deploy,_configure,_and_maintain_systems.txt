@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:41:08-04:00
+
+====== 005 - deploy, configure, and maintain systems ======
+Created Tuesday 10 July 2018
+
+[[tasks]]
+
+[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 005.mm]]
+
+005 - deploy, configure, and maintain systems
+* [[+005 - left branches]]
+* [[+005 - right branches]]
+* [[+software installation]]
+* [[+software update]]
+* [[+core services]]

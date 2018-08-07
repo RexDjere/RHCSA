@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T22:42:51-04:00
+
+====== files ======
+Created Tuesday 10 July 2018
+
+
+
+files
+* [[+tty]]
+* [[+touch]]
+* [[alphabetical list of essential tools:C:cp]]
+* [[+mv]]
+* [[+rm]]
+* [[+ls]]
+* [[alphabetical list of essential tools:C:chmod]]
+* [[alphabetical list of essential tools:C:chown]]
+* [[+text files - search]]
+* [[+text files - view]]

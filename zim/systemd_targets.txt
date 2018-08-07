@@ -13,8 +13,8 @@ The systemd target files are kept in [[/lib/systemd/system]] directory. There ar
 * runlevel1.target through runlevel8.target have equivalent files which perform their same function. For example, poweroff.target performs the same function as runlevel0.target.
 
 The 8 main .target files can be seen as follows:
-* [[cd]] [[/lib/systemd/system]]
-* [[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls]] run*.target emerg*.target
+* [[Home:RHCSA:alphabetical list of essential tools:C:cd]] [[/lib/systemd/system]]
+* Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls run*.target emerg*.target
 * The results are show in **Figure 1** below:
 
 **Figure 1 - the eight main systemd target files**

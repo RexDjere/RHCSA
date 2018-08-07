@@ -5,6 +5,6 @@ Creation-Date: 2018-07-10T22:57:09-04:00
 ====== grep ======
 Created Tuesday 10 July 2018
 
-[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:text files - search]]
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:text files - search
 tasks template
 alphabetical list of essential tools

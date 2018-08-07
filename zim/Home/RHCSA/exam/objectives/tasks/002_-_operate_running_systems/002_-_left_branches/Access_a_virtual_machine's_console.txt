@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T18:35:00-04:00
+
+====== Access a virtual machine's console ======
+Created Wednesday 11 July 2018
+
+generic template version: Friday 31 2018 09:50:26 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+002 - operate running systemsX:002 - left branches:002 - left branches
+
+**KYWRD:** console
+
+**Summary**
+On Fedora and CentOS, I access the console using virt-manager. In this article, I'll explain how I use the console on a virtual machine.
+
+**console:**
+* console - function: a console is a text-based window that allow you to send receive messages with the Linux kernel.
+* console - description: To use the console, I first have to create a virtual machine.  My operating system of choice is Centos since it is very similar to RHEL.
+	* I went through the steps to get a virtual machine running here: [[Install Red Hat Enterprise Linux systems as virtual guests]]
+	* In this article, we will interact with the virtual machine's console in the examples below.
+* console - options-flags N/A
+* [[+console - examples]] 
+
+**Relevant console links:**
+* https://en.wikipedia.org/wiki/Linux_console
+
+**Relevant console notes**
+* N/A
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* bash: /usr/bin/bash
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* bash: /usr/share/man/man1/bash.1.gz /usr/share/info/bash.info.gz
+
+
+**Relevant console Screenshots**
+Paste any relevant screenshots here.

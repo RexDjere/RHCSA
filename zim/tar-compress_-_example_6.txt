@@ -36,7 +36,7 @@ Tasks (NOTE: in examples, terminal commands are __highlighted__):
 
 {{./pasted_image001.png}}
 	* After compresson, Sync.tar.bz2 was 30.8 GB.
-	* Statistics([[Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar]] did not give me this info, I compiled and calculated all of it myself using File Properties):
+	* Statistics(Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar did not give me this info, I compiled and calculated all of it myself using File Properties):
 		* Compression Ratio = Ucompressed Size/Compressed Size = 33.3 GB/30.8 GB = 1.0812:1
 		* Space Savings = 1 - Compressed Size/Uncompressed Size = 1 - 30.8 GB/33.3 GB = 0.075075075 = 7.507505708 %
 		* Total Time to Compress: 06:11:22 PM EDT - 03:37:19 PM EDT = 2 hours 34 minutes 3 seconds

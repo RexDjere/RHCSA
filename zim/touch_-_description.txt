@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T00:53:08-04:00
 ====== touch - description ======
 Created Wednesday 11 July 2018
 
-[[Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch]]
+Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch
 
 touch is used to change file timestamps and to create new empty files.
 
