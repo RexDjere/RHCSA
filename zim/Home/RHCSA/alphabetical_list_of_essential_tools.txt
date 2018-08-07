@@ -7,7 +7,7 @@ Created Tuesday 31 July 2018
 
 exam:objectives:objectives:001 - understand and use essential tools
 tasks template
-[[alphabetical list of essentials tools - sources]]
+[[+alphabetical list of essentials tools - sources]]
 [[TODO LIST]]
 
 
@@ -21,6 +21,7 @@ This is an alphabetically list of essential Linux tools.
 
 **alphabetical list of essential tools:**
 * [[+A:addr2line|addr2line]]
+* [[+A:addgroup|addgroup]]
 * [[+A:adduser|adduser]]
 * [[+A:alias|alias]] , [[unalias]]
 * [[+A:apropos|apropos]]
@@ -32,6 +33,7 @@ This is an alphabetically list of essential Linux tools.
 * [[+B:badblocks|badblocks]]
 * [[+B:bash|bash]]
 * [[+B:bg|bg]] , [[fg]]
+* [[+B:binary location]]
 * [[+B:bunzip2|bunzip2]]
 * [[+B:bzip2|bzip2]]
 --------------------
@@ -202,7 +204,7 @@ This is an alphabetically list of essential Linux tools.
 --------------------
 * [[read]]
 * [[readelf]]
-* [[reboot]]
+* [[exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:reboot]]
 * [[rename]]
 * [[renice]]
 * [[exam:objectives:001 - understand and use essential tools:files:rm]]

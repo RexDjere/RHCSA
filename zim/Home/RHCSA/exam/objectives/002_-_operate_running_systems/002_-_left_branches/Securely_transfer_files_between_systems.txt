@@ -11,7 +11,7 @@ generic template version: Friday 31 2018 09:50:26 PM
 [[Home]]
 [[Home:all templates]]
 [[Home:TODO LIST]]
-[[objectives:002 - operate running systems:002 - left branches]]
+
 
 **KYWRD:** file transfer
 

@@ -5,7 +5,7 @@ Creation-Date: 2018-07-19T01:15:29-04:00
 ====== GRUB Stage 1 ======
 Created Thursday 19 July 2018
 
-[[BIOS-MBR - legacy boot process:legacy boot process - stage 3 - GRUB]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 3 - GRUB]]
 
 **Summary**
 When [[GRUB]] loads, it loads its first stage from the Master Boot Record (MBR).  This MBR is located withing the first 512 bytes of the boot medium (typically the computers main hard drive). Once GRUB's first stage is loaded, it loads stage 1.5.

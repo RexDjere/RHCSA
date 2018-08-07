@@ -19,7 +19,7 @@ adduser is used to create a new user account, and to modify user account setting
 
 * adduser - description
 
-adduser [[binary location]]: adduser: /usr/sbin/adduser
+adduser [[B:binary location]]: adduser: /usr/sbin/adduser
 adduser [[man location]]: adduser: /usr/share/man/man8/adduser.8.gz
 
 **adduser:**
@@ -39,8 +39,8 @@ adduser [[man location]]: adduser: /usr/share/man/man8/adduser.8.gz
 * note 3
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[binary location]] 1:
-* [[binary location]] 2:
+* [[B:binary location]] 1:
+* [[B:binary location]] 2:
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1:

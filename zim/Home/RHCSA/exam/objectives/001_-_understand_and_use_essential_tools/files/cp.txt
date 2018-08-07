@@ -18,6 +18,6 @@ tasks template
 * [[cp - description]]
 * [[cp - examples]]
 
-cp [[binary location]]:
+cp [[alphabetical list of essential tools:B:binary location]]:
 cp [[man location]]:
 

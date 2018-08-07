@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-17T21:28:49-04:00
-
-====== UEFI-GPT - modern boot process ======
-Created Tuesday 17 July 2018
-
-[[boot]]

@@ -5,7 +5,7 @@ Creation-Date: 2018-07-18T16:24:47-04:00
 ====== CMOS ======
 Created Wednesday 18 July 2018
 
-[[BIOS]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS]]
 
 **Summary**
 [[CMOS]] stands for [[Complemetary Metal-Oxide-Semiconductor]]. The primary function of CMOS is to store the BIOS configuration settings. More information about CMOS can be found here: https://www.computerhope.com/issues/ch001360.htm

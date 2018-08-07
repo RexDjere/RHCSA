@@ -5,7 +5,7 @@ Creation-Date: 2018-07-19T02:41:13-04:00
 ====== systemd ======
 Created Thursday 19 July 2018
 
-[[BIOS-MBR - legacy boot process:legacy boot process - stage 5 - Init]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 5 - Init]]
 [[systemd targets]]
 
 **Summary**

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T17:10:51-04:00
+
+====== BIOS Boot Handoff ======
+Created Wednesday 18 July 2018
+
+:Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS
+
+**Summary**
+Once the Power On Self Test ([[POST]]) has completed with a "PASS" status, :Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS begins the actually process of initializing the computer's hardware. BIOS detects and maps connected disks. Once it finds the desired boot disk  (the preferred boot disk settings are typically stored in the [[CMOS]] on the computer's motherboard), the [[Boot Loader]] (generally GRUB on Linux systems) loads the operating system kernel into memory, and cedes control to the kernel.
+
+**So the entire process can be summarized as follows:**
+* The BIOS tests the computer's hardware during the Power On Self Test (POST) based on the BIOS settings stored in CMOS.
+* If the test passes, the BIOS hands off control to the Boot Loader (GRUB).  
+* GRUB loads the operating system kernel into memory, and hands off control to the kernel. 
+* The kernel then loads the rest of the computer operating system (user space programs).
+

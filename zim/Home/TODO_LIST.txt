@@ -17,4 +17,4 @@ TODO LIST
 * [[RHCSA:alphabetical list of essential tools:A:addr2line]] and [[RHCSA:alphabetical list of essential tools:A:adduser]] articles need to be beefed up a lot more.
 * Standardize every page in the wiki to that it complies with its appropriate template.
 * Read https://ask.fedoraproject.org/en/question/9584/while-using-libvirt-how-can-i-use-a-location-other-than-varliblibvirtimages-to-store-my-images/
-* Add screenshot of VM ping failure to [[objectives:002 - operate running systems:002 - left branches:Access a virtual machine's console:console - examples:console - example 2]]
+* Add screenshot of VM ping failure to objectivesX:002 - operate running systems:002 - left branches:Access a virtual machine's console:console - examples:console - example 2

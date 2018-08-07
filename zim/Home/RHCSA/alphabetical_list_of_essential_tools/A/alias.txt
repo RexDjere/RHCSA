@@ -16,5 +16,5 @@ tasks template
 * alias - description
 * alias - examples
 
-alias [[binary location]]: 
+alias [[B:binary location]]: 
 alias [[man location]]:

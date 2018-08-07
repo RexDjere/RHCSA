@@ -5,7 +5,7 @@ Creation-Date: 2018-07-18T16:02:12-04:00
 ====== BIOS ======
 Created Wednesday 18 July 2018
 
-[[BIOS-MBR - legacy boot process]]
+:Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:legacy boot process - stage 1 - BIOS
 
 **Summary**
 BIOS stands for Basic Input-Output System. It consists of a special chip on a computer's mothboard that holds instructions that guide the loading of basic computer hardware. 

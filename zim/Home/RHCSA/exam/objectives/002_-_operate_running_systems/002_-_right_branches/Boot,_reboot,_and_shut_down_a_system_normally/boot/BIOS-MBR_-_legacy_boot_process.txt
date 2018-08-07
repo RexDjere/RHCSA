@@ -13,8 +13,7 @@ The start-up process for all IBM-compatible personal computers can take one of t
 **High-Level Overview**
 The BIOS-MBR - legacy boot process is composed of the following steps:
 * The personal computer is turned on by hitting the power on switch.
-* The [[BIOS]] ([[Basic Input-Output System]]) initializes the hardware.
-
+* The BIOS initializes the hardware.
 
 In Linux, the legacy boot process generally has 6 stages:
 * [[+legacy boot process - stage 1 - BIOS]]

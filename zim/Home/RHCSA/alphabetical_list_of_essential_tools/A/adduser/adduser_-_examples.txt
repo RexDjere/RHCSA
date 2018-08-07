@@ -19,7 +19,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 In the adduser examples, we will walk through some of the uses of the adduser command.
 
 **adduser - examples:**
-* [[adduser - example 1]] : adding a new user in a [[CentOS]] virtual machine.
+* [[+adduser - example 1]] : adding a new user in a [[CentOS]] virtual machine.
 * adduser - example 2 : briefly describe example 2.
 * adduser - example 3 : briefly describe example 3.
 

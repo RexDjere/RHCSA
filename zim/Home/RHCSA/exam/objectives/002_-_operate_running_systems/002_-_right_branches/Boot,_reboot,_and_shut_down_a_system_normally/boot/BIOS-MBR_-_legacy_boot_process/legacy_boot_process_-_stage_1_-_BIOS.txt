@@ -10,4 +10,4 @@ Created Wednesday 18 July 2018
 **Summary**
 BIOS controls the first couple of steps in the legacy boot process:
 1. The Power On Self Test ([[POST]]).
-2. The [[BIOS Boot Handoff]].
+2. The [[+BIOS:BIOS Boot Handoff]].

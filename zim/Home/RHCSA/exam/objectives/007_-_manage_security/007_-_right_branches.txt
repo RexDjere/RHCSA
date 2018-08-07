@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:11:21-04:00
 ====== 007 - right branches ======
 Created Monday 16 July 2018
 
-[[objectives:007 - manage security]]
+
 
 007 - right branches
 * [[Restore default file contexts]]

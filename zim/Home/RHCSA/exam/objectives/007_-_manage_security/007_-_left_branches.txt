@@ -5,7 +5,7 @@ Creation-Date: 2018-07-16T12:11:13-04:00
 ====== 007 - left branches ======
 Created Monday 16 July 2018
 
-[[objectives:007 - manage security]]
+
 
 007 - left branches
 * [[Configure firewall settings using firewall-config, firewall-cmd, or iptables]]

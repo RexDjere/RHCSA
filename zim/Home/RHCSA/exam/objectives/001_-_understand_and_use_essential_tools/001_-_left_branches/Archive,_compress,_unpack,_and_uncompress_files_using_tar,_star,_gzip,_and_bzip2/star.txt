@@ -22,7 +22,7 @@ star
 * [[+star-unpack - examples]]
 * [[star-uncompress - examples]]
 
-star [[binary location]]: star: /usr/bin/star
+star [[alphabetical list of essential tools:B:binary location]]: star: /usr/bin/star
 
 star [[man location]]: star: /usr/share/man/man5/star.5.gz /usr/share/man/man1/star.1.gz
 

@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T21:28:49-04:00
+
+====== UEFI-GPT - modern boot process ======
+Created Tuesday 17 July 2018
+
+[[boot]]
+
+**Summary**
+The UEFI-GPT - modern boot process is more complicated than the older [[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process|BIOS-MBR - legacy boot process]]. In this article, I will walk you through how the UEFI boot process works.
+
+**Steps**
+1. GRUC loads itself into memory in 3 stages:
+	a. Stage 1: 
+		* UEFI reads the partition table of the boot device.
+		* UEFI mounts the EFI System Partition (ESP).
+	b. Stage 2:
+		* The grub.efi bootloader is loaded into memory from [[/boot/efi/EFI/redhat/]]
+	c. Stage 3:
+		* GRUB determines which operating system to start
+		* GRUB loads the operating system into memory
+		* GRUB transers control of the computer to that operating system
+
+References:
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/installation_guide/s2-grub-whatis-booting-uefi
+
+

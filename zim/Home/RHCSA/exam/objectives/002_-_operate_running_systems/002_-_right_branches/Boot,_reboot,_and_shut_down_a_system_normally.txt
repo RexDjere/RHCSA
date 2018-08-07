@@ -5,7 +5,9 @@ Creation-Date: 2018-07-17T21:21:12-04:00
 ====== Boot, reboot, and shut down a system normally ======
 Created Tuesday 17 July 2018
 
+[[002 - right branches]]
+
 Boot, reboot, and shut down a system normally
-* [[boot]]
-* [[reboot]]
-* [[shut down]]
+* [[+boot]]
+* [[+reboot]]
+* [[+shut down]]

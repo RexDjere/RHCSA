@@ -17,7 +17,7 @@ generic template version: Friday 31 2018 09:50:26 PM
 **KYWRD:** gzip
 
 **Summary**
-gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-c`ompress - example 1]] for more details.
+gzip compresses the named file using the [[Lempel-Ziv coding]] ([[LZ77]]), la ossless compression algorithm  using variable-rate coding created in 1977 by [[+gzip-compress:Abraham Lempel]] and [[Jacob Ziv]]. gzip compression is also employed when the -z flag option is applied to the [[tar]] command. See [[tar-c`ompress - example 1]] for more details.
 
 **gzip:**
 * gzip - function: gzip, gunzip, zcat − compress or expand files using [[Lempel-Ziv coding]].
@@ -37,7 +37,7 @@ gzip [[man location]]:
 * N/A
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[binary location]]: gzip: [[/usr/bin/gzip]]
+* [[alphabetical list of essential tools:B:binary location]]: gzip: [[/usr/bin/gzip]]
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1: gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz

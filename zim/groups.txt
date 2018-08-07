@@ -10,5 +10,5 @@ tasks template
 alphabetical list of essential tools
 
 groups
-* [[addgroup]]
+* [[Home:RHCSA:alphabetical list of essential tools:A:addgroup]]
 * [[delgroup]]

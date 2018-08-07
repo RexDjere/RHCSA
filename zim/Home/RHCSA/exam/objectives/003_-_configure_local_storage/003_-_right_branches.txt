@@ -5,7 +5,7 @@ Creation-Date: 2018-07-13T13:14:43-04:00
 ====== 003 - right branches ======
 Created Friday 13 July 2018
 
-[[objectives:003 - configure local storage]]
+
 
 003 - right branches
 * [[+List, create, delete partitions on MBR and GPT disks]]

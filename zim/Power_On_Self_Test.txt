@@ -5,6 +5,6 @@ Creation-Date: 2018-07-18T16:08:31-04:00
 ====== Power On Self Test ======
 Created Wednesday 18 July 2018
 
-[[BIOS]]
+[[Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS]]
 
 See [[POST]].

@@ -30,7 +30,7 @@ The Virtual Machine Manager is a software application that allows one to manage 
 * N/A
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[binary location]] 1: virt-manager: /usr/bin/virt-manager /usr/share/virt-manager
+* [[alphabetical list of essential tools:B:binary location]] 1: virt-manager: /usr/bin/virt-manager /usr/share/virt-manager
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1: virt-manager: /usr/share/man/man1/virt-manager.1.gz
