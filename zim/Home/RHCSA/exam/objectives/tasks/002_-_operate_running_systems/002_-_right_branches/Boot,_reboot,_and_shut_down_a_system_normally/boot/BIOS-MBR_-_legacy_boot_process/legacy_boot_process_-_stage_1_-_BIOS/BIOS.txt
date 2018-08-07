@@ -16,8 +16,8 @@ One of the functions of BIOS is to perform a test each time that the personal co
 **BIOS - functions**
 The BIOS is tasked with performing four main functions:
 * POST -  A test of the computer's hardware to ensure that the computer system is ready to boot. If the POST passes, the computer operating system is allowed to load.
-* [[alphabetical list of essential tools and terms:B:Bootstrap Loader]] - The Boostrap Loader's job is to locate the computer's operating system on disk.  If the BIOS locates a bootable computer operating system, the Bootstrap Loader will pass control of the computer's startup process to that operating system.
+* [[alphabetical list of essential tools and terms:A-E:B:Bootstrap Loader]] - The Boostrap Loader's job is to locate the computer's operating system on disk.  If the BIOS locates a bootable computer operating system, the Bootstrap Loader will pass control of the computer's startup process to that operating system.
 * BIOS - The BIOS consists of low-level drivers and software that allow the computer's operating system to communicate with the computer's hardware. BIOS is the first program to run each time the computer is turned on.
-* CMOS Setup - [[alphabetical list of essential tools and terms:C:CMOS]] stands for [[alphabetical list of essential tools and terms:C:Complemetary Metal-Oxide-Semiconductor]]. The primary function of CMOS is to store the BIOS configuration settings.
+* CMOS Setup - [[alphabetical list of essential tools and terms:A-E:C:CMOS]] stands for [[alphabetical list of essential tools and terms:A-E:C:Complemetary Metal-Oxide-Semiconductor]]. The primary function of CMOS is to store the BIOS configuration settings.
 
 

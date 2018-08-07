@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:51:41-04:00
+
+====== H ======
+Created Sunday 05 August 2018
+
+H:
+* [[hdparm]]
+* [[head]] , [[tail]]
+* [[history]]
+* [[host]]
+* [[hostname]]
+* [[htop]] , [[top]]

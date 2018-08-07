@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T18:53:26-04:00
 ====== utility - description ======
 Created Thursday 02 August 2018
 
-[[link]] to parent command goes here (for example, if this is page is [[Home:RHCSA:alphabetical list of essential tools and terms:C:cp:cp - description]], then this link would go to Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp)
+[[link]] to parent command goes here (for example, if this is page is [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:C:cp:cp - description]], then this link would go to Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp)
 utilities description template
 
 **Summary**

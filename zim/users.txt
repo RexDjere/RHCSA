@@ -14,4 +14,4 @@ users
 * [[passwd]]
 * [[whoami]]
 * [[who]]
-* [[deluser]]
+* [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:deluser]]

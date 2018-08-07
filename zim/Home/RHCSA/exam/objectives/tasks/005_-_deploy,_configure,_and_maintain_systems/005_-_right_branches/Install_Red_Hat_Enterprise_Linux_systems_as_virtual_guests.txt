@@ -17,7 +17,7 @@ I decided to go with the Minimal ISO because it would give me the biggest opport
 I clicked on Minimal ISO, and chose the top mirror: 
 {{./pasted_image001.png?width=800}}
 
-The download was 906 MB, so you'll want to make sure that you have enough room for it on your host computer. I had plenty of space: about 258 GB free in my home directory.  I found this out using the [[df]] -BG command.  See [[df:df - examples:df - example 1]] for more info on this. 
+The download was 906 MB, so you'll want to make sure that you have enough room for it on your host computer. I had plenty of space: about 258 GB free in my home directory.  I found this out using the [[alphabetical list of essential tools and terms:A-E:D:df]] -BG command.  See [[alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - example 1]] for more info on this. 
 
 For a virtualization platform, I decided to use the preferred virtualization manager in the Red Hat: [[KVM]]. I already had the main package, qemu-kvm installed, but I had to install virt-manager. For this demo, I decided to uninstall qemu-kvm first so that you could see the entire installation process. Now, I am going to install KVM, and all of its dependencies, by using the dnf command.  On a Red Hat or Centos system, you will probably use the yum command instead. Here is the command I will use (it has to be run as root, so I use su -c):
 * su -c "dnf install qemu-kvm qemu-img virt-manager libvirt libvirt-python libvirt-client virt-install virt-viewer" 
@@ -61,6 +61,6 @@ It is now time to create the Centos 7 virtual machine:
 	* I hit "Begin Installation".
 	* WARNING: depending on how modern your pc is, the "performing post-installation setup tasks" could take a very long time. It took several minutes on my system.
 	* After the installation was complete, I hit "Reboot".
-	* I am proud to present my [[Home:RHCSA:alphabetical list of essential tools and terms:C:CentOS]] 7 virtual machine below:
+	* I am proud to present my [[alphabetical list of essential tools and terms:A-E:C:CentOS]] 7 virtual machine below:
 
 {{./pasted_image006.png?width=800}}

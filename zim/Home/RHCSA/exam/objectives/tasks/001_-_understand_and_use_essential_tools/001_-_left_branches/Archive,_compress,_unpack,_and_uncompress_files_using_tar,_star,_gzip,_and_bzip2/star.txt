@@ -11,7 +11,7 @@ Created Wednesday 11 July 2018
 The name star comes from standard tape archiver.  The star utility is very similar to the Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar utility, but it provides improved functionality. The star utility is better designed to work in an [[Security-Enhanced Linux]] ([[SELinux]]) environment. Star may not be installed on your system by default (it was not installed on my Fedora system).  To install it, I had to issue the following command:
 * su -c "dnf install star"
 
-On [[alphabetical list of essential tools and terms:C:CentOS]] or [[Red Hat Enterprise Linux]], the appropriate install command will probably be this:
+On [[alphabetical list of essential tools and terms:A-E:C:CentOS]] or [[Red Hat Enterprise Linux]], the appropriate install command will probably be this:
 * su -c "yum install star"
 
 star

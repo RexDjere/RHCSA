@@ -5,7 +5,7 @@ Creation-Date: 2018-07-19T00:52:35-04:00
 ====== Second-Stage Boot Loader ======
 Created Thursday 19 July 2018
 
-[[Home:RHCSA:alphabetical list of essential tools and terms:B:Boot Loader]]
+[[Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Boot Loader]]
 
 **Summary**
 The job of the Second-Stage Boot Loader is to load the operating system kernel, and to then tranfer system control to that knernel.

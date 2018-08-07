@@ -12,7 +12,7 @@ Created Tuesday 31 July 2018
 This TODO list archive helps me keep track of what TODO tasks were completed in the past.
 
 TODO LIST
-* Add option descriptions to [[df:df - options]] .
+* Add option descriptions to [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - options]] .
 * ~~Add KVM article and link to KVM article in Install Red Hat Enterprise Linux systems as virtual guests . (started working on this 7/31/18)(completed 7/31/18)~~
 * ~~Read https://www.linux-kvm.org/page/HOWTO_BONDING~~
 * ~~Read http://www.linux-kvm.org/page/Networking~~

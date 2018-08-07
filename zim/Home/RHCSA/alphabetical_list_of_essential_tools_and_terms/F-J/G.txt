@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:48:13-04:00
+
+====== G ======
+Created Sunday 05 August 2018
+
+G:
+* [[g++]]
+* [[gawk]]
+* [[gcc]]
+* [[gdb]]
+* [[git]] , [[tig]]
+* [[gpg]]
+* [[gphoto2]]
+* [[grep]] , [[A-E:E:egrep]]
+* [[+G:groupadd|groupadd]]
+* [[groups]]
+* [[gunzip]]
+* gzip

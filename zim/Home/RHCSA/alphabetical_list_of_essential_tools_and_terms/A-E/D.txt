@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:47:36-04:00
+
+====== D ======
+Created Sunday 05 August 2018
+
+[[A-E]]
+
+D:
+* [[+date|date]]
+* [[+dd|dd]]
+* [[+declare|declare]]
+* [[+delgroup|delgroup]]
+* [[+deluser|deluser]]
+* [[+df|df]]
+* [[+dhclient|dhclient]]
+* [[+diff|diff]]
+* [[+dig|dig]]
+* [[+diskboot.img|diskboot.img]]
+* [[+dmesg|dmesg]]
+* [[+dmidecode|dmidecode]]
+* [[+dnf|dnf]]
+* [[+dpkg|dpkg]]
+* [[+du|du]]

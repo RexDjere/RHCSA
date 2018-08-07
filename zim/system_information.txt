@@ -8,7 +8,7 @@ Created Tuesday 10 July 2018
 command-line environments
 
 system information
-* [[df]]
+* [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df]]
 * [[free]]
 * [[top]]
 * [[uname]]

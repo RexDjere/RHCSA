@@ -8,4 +8,4 @@ Created Wednesday 11 July 2018
 :objectives:001 - understand and use essential tools:Access a shell prompt and issue commands with correct syntax:001 - understand and use essential tools:001 - right branches
 
 **Summary**
-Linux offers several ways of accessing a [[alphabetical list of essential tools and terms:C:command line interface]].  From a graphical environment such as Gnome or KDE, the Linux system administrator can use a terminal emulator such as Xterm, Konsole or GNOME Terminal.
+Linux offers several ways of accessing a [[alphabetical list of essential tools and terms:A-E:C:command line interface]].  From a graphical environment such as Gnome or KDE, the Linux system administrator can use a terminal emulator such as Xterm, Konsole or GNOME Terminal.

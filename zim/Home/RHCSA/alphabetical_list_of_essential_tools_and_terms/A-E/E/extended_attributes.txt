@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T13:01:01-04:00
+
+====== extended attributes ======
+Created Tuesday 17 July 2018
+
+generic template version: Monday 08/06/18 10:14:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[Home:all templates]]
+[[Home:TODO LIST]]
+[[star example 2]]
+[[E]]
+
+**KYWRD:** extended attributes
+
+**Summary**
+Extended file attributes are attibutes in a Linux filesystem that go beyond the common attributes such as file permissions.  Extended attributes are often called EA of xattrs. 
+
+The extended attributes on Linux have four namespaces:
+* user
+* trusted
+* security - The security namespace is used by SELinux.
+* system 
+
+**extended attributes:**
+* extended attributes - function: extended attributes (EA) allow system users to associate files with metadata that is not interpreted by the Linux filesystem.
+* extended attributes - description: N/A
+* extended attributes - options-flags N/A
+* extended attributes - examples N/A
+**Relevant extended attributes links:**
+* https://en.wikipedia.org/wiki/Extended_file_attributes
+
+**Relevant extended attributes notes**
+* N/A
+
+**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
+* [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: attr: [[/usr/bin/attr]]
+* [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2: getfattr: [[/usr/bin/getfattr]]
+* [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 3: setfattr: [[/usr/bin/setfattr]]
+
+**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
+* [[man location]] 1: attr: /usr/share/man/man5/attr.5.gz /usr/share/man/man1/attr.1.gz
+* [[man location]] 2: getfattr: /usr/share/man/man1/getfattr.1.gz
+* [[man location]] 3: setfattr: /usr/share/man/man1/setfattr.1.gz
+
+**Relevant extended attributes Screenshots**
+N/A
+
+
+
+
+

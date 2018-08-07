@@ -10,7 +10,7 @@ Created Sunday 15 July 2018
 **Summary**
 The primary function of the [[stat]] utility is to return files attributes of a given [[inode]]. In example 1, we will run stat to see the attributes of a simple text file.
 
-In previous examples, we have used the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command to create empty files. In this example, we will try something a little bit different: we will create a new file with content using the [[echo]] command.
+In previous examples, we have used the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command to create empty files. In this example, we will try something a little bit different: we will create a new file with content using the [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:E:echo]] command.
 
 Tasks
 * Navigate to [[~/Sync/PROJECTS/RHCSA/examples/stat/stat_ex001]]

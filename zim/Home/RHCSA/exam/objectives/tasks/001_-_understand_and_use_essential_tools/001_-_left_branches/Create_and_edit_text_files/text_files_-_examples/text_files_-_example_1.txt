@@ -16,7 +16,7 @@ examples template version: Friday 31 2018 10:09:02 PM
 **KYWRD:** text files
 
 **Summary**
-In text files - example 1, we will create some simple empty text files on our [[alphabetical list of essential tools and terms:C:CentOS]] VM using the [[files:touch]], [[mkdir]], [[files:ls]] and all templates:options template:alphabetical list of essential tools:C:cd commands.
+In text files - example 1, we will create some simple empty text files on our [[alphabetical list of essential tools and terms:A-E:C:CentOS]] VM using the [[files:touch]], [[mkdir]], [[files:ls]] and all templates:options template:alphabetical list of essential tools:C:cd commands.
 
 **text files - tasks **(command line commands are __highlighted__)**:**
 * Open the Virtual Machine Manager and startup your RHEL/CentOS virtual machine.

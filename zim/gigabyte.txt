@@ -5,10 +5,10 @@ Creation-Date: 2018-07-30T21:25:42-04:00
 ====== gigabyte ======
 Created Monday 30 July 2018
 
-[[df:df - examples:df - example 1]]
+[[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - example 1]]
 
 **Summary**
-1 gigabyte (GB) of space listed in the [[du]] and [[df]] utlilities equals all of the following:
+1 gigabyte (GB) of space listed in the [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:du]] and [[Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df]] utlilities equals all of the following:
 * 1 [[gigibyte]] 
 * 2^30 bytes
 * 1024^3 bytes

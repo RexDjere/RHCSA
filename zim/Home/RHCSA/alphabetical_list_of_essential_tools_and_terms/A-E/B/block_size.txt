@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-28T00:09:52-04:00
+
+====== block size ======
+Created Saturday 28 July 2018
+
+[[stat example 3]]
+[[B]]
+
+**Summary**
+A block is a series of data of fixed length (e.g. 4kB, 8kB etc.). The block size of a filesystem in Linux can be found using the Home:RHCSA:alphabetical list of essential tools:B:blockdev command. For examples:
+* blockdev --getbsz [[/dev/sda1]] (this command must be run with root privileges => su -c "blockdev --getbsz [[/dev/sda1"]])

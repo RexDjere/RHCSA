@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T19:48:29-04:00
+
+====== df - example 1 ======
+Created Monday 30 July 2018
+
+[[:Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - examples]]
+
+**Summary**
+In df - example 1, we will display the size of our mounted filesystems in units of 1K-blocks (the default), and in 1GB-blocks using the [[:Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df]] command.
+* We will use the df command with no options to display sizes in [[+1K-blocks]].
+* We will use the df -BG command to display sizes in [[+1G-blocks]]. df -BG tells df to use a blocksize unit of 1 GB (1 [[GiB]] of storage capacity).
+
+By default, the [[:Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df]] command displays filesystem size information in units of 1K-blocks.
+* Each 1K-block = 1024 bytes.
+* 1 GB = 1 [[gigibyte|GiB]] of storage capacity.
+* 1 [[GiB]] equals 2^30 bytes which equals 1,073,741,824 bytes.
+
+So here is the conversion:
+1K-block/1024 bytes x 1,073,741,824 bytes/GB = __1,048,576 1K-blocks/1 GB__
+{{./pasted_image.png?width=600}}
+
+So let us assume that I issues the following command at a terminal prompt:
+* df
+* df returns the size of his [[/home]] filesystem as 431,378,504 1K-blocks
+* So the file system size in GB is calculated as follows:
+	* 431,378,504 1K-blocks x 1 GB /(1,048,576 1K-blocks) = __411.394599915 GB__
+	* **NOTE: **when using the df -BG option, df always rounds up to the nearest whole number. So it would report 411.394599915 GB as 412 GB.
+{{./pasted_image001.png?width=600}}
+
+Finally, let's look at the terminal output running df and df -BG respectively.
+
+**df**
+{{./pasted_image003.png}}
+
+**df -BG**
+{{./pasted_image004.png}}

@@ -8,7 +8,7 @@ Created Tuesday 31 July 2018
 [[KVM]]
 
 **Summary**
-A virtual machine is a computer system that is emulated in sofware, as opposed to a physical computer system. A virtual machine typically runs as a guest on a physical host machine. For example, a physical computer running the [[Fedora]] computer operating system could host a virtual machine running the [[alphabetical list of essential tools and terms:C:CentOS]] computer operating system. The virtual machine would run on [[+virtualization software]] such as [[KVM]].
+A virtual machine is a computer system that is emulated in sofware, as opposed to a physical computer system. A virtual machine typically runs as a guest on a physical host machine. For example, a physical computer running the [[Fedora]] computer operating system could host a virtual machine running the [[alphabetical list of essential tools and terms:A-E:C:CentOS]] computer operating system. The virtual machine would run on [[+virtualization software]] such as [[KVM]].
 
 More information on virtual machines can be found here:
 https://en.wikipedia.org/wiki/Virtual_machine

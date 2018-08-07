@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-19T22:44:08-04:00
-
-====== command line interface ======
-Created Thursday 19 July 2018
-
-**Summary**
-In contrast to the [[graphical user interface]] ([[GUI]]), the command line interface provides a text-based method for the Linux system administrator to interact with the Linux computer.
