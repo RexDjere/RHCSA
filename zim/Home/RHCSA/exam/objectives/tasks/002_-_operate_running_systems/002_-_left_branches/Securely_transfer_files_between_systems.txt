@@ -16,7 +16,7 @@ generic template version: Friday 31 2018 09:50:26 PM
 **KYWRD:** file transfer
 
 **Summary**
-The most commonly used program for securely transferring files between Linux systems is [[scp.]]
+The most commonly used program for securely transferring files between Linux systems is scp.
 
 **file transfer:**
 * file transfer - function: File transfer utilities move files securely between Linux systems.

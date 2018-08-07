@@ -5,5 +5,5 @@ Creation-Date: 2018-07-31T02:35:57-04:00
 ====== list of essential tools ======
 Created Tuesday 31 July 2018
 
-[[objectives:001 - understand and use essential tools]]
+objectives:001 - understand and use essential tools
 

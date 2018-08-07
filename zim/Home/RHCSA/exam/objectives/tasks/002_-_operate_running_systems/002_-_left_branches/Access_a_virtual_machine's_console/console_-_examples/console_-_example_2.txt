@@ -16,7 +16,7 @@ examples template version: Friday 31 2018 10:09:02 PM
 **KYWRD:** console
 
 **Summary**
-In [[console - example 1]], we unsuccessfully tried to get networking working on a [[CentOS]] virtual machine inside KVM.  Then I read this article: http://www.linux-kvm.org/page/Networking It gave me a different approach to getting networking working: simply starting the virtual machine (VM) from the command line without any networking options (e.g. qemu-system-x86_64 -hda [[/path/to/hda.img]]), In this example, I will use this technique to try to get networking working on my [[CentOS]] VM.
+In [[console - example 1]], we unsuccessfully tried to get networking working on a [[alphabetical list of essential tools and terms:C:CentOS]] virtual machine inside KVM.  Then I read this article: http://www.linux-kvm.org/page/Networking It gave me a different approach to getting networking working: simply starting the virtual machine (VM) from the command line without any networking options (e.g. qemu-system-x86_64 -hda [[/path/to/hda.img]]), In this example, I will use this technique to try to get networking working on my [[alphabetical list of essential tools and terms:C:CentOS]] VM.
 
 The first thing that I needed to find out isd where the virtual machine image file actually exists in my filesystem. It turns out that KVM VM images reside in this directory (navigating to this directory requires root privileges): admin:///var/lib/libvirt/images/  So on your system, your KVM VM files have a .qcow2 extension. Mine was called centos7.0.qcow2 (See Figure 1 in the Screenshots section). So the path to my VM image is [[/var/lib/libvirt/images/centos7.0.qcow2]] . We will need this a little bit later.
 
@@ -34,7 +34,7 @@ So again, taking direction from [[http://www.linux-kvm.org/page/Networking|here,
 		* my VM started right up (see Figures 3 and 4)
 		* I tested networking by pinging one of the Google-controlled ip addresses: 8.8.8.8 (ping 8.8.8.8) Result: failure. Not of the sent packets of data were returned. So though I sucessfully started the VM, it still cannot connect to the Internet..
 
-In console - example 3, I will continue trying to get a working Internet connection on the [[CentOS]] VM.
+In console - example 3, I will continue trying to get a working Internet connection on the [[alphabetical list of essential tools and terms:C:CentOS]] VM.
 
 **Relevant console Screenshots**
 Figure 1 - The VM image file for my Centos virtual machine
@@ -43,5 +43,5 @@ Figure 2 - starting VM fails - connection refused
 {{./pasted_image001.png}}
 Figure 3 - success starting up the VM
 {{./pasted_image002.png}}
-Figure 4 - [[CentOS]] sucessfully starting up after issuing command line commands.
+Figure 4 - [[alphabetical list of essential tools and terms:C:CentOS]] sucessfully starting up after issuing command line commands.
 {{./pasted_image003.png}}

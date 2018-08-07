@@ -10,12 +10,12 @@ Created Tuesday 10 July 2018
 [[Home:all templates]]
 [[TODO LIST]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
-[[+alphabetical list of essential tools]]
++alphabetical list of essential tools
 
 **KYWRD:** RHCSA
 
 **Summary**
-[[RHCSA]] is an acronym for [[Red Hat Certified System Administrator]], an IT industy certification offered by [[Red Hat]] Corporation. RHCSA is an entry-level certification that certifies that the associated RHCSA professional has demonstrated a minimum level of proficiency administering [[Red Hat Enterprise Linux]], and/or equivalent computer operating systems (e.g. [[CentOS]]). The certification exam for RHCSA is hands on and focused testing whether the prospective RHCSA has achieved the core competencies required to successfully administer, install, and configure [[Red Hat Enterprise Linux]] ([[RHEL]]).
+[[RHCSA]] is an acronym for [[Red Hat Certified System Administrator]], an IT industy certification offered by [[Red Hat]] Corporation. RHCSA is an entry-level certification that certifies that the associated RHCSA professional has demonstrated a minimum level of proficiency administering [[Red Hat Enterprise Linux]], and/or equivalent computer operating systems (e.g. [[+alphabetical list of essential tools and terms:C:CentOS]]). The certification exam for RHCSA is hands on and focused testing whether the prospective RHCSA has achieved the core competencies required to successfully administer, install, and configure [[Red Hat Enterprise Linux]] ([[RHEL]]).
 
 **RHCSA:**
 * RHCSA - function: Provide competent certified Linux professionals to industry.

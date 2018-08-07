@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T10:15:06-04:00
+
+====== cp - examples ======
+Created Thursday 02 August 2018
+
+[[cp]]
+
+**Summary**
+In this article, we will show examples of how the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp utility is used.
+
+cp examples:
+* [[+cp - example 1]]
+* [[+cp - example 2]]
+* [[+cp - example 3]]
+

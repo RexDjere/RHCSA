@@ -11,7 +11,7 @@ tasks template
 [[Home:all templates:generic template]]
 [[Home:all templates]]
 [[Home:TODO LIST]]
-[[Home:RHCSA:alphabetical list of essential tools]]
+Home:RHCSA:alphabetical list of essential tools
 
 
 **KYWRD:** gunzip

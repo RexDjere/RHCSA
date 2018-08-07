@@ -1,13 +1,15 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-07-16T12:11:21-04:00
+Creation-Date: 2018-07-16T12:11:13-04:00
 
 ====== 007 - right branches ======
 Created Monday 16 July 2018
 
-
+[[007 - manage security]]
 
 007 - right branches
-* [[Restore default file contexts]]
-* [[Use boolean settings to modify system SELinux settings]]
-* [[Diagnose and address routine SELinux policy violations]]
+* [[+Configure firewall settings using firewall-config, firewall-cmd, or iptables]]
+* [[+Configure key-based authentication for SSH]]
+* [[+Set enforcing and permissive modes for SELinux]]
+* [[+List and identify SELinux file and process context]]
+

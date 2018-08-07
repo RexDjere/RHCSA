@@ -6,7 +6,7 @@ Creation-Date: 2018-07-10T23:04:22-04:00
 Created Tuesday 10 July 2018
 
 [[system information]]
-[[Install Red Hat Enterprise Linux systems as virtual guests]]
+[[Home:RHCSA:exam:objectives:tasks:005 - deploy, configure, and maintain systems:005 - right branches:Install Red Hat Enterprise Linux systems as virtual guests]]
 tasks template
 alphabetical list of essential tools
 

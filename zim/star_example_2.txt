@@ -27,7 +27,7 @@ Tasks (NOTE: in examples, terminal commands are __highlighted__):
 * **PART 1**
 	* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex002/star-compress_002a]]
 	* Create 20 new files: service_request001 to service_request020.
-	* Change the [[SELinux]] security context of the 20 files to httpd_sys_content using the [[chcon]] command.
+	* Change the [[SELinux]] security context of the 20 files to httpd_sys_content using the [[Home:RHCSA:alphabetical list of essential tools and terms:C:chcon]] command.
 	* View the SELinux security context of the 20 files.
 * **PART 2**
 	* Use star to compress the 20 files into a tar archive named service_requests_folder.tar.
@@ -47,7 +47,7 @@ Tasks:
 * **PART 1**
 	* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex002/star-compress_002b]]
 	* Create 20 new files: service_request001 to service_request020.
-	* Change the [[SELinux]] security context of the 20 files to httpd_sys_content using the [[chcon]] command.
+	* Change the [[SELinux]] security context of the 20 files to httpd_sys_content using the [[Home:RHCSA:alphabetical list of essential tools and terms:C:chcon]] command.
 	* View the SELinux security context of the 20 files.
 
 **PART 1**

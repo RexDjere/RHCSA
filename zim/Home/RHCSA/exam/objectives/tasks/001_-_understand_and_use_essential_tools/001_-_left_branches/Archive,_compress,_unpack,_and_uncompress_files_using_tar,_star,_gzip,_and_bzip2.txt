@@ -12,6 +12,6 @@ Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 * [[+tar]]
 * [[+star]]
 * [[+gzip]]
-* [[alphabetical list of essential tools:B:bzip2|+bzip2]]
+* +bzip2
 
 

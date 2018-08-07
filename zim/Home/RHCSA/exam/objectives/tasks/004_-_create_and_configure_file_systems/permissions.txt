@@ -8,4 +8,4 @@ Created Tuesday 10 July 2018
 [[004 - create and configure file systems:004 - create and configure file systems]]
 
 permissions
-* [[changing file permissions]]
+* [[alphabetical list of essential tools and terms:C:chmod:changing file permissions]]

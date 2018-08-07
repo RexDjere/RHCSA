@@ -21,7 +21,7 @@ On Fedora and CentOS, I access the console using virt-manager. In this article, 
 **console:**
 * console - function: a console is a text-based window that allow you to send receive messages with the Linux kernel.
 * console - description: To use the console, I first have to create a virtual machine.  My operating system of choice is Centos since it is very similar to RHEL.
-	* I went through the steps to get a virtual machine running here: [[Install Red Hat Enterprise Linux systems as virtual guests]]
+	* I went through the steps to get a virtual machine running here: [[005 - deploy, configure, and maintain systems:005 - right branches:Install Red Hat Enterprise Linux systems as virtual guests]]
 	* In this article, we will interact with the virtual machine's console in the examples below.
 * console - options-flags N/A
 * [[+console - examples]] 

@@ -20,7 +20,7 @@ Tasks (NOTE: in examples, terminal commands are __highlighted__):
 	* myfile2.mp3
 	* myfile3.mp3
 	* myfile4.mp4
-* Change directory ([[Home:RHCSA:alphabetical list of essential tools:C:cd]]) to go up one level
+* Change directory (Home:RHCSA:alphabetical list of essential tools:C:cd) to go up one level
 * Compress tar-compress_ex005 to an archive called tar-compress_ex005.tar.gz, but exclude myfile4.mp4
 * Note that only myfile1.mp3, myfile2.mp3, and myfile3.mp3 were added to the archive
 

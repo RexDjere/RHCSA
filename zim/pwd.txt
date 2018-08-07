@@ -5,6 +5,6 @@ Creation-Date: 2018-07-10T22:59:27-04:00
 ====== pwd ======
 Created Tuesday 10 July 2018
 
-[[objectives:001 - understand and use essential tools:directories]]
+objectives:001 - understand and use essential tools:directories
 tasks template
 alphabetical list of essential tools

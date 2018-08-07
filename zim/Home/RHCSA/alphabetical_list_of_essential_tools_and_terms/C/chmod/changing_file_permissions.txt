@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T19:16:41-04:00
+
+====== changing file permissions ======
+Created Wednesday 11 July 2018
+
+[[chmod]]
+
+changing file permissions with [[chmod]]:
+* File permissions are also known as access modes.  
+* Changing the permission of a file is done using the [[chmod]] command.
+* Tis is the general syntax for chmod:
+	* //chmod ? -permissions filename//
+* In the sample chmod command above, the ? is replaced with one of the letters below:
+	* u: the user that owns the file.
+	* g: the group associated with the file.
+	* o:  all system users not covered by u or g above.
+	* a: all of the above.  a is the equivalent of ugo.

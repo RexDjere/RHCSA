@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-16T12:03:42-04:00
-
-====== Configure systems to boot into a specific target automatically ======
-Created Monday 16 July 2018
-
-[[Home:RHCSA:exam:objectives:tasks:005 - deploy, configure, and maintain systems:005 - right branches]]

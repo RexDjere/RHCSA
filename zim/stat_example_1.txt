@@ -17,7 +17,7 @@ Tasks
 * Note: in this example I used wildcards to my advantage.  Instead of typing out the entire name of departmental_report.txt, I used a wildcard shortcut: d*
 * Creat a new file called departmental_report.txt with the echo command:
 	* The content of the file will be: Departmental Report - July 8th, 2027
-* View the contents of the new file using the [[Home:RHCSA:alphabetical list of essential tools:C:cat]] command.
+* View the contents of the new file using the Home:RHCSA:alphabetical list of essential tools:C:cat command.
 * View the status of departmental_report.txt using [[stat]].
 
 {{./pasted_image.png}}

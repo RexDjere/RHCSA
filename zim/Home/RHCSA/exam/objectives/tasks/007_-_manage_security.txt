@@ -10,7 +10,7 @@ Created Tuesday 10 July 2018
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA exam objective 007.mm]]
 
 007 - manage security
-* [[+007 - left branches]]
 * [[+007 - right branches]]
+* [[+007 - left branches]]
 * [[+basic firewall configuration]]
 * [[+SELinux configuration]]

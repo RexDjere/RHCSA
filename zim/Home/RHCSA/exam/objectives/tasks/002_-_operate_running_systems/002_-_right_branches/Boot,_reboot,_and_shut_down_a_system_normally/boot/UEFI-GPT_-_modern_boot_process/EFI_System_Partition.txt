@@ -33,7 +33,7 @@ The EFI System Partition (ESP) is a hard drive partition which stores files that
 * N/A
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[RHCSA:alphabetical list of essential tools:B:binary location|binary location]] 1: efibootmgr: /usr/sbin/efibootmgr
+* binary location 1: efibootmgr: /usr/sbin/efibootmgr
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1: efibootmgr: /usr/share/man/man8/efibootmgr.8.gz

@@ -23,7 +23,7 @@ gzip can only compress one file at a time.  You can compress multiple files like
 **gzip - tasks **(command line commands are __highlighted__)**:**
 1. Navigate to [[~/Sync/PROJECTS/RHCSA/examples/gzip/gzip-compress_ex001]]
 2. Create a new directory called my_libreoffice_files: __mkdir my_libreoffice_files__
-3. [[alphabetical list of essential tools:C:cd]] to my_libreoffice_files and create myodt.1.odt through myodt.8.odt => __touch myodt.{1..8}.odt__
+3. all templates:options template:alphabetical list of essential tools:C:cd to my_libreoffice_files and create myodt.1.odt through myodt.8.odt => __touch myodt.{1..8}.odt__
 4. Move up one level (__cd ..__), and compress all of the .odt files using this command: __gzip -r my_libreoffice_files__
 5. Note that myodt.1.odt.gz through myodt.8.odt.gz are created inside my_libreoffice_files
 6. Note that the compressed version of the files replaces the original versions.

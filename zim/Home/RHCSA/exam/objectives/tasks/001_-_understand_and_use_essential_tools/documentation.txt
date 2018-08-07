@@ -5,7 +5,7 @@ Creation-Date: 2018-07-10T22:42:59-04:00
 ====== documentation ======
 Created Tuesday 10 July 2018
 
-[[:objectives:001 - understand and use essential tools:001 - understand and use essential tools]]
+:objectives:001 - understand and use essential tools:001 - understand and use essential tools
 
 documentation
 * [[man]]

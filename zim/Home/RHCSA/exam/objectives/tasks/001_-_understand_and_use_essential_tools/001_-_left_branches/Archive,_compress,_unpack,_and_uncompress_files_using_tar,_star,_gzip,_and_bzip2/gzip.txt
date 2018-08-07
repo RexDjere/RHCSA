@@ -37,7 +37,7 @@ gzip [[man location]]:
 * N/A
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[alphabetical list of essential tools:B:binary location]]: gzip: [[/usr/bin/gzip]]
+* all templates:options template:alphabetical list of essential tools:B:binary location: gzip: [[/usr/bin/gzip]]
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1: gzip: /usr/share/man/man1/gzip.1.gz /usr/share/info/gzip.info.gz

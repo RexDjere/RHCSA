@@ -40,8 +40,8 @@ This page is a template used to create wiki generic pages in this study guide. P
 * note 3
 
 **Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* [[RHCSA:alphabetical list of essential tools:B:binary location|binary location]] 1:
-* [[RHCSA:alphabetical list of essential tools:B:binary location|binary location]] 2:
+* binary location 1:
+* binary location 2:
 
 **Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
 * [[man location]] 1:

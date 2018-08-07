@@ -10,7 +10,7 @@ Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Bo
 **Summary**
 When [[GRUB]] loads, it loads its first stage from the Master Boot Record (MBR).  This MBR is located withing the first 512 bytes of the boot medium (typically the computers main hard drive). Once GRUB's first stage is loaded, it loads stage 1.5.
 
-GRUB Stage 1 is associated with the file [[boot.img]] located in the Master Boot Record ([[MBR]]) of the boot hard disk.  The MBR is contained in Sector 0 of the boot hard disk.
+GRUB Stage 1 is associated with the file [[Home:RHCSA:alphabetical list of essential tools and terms:B:boot.img]] located in the Master Boot Record ([[MBR]]) of the boot hard disk.  The MBR is contained in Sector 0 of the boot hard disk.
 
 More information on Grub Stage 1 can be found here:
 https://www.ibm.com/developerworks/library/l-bootload/index.html

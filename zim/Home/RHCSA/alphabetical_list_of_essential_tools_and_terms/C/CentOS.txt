@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T18:27:32-04:00
+
+====== CentOS ======
+Created Monday 16 July 2018
+
+[[C]]
+
+**Summary**
+CentOS stands for Community Enterprise Operating System. CentOS is built from the open source software packages that are used to build [[Red Hat Enterprise Linux]] ([[RHEL]]). A specified version of CentOS is virtually 100% compatible with the same version number of RHEL. For example, someone wanting to learn RHEL 7.3 could download and install CentOS 7.3, and the experience would almost be completely identical to the RHEL experience.  Using RHEL requires the computer user to pay a support fee to Red Hat, while CentOS can be downloaded and installed for free. This makes CentOS very attractive to people who want to learn RHEL on a tight budget.
+
+More information about CentOS can be found at the links below:
+* https://www.centos.org/
+* https://en.wikipedia.org/wiki/CentOS
+
+

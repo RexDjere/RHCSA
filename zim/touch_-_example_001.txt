@@ -19,6 +19,6 @@ Tasks:
 	* dept_hardware_agents.html
 * List all of the file in your current working directory using Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls to ensure that all 5 files were correctly created.
 * Your boss wants a text file report to show her superiors proving that all 5 files were created.  Create a file named report.txt in the same directory with this proof.
-* Use the [[Home:RHCSA:alphabetical list of essential tools:C:cat]] command to view the contents of report.txt
+* Use the Home:RHCSA:alphabetical list of essential tools:C:cat command to view the contents of report.txt
 
 {{./pasted_image001.png}}

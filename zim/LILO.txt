@@ -10,7 +10,7 @@ tasks template
 alphabetical list of essential tools
 
 **Summary**
-LILO stands for [[Linux Loader]].  LILO is a Linux [[Boot Loader]] that was the most popular Linux Boot Loader before [[GRUB]] took over. LILO is still used, but it is no longer in active development.
+LILO stands for [[Linux Loader]].  LILO is a Linux [[Home:RHCSA:alphabetical list of essential tools and terms:B:Boot Loader]] that was the most popular Linux Boot Loader before [[GRUB]] took over. LILO is still used, but it is no longer in active development.
 
 To learn more about LILO, visit here:
 https://en.wikipedia.org/wiki/LILO_(boot_loader)

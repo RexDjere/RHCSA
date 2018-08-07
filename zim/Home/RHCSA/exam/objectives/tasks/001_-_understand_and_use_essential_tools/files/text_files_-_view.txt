@@ -8,6 +8,6 @@ Created Tuesday 10 July 2018
 [[files]]
 
 text files - view
-* [[alphabetical list of essential tools:C:cat]]
+* all templates:options template:alphabetical list of essential tools:C:cat
 * [[nano]]
 * [[less]]

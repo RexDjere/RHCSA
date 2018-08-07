@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-12T14:02:23-04:00
+
+====== block sorting text compression algorithm ======
+Created Thursday 12 July 2018
+
+[[Burrows-Wheeler algorithm]]
+[[B]]
+
+block sorting text compression algorithm
+* considers text in blocks
+* then reorders text
+* then compresses text

@@ -9,6 +9,6 @@ Created Tuesday 10 July 2018
 
 directories
 * [[pwd]]
-* [[alphabetical list of essential tools:C:cd]]
+* all templates:options template:alphabetical list of essential tools:C:cd
 * [[mkdir]]
-* [[alphabetical list of essential tools:C:cp]]
+* all templates:options template:alphabetical list of essential tools:C:cp
