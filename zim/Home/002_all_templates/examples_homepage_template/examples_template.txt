@@ -5,16 +5,18 @@ Creation-Date: 2018-08-03T22:51:53-04:00
 ====== examples template ======
 Created Friday 03 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/07/18 07:50:30 PM
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/08/18 11:14:15 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 relevant backlink 1
 relevant backlink 2
 
 **KYWRD:** type the kywrd here.
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
 
 **Summary**
 This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:

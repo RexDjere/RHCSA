@@ -5,6 +5,7 @@ Creation-Date: 2018-07-31T03:28:29-04:00
 ====== vi ======
 Created Tuesday 31 July 2018
 
+[[Home]]
 tasks template
 alphabetical list of essential tools
 [[V]]

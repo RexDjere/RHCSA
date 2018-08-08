@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T13:08:12-04:00
+
+====== ip - options-flags ======
+Created Wednesday 08 August 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ip]]
+
+**KYWRD:** ip
+**RHCSA Objective: **5a. Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+This article lists the options for the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] command.
+
+**ip - options:**
+* -V, -Version: prints the current version of the ip utility and exits.
+* --h, -human, -human-readable: outputs stats with human resdable values followed by suffix.
+* -b, -batch <FILENAME>: reads commands from a given file or standard input and runs them.
+* -force: Don't terminate ip on errors when in batch mode. Errors will cause ip to issue a non-zero exit code when it completes.
+* -s, -stats, -statistics: ip gives more statistical information on output. If option appeears twice or more, the amount of info given increases.
+* -d, -details: ip gives more detailed information.
+* -l, -loops <COUNT>: ip specifies the maximum number of loops that the "ip address flush" logic will attempt before giving up. The default value is 100. Zero (0) means loop until all addresses are removed.
+* -f, -family <FAMILY>: tells ip the protocol family to use, any one of the following:
+	* inet
+	* inet5
+	* brigge
+	* ipx
+	* dnet
+	* mpls
+	* link
+	* if none of the above options are given, ip will try to guess based on other arguments. If ip cannot make a good guess, it will default to inet or any. link is a special family identifier meaning that no networking protocol is involved.
+* -4: shortcut for -family inet.
+* -6: shortcut for -family inet6.
+* -B: shortcut for -family bridge.
+* -D: shortcut for -family decnet.
+* -I: shortcut for -family ipx.
+* -M: shortcut for -family mpls.
+* -0 (zero, not the letter O): shortcut for -family link.
+* -o, -oneline: tells ip to output each record on a single line replacing line feed with the character "\" => makes it easier to count records with wc or grep.
+* -r, -resolve: tells ip to use the system's name resolver to print DNS names instead of host ip addresses.
+* -n, -netns <NETNS>: switches ip to the NETNS network namespace.
+* -a, -all: executes the given command over all available objects (Note: __ip -a__ does not work. You have to use __ip a.__
+* -c, -color: tells ip to use a color output.
+* -t, -timestamp: tells ip to display the current time when using the monitor option.
+* -ts, -tshort: like -timestamp, but with a shorter format.-rc, -rcvbuf: tells ip to set the netlink socket receive buffer size, defaults to iMB.
+* -iec: tells ip to print human readable rates in IEC units (e.g. 1Ki = 1024).
+* -br, -brief: tells ip to print only basic info in a tabular format for better readability => applies to ip addr show and ip link show commands.
+
+**Relevant ip Screenshots**
+{{./pasted_image.png}}

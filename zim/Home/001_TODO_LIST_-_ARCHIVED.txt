@@ -18,4 +18,6 @@ TODO LIST
 * ~~Add appropriate links to the false and true commands.~~
 * ~~all templates:options template:alphabetical list of essential tools:A:addr2line and all templates:options template:alphabetical list of essential tools:A:adduser articles need to be beefed up a lot more.~~
 * ~~Read https://ask.fedoraproject.org/en/question/9584/while-using-libvirt-how-can-i-use-a-location-other-than-varliblibvirtimages-to-store-my-images/~~
+* ~~Read https://unix.stackexchange.com/questions/134483/why-is-my-ethernet-interface-called-enp0s10-instead-of-eth0~~
+* ~~Read https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/~~
 

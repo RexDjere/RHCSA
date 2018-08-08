@@ -11,6 +11,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[F-J]]
 
 **Summary**
@@ -18,12 +19,19 @@ All commands, utilities and terms starting with the letter I are sub-pages to th
 
 **I:**
 * [[+id]]
+* [[+IETF]]
 * [[+ifconfig]]
 * [[+ifdown]]
 * [[+ifup]]
 * [[+import]]
 * [[+info]] 
+* [[+initial RAM disk]]
+* [[+initrd]]
+* [[+inode]]
 * [[+iostat]]
 * [[+ip]]
+* [[+iproute2]]
 * [[+iptables]]
+* [[+ishal]]
 * [[+ispell]]
+* [[+iwconfig]]

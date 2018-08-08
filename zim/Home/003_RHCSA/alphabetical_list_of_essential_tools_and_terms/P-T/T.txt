@@ -21,6 +21,7 @@ All commands, utilities and terms starting with the letter T are sub-pages to th
 * [[+tail]] , [[F-J:H:head]]
 * [[+talk]]
 * [[+tar]]
+* [[+tc]]
 * [[+tcpdump]]
 * [[+tee]]
 * [[+telnet]]
