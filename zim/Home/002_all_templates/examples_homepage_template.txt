@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T20:03:40-04:00
 ====== examples homepage template ======
 Created Thursday 02 August 2018
 
-Monday 08/06/18 10:50:39 PM
+[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]

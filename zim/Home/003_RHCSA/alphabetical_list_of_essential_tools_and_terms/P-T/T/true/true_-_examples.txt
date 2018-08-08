@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T19:26:52-04:00
+
+====== true - examples ======
+Created Tuesday 07 August 2018
+
+[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[true]]
+
+**See also: **[[F-J:F:false:false - examples]]
+
+**KYWRD:** true
+
+**Summary**
+These examples will show how the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:true|true]] command is used.
+
+**true - examples:**
+* [[+true - example 1]] : In true - example 1, we will prove that the true command's exit code is alway a 0 (SUCCESS).
+* true - example 2 : briefly describe example 2.
+* true - example 3 : briefly describe example 3.
+
+**Relevant true Screenshots**
+Paste any relevant screenshots here.

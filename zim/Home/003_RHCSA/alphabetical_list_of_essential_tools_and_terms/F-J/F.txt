@@ -11,7 +11,7 @@ F:
 * [[+false|false]] , [[P-T:T:true]]
 * [[+fdisk]]
 * [[+Fedora]]
-* [[+fg]] , +B:bg
+* [[+fg]] , [[A-E:B:bg]]
 * [[+fifo]]
 * [[+file]]
 * [[+find]]

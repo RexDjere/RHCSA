@@ -5,7 +5,7 @@ Creation-Date: 2018-07-15T16:54:12-04:00
 ====== touch - example 005 ======
 Created Sunday 15 July 2018
 
-[[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch -a deep dive]]
+[[touch -a deep dive]]
 [[T]]
 
 In touch - example 005, we will see how the touch -a command can be used to change the access time and change time of files and folers to the current time

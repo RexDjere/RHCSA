@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-07T16:24:58-04:00
+Creation-Date: 2018-08-07T19:26:28-04:00
 
-====== false - options-flags ======
+====== true - options-flags ======
 Created Tuesday 07 August 2018
 
 [[Home:002 all templates:options template|options template]] version: Tuesday 08/07/18 07:33:46 PM
@@ -11,14 +11,14 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-[[false]]
+[[true]]
 
-**KYWRD:** false
+**KYWRD:** true
 
 **Summary**
-false is a very simple command with only two options. false does nothing, and exits with a failure exit code (1).
+true is a very simple command with only two options. true does nothing, and exits with a success exit code (0).
 
-**false - options:**
+**true - options:**
 * --help: displays help message and exits.
 * ---version: displays version information and exits.
 

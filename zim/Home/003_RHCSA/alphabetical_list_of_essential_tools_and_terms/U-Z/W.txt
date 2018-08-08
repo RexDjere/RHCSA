@@ -6,7 +6,7 @@ Creation-Date: 2018-08-05T21:50:58-04:00
 Created Sunday 05 August 2018
 
 W:
-* 
+* [[+w]]
 * [[+wall]]
 * [[+watch]]
 * [[+wc]]

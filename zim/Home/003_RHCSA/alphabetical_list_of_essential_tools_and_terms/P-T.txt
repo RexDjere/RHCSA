@@ -7,9 +7,12 @@ Created Tuesday 07 August 2018
 
 [[alphabetical list of essential tools and terms]]
 
-P-T:
-* P
-* Q
-* R
-* S
-* T
+**Summary**
+This page links to P-T pages.
+
+**P-T:**
+* [[+P]]
+* [[+Q]]
+* [[+R]]
+* [[+S]]
+* [[+T]]

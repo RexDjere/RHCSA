@@ -9,7 +9,7 @@ Created Wednesday 11 July 2018
 [[templates]]
 
 Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
-* [[+tar]]
+* [[alphabetical list of essential tools and terms:P-T:T:tar]]
 * [[+star]]
 * [[alphabetical list of essential tools and terms:F-J:G:gzip]]
 * +bzip2

@@ -5,13 +5,15 @@ Creation-Date: 2018-08-07T16:24:15-04:00
 ====== false - examples ======
 Created Tuesday 07 August 2018
 
-Monday 08/06/18 10:50:39 PM
+[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:false:false
+[[false]]
+
+**See also: **[[P-T:T:true:true - examples]]
 
 **KYWRD:** false
 
@@ -24,4 +26,4 @@ These examples will show how the false command is used.
 * false - example 3 : briefly describe example 3.
 
 **Relevant false Screenshots**
-Paste any relevant screenshots here.
+N/A

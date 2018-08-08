@@ -5,7 +5,7 @@ Creation-Date: 2018-07-14T22:17:48-04:00
 ====== regular expressions ======
 Created Saturday 14 July 2018
 
-[[T:touch - example 004]]
+[[T:touch:touch - examples:touch - example 004]]
 [[R]]
 
 A regular expression is a sequence of characters that define a search pattern.  

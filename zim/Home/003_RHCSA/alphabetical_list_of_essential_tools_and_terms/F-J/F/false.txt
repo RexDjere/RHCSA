@@ -5,18 +5,20 @@ Creation-Date: 2018-07-31T05:51:22-04:00
 ====== false ======
 Created Tuesday 31 July 2018
 
-generic template version: Monday 08/06/18 10:14:27 PM
+[[Home:002 all templates:generic template|generic template]] version: Monday Tuesday 08/07/18 07:30:30 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:F
+[[F]]
+
+**See also:** [[P-T:T:true]]
 
 **KYWRD:** false
 
 **Summary**
-The false command does nothing, and then exits with a status code indicating failure.
+The false command does nothing, and then exits with a status code indicating failure (1).
 
 **false:**
 * false - function: does nothing, and exits with failure status code.
@@ -25,28 +27,17 @@ The false command does nothing, and then exits with a status code indicating fai
 * [[+false - examples]] 
 
 **Relevant false links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/True_and_false_(commands)
+* http://www.tutorialspoint.com/unix_commands/false.htm
 
 **Relevant false notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
-**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* binary location 1:
-* binary location 2:
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: false: /usr/bin/false
 
-**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
-* Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:K-O:M:man location 1:
-* Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:K-O:M:man location 2:
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: false: /usr/share/man/man1/false.1.gz /usr/share/man/man1p/false.1p.gz
 
 **Relevant false Screenshots**
 Paste any relevant screenshots here.
-
-[[Home]]
-tasks template
-alphabetical list of essential tools
-
-

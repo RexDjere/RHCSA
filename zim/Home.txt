@@ -6,14 +6,15 @@ Creation-Date: 2018-07-10T22:28:27-04:00
 Created Tuesday 10 July 2018
 
 [[Home]]
+[[+000 TODO LIST]]
+[[+001 TODO LIST - ARCHIVED]]
 [[+002 all templates]]
-+000 TODO LIST
-+RHCSA
+[[+003 RHCSA]]
 
 **KYWRD:** Home
 
 **Summary**
-This is the homepage for this +RHCSA:alphabetical list of essential tools and terms:P-T:R:RHCSA Study Guide.  This guide is designed to prepare prospective Linux system administrators for the RHCSA exam.
+This is the homepage for the RHCSA Study Guide.  This guide is designed to prepare prospective Linux system administrators for the [[Home:003 RHCSA:RHCSA exam|RHCSA exam]].
 
 **Home:**
 * Home - function: The homepage is the starting point for this study guide.

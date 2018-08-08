@@ -13,7 +13,7 @@ touch is used to change file timestamps and to create new empty files.
 Some flags commonly used with touch:
 * -a 
 	* changes the access time
-	* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch -a deep dive]]
+	* [[touch - examples:touch -a deep dive]]
 * -m
 	* changes the modification time
 * -r
@@ -26,7 +26,7 @@ Some flags commonly used with touch:
 	* stamps file with given date (STRING) instead of actual date
 * -t
 	* timestamps file with given time instead of actual time
-	* [[touch -t deep dive]]
+	* [[touch - examples:touch -t deep dive]]
 * --time=WORD (TODO: fully understand this option)
 * --help
 	* display help text and exit

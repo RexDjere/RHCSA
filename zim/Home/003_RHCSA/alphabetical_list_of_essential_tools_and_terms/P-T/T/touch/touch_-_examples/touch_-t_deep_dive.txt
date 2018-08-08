@@ -5,7 +5,7 @@ Creation-Date: 2018-07-13T15:01:22-04:00
 ====== touch -t deep dive ======
 Created Friday 13 July 2018
 
-[[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - description]]
+[[touch:touch - description]]
 [[T]]
 
 The touch -t flag allows you to explicity set the timestamp on a file .  The systax for this is as follows:
@@ -21,7 +21,7 @@ The touch -t flag allows you to explicity set the timestamp on a file .  The sys
 	* mm is the minute
 	* ss is the second
 
-So let us put all of this information to use in [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch - example 002]] .  We will copy all of the information above to the example file to make life a little bit easier.
+So let us put all of this information to use in [[touch:touch - examples:touch - example 002]] .  We will copy all of the information above to the example file to make life a little bit easier.
 
 
 

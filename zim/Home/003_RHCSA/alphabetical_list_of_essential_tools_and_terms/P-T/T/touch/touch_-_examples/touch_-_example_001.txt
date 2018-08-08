@@ -5,7 +5,7 @@ Creation-Date: 2018-07-13T14:34:59-04:00
 ====== touch - example 001 ======
 Created Friday 13 July 2018
 
-[[touch - examples]]
+[[touch:touch - examples]]
 [[T]]
 
 One use for the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch command is to create new files that are empty.  In example 1, we will create several empty files using the touch command.

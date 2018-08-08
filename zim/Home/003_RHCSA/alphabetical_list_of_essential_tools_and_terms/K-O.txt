@@ -7,9 +7,12 @@ Created Tuesday 07 August 2018
 
 [[alphabetical list of essential tools and terms]]
 
-K-O
-* K
-* L
-* M
-* N
-* O
+**Summary**
+This page links to K-O pages.
+
+**K-O:**
+* [[+K]]
+* [[+L]]
+* [[+M]]
+* [[+N]]
+* [[+O]]

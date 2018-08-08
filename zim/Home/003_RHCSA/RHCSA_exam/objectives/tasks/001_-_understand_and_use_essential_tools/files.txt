@@ -8,8 +8,8 @@ Created Tuesday 10 July 2018
 
 
 files
-* [[+tty]]
-* [[+touch]]
+* [[alphabetical list of essential tools and terms:P-T:T:tty]]
+* [[alphabetical list of essential tools and terms:P-T:T:touch]]
 * all templates:options template:alphabetical list of essential tools:C:cp
 * [[+mv]]
 * [[+rm]]

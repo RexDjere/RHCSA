@@ -5,7 +5,7 @@ Creation-Date: 2018-07-13T14:35:04-04:00
 ====== touch - example 003 ======
 Created Friday 13 July 2018
 
-[[touch - examples]]
+[[touch:touch - examples]]
 [[T]]
 
 Regular expressions can be very helpful in shortening commands.  A regular expression is a string of text that indicates a pattern.  You can create multiple Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:touch files by typing out the name of each empty file to be created:

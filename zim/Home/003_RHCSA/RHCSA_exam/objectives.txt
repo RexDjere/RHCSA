@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T10:35:46-04:00
 ====== objectives ======
 Created Wednesday 11 July 2018
 
-Home:RHCSA:exam
+[[RHCSA exam]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 
 objectives

@@ -15,5 +15,5 @@ The links below are examples of the usage of the Home:RHCSA:exam:objectives:001 
 
 tar - examples:
 * Home:RHCSA:alphabetical list of essential tools and terms:P-T:T:tar-compress - examples
-* [[tar-unpack - examples]]
-* [[tar-uncompress - examples]]
+* [[+tar-unpack - examples]]
+* [[+tar-uncompress - examples]]

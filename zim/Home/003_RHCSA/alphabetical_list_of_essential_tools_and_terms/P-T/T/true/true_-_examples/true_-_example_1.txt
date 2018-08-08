@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T19:51:38-04:00
+
+====== true - example 1 ======
+Created Tuesday 07 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/07/18 07:50:30 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[true - examples]]
+
+**See also: **[[F-J:F:false:false - examples:false - example 1]]
+
+**KYWRD:** true
+
+**Summary**
+This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
+1. Find and Replace any occurence of true in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**true - tasks **(command line commands are __highlighted__)**:**
+* Start your CentOS VM using the Virtual Machine Manager.
+* Login as a non-root user.
+* From the command line, issue the following command: __true;echo $?__
+* Note that the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:true|true]] command exits with an exit code of 0, which means "SUCCESS".
+* From the command line, issue the following command: __false;echo $?__
+* Note that the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:false|false]] command exits with an exit code of 1, which means "FAILURE".
+
+
+**Relevant true Screenshots**
+{{./pasted_image001.png}}

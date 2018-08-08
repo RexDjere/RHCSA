@@ -5,12 +5,12 @@ Creation-Date: 2018-08-02T21:29:11-04:00
 ====== generic template ======
 Created Thursday 02 August 2018
 
-generic template version: Monday 08/06/18 10:14:27 PM
+[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
+[[000 TODO LIST]]
 [[002 all templates]]
-[[00 TODO LIST]]
 relevant backlink 1
 relevant backlink 2
 
@@ -26,8 +26,8 @@ This page is a template used to create wiki generic pages in this study guide. P
 **KEYWORD:**
 * KEYWORD - function: State the main function of the topic here.
 * KEYWORD - description: Provide a more detail description here.
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: all templates:options template]
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template: all templates:examples homepage template]
+* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[options template]]]
+* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template: [[examples homepage template]]]
 
 **Relevant KEYWORD links:**
 * link 1
@@ -39,13 +39,13 @@ This page is a template used to create wiki generic pages in this study guide. P
 * note 2
 * note 3
 
-**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* binary location 1:
-* binary location 2:
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
 
-**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
-* 1:
-* 2:
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
 
 **Relevant KEYWORD Screenshots**
 Paste any relevant screenshots here.

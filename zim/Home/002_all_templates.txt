@@ -7,8 +7,6 @@ Created Thursday 02 August 2018
 
 [[Home]]
 [[002 all templates]]
-relevant backlink 1
-relevant backlink 2
 
 **KYWRD:** templates
 
@@ -22,10 +20,10 @@ This page contains links to all of the templates available for use in this study
 * templates - examples N/A
 
 **Relevant templates links:**
-* [[+generic template]]
-* [[+options template]]
 * [[+examples homepage template]]
 * [[+examples homepage template:examples template]]
+* [[+generic template]]
+* [[+options template]]
 
 **Relevant templates notes**
 * N/A

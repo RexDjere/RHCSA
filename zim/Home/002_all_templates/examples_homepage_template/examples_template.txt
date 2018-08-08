@@ -5,8 +5,8 @@ Creation-Date: 2018-08-03T22:51:53-04:00
 ====== examples template ======
 Created Friday 03 August 2018
 
-examples template version: Friday 31 2018 10:09:02 PM
-(command to get timestamp: date '+%A %W %Y %X' )
+[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/07/18 07:50:30 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]

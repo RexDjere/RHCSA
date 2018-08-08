@@ -5,6 +5,39 @@ Creation-Date: 2018-07-31T05:55:26-04:00
 ====== true ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Monday Tuesday 08/07/18 07:30:30 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
 [[T]]
+
+**See also:** [[F-J:F:false]]
+
+**KYWRD:** true
+
+**Summary**
+The true command does nothing, and then exits with a status code indicating success (0).
+
+**false:**
+* true - function: does nothing, and exits with success status code.
+* true - description: N/A
+* [[+true - options-flags]] 
+* [[+true - examples]] 
+
+**Relevant false links:**
+* https://en.wikipedia.org/wiki/True_and_false_(commands)
+* https://linux.die.net/man/1/true
+
+**Relevant false notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: true: /usr/bin/true
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: true: /usr/share/man/man1/true.1.gz /usr/share/man/man1p/true.1p.gz
+
+**Relevant false Screenshots**
+N/A

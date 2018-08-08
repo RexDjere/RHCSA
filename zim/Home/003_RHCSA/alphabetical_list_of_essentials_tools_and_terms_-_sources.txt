@@ -11,7 +11,7 @@ TODO LIST
 **Summary**
 This is a list of sources that I used to come up with the alphabetical list of essential tools.
 
-alphabetical list of essentials tools - sources:
+**alphabetical list of essentials tools - sources:**
 * https://searchdatacenter.techtarget.com/tutorial/77-Linux-commands-and-utilities-youll-actually-use
 * https://geek-university.com/linux/essential-linux-commands/
 * https://beebom.com/essential-linux-commands/

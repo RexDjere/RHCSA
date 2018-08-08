@@ -7,13 +7,13 @@ Created Sunday 05 August 2018
 
 U:
 * [[+umount]] , [[K-O:M:mount]]
-* [[+unalias]] , [[+A:alias]]
+* [[+unalias]] , +A:alias
 * [[+uname]]
 * [[+uniq]]
 * [[+unsetenv]]
 * [[+unzip]] , [[Z:zip]]
 * [[+updatedb]]
-* uptime
+* [[+uptime]]
 * [[+useradd]]
 * [[+userdel]]
 * [[+usermod]]
