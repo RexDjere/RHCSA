@@ -16,10 +16,10 @@ examples template version: Friday 31 2018 10:09:02 PM
 **KYWRD:** gzip-compress
 
 **Summary**
-In this example, compress a single file on our [[alphabetical list of essential tools and terms:A-E:C:CentOS]] virtual machine using the gzip command.
+In this example, compress a single file on our [[A-E:C:CentOS]] virtual machine using the gzip command.
 
 **gzip-compress - tasks **(command line commands are __highlighted__)**:**
-* Startup your [[alphabetical list of essential tools and terms:A-E:C:CentOS]] VM using the .
+* Startup your [[A-E:C:CentOS]] VM using the .
 * Briefly describe task 2.
 * Briefly describe task 3.
 
