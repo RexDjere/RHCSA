@@ -5,12 +5,18 @@ Creation-Date: 2018-08-05T21:51:55-04:00
 ====== A ======
 Created Sunday 05 August 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:A-E
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[A-E]]
 
 **Summary**
-This page lists tools and terms starting with the letter A.
+All commands, utilities and terms starting with the letter A are sub-pages to this page.
 
-A:
+**A:**
 * [[+addgroup]]
 * [[+addr2line]]
 * [[+adduser]]

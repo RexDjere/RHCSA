@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T00:14:57-04:00
+
+====== who - examples ======
+Created Wednesday 08 August 2018
+
+[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[who]]
+
+**KYWRD:** who
+
+**Summary**
+These examples will demonstrate how the [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:W:who|who]] command is used.
+
+**who - examples:**
+* [[+who - example 1]] : In who - example 1, we will go through several usages of the who command.
+* who - example 2 : briefly describe example 2.
+* who - example 3 : briefly describe example 3.
+
+**Relevant who Screenshots**
+N/A

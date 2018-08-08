@@ -26,8 +26,8 @@ This page is a template used to create wiki generic pages in this study guide. P
 **KEYWORD:**
 * KEYWORD - function: State the main function of the topic here.
 * KEYWORD - description: Provide a more detail description here.
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[options template]]]
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template: [[examples homepage template]]]
+* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[Home:002 all templates:options template|options template]]]
+* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
 
 **Relevant KEYWORD links:**
 * link 1

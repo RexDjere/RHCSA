@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T00:16:02-04:00
+
+====== DNS ======
+Created Wednesday 08 August 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[D]]
+
+**KYWRD:** DNS
+
+**Summary**
+DNS stands for [[+Domain Name System]]. DNS is a hierarchical decentralized naming system for Internet-connected devices, or devices connected to a private network. DNS resolves human-readable hostnames (e.g. Google.com) in machine-readable IP addresses.
+
+**DNS:**
+* DNS - function: resolve hostnames to IP addresses.
+* DNS - description: N/A
+* DNS - options-flag N/A
+* DNS - examples N/A
+
+**Relevant DNS links:**
+* https://en.wikipedia.org/wiki/Domain_Name_System
+
+**Relevant DNS notes**
+* N/A
+
+**Associated binary files: **
+* N/A
+
+**Associated man pages: **
+* N/A
+
+**Relevant DNS Screenshots**
+N/A

@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T00:18:35-04:00
+
+====== Domain Name System ======
+Created Wednesday 08 August 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[DNS]]
+
+**KYWRD:** Domain Name System
+
+**Summary**
+See [[DNS]]
+
+**Domain Name System:**
+* Domain Name System - function: N/A
+* Domain Name System - description: N/A
+* Domain Name System - options-flags N/A
+* Domain Name System - examples N/A
+**Relevant Domain Name System links:**
+* N/A
+
+**Relevant Domain Name System notes**
+* N/A
+
+**Associated binary files: **
+* N/A
+
+**Associated man pages: **
+* N/A
+
+**Relevant Domain Name System Screenshots**
+N/A

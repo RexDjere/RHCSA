@@ -5,11 +5,32 @@ Creation-Date: 2018-07-31T02:24:46-04:00
 ====== binary location ======
 Created Tuesday 31 July 2018
 
+[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
 [[B]]
 
-**Summary**
-The location of executable files in Linux be determined using the whereis command with the -b option. For example, to find the location of the gzip executable, we would run this command:
-whereis -b
+**KYWRD:** binary location
 
-The output:
-gzip: /usr/bin/gzip
+**Summary** (terminal commands are __highlighted__)
+The location of executable files in Linux be determined using the whereis command with the -b option. For example, to find the location of the gzip executable, we would run this command:
+* whereis -b gzip
+* NOTE: the which command can also be used to list the location of a binary, but it can produce a different location than whereis -b:
+	* which gzip
+
+**The output of whereis -b gzip:**
+* gzip: /usr/bin/gzip
+
+**The output of which gzip:**
+* [[/bin/gzip]]
+
+**Relevant binary location Screenshots**
+{{./pasted_image.png}}
+
+
+
+
+

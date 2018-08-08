@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-07T23:39:57-04:00
+
+====== canonicalize ======
+Created Tuesday 07 August 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[C]]
+
+**KYWRD:** canonicalize
+
+**Summary**
+Canonicalization is the process of making data that can be presented in many forms to be presented in one standard (canonical) form.
+
+**canonicalize:**
+* canonicalize - function: N/A
+* canonicalize - description: N/A
+* canonicalize - options-flags N/A
+* canonicalize - examples N/A
+
+**Relevant canonicalize links:**
+* https://en.wikipedia.org/wiki/Canonicalization
+
+**Relevant canonicalize notes**
+* N/A
+
+**Associated binary files: **
+* N/A
+
+**Associated man pages: **
+* N/A
+
+**Relevant canonicalize Screenshots**
+N/A
+

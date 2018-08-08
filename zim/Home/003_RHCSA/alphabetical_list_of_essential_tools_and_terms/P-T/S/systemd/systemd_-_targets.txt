@@ -2,10 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-19T03:49:25-04:00
 
-====== systemd targets ======
+====== systemd - targets ======
 Created Thursday 19 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd
+[[systemd]]
 [[S]]
 
 **Summary**
@@ -13,15 +13,15 @@ The systemd target files are kept in [[/lib/systemd/system]] directory. There ar
 * runlevel1.target through runlevel8.target and emergency.target.
 * runlevel1.target through runlevel8.target have equivalent files which perform their same function. For example, poweroff.target performs the same function as runlevel0.target.
 
-The 8 main .target files can be seen as follows:
-* Home:RHCSA:alphabetical list of essential tools:C:cd [[/lib/systemd/system]]
-* Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls run*.target emerg*.target
+The 8 main .target files can be seen as follows (terminal command are __highlighted__):
+* __cd /lib/systemd/system__
+* __ls run*.target emerg*.target__
 * The results are show in **Figure 1** below:
 
 **Figure 1 - the eight main systemd target files**
 {{./pasted_image.png}}
 
-The systemd targets correspond to the old Init run levels, as shown in the record below:
+The systemd targets correspond to the old Init run levels, as shown in the record below (the systemd targets are __highlighted__ below):
 * lowest level - level 0:
 	* Init: run level 0
 	* __systemd: runlevel0.target, poweroff.target__

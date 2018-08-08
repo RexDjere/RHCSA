@@ -5,6 +5,12 @@ Creation-Date: 2018-08-07T12:27:30-04:00
 ====== F-J ======
 Created Tuesday 07 August 2018
 
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
 [[alphabetical list of essential tools and terms]]
 
 **Summary**

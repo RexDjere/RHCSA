@@ -5,12 +5,18 @@ Creation-Date: 2018-08-05T21:47:06-04:00
 ====== B ======
 Created Sunday 05 August 2018
 
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
 [[A-E]]
 
 **Summary**
-All utitlies starting with the letter B are sub-pages to this page.
+All commands, utilities and terms starting with the letter B are sub-pages to this page.
 
-B:
+**B:**
 * [[+badblocks]]
 * [[+bash]]
 * [[+bg]] , [[F-J:F:fg]]

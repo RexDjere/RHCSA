@@ -12,4 +12,4 @@ Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd
 In systemd - examples, we will give examples of how to use sytemd on live Linux systems.
 
 systemd - examples
-* Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd - example 1
+* [[+systemd - example 1]]

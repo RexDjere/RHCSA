@@ -5,9 +5,18 @@ Creation-Date: 2018-08-05T21:47:50-04:00
 ====== E ======
 Created Sunday 05 August 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:A-E
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-E:
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[A-E]]
+
+**Summary**
+All commands, utilities and terms starting with the letter E are sub-pages to this page.
+
+**E:**
 * [[+e2fsck]]
 * [[+echo]]
 * [[+ed]]
