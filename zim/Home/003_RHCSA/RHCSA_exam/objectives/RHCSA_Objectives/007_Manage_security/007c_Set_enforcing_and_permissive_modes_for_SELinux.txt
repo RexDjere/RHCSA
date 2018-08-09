@@ -1,11 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T20:03:40-04:00
+Creation-Date: 2018-08-09T09:59:04-04:00
 
-====== examples homepage template ======
-Created Thursday 02 August 2018
+====== 007c Set enforcing and permissive modes for SELinux ======
+Created Thursday 09 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Thursday 08/09/18 10:10:22 AM
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
@@ -27,19 +27,3 @@ This page is a template homepage that link to examples of how to use commands an
 **KEYWORD - examples:**
 * KEYWORD - example 1 : briefly describe example 1.
 * KEYWORD - example 2 : briefly describe example 2.
-* KEYWORD - example 3 : briefly describe example 3.
-
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
-
-**Relevant KEYWORD Screenshots**
-Paste any relevant screenshots here.
-
-
-
-
-
-
-

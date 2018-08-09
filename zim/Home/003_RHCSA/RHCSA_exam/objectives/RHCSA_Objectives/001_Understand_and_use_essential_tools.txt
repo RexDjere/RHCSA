@@ -12,32 +12,29 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+
+**KYWRD:** 001 essential tools
+**RHCSA Objective: **001 Understand and use essential tools
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+001 Understand and use essential tools
 
-**KEYWORD - tasks:**
-	a. Access a shell prompt and issue commands with correct syntax 
-	b. , 2>, etc.)|Use input-output redirection (>, >>, |, 2>, etc.)
-	c. Use grep and regular expressions to analyze text
-	d. Access remote systems using ssh
-	e. Log in and switch users in multiuser targets
-	f. Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
-	g. Create and edit text files
-	h. Create, delete, copy, and move files and directories
-	i. Create hard and soft links
-	j. List, set, and change standard ugo/rwx permissions
-	k. Locate, read, and use system documentation including man, info, and files in [[/usr/share/doc]]
+**001 essential tools - tasks:**
+	a. [[+001a Access a shell prompt and issue commands with correct syntax]]
+	b. [[+001b Use input-output redirection]]
+	c. [[+001c Use grep and regular expressions to analyze text]]
+	d. [[+001d Access remote systems using ssh]]
+	e. [[+001e Log in and switch users in multiuser targets]]
+	f. [[+001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+	g. [[+001g Create and edit text files]]
+	h. [[+001h Create, delete, copy, and move files and directories]]
+	i. [[+001i Create hard and soft links]]
+	j. [[+001j List, set, and change standard ugorwx permissions]]
+	k. [[+001k Locate, read, and use system documentation including man, info, and files in usrsharedoc]]
 
 
 
-**Relevant KEYWORD Screenshots**
-Paste any relevant screenshots here.
+
+**Relevant 001 essential tools Screenshots**
+N/A

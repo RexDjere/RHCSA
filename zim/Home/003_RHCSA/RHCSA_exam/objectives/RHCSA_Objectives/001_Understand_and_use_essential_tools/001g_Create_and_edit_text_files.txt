@@ -5,7 +5,7 @@ Creation-Date: 2018-08-08T16:07:25-04:00
 ====== 001g Create and edit text files ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template|examples homeplate template]] version: Wednesday 08/08/18 11:13:56 AM
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]

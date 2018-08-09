@@ -14,8 +14,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[001a Access a shell prompt and issue commands with correct syntax]]
 
-**KYWRD:** 001a
-**RHCSA Objective: **T001a Access a shell prompt and issue commands with correct syntax
+**KYWRD:** 001a - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
 In 001a - example 1, we are using the terminal in multi-user.target (formerly known as runlevel 3) on a [[alphabetical list of essential tools and terms:A-E:C:CentOS|CentOS]] virtual machine. This example assumes that you already have networking enabled on the CentOS machine, including Internet access. We will complete the following tasks:
@@ -28,7 +28,7 @@ In 001a - example 1, we are using the terminal in multi-user.target (formerly kn
 	* go back to multi-user.target using a command in gnome-terminal
 
 
-**001a - tasks **(command line commands are __highlighted__)**:**
+**001a - example 1 - tasks **(command line commands are __highlighted__)**:**
 * Startup your CentOS machine, and login using your username and password **(Figure 1)**
 * Update the CentOS system using yum **(Figure 2)**. Running yum requires admin privileges (hence su -c, or sudo if sudo is enabled for your account): __su -c "yum update"__
 * Install Gnome Graphical User Environment from the Internet (in a later example, we will walk through using a local repository).
@@ -45,7 +45,7 @@ In 001a - example 1, we are using the terminal in multi-user.target (formerly kn
 * Finally, we will go back to the commandline environment of multi-user.target: __su -c "systemctl isolate multi-user.target"__ **(Figure 6)**
 
 
-**Relevant 001a Screenshots**
+**Relevant 001a - example 1 Screenshots**
 Figure 1 - Logging In
 {{./pasted_image.png}}
 Figure 2a - Running "yum update"

@@ -33,52 +33,52 @@ This page lists all of the RHCSA Exam Objectives.
 	j. [[+001 Understand and use essential tools:001j List, set, and change standard ugorwx permissions|List, set, and change standard ugo/rwx permissions]]
 	k. [[+001 Understand and use essential tools:001k Locate, read, and use system documentation including man, info, and files in usrsharedoc|Locate, read, and use system documentation including man, info, and files in /usr/share/doc]]
 2. [[+002 Operate running systems|Operate running systems]]
-	a. Boot, reboot, and shut down a system normally
-	b. Boot systems into different targets manually
-	c. Interrupt the boot process in order to gain access to a system
-	d. Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
-	e. Locate and interpret system log files and journals
-	f. Access a virtual machine's console
-	g. Start and stop virtual machines
-	h. Start, stop, and check the status of network services
-	i. Securely transfer files between systems
+	a. [[+002 Operate running systems:002a Boot, reboot, and shut down a system normally|Boot, reboot, and shut down a system normally]]
+	b. [[+002 Operate running systems:002b Boot systems into different targets manually|Boot systems into different targets manually]]
+	c. [[+002 Operate running systems:002c Interrupt the boot process in order to gain access to a system|Interrupt the boot process in order to gain access to a system]]
+	d. [[+002 Operate running systems:002d Identify CPUmemory intensive processes, adjust process priority with renice, and kill processes|Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes]]
+	e. [[+002 Operate running systems:002e Locate and interpret system log files and journals|Locate and interpret system log files and journals]]
+	f. [[+002 Operate running systems:002f Access a virtual machine's console|Access a virtual machine's console]]
+	g. [[+002 Operate running systems:002g Start and stop virtual machines|Start and stop virtual machines]]
+	h. [[+002 Operate running systems:002h Start, stop, and check the status of network services|Start, stop, and check the status of network services]]
+	i. [[+002 Operate running systems:002i Securely transfer files between systems|Securely transfer files between systems]]
 3. [[+003 Configure local storage|Configure local storage]]
-	a. List, create, delete partitions on MBR and GPT disks
-	b. Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
-	c. Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label
-	d. Add new partitions and logical volumes, and swap to a system non-destructively
+	a. [[+003 Configure local storage:003a List, create, delete partitions on MBR and GPT disks|List, create, delete partitions on MBR and GPT disks]]
+	b. [[+003 Configure local storage:003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes|Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes]]
+	c. [[+003 Configure local storage:003c Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label|Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]
+	d. [[+003 Configure local storage:003d Add new partitions and logical volumes, and swap to a system non-destructively|Add new partitions and logical volumes, and swap to a system non-destructively]]
 4. [[+004 Create and configure file systems|Create and configure file systems]]
-	a. Create, mount, unmount, and use vfat, ext4, and xfs file systems
-	b. Mount and unmount CIFS and NFS network file systems
-	c. Extend existing logical volumes
-	d. Create and configure set-GID directories for collaboration
-	e. Create and manage Access Control Lists (ACLs)
-	f. Diagnose and correct file permission problems
+	a. [[+004 Create and configure file systems:004a Create, mount, unmount, and use vfat, ext4, and xfs file systems|Create, mount, unmount, and use vfat, ext4, and xfs file systems]]
+	b. [[+004 Create and configure file systems:004b Mount and unmount CIFS and NFS network file systems|Mount and unmount CIFS and NFS network file systems]]
+	c. [[+004 Create and configure file systems:004c Extend existing logical volumes|Extend existing logical volumes]]
+	d. [[+004d Create and configure set-GID directories for collaboration|Create and configure set-GID directories for collaboration]]
+	e. [[+004 Create and configure file systems:004e Create and manage Access Control Lists (ACLs)|Create and manage Access Control Lists (ACLs)]]
+	f. [[+004 Create and configure file systems:004f Diagnose and correct file permission problems|Diagnose and correct file permission problems]]
 5. [[+005 Deploy, configure, and maintain systems|Deploy, configure, and maintain systems]]        
-	a. Configure networking and hostname resolution statically or dynamically
-	b. Schedule tasks using at and cron
-	c. Start and stop services and configure services to start automatically at boot
-	d. Configure systems to boot into a specific target automatically
-	e. Install Red Hat Enterprise Linux systems as virtual guests
-	f. Configure systems to launch virtual machines at boot
-	g. Configure network services to start automatically at boot
-	h. Configure a system to use time services
-	i. Install and update software packages from Red Hat Network, a remote repository, or from the local file system
-	j. Update the kernel package appropriately to ensure a bootable system
-	k. Modify the system bootloader
+	a. [[+005 Deploy, configure, and maintain systems:005a Configure networking and hostname resolution statically or dynamically|Configure networking and hostname resolution statically or dynamically]]
+	b. [[+005 Deploy, configure, and maintain systems:005b Schedule tasks using at and cron|Schedule tasks using at and cron]]
+	c. [[+005 Deploy, configure, and maintain systems:005c Start and stop services and configure services to start automatically at boot|Start and stop services and configure services to start automatically at boot]]
+	d. [[+005 Deploy, configure, and maintain systems:005d Configure systems to boot into a specific target automatically|Configure systems to boot into a specific target automatically]]
+	e. [[+005 Deploy, configure, and maintain systems:005e Install Red Hat Enterprise Linux systems as virtual guests|Install Red Hat Enterprise Linux systems as virtual guests]]
+	f. [[+005 Deploy, configure, and maintain systems:005f Configure systems to launch virtual machines at boot|Configure systems to launch virtual machines at boot]]
+	g. [[+005 Deploy, configure, and maintain systems:005g Configure network services to start automatically at boot|Configure network services to start automatically at boot]]
+	h. [[+005 Deploy, configure, and maintain systems:005h Configure a system to use time services|Configure a system to use time services]]
+	i. [[+005 Deploy, configure, and maintain systems:005i Install and update software packages from Red Hat Network, a remote repository, or from the local file system|Install and update software packages from Red Hat Network, a remote repository, or from the local file system]]
+	j. [[+005 Deploy, configure, and maintain systems:005j Update the kernel package appropriately to ensure a bootable system|Update the kernel package appropriately to ensure a bootable system]]
+	k. [[+005 Deploy, configure, and maintain systems:005k Modify the system bootloader|Modify the system bootloader]]
 6. [[+006 Manage users and groups|Manage users and groups]]
-	a. Create, delete, and modify local user accounts
-	b. Change passwords and adjust password aging for local user accounts
-	c. Create, delete, and modify local groups and group memberships
-	d. Configure a system to use an existing authentication service for user and group information
+	a. [[+006 Manage users and groups:006a Create, delete, and modify local user accounts|Create, delete, and modify local user accounts]]
+	b. [[+006 Manage users and groups:006b Change passwords and adjust password aging for local user accounts|Change passwords and adjust password aging for local user accounts]]
+	c. [[+006 Manage users and groups:006c Create, delete, and modify local groups and group memberships|Create, delete, and modify local groups and group memberships]]
+	d. [[+006 Manage users and groups:006d Configure a system to use an existing authentication service for user and group information|Configure a system to use an existing authentication service for user and group information]]
 7. [[+007 Manage security|Manage security]]
-	a. Configure firewall settings using firewall-config, firewall-cmd, or iptables
-	b. Configure key-based authentication for SSH
-	c. Set enforcing and permissive modes for SELinux
-	d. List and identify SELinux file and process context
-	e. Restore default file contexts
-	f. Use boolean settings to modify system SELinux settings
-	g. Diagnose and address routine SELinux policy violations
+	a. [[+007 Manage security:007a Configure firewall settings using firewall-config, firewall-cmd, or iptables|Configure firewall settings using firewall-config, firewall-cmd, or iptables]]
+	b. [[+007 Manage security:007b Configure key-based authentication for SSH|Configure key-based authentication for SSH]]
+	c. [[+007 Manage security:007c Set enforcing and permissive modes for SELinux|Set enforcing and permissive modes for SELinux]]
+	d. [[+007 Manage security:007d List and identify SELinux file and process context|List and identify SELinux file and process context]]
+	e. [[+007 Manage security:007e Restore default file contexts|Restore default file contexts]]
+	f. [[+007 Manage security:007f Use boolean settings to modify system SELinux settings|Use boolean settings to modify system SELinux settings]]
+	g. [[+007 Manage security:007g Diagnose and address routine SELinux policy violations|Diagnose and address routine SELinux policy violations]]
 
 
 
