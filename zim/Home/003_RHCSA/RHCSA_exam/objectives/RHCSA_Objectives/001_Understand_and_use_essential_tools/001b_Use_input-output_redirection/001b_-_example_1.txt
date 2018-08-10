@@ -24,7 +24,7 @@ command to get timestamp: __date '+%A %D %X'__
 * Startup your CentOS/RHEL machine, and login as a normal user.
 * Redirect the output of 'echo "Hello World" to Examples/hello_world.txt: __echo "Hello World" > Examples/hello_world.txt__
 * Verify that hello_world.txt was created by inspecting the output of this command: __find Examples__
-* View the contents of hello_world.txt: cat Examples/hello_world.txt
+* View the contents of hello_world.txt: __cat Examples/hello_world.txt__
 
 **Relevant 001b - example 1 links:**
 * N/A
