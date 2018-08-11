@@ -27,7 +27,7 @@ The groupdel command is used to delete groups.
 	* A group that is the primary group of any user on the Linux system cannot be deleted until all members of that group are removed. 
 	* When deleting a group, the administrator must manually check all filesystems to make sure to no files remain owned by the group. groupdel will not automatically check this for the administrator.
 * [[+groupdel - options-flags]] [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groupdel options page using this template: [[Home:002 all templates:options template|options template]]]
-* groupdel - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groupdel examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+groupdel - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groupdel examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
 
 **Relevant groupdel links:**
 * https://www.computerhope.com/unix/groupdel.htm

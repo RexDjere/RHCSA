@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T20:03:40-04:00
 ====== examples homepage template ======
 Created Thursday 02 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Thursday 08/09/18 10:10:22 AM
+[[002 all templates:examples homepage template|examples homepage template]] version: Saturday 08/11/18 12:28:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
@@ -25,9 +25,9 @@ This page is a template homepage that link to examples of how to use commands an
 3. N/A anything that is not applicable.
 
 **KEYWORD - examples:**
-* KEYWORD - example 1 : briefly describe example 1.
-* KEYWORD - example 2 : briefly describe example 2.
-* KEYWORD - example 3 : briefly describe example 3.
+* KEYWORD - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template|this examples template,]] and then briefly describe example 1.
+* KEYWORD - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template|this examples template,]] and then briefly describe example 2.
+* KEYWORD - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template|this examples template,]] and then briefly describe example 3.
 
 **Relevant KEYWORD links:**
 * link 1
