@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-10T22:02:01-04:00
+
+====== groupdel - options-flags ======
+Created Friday 10 August 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[groupdel]]
+
+**KYWRD:** groupdel
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+This article discusses the options available with the [[groupdel]] command.
+
+**groupdel - options:**
+* -h, --help: displays a help message and exits.
+* -R, --root CHROOT_DIR: applies changes in the CHROOT_DIR directory, and uses the configuration files from the CHROOT_DIR directory.
+* -P, --prefix PREFIX_DIR: 
+	* applies changes in the PREFIX_DIR, and uses the configuration files from the PREFIX_DIR directory.
+	* this option does not chrott and is intended for preparing a cross-compilation target.
+	* limitations:
+		* NIS and LDAP users/groups are not verified.
+		* PAM authentication uses the host files.
+		* No SELinux support.
+
+
+**Relevant groupdel Screenshots**
+N/A

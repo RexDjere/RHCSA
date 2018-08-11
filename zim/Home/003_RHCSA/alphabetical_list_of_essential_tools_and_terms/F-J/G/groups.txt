@@ -5,11 +5,50 @@ Creation-Date: 2018-07-10T23:01:49-04:00
 ====== groups ======
 Created Tuesday 10 July 2018
 
-command-line environments
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[G]]
 
-groups
-* Home:RHCSA:alphabetical list of essential tools:A:addgroup
-* Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:delgroup
+**See also:**
+* [[A-E:A:addgroup]]
+* [[A-E:D:delgroup]]
+* [[groupadd]]
+
+**KYWRD:** groups
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+This page is a template used to create wiki generic pages in this study guide. Please follow these steps when creating a page using this template:
+1. Find and Replace any occurence of groups in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+
+**groups:**
+* groups - function: State the main function of the topic here.
+* groups - description: Provide a more detail description here.
+* groups - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groups options page using this template: [[Home:002 all templates:options template|options template]]]
+* groups - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groups examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+
+**Relevant groups links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant groups notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:

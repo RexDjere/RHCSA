@@ -51,7 +51,7 @@ This page lists all of the RHCSA Exam Objectives.
 	a. [[+004 Create and configure file systems:004a Create, mount, unmount, and use vfat, ext4, and xfs file systems|Create, mount, unmount, and use vfat, ext4, and xfs file systems]]
 	b. [[+004 Create and configure file systems:004b Mount and unmount CIFS and NFS network file systems|Mount and unmount CIFS and NFS network file systems]]
 	c. [[+004 Create and configure file systems:004c Extend existing logical volumes|Extend existing logical volumes]]
-	d. [[+004d Create and configure set-GID directories for collaboration|Create and configure set-GID directories for collaboration]]
+	d. [[+004 Create and configure file systems:004d Create and configure set-GID directories for collaboration|Create and configure set-GID directories for collaboration]]
 	e. [[+004 Create and configure file systems:004e Create and manage Access Control Lists (ACLs)|Create and manage Access Control Lists (ACLs)]]
 	f. [[+004 Create and configure file systems:004f Diagnose and correct file permission problems|Diagnose and correct file permission problems]]
 5. [[+005 Deploy, configure, and maintain systems|Deploy, configure, and maintain systems]]        

@@ -34,6 +34,7 @@ All commands, utilities and terms starting with the letter A are sub-pages to th
 * [[+graphical user interface]]
 * [[+grep]] , [[A-E:E:egrep]]
 * [[+groupadd]]
+* [[+groupdel]]
 * [[+groups]]
 * [[+GRUB]]
 * [[+GUI]]
