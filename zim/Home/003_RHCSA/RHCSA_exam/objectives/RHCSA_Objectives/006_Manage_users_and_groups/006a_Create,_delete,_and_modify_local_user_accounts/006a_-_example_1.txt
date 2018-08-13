@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-13T18:02:43-04:00
+
+====== 006a - example 1 ======
+Created Monday 13 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[006a Create, delete, and modify local user accounts]]
+[[006c Create, delete, and modify local groups and group memberships]]
+
+**KYWRD:** 006a - example 1
+**RHCSA Objectives: **
+* 006a Create, delete, and modify local user accounts
+* 006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+Create a new group called starfleet_academy_grads and add 3 new system users to the group.
+
+**006a - example 1 - tasks **(command line commands are __highlighted__)**:**
+* Adding a lot of system users with the newusers command can be cumbersome because you have to manually type the detaisl for each user into a file. I wrote a C++ program called  to make the task much easier. That program is here: https://github.com/RexDjere/RHCSA/blob/master/cpp_files/newusers_file_creator/newusers_file_creator.cpp
+
+**Relevant 006a - example 1 links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant 006a - example 1 Screenshots**
+Paste any relevant screenshots here.

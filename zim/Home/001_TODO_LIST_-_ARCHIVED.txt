@@ -20,4 +20,9 @@ TODO LIST
 * ~~Read https://ask.fedoraproject.org/en/question/9584/while-using-libvirt-how-can-i-use-a-location-other-than-varliblibvirtimages-to-store-my-images/~~
 * ~~Read https://unix.stackexchange.com/questions/134483/why-is-my-ethernet-interface-called-enp0s10-instead-of-eth0~~
 * ~~Read https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/~~
+* ~~Create 3 new usernames with a home directory to match their username:~~ 
+	* ~~su -c "useradd -m omar.epps skip.bayless shannon.sharpe lebron.james michael.jordan serena.williams maria.sharapova arnold.palmer patrick.stewart sonequa.martin-green"~~ ~~(this command won't work. have to user newusers command)~~
+	* ~~patrick.stewart~~
+	* ~~sonequa.martin-green~~
+	* ~~lebron.james~~
 

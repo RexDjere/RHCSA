@@ -15,9 +15,5 @@ TODO LIST
 * add commands from http://www.dominiopublico.gov.br/download/texto/ug000001.pdf 
 * Standardize every page in the wiki to that it complies with its appropriate template.
 * Add screenshot of VM ping failure to objectivesX:002 - operate running systems:002 - left branches:Access a virtual machine's console:console - examples:console - example 2
-* Create 3 new usernames with a home directory to match their username: 
-	* ~~su -c "useradd -m omar.epps skip.bayless shannon.sharpe lebron.james michael.jordan serena.williams maria.sharapova arnold.palmer patrick.stewart sonequa.martin-green"~~ (this command won't work. have to user newusers command)
-	* patrick.stewart
-	* sonequa.martin-green
-	* lebron.james
+
 

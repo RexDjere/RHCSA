@@ -1,0 +1,3 @@
+patrick.stewart:13375999775153172025:745:555:Patrick Stewart:/home/patrick.stewart:/bin/bash
+sonequa.martin-green:18343078933675548965:746:555:Sonequa Martin-Green:/home/sonequa.martin-green:/bin/bash
+lebron.james:6621611507569400108:747:555:Lebron James:/home/lebron.james:/bin/bash
