@@ -33,12 +33,18 @@ To get the most out of this study guide, you should do the following:
 - Clone https://github.com/RexDjere/RHCSA to this directory on your Linux pc: /home/your_username/Sync/PROJECTS/RHCSA
 - After cloning the git repository, RHCSA should have the following files/folders inside:
 	- anki (holds exported text file containing all flashcard Q&As)
+	- CODE_OF_CONDUCT.md
+	- CONTRIBUTING.md
+	- cpp_files (c++ files that I created)
 	- examples (holds all study guide examples)
 	- LICENSE.md (contains GPL v3 license text)
+	- MILESTONES.md
 	- mindmaps (hold all mindmaps created with Freemind)
+	- PULL_REQUEST_TEMPLATE.md
 	- README.md (the study guide's home page)
 	- zim (holds all zim wiki pages)
-	- .git (shows if you have system set to show hidden files)
+	- .git (hidden file)
+	- .github (hidden file)
 - When you run Zim, you'll want to open the zim folder as a notebook. Once you do, you'll be able to navigate/edit all of the wiki pages.
 - Freemind will allow you to open and edit the mindmaps, and Anki will allow you to view/edit the flashcards.
 - git/git-gui will allow you to checkout the study guide, edit parts of it if you wish, and create pull requests to update the master branch.
