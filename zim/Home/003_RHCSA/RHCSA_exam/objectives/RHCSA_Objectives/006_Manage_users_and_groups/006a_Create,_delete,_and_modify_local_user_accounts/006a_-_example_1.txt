@@ -21,15 +21,139 @@ command to get timestamp: __date '+%A %D %X'__
 * 006c Create, delete, and modify local groups and group memberships
 
 **Summary**
-Create a new group called starfleet_academy_grads and add 3 new system users to the group.
+Create a new group called starfleet_academy_grads and add 3 new system users to the group. This was a pretty intense exercise and I learned A LOT. There are much easier ways that I could have done this, but I really wanted to stretch my C++ skills because, as a Linux sysadmin, I will lean heavily on my programming experience to automate tasks where possible. This means that I will have to use Bash shell scripting, perhaps Perl or Python, and I will continue to use C++ since it is my favorite language.  Take your time with this example.  There is a lot of information here.
 
 **006a - example 1 - tasks **(command line commands are __highlighted__)**:**
-* Adding a lot of system users with the newusers command can be cumbersome because you have to manually type the detaisl for each user into a file. I wrote a C++ program called  to make the task much easier. That program is here: https://github.com/RexDjere/RHCSA/blob/master/cpp_files/newusers_file_creator/newusers_file_creator.cpp
+1. **NOTE:** Adding a lot of system users with the newusers command can be cumbersome because you have to manually type the detaisl for each user into a file. I wrote a C++ program called Linux Newusers File Creator  to make the task much easier. That program is here: https://github.com/RexDjere/RHCSA/blob/master/cpp_files/newusers_file_creator/Linux_newusers_file_creator.cpp
+2. Startup your RHEL/CentOS machine, and login as a normal user.
+3. Create a newgroup called starfleet_academy_grads with a GID of 555 using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:groupadd|groupadd]] command:
+	* __su -c "groupadd starfleet_academy_grads -g 555"__
+4. Verify that the new group was correctly created using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat|cat]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] commands:
+	* __cat /etc/group | grep starfleet_academy_grads__
+5. In the next steps, we are going to download and compile my C++ Linux Newusers File Creator, and use it to create the detail file for the new users.
+	* First, we will make sure that wget is installed by entering wget: __wget__
+	* On my system, wget was installed.  If it is not installed on your system, you will enter this command: su -c "__yum install wget__"
+	* Now, we will download the file creator to our home directory (we want to download the raw version):
+		* __wget https://raw.githubusercontent.com/RexDjere/RHCSA/master/cpp_files/newusers_file_creator/Linux_newusers_file_creator.cpp__
+		* Verify that the file was downloaded: __ls__
+6. Now, we will have to make sure that gcc is installed with C++ dependencies: __yum list installed gcc-c++__
+7. On my system, it was not installed, so I had to install it with this command: __su -c "yum install gcc-c++"__
+8. Now, it's time to compile and run the .cpp file:
+	a. compile with g++ command: __g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator__
+	b. I ran into a problem here: the version of gcc installed on my CentOS sytem does not support put_time in line 215. __(See Figure 3)__
+	c. As a resourceful Linux sysadmin, I found a way to persevere:
+		a. **WARNING: It is risky to trust executables from unknown sources, even my study guide. If you run into the same problem that I did, the best solution is to review my source code, and compile it on another machine that you trust. My source code is here: **https://github.com/RexDjere/RHCSA/blob/master/cpp_files/newusers_file_creator/Linux_newusers_file_creator.cpp
+		b. I found a great website that allows you to share files using the curl command: curl should be installed on your RHEL/Centos system. If not:
+			1. __su -c "yum install curl"__
+		c. The sharing website that I found is: https://transfer.sh/
+		d. I tranferred my Linux_newusers_file_creator executable using a curl command that they provided on their website:
+			1. __curl https://transfer.sh/Bbo6l/Linux_newusers_file_creator -o Linux_newusers_file_creator __**(DON'T USE THIS. IT IS FOR DEMO ONLY)**
+		e. On your RHEL/CentOS system, you can download the executable **(AT YOUR OWN RISK), **by executing the command below:
+			1. **FIRST, you should verify that you get the same sha-256 hash of my executable file that I did to ensure that it was not modified (no malicious code added). I compared the SHA-256 hash of my executable to the SHA-256 hash of the version of my executable that I downloaded from **https://transfer.sh/. **They were the same:**
+				a. **42e509e865c78993961a2e1af37f59b28beca4d9c3b5ff217b296ab12aa505ee** 
+				b. I found this out using this command: __sha256sum Linux_newusers_file_creator__
+				c. **SEE FIGURE 4 BELOW.**
+			2. Here is the command that you will execute from your home directory of your RHEL/CentOS to download the executable:
+				a. __curl https://transfer.sh/Bbo6l/Linux_newusers_file_creator -o Linux_newusers_file_creator__
+		f. Verify that the file's hash is correct (**42e509e865c78993961a2e1af37f59b28beca4d9c3b5ff217b296ab12aa505ee** ) with the sha256sun command:
+			1. Surprisingly, I received a different hash (7515bf959b....) on the CentOS system than I did on the Fedora 28 system!! **(SEE FIGURE 5)**
+			2. I went back to my Fedora 28 system, downloaded the file again, and I got the same has as I originally did **(SEE FIGURE 6)**: 
+				a. **42e509e865c78993961a2e1af37f59b28beca4d9c3b5ff217b296ab12aa505ee** 
+				b. So I suspect that there may be something that CentOS VMs may do differently with files in the file system that may cause the hash to change.  I will investigate this more later. I decided to proceed on.
+		g. Make the file executable using the chmod command **(FIGURE 7):** __chmod +x Linux_newusers_file_creator__
+		h. I decided to run the clear command to make plenty of screen room available to run the file creator **(FIGURE 7): **__clear__
+		i. Run Linux_newusers_file_creator: __./Linux_newusers_file_creator__
+		j. I hit another roadblock: the executable would not run (SEE FIGURE 8).
+		k. So I thought about it: Fedora 28 has version 8x of gcc, while CentOS has version 4x. What if I could get another compiler running on the CentOS system? I decided to install clang:
+			1. __su -c "yum install clang"__
+			2. I tested to ensure that the clang++ comand (to compile c++ code) was available. It was: __clang++__
+			3. I tried to compile the file with clang++ ⇒ same error message about "no member named put_time in namespace std.
+		l. Doing a little bit more research, put_time is enabled in gcc 5+, so the next step is to get a new version of gcc (I make have to compile and make it from the source).
+		m. These instructions were EXTREMELY helpful: https://jdhao.github.io/2017/09/04/install-gcc-newer-version-on-centos/ (I picked the smallest - best compression - files here: https://ftp.gnu.org/gnu/gcc/gcc-8.2.0/)
+			1. __curl https://ftp.gnu.org/gnu/gcc/gcc-8.2.0/gcc-8.2.0.tar.xz -O__
+			2. __ls__
+			3. __tar -xf gcc-8.2.0.tar.xz__
+			4. __su -c "yum install gmp-devel mpfr-devel libmpc-devel"__
+			5. __mkdir gcc-8.2.0-build__
+			6. __cd gcc-8.2.0-build__
+			7. __../gcc-8.2.0/configure --enable-languages=c,c++ --disable-multilib__
+			8. This step, the actual compilation, to a long time, and I could hear my system fans running pretty hard: __make -j$(nproc) && make install__
+		n. RESULT: compiling the latest kernel failed so, I decided to go a different route: try to install a relatively new version of gcc with yum.
+		o. These instructions were very helpful: https://stackoverflow.com/questions/36327805/how-to-install-gcc-5-3-with-yum-on-centos-7-2
+			1. __su -c "yum install centos-release-scl"__
+			2. __su -c "yum install devtoolset-7-gcc*__ (NOTE: I tried su -c "yum install devtoolset-8-gcc*". Nothing was available in the 8 series yet.)
+			3. __scl enable devtoolset-7 bash__
+			4. __which gcc__
+			5. __gcc --version__ (**RESULT: FINALLY, SUCCESS!!** gcc 7.3.1 installed!! **SEE FIGURE 9**)
+		p. Now, back to trying to compile Linux_newusers_file_creator.cpp with g++:
+			1. __g++ -std=c++11 -Wall -g Linux_newusers_file_creator.cpp -o Linux_newusers_file_creator__
+		q. Result: **success!!** It compiled.
+		r. the program needs a folder called output_files, so I have to create it using mkdir: __mkdir output_files__
+		s. Make sure output_files was created: __ls__
+		t. Now to run ithe program: 
+			1. __clear__
+			2. __./Linux_newusers_file_creator__
+		u. The program started, and I started to enter the correct information (what I entered is highlighted in __yellow__):
+			1. Who many users would you like to add to your system (1 to 1,000)? __3__
+			2. Enter first name (Record Entry 1 of 3): __Patrick__
+			3. Enter last name: __Stewart__
+			4. Entered unused starting UID: __755__
+			5. Entered unused GID (we will enter the GID for starfleet_academy_grads - 555): __555__ **(SEE FIGURE 10)**
+			6. Enter first name (Record Entry 2 of 3): __Sonequa__
+			7. Enter last name: __Martin-Green__ **(SEE FIGURE 11)**
+			8. Enter first name (Record Entry 3 of 3): __Lebron__
+			9. Enter last name: __James__ **(SEE FIGURE 12)**
+		v. Add the 3 new users using the addusers command:
+			1. __clear__
+			2. __su -c "newusers output_files/newusers_file_08132018.232558.txt"__
+		w. Verify that the 3 new users exist with GID 555:
+			1. __cat /etc/passwd | grep 555__ **(SEE FIGURE 13)**
+		x. **FIGURE 14** shows the new 3 home folders in [[/home.]]
+
+That concludes this lesson. In the next example, I walk through deleting the 3 new users, and deleting the starfleet_academy_grads group.
 
 **Relevant 006a - example 1 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant 006a - example 1 Screenshots**
-Paste any relevant screenshots here.
+Figure 1 - Steps 1 through 5
+{{./pasted_image.png}}
+
+Figure 2 - Step 7 - Installing gcc-c++
+{{./pasted_image001.png}}
+
+Figure 3 - g++ error message
+{{./pasted_image002.png}}
+
+Figure 4 - Comparing the SHA-256 hash of the downloaded file to my original (after I made the downloaded file executable) - THEY MATCHED
+{{./pasted_image003.png}}
+
+Figure 5 - CentOS 7 gives me a different hash for the same downloaded file than Fedora 28 did.
+{{./pasted_image004.png}}
+
+Figure 6 - Redownload executable file on Fedora 28 - get same SHA-256 hash as original
+d{{./pasted_image005.png}}
+
+Figure 7 - Getting ready to clear the screen and run Linux_newusers_file_creator
+{{./pasted_image006.png}}
+
+Figure 8 - It still won't run
+{{./pasted_image007.png}}
+
+Figure 9 - gcc 7.3.1 installed!
+{{./pasted_image008.png}}
+
+Figure 10 - Entering Record 1 of 3
+{{./pasted_image009.png}}
+
+Figure 11 - Entering Record 2 of 3
+{{./pasted_image010.png}}
+
+Figure 11 - Entering Record 3 of 3
+{{./pasted_image011.png}}
+
+Figure 13 - SUCCESS!!
+{{./pasted_image012.png}}
+
+Figure 14 - 3 new home folders
+{{./pasted_image013.png}}
