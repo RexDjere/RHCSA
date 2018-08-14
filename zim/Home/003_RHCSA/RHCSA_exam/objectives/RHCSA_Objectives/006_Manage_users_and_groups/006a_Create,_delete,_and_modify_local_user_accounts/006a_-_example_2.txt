@@ -23,14 +23,23 @@ command to get timestamp: __date '+%A %D %X'__
 In 006a - example 2, we will delete the users and group that we created in [[006a - example 1]] .
 
 **KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+1. Startup your RHEL/CentOS machine, and login as a normal user.
+2. Verify that the 3 users that we created in [[006a - example 1]] still exist in group 555:
+	a. __cat /etc/passwd | grep 555__
+3. Delete the following users with the [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:userdel|userdel]] command (userdel -r deletes the user, his or her home directory and mail spool):
+	a. Patrick Stewart (patrick.stewart): __su -c "userdel -r patrick.stewart"__
+	b. Sonequa Martin-Green (sonequa.martin-green): __su -c "userdel -r sonequa.martin-green"__
+	c. Lebron James (lebron.james): __su -c "userdel -r lebron.james"__
+4. Verify that all 3 have been deleted: __cat /etc/passwd | grep 555__
+5. Delete the starfleet_academy_grads group using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:groupdel|groupdel]] command:
+	a. __su -c "groupdel starfleet_academy_grads"__
+6. Verify that starfleet_academy_grads has been deleted:
+	a. __cat /etc/group starfleet_academy_grads__
 
 **Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant KEYWORD Screenshots**
-Paste any relevant screenshots here.
+{{./pasted_image.png}}
+
+{{./pasted_image001.png}}

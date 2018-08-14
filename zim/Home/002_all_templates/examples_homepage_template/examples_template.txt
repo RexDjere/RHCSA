@@ -5,7 +5,7 @@ Creation-Date: 2018-08-03T22:51:53-04:00
 ====== examples template ======
 Created Friday 03 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/14/18 05:44:11 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
@@ -25,9 +25,9 @@ This page is a template for an examples page where you show how to use a command
 3. N/A anything that is not applicable.
 
 **KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+1. Briefly describe task 1.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
 
 **Relevant KEYWORD links:**
 * link 1
