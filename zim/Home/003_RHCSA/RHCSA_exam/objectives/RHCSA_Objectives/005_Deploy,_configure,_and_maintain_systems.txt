@@ -12,22 +12,25 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** 005 maintain systems
+**RHCSA Objective: **005 Deploy, configure, and maintain systems
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+005 Deploy, configure, and maintain systems
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+**005 maintain systems - tasks **(command line commands are __highlighted__)**:**
+* [[+005a Configure networking and hostname resolution statically or dynamically]]
+* [[+005b Schedule tasks using at and cron]]
+* [[+005c Start and stop services and configure services to start automatically at boot]]
+* [[+005d Configure systems to boot into a specific target automatically]]
+* [[+005e Install Red Hat Enterprise Linux systems as virtual guests]]
+* [[+005f Configure systems to launch virtual machines at boot]]
+* [[+005g Configure network services to start automatically at boot]]
+* [[+005h Configure a system to use time services]]
+* [[+005i Install and update software packages from Red Hat Network, a remote repository, or from the local file system]]
+* [[+005j Update the kernel package appropriately to ensure a bootable system]]
+* [[+005k Modify the system bootloader]]
 
-**Relevant KEYWORD Screenshots**
+**Relevant 005 maintain systems Screenshots**
 Paste any relevant screenshots here.

@@ -22,6 +22,6 @@ This article contains examples of how to create, delete and modify local user ac
 
 **006a - examples:**
 * [[+006a - example 1]] : create a new group called starfleet_academy_grads and add 3 new system users to the group.
-* 006a - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* [[+006a - example 2]] : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
 * 006a - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 

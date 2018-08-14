@@ -12,22 +12,18 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** 003 local storage
+**RHCSA Objective: **003 Configure local storage
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+003 Configure local storage
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+**003 local storage - tasks **(command line commands are __highlighted__)**:**
+* [[+003a List, create, delete partitions on MBR and GPT disks]]
+* [[+003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes]]
+* [[+003c Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]
+* [[+003d Add new partitions and logical volumes, and swap to a system non-destructively]]
 
-**Relevant KEYWORD Screenshots**
+**Relevant 003 local storage Screenshots**
 Paste any relevant screenshots here.

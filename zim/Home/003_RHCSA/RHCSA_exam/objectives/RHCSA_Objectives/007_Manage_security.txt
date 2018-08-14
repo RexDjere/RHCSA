@@ -12,22 +12,21 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD: **007 security
+**RHCSA Objective: **007 Manage security
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+007 Manage security
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+**007 security - tasks **(command line commands are __highlighted__)**:**
+* [[+007a Configure firewall settings using firewall-config, firewall-cmd, or iptables]]
+* [[+007b Configure key-based authentication for SSH]]
+* [[+007c Set enforcing and permissive modes for SELinux]]
+* [[+007d List and identify SELinux file and process context]]
+* [[+007e Restore default file contexts]]
+* [[+007f Use boolean settings to modify system SELinux settings]]
+* [[+007g Diagnose and address routine SELinux policy violations]]
 
-**Relevant KEYWORD Screenshots**
+**Relevant 007 security Screenshots**
 Paste any relevant screenshots here.

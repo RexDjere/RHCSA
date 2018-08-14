@@ -13,7 +13,6 @@ command to get timestamp: __date '+%A %D %X'__
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 
-
 **KYWRD:** 001 essential tools
 **RHCSA Objective: **001 Understand and use essential tools
 
@@ -32,9 +31,6 @@ command to get timestamp: __date '+%A %D %X'__
 	i. [[+001i Create hard and soft links]]
 	j. [[+001j List, set, and change standard ugorwx permissions]]
 	k. [[+001k Locate, read, and use system documentation including man, info, and files in usrsharedoc]]
-
-
-
 
 **Relevant 001 essential tools Screenshots**
 N/A

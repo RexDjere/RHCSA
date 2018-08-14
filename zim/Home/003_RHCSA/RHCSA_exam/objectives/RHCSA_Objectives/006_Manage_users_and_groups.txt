@@ -12,22 +12,18 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** 006 users groups
+**RHCSA Objective: **006 Manage users and groups
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+006 Manage users and groups
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+**006 users groups - tasks **(command line commands are __highlighted__)**:**
+* [[+006a Create, delete, and modify local user accounts]]
+* [[+006b Change passwords and adjust password aging for local user accounts]]
+* [[+006c Create, delete, and modify local groups and group memberships]]
+* [[+006d Configure a system to use an existing authentication service for user and group information]]
 
-**Relevant KEYWORD Screenshots**
+**Relevant 006 users groups Screenshots**
 Paste any relevant screenshots here.

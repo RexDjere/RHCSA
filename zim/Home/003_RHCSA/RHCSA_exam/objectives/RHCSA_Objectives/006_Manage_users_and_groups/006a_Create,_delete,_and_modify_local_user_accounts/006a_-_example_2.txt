@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-14T13:24:20-04:00
+
+====== 006a - example 2 ======
+Created Tuesday 14 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[006a Create, delete, and modify local user accounts]]
+
+**KYWRD:** 006a - example 2
+**RHCSA Objectives: **
+* 006a Create, delete, and modify local user accounts
+* 006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+In 006a - example 2, we will delete the users and group that we created in [[006a - example 1]] .
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+* Briefly describe task 1.
+* Briefly describe task 2.
+* Briefly describe task 3.
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.

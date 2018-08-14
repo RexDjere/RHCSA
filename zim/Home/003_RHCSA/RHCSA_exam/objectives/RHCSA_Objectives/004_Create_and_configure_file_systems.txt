@@ -12,22 +12,20 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** 004 file systems
+**RHCSA Objective: **004 Create and configure file systems
 
 **Summary**
-This page is a template for an examples page where you show how to use a command/utility. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+004 Create and configure file systems
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
-* Briefly describe task 1.
-* Briefly describe task 2.
-* Briefly describe task 3.
+**004 file systems - tasks **(command line commands are __highlighted__)**:**
+* [[+004a Create, mount, unmount, and use vfat, ext4, and xfs file systems]]
+* [[+004b Mount and unmount CIFS and NFS network file systems]]
+* [[+004c Extend existing logical volumes]]
+* [[+004d Create and configure set-GID directories for collaboration]]
+* [[+004e Create and manage Access Control Lists (ACLs)]]
+* [[+004f Diagnose and correct file permission problems]]
 
-**Relevant KEYWORD Screenshots**
+**Relevant 004 file systems Screenshots**
 Paste any relevant screenshots here.
