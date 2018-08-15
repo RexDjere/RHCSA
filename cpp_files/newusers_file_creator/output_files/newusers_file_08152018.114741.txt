@@ -1,0 +1,3 @@
+jean-luc.picard:AE4XN8u2YSyGI5lOJZLMw0sdTvxaRPfm:755:555:Jean-Luc Picard:/home/jean-luc.picard:/bin/bash
+lwaxana.troi:0lPeFh69nCTjaZ7NbY4Atc8dmLX1ODGz:756:555:Lwaxana Troi:/home/lwaxana.troi:/bin/bash
+michael.burnham:yqDXfg5tpQ0VO47ZTU3rREaAi2HbkwFd:757:555:Michael Burnham:/home/michael.burnham:/bin/bash

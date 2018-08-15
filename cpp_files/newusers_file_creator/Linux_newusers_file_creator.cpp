@@ -5,7 +5,7 @@
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
 // Requirements: C++ 11 or later.                                                                                     *
-// Version: Monday Wednesday 08/15/18 11:29:29 AM                                                                     *
+// Version: Wednesday 08/15/18 11:46:01 AM                                                                            *
 // Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
@@ -108,7 +108,6 @@ int main()
         // checks if output file was opened successfully
         if (file.is_open())
         {
-
             file_open_success  = "YES";
         }
 
@@ -136,7 +135,6 @@ int main()
         file.close();
         if (counter==(num_users-1)) std::cout << "Goodbye!" << std::endl;
     }
-
    return 0;
 }
 
@@ -154,7 +152,6 @@ int get_num_users() // gets and returns number of users that the sysadmin wants 
             gnu_num_users = 0;
         }
     }
-
     return gnu_num_users;
 }
 
@@ -173,7 +170,6 @@ std::string get_name_last() // gets and returns last name
    std::cin >> gnl_name_last;
    return gnl_name_last;
 }
-
 
 std::string create_username(std::string cu_name_first, std::string cu_name_last) // concatenates first name and last name into username
 {
