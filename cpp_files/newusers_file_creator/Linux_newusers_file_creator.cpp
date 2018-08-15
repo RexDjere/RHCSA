@@ -4,8 +4,8 @@
 // Author: Rex Djere.                                                                                                 *
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
-// Requirements: C++ 11 or later.                                                                                     *		
-// Version: Monday 08/13/18 04:57:31 PM                                                                               *
+// Requirements: C++ 11 or later.                                                                                     *
+// Version: Monday Wednesday 08/15/18 11:29:29 AM                                                                     *
 // Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
@@ -29,8 +29,8 @@ using namespace std;
 int get_num_users(); // nickname "gnu": get number of users the sysadmin wants to add
 std::string get_name_first(); // nicknamed "gnf": gets first name
 std::string get_name_last(); // nicknamed "gnl": gets last name
-std::string create_username(std::string ru_name_first, std::string ru_name_last); // nicknamed "gu": returns username
-uint64_t create_password(); // nickname "cp": creates password
+std::string create_username(std::string cu_name_first, std::string cu_name_last); // nicknamed "cu": returns username
+std::string create_password(); // nickname "cp": creates password
 uint32_t get_starting_uid(); // nuckname "gsu": gets starting UID
 uint32_t get_gid(); // nuckname "gg": gets GID
 std::string get_time_date();
@@ -62,7 +62,7 @@ int main()
         std::transform(username.begin(), username.end(), username.begin(), ::tolower); // transforms username to lowercase
 
         // create password
-        uint64_t password = create_password();
+        std::string password = create_password();
 
         // get starting UID and GID
         if (counter == 0)
@@ -175,18 +175,19 @@ std::string get_name_last() // gets and returns last name
 }
 
 
-std::string create_username(std::string ru_name_first, std::string ru_name_last) // concatenates first name and last name into username
+std::string create_username(std::string cu_name_first, std::string cu_name_last) // concatenates first name and last name into username
 {
-    string ru_username = ru_name_first + "." + ru_name_last;
-    return ru_username;
+    string cu_username = cu_name_first + "." + cu_name_last;
+    return cu_username;
 }
 
-uint64_t create_password() // creates very long random integer password
+std::string create_password() // creates random string password
 {
-    auto cp_seed = chrono::high_resolution_clock::now().time_since_epoch().count();
-    mt19937_64 mt_rand_64(cp_seed);
-    int64_t cp_password = mt_rand_64();
-    return cp_password;
+    std::string cp_password="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    std::random_device rd;
+    mt19937_64 mt_rand_64(rd());
+    std::shuffle(cp_password.begin(), cp_password.end(), mt_rand_64);
+    return cp_password.substr(0,32); // change 2nd number (default = 32) for longer/shorter password
 }
 
 uint32_t get_starting_uid() // gets and returns starting user id for batch of new users
@@ -209,8 +210,6 @@ std::string get_time_date() // gets and returns date and time from system
 {
     auto now = std::chrono::system_clock::now();
     auto in_time_t = std::chrono::system_clock::to_time_t(now);
-
-
     std::stringstream ss;
     ss << std::put_time(std::localtime(&in_time_t), "%m%d%Y.%H%M%S");
     return ss.str();

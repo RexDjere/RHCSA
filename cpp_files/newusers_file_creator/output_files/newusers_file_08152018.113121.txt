@@ -1,0 +1,3 @@
+patrick.stewart:3wos0vxrF1qYkfMG9VmL8WSQpT5gKCJu:755:555:Patrick Stewart:/home/patrick.stewart:/bin/bash
+sonequa.martin-green:vAIQhLCgGectojByb2sMpNYuFZlkmTri:756:555:Sonequa Martin-Green:/home/sonequa.martin-green:/bin/bash
+lebron.james:vedilJXBtoqr3Lmc9YhzbFK560kaAOfx:757:555:Lebron James:/home/lebron.james:/bin/bash
