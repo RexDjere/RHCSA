@@ -11,7 +11,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-Home:RHCSA:alphabetical list of essential tools:A:adduser
+[[adduser]]
 
 **KYWRD:** adduser
 
@@ -19,9 +19,10 @@ Home:RHCSA:alphabetical list of essential tools:A:adduser
 In the adduser examples, we will walk through some of the uses of the adduser command.
 
 **adduser - examples:**
-* [[+adduser - example 1]] : adding a new user in a Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:adduser - examples:C:CentOS virtual machine.
-* adduser - example 2 : briefly describe example 2.
-* adduser - example 3 : briefly describe example 3.
+* [[+adduser - example 1]] : Adding a new user in a [[C:CentOS|CentOS]] virtual machine.
+* [[+adduser - example 2]] : Add a new normal user, Jean-Luc Picard, to a CentOS system, and verify that his account was created properly.
+* KEYWORD - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
 
 **Relevant adduser Screenshots**
 N/A.

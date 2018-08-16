@@ -9,42 +9,31 @@ Created Tuesday 10 July 2018
 [[002 all templates]]
 [[00 TODO LIST]]
 [[U-Z:U:users]]
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:A
+[[A]]
 
 **KYWRD:** adduser
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
 
 **Summary**
-adduser is used to create a new user account, and to modify user account settings during the creation process.  The adduser and [[U-Z:U:useradd]] commands are interchangeable.
-
-
-* adduser - description
-
-adduser all templates:options template:alphabetical list of essential tools:A:B:binary location: adduser: /usr/sbin/adduser
-adduser Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:K-O:M:man location: adduser: /usr/share/man/man8/adduser.8.gz
+adduser is used to create a new user account, and to modify user account settings during the creation process.  The adduser and [[U-Z:U:useradd|useradd]] commands are interchangeable.
 
 **adduser:**
-* adduser - function: The adduser command is interchangeable with the [[U-Z:U:useradd]] command. It is used to create new user accounts, and to set various account parameters during the creation process.
-* adduser - description: The adduser command is interchangeable with the [[U-Z:U:useradd]] command. It is used to create new user accounts, and to set various account parameters during the creation process.
-* adduser - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the adduser options page using this template: [[002 all templates:options template]]]
-* [[+adduser - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the adduser examples page using this template: [[002 all templates:examples homepage template]]]
+* adduser - function: The adduser command is very similar to the [[U-Z:U:useradd|useradd]] command. It is used to create new user accounts, and to set various account parameters during the creation process.
+* adduser - description: The adduser command is very similar to the [[U-Z:U:useradd|useradd]] command. It is used to create new user accounts, and to set various account parameters during the creation process.
+* [[+adduser - options-flags]] 
+* [[+adduser - examples]] 
 
 **Relevant adduser links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant adduser notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
-**Associated binary files: **associated binary files can be found using the whereis -b command (e.g. whereis -b cat)
-* all templates:options template:alphabetical list of essential tools:A:B:binary location 1:
-* all templates:options template:alphabetical list of essential tools:A:B:binary location 2:
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: adduser: /usr/sbin/adduser
 
-**Associated man pages: associated man pages can be found using the whereis -m command (e.g. whereis -m cat)**
-* Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:K-O:M:man location 1:
-* Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:K-O:M:man location 2:
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: adduser: /usr/share/man/man8/adduser.8.gz
 
 **Relevant adduser Screenshots**
-Paste any relevant screenshots here.
+N/A

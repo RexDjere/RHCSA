@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T19:33:09-04:00
+
+====== adduser - example 2 ======
+Created Wednesday 15 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/14/18 05:44:11 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[adduser - examples]]
+
+**KYWRD:** adduser - example 2
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
+
+**Summary**
+Add a new normal user, Jean-Luc Picard, to a CentOS system, and verify that his account was created properly.
+
+**adduser - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and log in as a normal user.
+2. Using the adduser command, create a new user for Jean-Luc Picard, username: jean-luc.picard:
+	a. __su -c "adduser -m jean-luc.picard"__
+	b. The -m flag tells adduser to create a home directory for Jean-Luc.
+3. Verify that Jean-Luc's account has been correctly created:
+	a. Verify that the folder **jean-luc.picard** is present:  __ls /home__
+	b. View the details of Jean-Luc's account: __id jean-luc.picard__
+4. We still have not set a password for Jean Luc, so we will set his password to be: **this_is_a_horrible_password_12345**
+	a. __su -c "passwd jean-luc.picard"__
+5. After all of that work, we do not want to keep a user account on our system where the whole world knows the password, so we are going to delete Jean-Luc's account using the userdel command:
+	a. __su -c "userdel -r jean-luc.picard"__
+	b. The -c option tells userdel to delete Jean-Luc's home directory and mail spool (if it exists).
+6. Verify that Jean Luc's home folder is gone: __ls /home__
+7. Verify that the id command yields no results for Jean-Luc: __id jean-luc.picard__
+	a. **RESULT:** id: jean-luc.picard: no such user
+
+**Relevant adduser - example 2 links:**
+* N/A
+
+**Relevant adduser - example 2 Screenshots**
+{{./pasted_image.png}}
