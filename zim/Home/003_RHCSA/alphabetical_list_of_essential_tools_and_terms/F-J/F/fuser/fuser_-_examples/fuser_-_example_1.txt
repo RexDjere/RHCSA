@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T21:19:12-04:00
+
+====== fuser - example 1 ======
+Created Wednesday 15 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 08:58:17 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[fuser - examples]]
+
+**KYWRD:** fuser - example 1
+**RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
+
+**Summary**
+Display which processes/users are currently using a mounted partition. 
+
+**The scenario:** 
+* We tried to unmount the [[/mnt]] partition using the unmount command, but we received an error message saying that the partition is in use. 
+* We want to see which users/processes are using the [[/mnt]] partition. 
+* **NOTE: on the CentOS system in this example, the /mnt partition was not actually mounted.**
+
+**fuser - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. View which users/processesare using the [[/mnt]] partition: 
+	a. __fuser -mu /mnt__
+		1. The -m option tells fuser to use the name that we give it as the mount point to check (e.g. [[/mnt]])
+		2. The -u option tells fuser to give us the username, in addition to the process id (PID), of the user who is using the mounted resource.
+
+**Relevant fuser - example 1 links:**
+* N/A
+
+**Relevant fuser - example 1 Screenshots**
+{{./pasted_image.png}}
+

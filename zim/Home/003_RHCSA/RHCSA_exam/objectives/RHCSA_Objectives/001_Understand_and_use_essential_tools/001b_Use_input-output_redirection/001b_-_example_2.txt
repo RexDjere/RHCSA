@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T22:09:44-04:00
+
+====== 001b - example 2 ======
+Created Wednesday 15 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSves]]
+[[001b Use input-output redirection]]
+
+**KYWRD:** 001b - example 2
+**RHCSA Objective: **001b Use input-output redirection
+
+**Summary**
+Get a list of all mounted filesystems, and send it to a file named mounted_filesystems_jan2029.txt.
+
+**Scenario**
+Benedict is on a break from shooting Into Darkness. He slides into his trailer, and starts up his CentOS laptop. Linux is his secret passion, and he plans on becoming a certified RHCE once he retires from acting. Benedict can't quite remember the command to list all mounted filesystems.  He wants to list the first 10 lines of /proc/mounts, and send it to a new file called mounted_filesystems_jan2029.txt. **What do you tell him to do?**
+
+**001b - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. What directory lists all mounted filesystems? **/proc/mounts**
+3. To get the first 10 lines of a file, we use the head command. We will pipe the result of cat [[/proc/mounts]] to head with the | operator.
+4. So how will we built a command that lists the first 10 lines of /proc/mounts: __cat  /proc/mounts | head__
+5. Building the entire command, how do we send the output of __cat /proc/mounts | head__ to a file:
+	a. __cat /proc/mounts | head > mounted_filesystems_jan2029.txt__
+6. Verify that the .txt file was created with the ls command: __ls__
+	a. look for mounted_filesystems_jan2029.txt
+7. Look at the contents of mounted_filesystems_jan2029.txt with the cat command:
+	a. __cat mounted_filesystems_jan2029.txt__
+
+**Relevant 001b - example 2 links:**
+* N/A
+
+**Relevant 001b - example 2 Screenshots**
+{{./pasted_image.png}}

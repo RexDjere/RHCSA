@@ -22,8 +22,8 @@ This article will demonstrate several examples of suing input-output redirection
 
 **001b - examples:**
 * [[+001b - example 1]] : Open a terminal on a CentOS/RHEL machine, echo "Hello World", and redirect it to a file called hello_world.txt.
-* 001b - example 2 : briefly describe example 2.
-* 001b - example 3 : briefly describe example 3.
+* [[+001b - example 2]] : Get a list of all mounted filesystems, and send it to a file named mounted_filesystems_jan2029.txt.
+* 001b - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
 **Relevant 001b Screenshots**
 Paste any relevant screenshots here.

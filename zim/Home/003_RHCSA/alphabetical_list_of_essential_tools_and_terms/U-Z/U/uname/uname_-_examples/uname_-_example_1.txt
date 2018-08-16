@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T20:54:45-04:00
+
+====== uname - example 1 ======
+Created Wednesday 15 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/14/18 05:44:11 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[uname - examples]]
+
+**KYWRD:** uname - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uname|uname]] to list the Linux kernel version on a Linux system.
+
+**uname - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Show which version of the Linux kernel is installed on your system: __uname -r__
+
+**Relevant uname - example 1 links:**
+* N/A
+
+**Relevant uname - example 1 Screenshots**
+{{./pasted_image.png}}
