@@ -1,0 +1,35 @@
+Twitter
+Intel
+Npm
+Samsung
+Huawei
+Google
+Dell
+Adobe
+Redis Labs
+Microsoft
+LG
+Electronic Arts
+Hitachi
+Apple
+Red Hat
+Broadcom
+Nvidia
+Foxconn
+Netflix 
+Automatic
+Vmware
+Sony
+Canonical
+Puppet
+HP
+Cisco
+Oracle
+Nginx
+Facebook
+Chef
+Micro Focus International
+CloudBees
+Black Duck Software
+Cloudera
+IBM
