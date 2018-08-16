@@ -26,4 +26,4 @@ This article will demonstrate several examples of suing input-output redirection
 * [[+001b - example 3]] : Create an unsorted list of tech companies, sort the companies alphabetically, and create a file that contains the sorted output.
 
 **Relevant 001b Screenshots**
-Paste any relevant screenshots here.
+N/A
