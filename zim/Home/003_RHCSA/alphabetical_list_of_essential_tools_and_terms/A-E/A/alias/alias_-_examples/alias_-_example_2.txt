@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T12:04:28-04:00
+
+====== alias - example 2 ======
+Created Friday 17 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[alias - examples]]
+
+**KYWRD:** alias - example 2
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Temporarily replace a command's name with a more user-friendly name.
+
+**Scenario**
+Shawna is a RHEL syadmin at Saint Ignatius College Prep. She is tired of using the grep command to search text files. She thinks to herself "I like the name 'search' better". How will Shawna create a temporary alias for grep named "search"?
+
+Shawna is going to download an unsorted list of companies. She is going to sort it alphabetically. Then she is going to search the list for a company name using her new "search" alias.
+
+**alias - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Redirect tech_companies_unsorted.txt on Github to tech_companies_unsorted.txt in your home directory **(Figure 1)**:
+	a. __curl https://raw.githubusercontent.com/RexDjere/RHCSA/master/examples/001b/001b%20-%20example%203/tech_companies_unsorted.txt > tech_companies_unsorted.txt__
+3. View the unsorted list **(Figure 2)**: __cat tech_companies_unsorted.txt__
+4. Clear the screen: __clear__
+5. Sort the companies, and save the sorted file as tech_companies_sorted.txt **(Figure 3)**:
+	a. __sort < tech_companies_unsorted.txt > tech_companies_sorted.txt__
+6. View tech_companies_sorted.txt **(Figure 3)**: __cat tech_companies_sorted.txt__
+7. Clear the screen: __clear__
+8. Create a temporary alias for grep called "search" **(Figure 4)**: __alias search=grep__
+9. View a list of all system aliases, and verify that "search" has been added to the list **(Figure 4)**: __alias__
+10. Search tech_companies_sorted.txt for "Google" **(Figure 4)**: __search "Google" tech_companies_sorted.txt__
+
+**Relevant alias - example 2 links:**
+* N/A
+
+**Relevant alias - example 2 Screenshots**
+Figure 1 - downloading tech_companies_unsorted.txt
+{{./pasted_image.png}}
+
+Figure 2 - viewing tech_companies_unsorted.txt
+{{./pasted_image001.png}}
+
+Figure 3 - creating and viewing tech_companies_sorted.txt
+{{./pasted_image002.png}}
+
+Figure 4 - create, verify and use "search" alias
+{{./pasted_image003.png}}

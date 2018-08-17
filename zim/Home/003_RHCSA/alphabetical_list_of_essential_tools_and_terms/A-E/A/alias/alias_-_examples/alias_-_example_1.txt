@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T11:53:39-04:00
+
+====== alias - example 1 ======
+Created Friday 17 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[alias - examples]]
+
+**KYWRD:** alias - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+List all of the aliases currently in use on a Linux system.
+
+**Scenario**
+G'Lo is a RHEL syadmin in Reactor Department onboard the U.S.S. Theodore Roosevelt. He logs into his Linux system, and wants to see all of the aliases that are in use. What command will he run?
+
+**alias - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. List all aliases in use using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:alias|alias]] command: __alias__
+3. Send the output of the alias command to a file named aliases.txt: __alias > aliases.txt__
+4. View the contents of aliases.txt: __cat aliases.txt__
+
+**Relevant alias - example 1 links:**
+* N/A
+
+**Relevant alias - example 1 Screenshots**
+{{./pasted_image.png}}

@@ -5,15 +5,38 @@ Creation-Date: 2018-07-31T02:45:15-04:00
 ====== alias ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[A]]
 
+**KYWRD: **alias
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
 **Summary**
-Write a good summary of the task that provides a good high level view of what the task is designed to do.
+Alias is a Bash built-in command. The alias command allows you to run a command or group of commands by entering a replacement string.  For example, the **run_script1** alias could be used to run a Bash shell script.
 
-tasks template
-* alias - function
-* alias - description
-* alias - examples
+**alias:**
+* alias - function: replace words with another string.
+* alias - description: Alias is often used to abbreviate long system commands using a shorter alias string.
+* [[+alias - options-flags]] 
+* [[+alias - examples]] 
 
-alias [[B:binary location]]: 
-alias [[K-O:M:man location]]:
+**Relevant alias links:**
+* https://en.wikipedia.org/wiki/Alias_(command)
+
+**Relevant alias notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: alias: /usr/bin/alias
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: alias: /usr/share/man/man1/alias.1.gz /usr/share/man/man1p/alias.1p.gz
+
+**Relevant alias Screenshots**
+N/A
