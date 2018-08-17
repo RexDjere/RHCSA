@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T15:27:54-04:00
+
+====== apropos - examples ======
+Created Friday 17 August 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[apropos]]
+
+**KYWRD:** apropos
+**RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
+
+**Summary**
+This article presents examples of the correct usage of the Linux [[apropos]] command.
+
+**apropos - examples:**
+* [[+apropos - example 1]] :  Use the [[apropos]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] commands to search for references to "search" and "bzip2" in the man page descriptions/titles.
+* [[+apropos - example 2]] : Use the [[apropos]] command to research the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tar|tar]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:rsync|rsync]] commands.
+* apropos - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant apropos links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant apropos Screenshots**
+N/A

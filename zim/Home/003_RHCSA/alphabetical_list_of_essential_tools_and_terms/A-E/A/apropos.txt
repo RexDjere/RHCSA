@@ -5,4 +5,38 @@ Creation-Date: 2018-07-31T05:11:18-04:00
 ====== apropos ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[A]]
+
+**KYWRD:** apropos
+**RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
+
+**Summary**
+The Linux apropos command is used to search the manual pages names and descriptions for keywords and regular expressions.
+
+**apropos:**
+* apropos - function: search the manual page names and descriptions.
+* apropos - description: Each manual page comes with a short description. The apropos utility searches these descriptions, and the man page titles,  for given keywords or regular expressions.
+* [[+apropos - options-flags]]
+* [[+apropos - examples]]
+
+**Relevant apropos links:**
+* https://en.wikipedia.org/wiki/Apropos_(Unix)
+
+**Relevant apropos notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: apropos: /usr/bin/apropos
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: apropos: /usr/share/man/man1/apropos.1.gz
+
+**Relevant apropos Screenshots**
+N/A

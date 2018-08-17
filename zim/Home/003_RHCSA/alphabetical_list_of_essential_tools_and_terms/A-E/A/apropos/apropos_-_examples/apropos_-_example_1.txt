@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T15:33:38-04:00
+
+====== apropos - example 1 ======
+Created Friday 17 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[apropos - examples]]
+
+**KYWRD:** apropos - example 1
+**RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
+
+**Summary**
+ Use the [[apropos]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] command to search for references to "search" and "bzip2" in the man page descriptions/titles.
+
+**Scenario**
+Percy is a RHEL sysadmin at Linux Academy. He wants to use the [[apropos]] command to find a program that can search [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bzip2|bzip2]] compressed files for the regular expressions "linux-compatible".
+1. What apropos command will Percy use?
+2. What program(s) can perform the bzip2 compressed file search?
+
+**apropos - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Use the apropos command to search man page descriptions for programs that can search bzip2 compressed files: __apropos bzip2 | grep search__
+
+**Scenario Answers:**
+1. __apropos bzip2 | grep search__
+2. bzgrep
+
+**Relevant apropos - example 1 links:**
+* https://www.computerhope.com/unix/apropos.htm
+
+**Relevant apropos - example 1 Screenshots**
+{{./pasted_image.png}}
