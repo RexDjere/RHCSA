@@ -1,0 +1,3 @@
+patrick.stewart:03NuODbyxjAoZRk1hWmzStTnw86JaPUK:755:555:Patrick Stewart:/home/patrick.stewart:/bin/bash
+sonequa.martin-green:Xp2nP1xN7fT9tg5RhdcWVkueKiqwIsrG:756:555:Sonequa Martin-Green:/home/sonequa.martin-green:/bin/bash
+aretha.franklin:kBdlQvia73CAST4pYXZqK6gweJzUDsWN:757:555:Aretha Franklin:/home/aretha.franklin:/bin/bash

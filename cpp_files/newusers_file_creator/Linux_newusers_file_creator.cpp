@@ -5,7 +5,7 @@
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
 // Requirements: C++ 11 or later.                                                                                     *
-// Version: Wednesday 08/15/18 11:46:01 AM                                                                            *
+// Version: Friday 08/17/18 07:27:47 PM                                                                               *
 // Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
@@ -27,12 +27,12 @@ using namespace std;
 
 // function prototypes
 int get_num_users(); // nickname "gnu": get number of users the sysadmin wants to add
-std::string get_name_first(); // nicknamed "gnf": gets first name
-std::string get_name_last(); // nicknamed "gnl": gets last name
-std::string create_username(std::string cu_name_first, std::string cu_name_last); // nicknamed "cu": returns username
+std::string get_name_first(); // nickname "gnf": gets first name
+std::string get_name_last(); // nickname "gnl": gets last name
+std::string create_username(std::string cu_name_first, std::string cu_name_last); // nickname "cu": returns username
 std::string create_password(); // nickname "cp": creates password
-uint32_t get_starting_uid(); // nuckname "gsu": gets starting UID
-uint32_t get_gid(); // nuckname "gg": gets GID
+uint32_t get_starting_uid(); // nickname "gsu": gets starting UID
+uint32_t get_gid(); // nickname "gg": gets GID
 std::string get_time_date();
 
 // main function
@@ -73,7 +73,6 @@ int main()
         else
         {
             uid = uid + 1;
-            gid = gid;
         }
 
         // create User Info
