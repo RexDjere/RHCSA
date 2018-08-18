@@ -5,7 +5,7 @@
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
 // Requirements: C++ 11 or later.                                                                                     *
-// Version: Friday 08/17/18 07:27:47 PM                                                                               *
+// Version: Friday 08/17/18 07:47:01 PM                                                                               *
 // Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
@@ -33,7 +33,7 @@ std::string create_username(std::string cu_name_first, std::string cu_name_last)
 std::string create_password(); // nickname "cp": creates password
 uint32_t get_starting_uid(); // nickname "gsu": gets starting UID
 uint32_t get_gid(); // nickname "gg": gets GID
-std::string get_time_date();
+std::string get_date_time(); // nickname "gdt": gets date and time
 
 // main function
 int main()
@@ -43,7 +43,7 @@ int main()
     int num_users = get_num_users();
     uint32_t uid;
     uint32_t gid;
-    std::string date_time = get_time_date();
+    std::string date_time = get_date_time();
     std::string file_open_success; // check if output file opens correctly
 
     // for loop iterates for number of new users added
@@ -201,11 +201,11 @@ uint32_t get_gid() // gets and returns group id for batch of new users
     return gg_gid;
 }
 
-std::string get_time_date() // gets and returns date and time from system
+std::string get_date_time() // gets and returns date and time from system
 {
+    std::stringstream gdt_date_time;
     auto now = std::chrono::system_clock::now();
     auto in_time_t = std::chrono::system_clock::to_time_t(now);
-    std::stringstream ss;
-    ss << std::put_time(std::localtime(&in_time_t), "%m%d%Y.%H%M%S");
-    return ss.str();
+    gdt_date_time << std::put_time(std::localtime(&in_time_t), "%m%d%Y.%H%M%S");
+    return gdt_date_time.str();
 }
