@@ -23,7 +23,7 @@ This article contains examples of how to correctly use [[alias]] the command.
 **alias - examples:**
 * [[+alias - example 1]] : List all of the aliases currently in use on a Linux system.
 * [[+alias - example 2]] : Temporarily replace a command's name with a more user-friendly name.
-* alias - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* [[+alias - example 3]] : Use alias to create a permanent alias to a very long command.
 
 **Relevant alias links:**
 * N/A

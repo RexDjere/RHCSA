@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-18T13:38:26-04:00
+
+====== alias - example 3 ======
+Created Saturday 18 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[alias - examples]]
+
+**KYWRD:** alias - example 2
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Use alias to create a permanent alias to a very long command.
+
+**Scenario**
+Brent has an extremely long command that he is tired of typing in its entirety. He wants to create a short alias so that he does not have to type so much. 
+* The full command: __curl https://raw.githubusercontent.com/RexDjere/RHCSA/master/examples/001b/001b%20-%20example%203/00_tech_companies_unsorted.txt > 00_tech_companies_unsorted.txt__
+* Brent wants to replace this with a much shorter command: get_unsorted.
+* He wants to make the alias permanent.
+* How is Brent going to do it?
+
+
+**alias - example 3 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. We are going to add a permanent alias to our .bashrc file so that we can use the alias forever.
+	a. Open .bashrc in vi: __vi ~/.bashrc__
+	b. Type the letter i to shift to insert mode. It should now say "INSERT" at the bottom of the vi window.
+	c. use to down arrow key to go down to the end of the file, just below "# User specific aliases and functions".
+	d. To get to the line below "# User specific aliases and functions", you will have to use the right arrow key to get to the end of that line, and then hit "Enter".
+	e. You should now be on the line right below "# User specific aliases and functions".
+	f. Enter this command: 
+		1. __alias get_unsorted="curl https://raw.githubusercontent.com/RexDjere/RHCSA/master/examples/001b/001b%20-%20example%203/00_tech_companies_unsorted.txt > 00_tech_companies_unsorted.txt"__
+	g. Save .bashrc:
+		1. Hit "ESC". The "INSERT" at the bottom left of the vi window should go away.
+		2. Type a colon followed by w and q: __:wq__
+		3. Hit "ENTER".
+		4. .bashrc is now saved.
+	h. Test the alias:
+		1. Log out and log back in to load the new [[/bashrc]] file:
+			a. __exit__
+			b. You'll now see a login prompt. Log in as a normal user.
+		2. Run the alias **(Figure 1)**: __get_unsorted__
+		3. Verify that 00_tech_companies_unsorted.txt was created properly **(Figure 2)**: __cat 00_tech_companies_unsorted.txt__
+
+**Relevant alias - example 3 links:**
+* N/A
+
+**Relevant alias - example 3 Screenshots**
+Figure 1 - Using the get_unsorted alias
+{{./pasted_image.png}}
+
+Figure 2 - Viewing 00_tech_companies_unsorted.txt
+{{./pasted_image001.png}}

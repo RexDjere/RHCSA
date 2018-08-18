@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[alias - examples]]
 
 **KYWRD:** alias - example 2
-**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+**RHCSA Objective: **001a Access a sheill prompt and issue commands with correct syntax
 
 **Summary**
 Temporarily replace a command's name with a more user-friendly name.
