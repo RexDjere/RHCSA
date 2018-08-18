@@ -5,7 +5,7 @@
 // © 2018-Present, Rex Djere.                                                                                         *
 // License: GPL version 3 or later.                                                                                   *
 // Requirements: C++ 11 or later.                                                                                     *
-// Version: Friday 08/17/18 07:47:01 PM                                                                               *
+// Version: Friday 08/17/18 08:11:41 PM                                                                               *
 // Generate version: date '+%A %D %X'                                                                                 *
 //*********************************************************************************************************************
 
@@ -44,7 +44,7 @@ int main()
     uint32_t uid;
     uint32_t gid;
     std::string date_time = get_date_time();
-    std::string file_open_success; // check if output file opens correctly
+    bool file_open_success; // check if output file opens correctly
 
     // for loop iterates for number of new users added
     for (counter = 0; counter < num_users; counter++)
@@ -107,8 +107,9 @@ int main()
         // checks if output file was opened successfully
         if (file.is_open())
         {
-            file_open_success  = "YES";
+            file_open_success  = 1;
         }
+        else file_open_success = 0;
 
         // sends output data to file
         std::string c = ":"; // c stands for colon
@@ -116,13 +117,13 @@ int main()
        file << username << c << password << c << uid << c << gid << c << user_info << c << home_directory << c << default_shell << std::endl;
 
         // success/failure messages
-        if (counter==(num_users-1) && file_open_success == "YES" )
+        if (counter==(num_users-1) && file_open_success == 1)
         {
             std::cout << std::endl;
             std::cout << "Number of Records successfully written: " << num_users << std::endl;
             std::cout << "Output file location: " << full_filename << std::endl << std::endl;
         }
-        else if (file_open_success != "YES")
+        else if (file_open_success == 0)
         {
             std::cout << std::endl;
             std::cout << "ERROR: the output file could not be written!" << std::endl;
