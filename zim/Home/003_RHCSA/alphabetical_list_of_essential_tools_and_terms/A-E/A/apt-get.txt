@@ -5,4 +5,38 @@ Creation-Date: 2018-07-31T05:12:04-04:00
 ====== apt-get ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[A]]
+
+**KYWRD:** apt-get
+**RHCSA Objective: **001 Understand and use essential tools
+
+**Summary**
+Apt-get is a command on the Debian family of Linux operating systems (Debian, Ubuntu etc.). It is used to update system packages. Apt-get is similar to yum and dnf on the RHEL/CentOS family of Linux operating system.
+
+**apt-get:**
+* apt-get - function: N/A
+* apt-get - description: N/A
+* apt-get - options-flags N/A
+* apt-get - examples N/A
+
+**Relevant apt-get links:**
+* https://wiki.debian.org/apt-get
+
+**Relevant apt-get notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant apt-get Screenshots**
+N/A

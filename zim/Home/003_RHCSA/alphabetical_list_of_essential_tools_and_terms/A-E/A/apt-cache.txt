@@ -5,4 +5,38 @@ Creation-Date: 2018-07-31T05:11:45-04:00
 ====== apt-cache ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[A]]
+
+**KYWRD:** apt-cache
+**RHCSA Objective: **001 Understand and use essential tools
+
+**Summary**
+The apt command is widely used on Debian, and Debian derivates, such as Ubuntu. The RHEL/CentOS family of operating systems generally use yum of dnf instead. The apt-cache command on Debian-based systems is used to diplay information from apt's internal database.
+
+**apt-cache:**
+* apt-cache - function: N/A
+* apt-cache - description: N/A
+* apt-cache - options-flags N/A
+* apt-cache - examples N/A
+
+**Relevant apt-cache links:**
+* https://debian-handbook.info/browse/stable/sect.apt-cache.html
+
+**Relevant apt-cache notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant apt-cache Screenshots**
+N/A

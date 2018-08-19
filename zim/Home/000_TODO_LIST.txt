@@ -17,5 +17,6 @@ TODO LIST
 * Add screenshot of VM ping failure to objectivesX:002 - operate running systems:002 - left branches:Access a virtual machine's console:console - examples:console - example 2
 * Complete options pages:
 	* [[003 RHCSA:alphabetical list of essential tools and terms:A-E:A:apropos:apropos - options-flags]]
+	* [[003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk:awk - options-flags]]
 
 

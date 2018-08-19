@@ -5,4 +5,38 @@ Creation-Date: 2018-07-31T05:12:41-04:00
 ====== aptitude ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[A]]
+
+**KYWRD:** aptitude
+**RHCSA Objective: **001 Understand and use essential tools
+
+**Summary**
+Aptitude is an Ncurses-based front end to the Debian package manager, apt.
+
+**aptitude:**
+* aptitude - function: N/A
+* aptitude - description: N/A
+* aptitude - options-flags N/A
+* aptitude - examples N/A
+
+**Relevant aptitude links:**
+* https://wiki.debian.org/Aptitude
+
+**Relevant aptitude notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant aptitude Screenshots**
+N/A

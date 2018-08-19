@@ -25,7 +25,7 @@ Autofs is a utility that can be configured to automount  network shares or remov
 * Autofs - description: Autofs is composed of two parts:
 	1. a kernel module that implements a filesystem.
 	2. a user-space daemon that performs all other functions.
-* Autofs - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Autofs options page using this template: [[Home:002 all templates:options template|options template]]]
+* Autofs - options-flags N/A
 * Autofs - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Autofs examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
 
 **Relevant Autofs links:**
@@ -40,12 +40,13 @@ Autofs is a utility that can be configured to automount  network shares or remov
 * note 3
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: autofs: /usr/lib64/autofs /etc/autofs.conf
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]]: 
+	* autofs: 
+		* /usr/share/man/man8/autofs.8.gz 
+		* /usr/share/man/man5/autofs.5.gz
 
 **Relevant Autofs Screenshots**
-Paste any relevant screenshots here.
+N/A
