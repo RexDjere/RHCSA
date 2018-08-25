@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-25T15:50:58-04:00
+
+====== 001c - example 1 ======
+Created Saturday 25 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[001c Use grep and regular expressions to analyze text]]
+
+**KYWRD:** 001c - example 1
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary**
+Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] to search a text file for a string.
+
+**Scenario**
+Chris has received a new assignment from his boss Crystal:
+* Crystal is going on a business trip to Taiwan, and she wants to search 00_tech_companies_unsorted.txt for companies in Taiwan.
+* She wants Chris to sort 00_tech_companies_unsorted.txt by company name,  and create 01_tech_companies_sorted.txt 
+* She wants Chris to email her 02_taiwan_tech_companies.txt, a list of only the Taiwan-based companies.
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Download 00_tech_companies_unsorted.txt: 
+3. Briefly describe task 3.
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.
