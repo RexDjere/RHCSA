@@ -21,18 +21,18 @@ command to get timestamp: __date '+%A %D %X'__
 This article describes the options available for use with [[awk]] .
 
 **KEYWORD - options:**
-* -f //[program-file]//, --file //[program-file]//
-* -F //fs, //--field-separator// fs//
-* -v var=val
-* -b, --characters-as-bytes
-* -c, --traditional
-* -C, --copyright
-* -d[file], --dump=variables[=file]
-* -D[file], --debug[-file]
-* -e //program-text, //--source// program-text//
-* -E //file, //--exec //file//
-* -g, --gen-pot
-* -h, --help
+* -f //[program-file]//, --file //[program-file]: //tells awk to read from //program-file// instead of from command line input.
+* -F //fs, //--field-separator// fs: //The field separator, fs, is used to separate input fields.
+* -v var=val, --assign var=val: assigns the value //val// to the variable //var//, before program execution begins.
+* -b, --characters-as-bytes: tells awk to treat all input data as single-byte characters
+* -c, --traditional: runs awk in compatibility mode => awk runs identical to Kernighan's awk without GNU extensions.
+* -C, --copyright: prints GNU copyright information.
+* -d[file], --dump=variables[=file]: prints sorted list of global variables.
+* -D[file], --debug[-file]: enables debugging of awk programs.
+* -e //program-text, //--source// program-text: //tells awk to use program-text as awk program source code.
+* -E //file, //--exec //file: //similar to -f, tells awk to read from file.
+* -g, --gen-pot: scans awk program to produce a GNU .pot file.
+* -h, --help: summarizes awk options.
 
 
 **Relevant KEYWORD Screenshots**
