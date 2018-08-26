@@ -1,43 +1,39 @@
 0_	Prog. Language List 	;	0_Unsorted
 1_	************************;	1_**************************************
 2_	Programming Language 	; 	2_Key Person (Last Name, First Name) 
-3_	************************;	3_**************************************
-	FORTRAN 		; 	Backus, John
-	ALGOL 			; 	Bauer, Friedrich L.
-	assenbly language	; 	Booth, Kathleen
-	Newspeak 		; 	Bracha, Gilad 
-	D			; 	Bright, Walter   
-	Prolog			;   	Colmerauer, Alain
-	Simula			;	Dahl, Ole-Johan 
-	JavaScript		;	Eich, Brendan
-	Java 			;	Gosling, James 
-	SNOBOL			;    	Griswold, Ralph
+3_	************************;	3_**************************************	
+	Pascal			;	Wirth, Niklaus 
      	C#			;	Hejlsberg, Anders
    	Clojure			;	Hickey, Rich
-     	COBOL			;	Hopper, Grace
-	Lua			;	Ierusalimschy, Roberto 
-  	Smalltalk		;	Kay, Alan 
-	BASIC			;	Kemeny, John G.
-	AWK			;	Kernighan, Brian 
-  	Swift			;	Lattner, Chris
-   	PHP			;	Lerdorf, Rasmus
-      	OCaml			;	Leroy, Xavier 
- 	Ruby			;	Matsumoto, Yukihiro 
-  	LISP			;	McCarthy, John 
-     	Simula			;	Nygaard, Kristen
-   	Scala			;	Odersky, Martin 
-   	Tcl			;	Ousterhout, John 
-    	Go			;	Pike, Rob 
     	C			;	Ritchie, Dennis 
-   	Python			;	van Rossum, Guido 
-  	Scheme			;	Steele, Jr, Guy L. 
-   	C++			;	Stroustrup, Bjarne 
+   	Tcl			;	Ousterhout, John 
+	Lua			;	Ierusalimschy, Roberto 
+   	Scala			;	Odersky, Martin 
+    	Go			;	Pike, Rob 
+	Simula			;	Dahl, Ole-Johan 
    	F#			;	Syme, Don 
-    	Perl			;	Wall, Larry
-   	Haskell			;	Wadler, Philip 
-	Pascal			;	Wirth, Niklaus 
+	Ruby			;	Matsumoto, Yukihiro 
+   	C++			;	Stroustrup, Bjarne 
+      	OCaml			;	Leroy, Xavier 
+	ALGOL 			; 	Bauer, Friedrich L.
+	Java 			;	Gosling, James 
+   	Python			;	van Rossum, Guido 
+	AWK			;	Kernighan, Brian 
+	Perl			;	Wall, Larry
     	Mathematica		;	Wolfram, Stephen 
-    
-    
-  
-  
+   	PHP			;	Lerdorf, Rasmus
+  	Smalltalk		;	Kay, Alan 
+	assenbly language	; 	Booth, Kathleen
+	D			; 	Bright, Walter 
+   	Haskell			;	Wadler, Philip 
+     	COBOL			;	Hopper, Grace
+	Prolog			;   	Colmerauer, Alain
+	SNOBOL			;    	Griswold, Ralph
+	Newspeak 		; 	Bracha, Gilad 
+	BASIC			;	Kemeny, John G.
+     	Simula			;	Nygaard, Kristen
+	JavaScript		;	Eich, Brendan
+  	LISP			;	McCarthy, John 
+  	Swift			;	Lattner, Chris
+  	Scheme			;	Steele, Jr, Guy L. 
+	FORTRAN 		; 	Backus, John
