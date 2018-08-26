@@ -1,0 +1,44 @@
+0_	Prog. Language List 	;	0_Unsorted
+1_******************************;	1_**************************************
+2_	Programming Language 	; 	2_Key Person (Last Name, First Name) 
+3_******************************;	3_**************************************
+4_				;	4_
+	FORTRAN 		; 	Backus, John
+	ALGOL 			; 	Bauer, Friedrich L.
+	assenbly language	; 	Booth, Kathleen
+	Newspeak 		; 	Bracha, Gilad 
+	D			; 	Bright, Walter   
+	Prolog			;   	Colmerauer, Alain
+	Simula			;	Dahl, Ole-Johan 
+	JavaScript		;	Eich, Brendan
+	Java 			;	Gosling, James 
+	SNOBOL			;    	Griswold, Ralph
+     	C#			;	Hejlsberg, Anders
+   	Clojure			;	Hickey, Rich
+     	COBOL			;	Hopper, Grace
+	Lua			;	Ierusalimschy, Roberto 
+  	Smalltalk		;	Kay, Alan 
+	BASIC			;	Kemeny, John G.
+	AWK			;	Kernighan, Brian 
+  	Swift			;	Lattner, Chris
+   	PHP			;	Lerdorf, Rasmus
+      	OCaml			;	Leroy, Xavier 
+ 	Ruby			;	Matsumoto, Yukihiro 
+  	LISP			;	McCarthy, John 
+     	Simula			;	Nygaard, Kristen
+   	Scala			;	Odersky, Martin 
+   	Tcl			;	Ousterhout, John 
+    	Go			;	Pike, Rob 
+    	C			;	Ritchie, Dennis 
+   	Python			;	van Rossum, Guido 
+  	Scheme			;	Steele, Jr, Guy L. 
+   	C++			;	Stroustrup, Bjarne 
+   	F#			;	Syme, Don 
+    	Perl			;	Wall, Larry
+   	Haskell			;	Wadler, Philip 
+	Pascal			;	Wirth, Niklaus 
+    	Mathematica		;	Wolfram, Stephen 
+    
+    
+  
+  

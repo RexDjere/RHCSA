@@ -38,6 +38,7 @@ To get the most out of this study guide, you should do the following:
 	- cpp_files (c++ files that I created)
 	- examples (holds all study guide examples)
 	- LICENSE.md (contains GPL v3 license text)
+	- lists (holds list text files that I use for examples)
 	- MILESTONES.md
 	- mindmaps (hold all mindmaps created with Freemind)
 	- PULL_REQUEST_TEMPLATE.md

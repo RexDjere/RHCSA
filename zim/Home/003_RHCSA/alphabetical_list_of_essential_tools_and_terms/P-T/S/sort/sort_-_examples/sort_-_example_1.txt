@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-25T23:05:15-04:00
+
+====== sort - example 1 ======
+Created Saturday 25 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[sort - examples]]
+
+**KYWRD:** sort - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Sort a text file, first by the first column, then by the second column.
+
+**Scenario**
+Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages.
+
+**sort - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
+
+**Relevant sort - example 1 links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant sort - example 1 Screenshots**
+Paste any relevant screenshots here.

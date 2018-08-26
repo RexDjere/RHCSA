@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-25T22:51:54-04:00
+
+====== sort - examples ======
+Created Saturday 25 August 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[sort]]
+
+**KYWRD:** sort
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+This article demonstrates the correct use of the [[sort]] command.
+
+**sort - examples:**
+* [[+sort - example 1]] : sort a text file, first by the first column, then by the second column.
+* sort - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* sort - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant sort links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant sort Screenshots**
+Paste any relevant screenshots here.

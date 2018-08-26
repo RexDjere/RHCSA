@@ -1,0 +1,47 @@
+0_Company; Headquarters Location
+1_***************************************************************
+2_
+Twitter; San Francisco, CA
+Intel; Santa Clara, CA
+Npm; Oakland, VA
+Gigabyte Technology; New Taipei City, Taiwan
+Samsung; Seoul, South Korea
+Huawei; Shenzhen, China 
+Google; Mountain View, CA
+Thermaltake; Taipei, Taiwan
+Dell; Round Rock, TX
+Lenovo; Quarry Bay, Hong Kong
+Adobe; San Jose, CA
+SanDisk; Milpitas, CA
+Redis Labs; Mountain View, CA 
+Microsoft; Redmond, WA
+LG; Seoul, South Korea
+Rosewill; City of Industry, CA
+Electronic Arts; Redwood City, CA
+Hitachi; Chiyoda, Tokyo, Japan
+Apple; Cupertino, CA
+Red Hat; Raleigh, NC
+MSI; Zhonghe District, Taipei, Taiwan
+G.Skill; Taipei, Taiwan
+Broadcom; San Jose, CA
+Nvidia; Santa Clara, CA
+Foxconn; Tucheng District, Taipei, Taiwan
+Seagate Technology; Cupertino, CA
+Netflix; Los Gatos, CA 
+Automatic; San Francisco, CA
+Vmware; Palo Alto, CA
+Sony; Minato, Tokyo, Japan
+Canonical; London, United Kingdom
+Puppet; Portland, OR
+HP; Palo Alto, CA
+Cisco; San Jose, CA
+Oracle; Redwood City, CA
+Nginx; San Francisco, CA
+Facebook; Menlo Park, CA
+Chef; Seattle, WA
+Micro Focus International; Newbury, United Kingdom
+CloudBees; Lewes, DE
+Black Duck Software; Burlington, MA
+Cloudera; Palo Alto, CA
+IBM; Armonk, NY
+ASRock; Taipei, Taiwan
