@@ -26,7 +26,10 @@ I used bit.ly to shorten the address of the unsorted list:
 * shortened address:
 
 **Scenario**
-Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages.
+Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages, 00_programming_languages_unsorted.txt: 
+* Task 1: sort the list ascending by column 1, programming language, and save as 01_programming_languages_sorted.txt.
+* Task 2: sort the list ascending by column 2, name, and save as 02_programming_languages_sorted.txt.
+
 
 **sort - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
@@ -43,11 +46,16 @@ Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages
 		1. __sort -t";" -k2,2 01_prog* > 02_programming_languages_sorted.txt__
 6. See **Figure 1** below.
 7. Clear the screen: __clear__
-8. View the original unsorted file **(Figure 2)**: __cat 00*__
+8. Replace the word "Unsorted" with "Sorted" in files 01* and 02* **(Figure 1a)**:
+	a. **NOTE:** sed with the -i.bak option below replaces the string in-place, and saves a backup with the .bak extension.
+	b. __sed -i.bak 's/0_Unsorted/0_Sorted/g' 01*__
+	c. __sed -i.bak 's/0_Unsorted/0_Sorted/g' 02*__
 9. Clear the screen: __clear__
-10. View the sorted-by-language-name file **(Figure 3)**: __cat 01*__
+10. View the original unsorted file **(Figure 2)**: __cat 00*__
 11. Clear the screen: __clear__
-12. Vew the sorted-by-last-name file **(Figure 4**): __cat 02*__
+12. View the sorted-by-language-name file **(Figure 3)**: __cat 01*.txt__
+13. Clear the screen: __clear__
+14. Vew the sorted-by-last-name file **(Figure 4**): __cat 02*.txt__
 
 **Relevant sort - example 1 links:**
 * N/A
@@ -57,9 +65,14 @@ Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages
 Figure 1 - Steps 1 through 5
 {{./pasted_image.png}}
 
+Figure 1a - Replace the word "Unsorted" with "Sorted" in Files 01* and 02*
+{{./pasted_image002.png}}
+
 Figure 2 - Unsorted
 {{./pasted_image001.png}}
 
 Figure 3 - Sorted by Programming Language
+{{./pasted_image003.png}}
 
 Figure 4 - Sorted by Last Name
+{{./pasted_image004.png}}
