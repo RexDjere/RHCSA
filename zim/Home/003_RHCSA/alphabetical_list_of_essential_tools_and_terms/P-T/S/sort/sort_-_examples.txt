@@ -22,7 +22,7 @@ This article demonstrates the correct use of the [[sort]] command.
 
 **sort - examples:**
 * [[+sort - example 1]] : sort a text file, first by the first column, then by the second column.
-* sort - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* [[+sort - example 2]] : randomly sort a text file, then sort ascending, then sort descending.
 * sort - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
 **Relevant sort links:**

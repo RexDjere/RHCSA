@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-26T23:22:31-04:00
+
+====== sort - example 2 ======
+Created Sunday 26 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[sort - examples]]
+
+**KYWRD:** sort - example 2
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Randomly sort a text file, then sort ascending, then sort descending.
+
+**Scenario**
+Maya is a future RHEL sysadmin studying at Linux Academy. Her professor gives her a 3 part assignment:
+1. Randomly sort the text file **saxophones_random.txt.** Save it as **saxophones_random2.txt**.
+2. Sort **saxophones_random2.txt** ascending. Save it as **saxophones_ascending.txt**.
+3. Sort **saxophones_ascending.txt** descending. Save it as **saxophones_descending.txt**.
+
+
+**sort - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
+
+**Relevant sort - example 2 links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant sort - example 2 Screenshots**
+Paste any relevant screenshots here.
