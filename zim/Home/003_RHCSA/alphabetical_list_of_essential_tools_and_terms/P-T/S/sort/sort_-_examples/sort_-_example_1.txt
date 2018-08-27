@@ -21,9 +21,9 @@ command to get timestamp: __date '+%A %D %X'__
 Sort a text file, first by the first column, then by the second column.
 
 **Notes**
-I used bit.ly to shorten the address of the unsorted list: 
+I used [[https://bit.ly|bit.ly]] to shorten the address of the unsorted list: 
 * full address: https://raw.githubusercontent.com/RexDjere/RHCSA/master/lists/programming_languages/00_programming_languages_unsorted.txt
-* shortened address:
+* shortened address: https://bit.ly/2LsAcZg
 
 **Scenario**
 Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages, 00_programming_languages_unsorted.txt: 

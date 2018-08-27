@@ -20,22 +20,54 @@ command to get timestamp: __date '+%A %D %X'__
 **Summary**
 Randomly sort a text file, then sort ascending, then sort descending.
 
+**Notes**
+I used [[https://bit.ly|bit.ly]] to shorten the address of the original randomly-sorted list: 
+* full address: https://raw.githubusercontent.com/RexDjere/RHCSA/master/lists/saxophone_brands/saxophones_random.txt
+* shortened address: https://bit.ly/2oeflzC
+
 **Scenario**
 Maya is a future RHEL sysadmin studying at Linux Academy. Her professor gives her a 3 part assignment:
 1. Randomly sort the text file **saxophones_random.txt.** Save it as **saxophones_random2.txt**.
 2. Sort **saxophones_random2.txt** ascending. Save it as **saxophones_ascending.txt**.
 3. Sort **saxophones_ascending.txt** descending. Save it as **saxophones_descending.txt**.
 
-
 **sort - example 2 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Briefly describe task 2.
-3. Briefly describe task 3.
+2. Download the saxophones list text file:
+	a. __curl -L -o saxophones_random.txt https://bit.ly/2oeflzC__
+3. Randomly sort the text file **saxophones_random.txt.** Save it as **saxophones_random2.txt:**
+	a. __sort --random-sort saxophones_random.txt > saxophones_random2.txt__
+4. Sort **saxophones_random2.txt** ascending. Save it as **saxophones_ascending.txt:**
+	a. __sort saxophones_random2.txt > saxophones_ascending.txt__
+5. Sort **saxophones_ascending.txt** descending. Save it as **saxophones_descending.txt:**
+	a. __sort -r saxophones_ascending.txt > saxophones_descending.txt__
+6. See **Figure 1 **below.
+7. Clear the screen: __clear__
+8. View **saxophones_random.txt (Figure 2)**: __cat saxophones_random.txt__
+9. Clear the screen: __clear__
+10. View **saxophones_random2.txt** **(Figure 3)**: __cat saxophones_random2.txt__
+11. Clear the screen: __clear__
+12. Vew **saxophones_ascending.txt** **(Figure 4**): __cat saxophones_ascending.txt__
+13. Clear the screen: __clear__
+14. Vew **saxophones_descending.txt (Figure 5**): __cat saxophones_descending.txt__
+15. Clean up: __rm saxophones*__
 
 **Relevant sort - example 2 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant sort - example 2 Screenshots**
-Paste any relevant screenshots here.
+
+Figure 1 - Steps 1 through 5
+{{./pasted_image.png}}
+
+Figure 2 - Original Randomly Sorted List
+{{./pasted_image001.png}}
+
+Figure 3 - Randomly Re-sorted List
+{{./pasted_image002.png}}
+
+Figure 4 - Sorted Ascending
+{{./pasted_image003.png}}
+
+Figure 5 - Sorted Descending
+{{./pasted_image004.png}}
