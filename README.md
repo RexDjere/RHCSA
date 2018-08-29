@@ -26,7 +26,7 @@ To build this study guide, I am using the following <a href="https://www.fsf.org
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, I recommend the following:
 - Have a standalone computer, or virtual machine, with the latest version of CentOS installed to do the exercises (https://www.centos.org/).
-- Have a second computer, or a host pc, with at least 2 monitors, that meets the requirements below. **You'll install the software listed below on this machine.**
+- Have a second computer, or a host pc, with at least 2 monitors, that meets the requirements below. *You'll install the software listed below on this machine.*
 - If you decide to run CentOS in a guest VM:
 	- I recommend using KVM as your virtualization software.
 	- The host PC will need to have a fast CPU, and plenty of RAM (my original setup, an Intel Core Duo with 4 GB of RAM, could not handle it at all).
@@ -35,8 +35,8 @@ To get the most out of this study guide, I recommend the following:
 		- installing Freemind, Zim, Anki, and git-gui.
 		- **I recommend Fedora: https://getfedora.org/ ** 
 - On Fedora 28, you'd install the software with one of these 2 commands: 
-	- CASE A: sudo is not enabled for your account: **su -c "dnf install freemind zim anki git-gui"**
-	- CASE B: sudo is enabled for your account: **sudo dnf install freemind zim anki git-gui**
+	- CASE A: sudo is not enabled for your account: *su -c "dnf install freemind zim anki git-gui"*
+	- CASE B: sudo is enabled for your account: *sudo dnf install freemind zim anki git-gui*
 - (optional) Sign up for a free AnkiWeb account (https://ankiweb.net/)
 - Clone https://github.com/RexDjere/RHCSA to this directory on your Linux pc: /home/your_username/Sync/PROJECTS/RHCSA
 - After cloning the git repository, RHCSA should have the following files/folders inside:
