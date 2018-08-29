@@ -13,22 +13,30 @@ About the RHCSA Exam:
 ________________________________________________________________________________________________________________________________________
 
 To build this study guide, I am using the following <a href="https://www.fsf.org/about/what-is-free-software" target="_blank">free software</a>:
-- Fedora (my GNU/Linux computer operating system of choice): https://getfedora.org/
-- Freemind (for mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
+- Fedora (my GNU/Linux OS of choice): https://getfedora.org/
+- Freemind (mind maps): http://freemind.sourceforge.net/wiki/index.php/Main_Page
 - Zim Desktop Wiki: http://zim-wiki.org/
-- Anki (for flashcards): https://apps.ankiweb.net/
+- Anki (flashcards): https://apps.ankiweb.net/
 	- The Anki flashcard deck is shared here: https://ankiweb.net/shared/info/221697252
 	- See here for important information about how I share the flashcard deck on Anki: 
 		[Anki Shared Deck](anki/Anki_Shared_Deck.md)
 - git/git-gui (version control): https://git-scm.com/
 - KVM (Kernel-based Virtual Machine that I use for hosting guest CentOS VM on Fedora): https://www.linux-kvm.org/page/Main_Page
-- CentOS (Community Enterprise Operating System: the guest OS that I run in KVM): https://www.centos.org/
+- CentOS (Community Enterprise Operating System: guest OS for KVM): https://www.centos.org/
 ________________________________________________________________________________________________________________________________________
-To get the most out of this study guide, you should do the following:
-- Have a standalone computer with the latest version of CentOS installed to do the exercises (https://www.centos.org/)
-- Install Freemind, Zim, Anki, and git-gui (I started writing this guide on a Fedora 28 computer). 
-	- For me I'd install them with this command: su -c "dnf install freemind zim anki git-gui"
-	- On CentOS, you might use this command: su -c "yum install freemind zim anki git-gui"
+To get the most out of this study guide, I recommend the following:
+- Have a standalone computer, or virtual machine, with the latest version of CentOS installed to do the exercises (https://www.centos.org/).
+- Have a second computer, or a host pc, with at least 2 monitors, that meets the requirements below. **You'll install the software listed below on this machine.**
+- If you decide to run CentOS in a guest VM:
+	- I recommend using KVM as your virtualization software.
+	- The host PC will need to have a fast CPU, and plenty of RAM (my original setup, an Intel Core Duo with 4 GB of RAM, could not handle it at all).
+	- The host PC's OS should allow: 
+		- running a guest CentOS VM.
+		- installing Freemind, Zim, Anki, and git-gui.
+		- **I recommend Fedora: https://getfedora.org/ ** 
+- On Fedora 28, you'd install the software with one of these 2 commands: 
+	- CASE A: sudo is not enabled for your account: **su -c "dnf install freemind zim anki git-gui"**
+	- CASE B: sudo is enabled for your account: **sudo dnf install freemind zim anki git-gui**
 - (optional) Sign up for a free AnkiWeb account (https://ankiweb.net/)
 - Clone https://github.com/RexDjere/RHCSA to this directory on your Linux pc: /home/your_username/Sync/PROJECTS/RHCSA
 - After cloning the git repository, RHCSA should have the following files/folders inside:
