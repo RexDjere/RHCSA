@@ -33,7 +33,7 @@ To get the most out of this study guide, I recommend the following:
 	- The host PC's OS should allow: 
 		- running a guest CentOS VM.
 		- installing Freemind, Zim, Anki, and git-gui.
-		- **I recommend Fedora: https://getfedora.org/ ** 
+		- I recommend Fedora: https://getfedora.org/ 
 - On Fedora 28, you'd install the software with one of these 2 commands: 
 	- CASE A: sudo is not enabled for your account: *su -c "dnf install freemind zim anki git-gui"*
 	- CASE B: sudo is enabled for your account: *sudo dnf install freemind zim anki git-gui*
