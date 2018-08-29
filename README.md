@@ -26,7 +26,7 @@ To build this study guide, I am using the following <a href="https://www.fsf.org
 ________________________________________________________________________________________________________________________________________
 To get the most out of this study guide, I recommend the following:
 - Have a standalone computer, or virtual machine, with the latest version of CentOS installed to do the exercises (https://www.centos.org/).
-- Have a second computer, or a host pc, that meets the requirements below. *You'll install the software listed below on this machine.*
+- Have a second computer, or a host PC, that meets the requirements below. *You'll install the software listed below on this machine.*
 - If you decide to run CentOS in a guest VM:
 	- I recommend having at least 2 monitors on the host PC. This makes simultaneously doing the examples and following the study guide easier.
 	- I recommend using KVM as your virtualization software.
