@@ -37,7 +37,7 @@ To get the most out of this study guide, I recommend the following:
 - On Fedora 28, you'd install the software with one of these 2 commands: 
 	- CASE A: sudo is not enabled for your account: *su -c "dnf install freemind zim anki git-gui"*
 	- CASE B: sudo is enabled for your account: *sudo dnf install freemind zim anki git-gui*
-- (optional) Sign up for a free AnkiWeb account (https://ankiweb.net/)
+- *(optional)* Sign up for a free AnkiWeb account (https://ankiweb.net/)
 - Clone https://github.com/RexDjere/RHCSA to this directory on your Linux pc: /home/your_username/Sync/PROJECTS/RHCSA
 - After cloning the git repository, RHCSA should have the following files/folders inside:
 	- anki (holds exported text file containing all flashcard Q&As)
