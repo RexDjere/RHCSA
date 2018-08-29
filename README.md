@@ -29,7 +29,7 @@ To get the most out of this study guide, I recommend the following:
 - Have a second computer, or a host pc, with at least 2 monitors, that meets the requirements below. *You'll install the software listed below on this machine.*
 - If you decide to run CentOS in a guest VM:
 	- I recommend using KVM as your virtualization software.
-	- The host PC will need to have a fast CPU, and plenty of RAM (my original setup, an Intel Core Duo with 4 GB of RAM, could not handle it at all).
+	- The host PC will need to have a fast CPU, and plenty of RAM (my original setup, an older quad-core AMD CPU with 4 GB of RAM, could not handle it at all).
 	- The host PC's OS should allow: 
 		- running a guest CentOS VM.
 		- installing Freemind, Zim, Anki, and git-gui.
