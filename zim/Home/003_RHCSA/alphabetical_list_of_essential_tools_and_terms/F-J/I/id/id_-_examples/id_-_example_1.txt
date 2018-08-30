@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-29T22:48:33-04:00
+
+====== id - example 1 ======
+Created Wednesday 29 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[id - examples]]
+
+**KYWRD:** id - example 1
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
+
+**Summary**
+Create a new user with a specific UID and GID, view the user's information using [[id]] , and then delete the new user.
+
+**Scenario**
+Glenn, a RHEL sysadmin at the Jackson Group, has been tasked with adding a new user to his RHEL system. William Riker, the new user, is a recent military retiree.
+* The username will be **william_t_riker**.
+* The UID will be **755**.
+* The GID wil be **555**.
+
+a.) What command will create a group named **starfleet_retirees** with a GID of **555**?
+b.) What command will create the new user **william_t_riker**?
+c.) What command will show William's UID/GID details?
+d.) What command will delete William's account?
+e.) What command will delete the group **starfleet-retirees**?
+
+**id - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Create group **starfleet_retirees** with GID 555:
+	a. __su -c "groupadd starfleet_retirees -g 555"__
+3. Add user william_t_riker, UID=755, GID=555:
+	a. __su -c "useradd -u 755 -g 555 william_t_riker"__
+4. Verify the new account with the id command:
+	a. __id william_t_riker__
+5. Delete William's account:
+	a. __su -c "userdel -r william_t_riker"__
+6. Delete group **starfleet_retirees**:
+	a. __su -c "groupdel starfleet_retirees"__
+
+**Relevant id - example 1 links:**
+* N/A
+
+**Relevant id - example 1 Screenshots**
+{{./pasted_image.png}}

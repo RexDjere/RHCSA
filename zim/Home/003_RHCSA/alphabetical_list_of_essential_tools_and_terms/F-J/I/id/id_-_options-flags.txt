@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-29T22:33:28-04:00
+
+====== id - options-flags ======
+Created Wednesday 29 August 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[id]]
+
+**KYWRD:** id
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
+
+**Summary**
+This article details the options available with the [[id]] command.
+
+**id - options:**
+Print user and group information for the specified USER, or (when USER omitted) for the current user.
+* −a
+* −Z, −−context
+* −g, −−group
+* −G, −−groups
+* −n, −−name
+* −r, −−real
+* −u, −−user
+* −z, −−zero
+* −−help
+* −−version
+
+**Relevant id Screenshots**
+N/A

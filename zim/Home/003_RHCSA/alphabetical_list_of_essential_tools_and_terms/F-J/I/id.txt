@@ -15,26 +15,22 @@ command to get timestamp: __date '+%A %D %X'__
 [[I]]
 
 **KYWRD:** id
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
 
 **Summary**
 The id utility is used to view to user id (UID) and group id (GID) of users on Linux/Unix systems.
 
 **id:**
-* id - function: view UID/GID.
+* id - function: view UID/GID of users.
 * id - description: N/A
-* id - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the id options page using this template: [[Home:002 all templates:options template|options template]]]
-* id - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the id examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+id - options-flags]] 
+* [[+id - examples]] 
 
 **Relevant id links:**
-* link 1
-* link 2
-* link 3
+* https://www.cyberciti.biz/faq/unix-linux-id-command-examples-usage-syntax/
 
 **Relevant id notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: id: /usr/bin/id
