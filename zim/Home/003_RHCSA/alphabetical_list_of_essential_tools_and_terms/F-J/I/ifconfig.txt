@@ -19,31 +19,25 @@ command to get timestamp: __date '+%A %D %X'__
 
 
 **Summary**
-ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]].
+ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]]. ifconfig was used for network interface configuration.
 
 **ifconfig:**
-* ifconfig - function: State the main function of the topic here.
-* ifconfig - description: Provide a more detail description here.
-* ifconfig - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the ifconfig options page using this template: [[Home:002 all templates:options template|options template]]]
-* ifconfig - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the ifconfig examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* ifconfig - function: network interface configuration.
+* ifconfig - description: N/A
+* ifconfig - options-flags: N/A
+* ifconfig - examples: N/A
 
 **Relevant ifconfig links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Ifconfig
 
 **Relevant ifconfig notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ifconfig: /usr/sbin/ifconfig
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ifconfig: /usr/share/man/man8/ifconfig.8.gz
 
 **Relevant ifconfig Screenshots**
-Paste any relevant screenshots here.
+N/A
