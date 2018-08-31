@@ -5,6 +5,38 @@ Creation-Date: 2018-07-17T21:03:31-04:00
 ====== IETF ======
 Created Tuesday 17 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:gpg:OpenPGP
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-See Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:gpg:OpenPGP:Internet Engineering Task Force
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[I]]
+
+**KYWRD:** IETF
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+IETF stands for the Internet Engineering Task Force. The IETF is an open standards organization that develops and promotes Internet standards. One of the most importnet set of standards maintained by the IETF is the Internet protocol suite, TCP/IP.
+
+**IETF:**
+* IETF - function: develop and promote Internet standards.
+* IETF - description: N/A
+* IETF - options-flags: N/A
+* IETF - examples: N/S
+
+**Relevant IETF links:**
+* https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+
+**Relevant IETF notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant IETF Screenshots**
+N/A
