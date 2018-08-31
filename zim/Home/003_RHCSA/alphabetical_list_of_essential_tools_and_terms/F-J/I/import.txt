@@ -5,6 +5,38 @@ Creation-Date: 2018-07-31T05:25:02-04:00
 ====== import ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[I]]
+
+**KYWRD:** import
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+
+**Summary**
+The import utility is used to save any visible X server window, and save it as an image file. It can be used to take a screenshot of any rectangular portion of the screen, the whole screen, or any individual window.
+
+**import:**
+* import - function: take screenshots.
+* import - description:N/A.
+* [[+import - options-flags]] [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the import options page using this template: [[Home:002 all templates:options template|options template]]]
+* import - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the import examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+
+**Relevant import links:**
+* N/A
+
+**Relevant import notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: import: /usr/bin/import
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: import: /usr/share/man/man1/import.1.gz
+
+**Relevant import Screenshots**
+N/A
