@@ -24,7 +24,7 @@ The ifdown utility is used to take down a network interface.
 * ifdown - function: take down network interfaces.
 * ifdown - description: N/A
 * ifdown - options-flags: NA
-* [[+ifdown - examples]] 
+* [[ifdown - examples]] 
 
 **Relevant ifdown links:**
 * N/A

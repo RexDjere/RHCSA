@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-31T15:23:00-04:00
+
+====== ifup - examples ======
+Created Friday 31 August 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ifup]]
+
+**KYWRD:** ifup
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+This article links to examples demonstrating the use of the [[ifup]] command.
+
+**ifup - examples:**
+* ifup - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* ifup - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* ifup - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant ifup links:**
+* N/A
+
+**Relevant ifup Screenshots**
+N/A

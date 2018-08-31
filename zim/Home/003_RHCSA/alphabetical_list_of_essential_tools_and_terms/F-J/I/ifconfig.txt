@@ -17,7 +17,6 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** ifconfig
 **RHCSA Objective: **5.a. Configure networking and hostname resolution statically or dynamically
 
-
 **Summary**
 ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]]. ifconfig was used for network interface configuration.
 
