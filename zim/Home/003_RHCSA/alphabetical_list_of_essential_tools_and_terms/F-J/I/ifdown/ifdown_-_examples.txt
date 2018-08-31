@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-30T21:12:55-04:00
+
+====== ifdown - examples ======
+Created Thursday 30 August 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ifdown]]
+
+**KYWRD:** ifdown
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+This article links to examples demonstrating the use of the [[ifdown]] command.
+
+**ifdown - examples:**
+* ifdown - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* ifdown - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* ifdown - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant ifdown links:**
+* N/A
+
+**Relevant ifdown Screenshots**
+N/A
