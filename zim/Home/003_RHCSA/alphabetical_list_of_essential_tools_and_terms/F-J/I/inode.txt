@@ -5,6 +5,42 @@ Creation-Date: 2018-07-15T17:28:47-04:00
 ====== inode ======
 Created Sunday 15 July 2018
 
-[[P-T:S:stat-function]]
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[I]]
+
+**KYWRD:** inode
+**RHCSA Objective: **004f Diagnose and correct file permission problems
+
+**Summary**
 An inode is a data structure in Linux, and other Unix-like operating systems, that describes a filesystem object such as a file or directory.
+
+**inode:**
+* inode - function: describes filesystem objects such as files or directories.
+* inode - description: N/A
+* inode - options-flags: N/A
+* [[+inode - examples]] 
+
+**Relevant inode links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant inode notes**
+* note 1
+* note 2
+* note 3
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant inode Screenshots**
+Paste any relevant screenshots here.

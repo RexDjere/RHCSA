@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-01T18:48:16-04:00
+
+====== inode - example 1 ======
+Created Saturday 01 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[inode - examples]]
+
+**KYWRD:** inode
+**RHCSA Objective: **004f Diagnose and correct file permission problems
+
+**Summary**
+This article contains examples of how inodes are used in Linux filesystems.
+
+**Scenario**
+William is a RHEL sysadmin at the University of Kansas. He wants to create a new empty file in his home directory called "linux_podcasts.txt", and view its inode number.
+a.) What command will William use to create the new file?
+b.) What command will he use to view the new file's inode number?
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Create a new empty file named linux_podcasts.txt:
+	a. __touch linux_podcasts.txt__
+3. View the inode number of linux_podcasts.txt:
+	a. __ls -i linux_podcasts.txt__
+
+**Relevant KEYWORD links:**
+* N/A
+
+**Relevant KEYWORD Screenshots**
+{{./pasted_image.png}}
