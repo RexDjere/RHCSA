@@ -5,10 +5,38 @@ Creation-Date: 2018-07-19T02:19:31-04:00
 ====== initrd ======
 Created Thursday 19 July 2018
 
-Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 4 - Kernel
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[I]]
+
+**KYWRD:** initrd
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
 
 **Summary**
-initrd stands for Home:RHCSA:alphabetical list of essential tools and terms:F-J:I:initial RAM disk. it provides an initial root filesystem that is mounted prior to the "real" filesystem being mounted. initrd is initialized in concert with the kernel initialization.
+initrd is a RAM disk initialized by the boot loader during a Linux pc's boot legacy boot process.
 
-For more information on initrd, visit here:
-https://www.ibm.com/developerworks/library/l-initrd/index.html
+**initrd:**
+* initrd - function: RAM disk initialized by the boot loader during the Linux boot process.
+* initrd - description: N/A
+* initrd - options-flags: N/A
+* initrd - examples: N/A
+
+**Relevant initrd links:**
+* https://www.ibm.com/developerworks/library/l-initrd/index.html
+
+**Relevant initrd notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: initrd: /usr/share/man/man4/initrd.4.gz
+
+**Relevant initrd Screenshots**
+N/A
