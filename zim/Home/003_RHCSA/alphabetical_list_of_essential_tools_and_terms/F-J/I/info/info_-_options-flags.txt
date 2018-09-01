@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-01T09:31:50-04:00
+
+====== info - options-flags ======
+Created Saturday 01 September 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[info]]
+
+**KYWRD:** info
+**RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
+
+**Summary**
+This article lists the options available with the [[info]] command.
+
+**KEYWORD - options:**
+* −a, −−all
+* −k, −−apropos=STRING
+* −d, −−directory=DIR
+* −f, −−file=MANUAL
+* −h, −−help
+* −−index−search=STRING
+* −n, −−node=NODENAME
+* −o, −−output=FILE
+* −O, −−show−options, −−usage
+* −−subnodes
+* −v, −−variable VAR=VALUE
+* −−version
+* −w, −−where, −−location
+
+**Relevant KEYWORD Screenshots**
+N/A
