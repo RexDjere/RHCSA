@@ -16,4 +16,4 @@ star is a unique standard tape archiver with the following characteristics:
 * star has a sophisticated diff command that is implemented with the -diff flag (note that Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:tar also has diff implemented with the --diff or --compare flag)
 
 Star has many options, so I decided to break off its options to a separate file:
-* [[alphabetical list of essential tools and terms:P-T:S:star-options]]
+* [[alphabetical list of essential tools and terms:P-T:S:star:star-options]]

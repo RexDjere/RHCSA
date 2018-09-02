@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T03:24:35-04:00
 ====== ssh ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[S]]
+
+**KYWRD:** ssh
+**RHCSA Objective: **001d Access remote systems using ssh
+
+**Summary**
+**ssh **is a program, command-line interface, and protocol that is used to access a shell on a remote Linux/Unix system from a local Linux/Unix system.
+
+**ssh:**
+* ssh - function: access a shell on a remote Linux/Unix system.
+* ssh - description: N/A
+* [[+ssh - options-flags]] 
+* [[ssh - examples]] 
+
+**Relevant ssh links:**
+* https://en.wikipedia.org/wiki/Secure_Shell
+
+**Relevant ssh notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* ssh: 
+		* /usr/bin/ssh 
+		* /etc/ssh
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ssh: /usr/share/man/man1/ssh.1.gz
+
+**Relevant ssh Screenshots**
+N/A

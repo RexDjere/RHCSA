@@ -17,7 +17,7 @@ So a complete star compression command might look something like this:
 * star -cv -f=tarfilename input_file1 input_file2........
 
 star-compress - examples
-* [[alphabetical list of essential tools and terms:P-T:S:star-compress - example 1]]
-* [[alphabetical list of essential tools and terms:P-T:S:star-compress - example 2]]
+* [[alphabetical list of essential tools and terms:P-T:S:star:star examples:star-compress - example 1]]
+* [[alphabetical list of essential tools and terms:P-T:S:star:star examples:star-compress - example 2]]
 
 {{./pasted_image.png}}

@@ -14,19 +14,19 @@ command to get timestamp: __date '+%A %D %X'__
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[001 Understand and use essential tools]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** remote ssh
+**RHCSA Objective: **001d Access remote systems using ssh
 
 **Summary**
-This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+Ssh stands for secure shell. Ssh is a command-line interface and protocol that is used to access remote Linux/Unix computers from a Linux/Unix machine. Ssh is part of a 3-part suite of secure applications:
+1. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:slogin|slogin]]
+2. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]]
+3. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]]
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : briefly describe example 1.
-* KEYWORD - example 2 : briefly describe example 2.
-* KEYWORD - example 3 : briefly describe example 3.
+**remote ssh - examples:**
+* [[+001d - example 1]] : Login to a remote shell.
+* [[+001d - example 2]] : briefly describe example 2.
+* [[+001d - example 3]] : briefly describe example 3.
 
-**Relevant KEYWORD Screenshots**
+**Relevant remote ssh Screenshots**
 Paste any relevant screenshots here.

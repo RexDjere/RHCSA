@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T18:26:15-04:00
+
+====== ssh - example 1 ======
+Created Sunday 02 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ssh - examples]]
+
+**KYWRD:** ssh - example 1
+**RHCSA Objective: **001d Access remote systems using ssh
+
+**Summary**
+Login to a remote shell using [[ssh]]. Create an empty file, delete the empty file, and then exit the remote shell.
+
+**Scenario**
+Brian is a RHEL sysadmin-in-training. He wants to practice using the [[ssh]] command. He creates a free remote shell acount at https://sdf.org/ , and uses his local RHEL system to login to the remote shell. 
+* Brian's login username on the remote shell us **briankettering**
+* The remote shell is accessed via **tty.sdf.org**.
+
+What command will Brian use to access the remote shell?
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.

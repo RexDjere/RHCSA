@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T18:14:50-04:00
+
+====== slogin - options-flags ======
+Created Sunday 02 September 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+relevant backlink 1
+relevant backlink 2
+
+**KYWRD:** type the kywrd here.
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+
+**Summary**
+Options are also known as flags. This page is a template for pages where you will list and explain all of the options associated with a command.
+
+**KEYWORD - options:**
+* -a: describe option a.
+* -b: describe option b.
+* -c: decsribe option c.
+
+
+**Relevant KEYWORD Screenshots**
+Paste any relevant screenshots here.

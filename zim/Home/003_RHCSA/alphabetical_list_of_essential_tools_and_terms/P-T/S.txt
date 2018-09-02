@@ -28,6 +28,7 @@ All commands, utilities and terms starting with the letter S are sub-pages to th
 * [[+shutdown]]
 * [[+sleep]]
 * [[+slocate]] , [[K-O:L:locate]]
+* [[+slogin]]
 * [[+snort]]
 * [[+sort]]
 * [[+split]]
