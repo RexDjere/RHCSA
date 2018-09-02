@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[ip]]
 
 **KYWRD:** ip
-**RHCSA Objective: **5a. Configure networking and hostname resolution statically or dynamically
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
 
 **Summary**
 This article lists the options for the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] command.

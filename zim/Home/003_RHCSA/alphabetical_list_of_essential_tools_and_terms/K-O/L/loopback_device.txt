@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T12:14:47-04:00
+
+====== loopback device ======
+Created Sunday 02 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[L]]
+
+**KYWRD:** loopback device
+**RHCSA Objective: **005e Install Red Hat Enterprise Linux systems as virtual guests
+
+**Summary**
+The loopback device performs several network-related tasks on a computer system:
+* allows the computer to communicate with itself.
+* is used to connect to virtualized servers running on the local machine.
+* is used for troubleshooting and diagnostics.
+
+**loopback device:**
+* loopback device - function: allows computer to communicate with itself.
+* loopback device - description: N/A
+* loopback device - options-flags: N/A
+* [[+loopback device - examples]] 
+
+**Relevant loopback device links:**
+* https://en.wikipedia.org/wiki/Loopback
+
+**Relevant loopback device notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant loopback device Screenshots**
+N/A

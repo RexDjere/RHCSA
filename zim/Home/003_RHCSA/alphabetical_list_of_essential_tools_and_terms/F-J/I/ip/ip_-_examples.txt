@@ -15,15 +15,15 @@ command to get timestamp: __date '+%A %D %X'__
 [[ip]]
 
 **KYWRD:** ip
-**RHCSA Objective: **5a.Configure networking and hostname resolution statically or dynamically
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
 
 **Summary**
 This article will demonstrate how to use the [[ip]] command.
 
 **ip - examples:**
-* ip - example 1 : briefly describe example 1.
-* ip - example 2 : briefly describe example 2.
-* ip - example 3 : briefly describe example 3.
+* [[+ip - example 1]] : Bring down a network interface for maintenance on a RHEL system, and then bring it back up.
+* ip - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* ip - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
 **Relevant ip Screenshots**
-Paste any relevant screenshots here.
+N/A

@@ -27,11 +27,12 @@ All commands, utilities and terms starting with the letter L are sub-pages to th
 * [[+ln]]
 * [[+login]]
 * [[+logout]]
+* [[+loopback device]]
 * [[+lpc]]
 * [[+lpq]]
 * [[+lpr]]
 * [[+lprm]]
-* exam:objectives:001 - understand and use essential tools:files:ls
+* [[+ls]]
 * [[+lsblk]]
 * [[+lshal]]
 * [[+lshw]]

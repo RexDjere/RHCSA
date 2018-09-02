@@ -15,8 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[I]]
 
 **KYWRD:** ip
-**RHCSA Objective: **5a.Configure networking and hostname resolution statically or dynamically
-
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
 
 **Summary**
 The ip utility is used to show and manipulate network devices, routing, network interfaces and tunnels. ip is part if of ther ip route2 suite of tools.
@@ -25,27 +24,24 @@ The ip utility is used to show and manipulate network devices, routing, network 
 * ip - function: ip provides network display and configuration information.
 * ip - description: N/A
 * [[+ip - options-flags]] 
-* [[+ip - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the ip examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+ip - examples]] 
 
 **Relevant ip links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Iproute2
 
 **Relevant ip notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ip: /usr/sbin/ip
 
 **Associated man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
+	* ip: 
+		* /usr/share/man/man8/ip.8.gz 
+		* /usr/share/man/man7/ip.7.gz
 
 **Relevant ip Screenshots**
-Paste any relevant screenshots here.
+N/A
 
 

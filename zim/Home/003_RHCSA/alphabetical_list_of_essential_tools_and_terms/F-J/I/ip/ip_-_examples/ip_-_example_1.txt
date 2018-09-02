@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T12:08:47-04:00
+
+====== ip - example 1 ======
+Created Sunday 02 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ip - examples]]
+
+**KYWRD:** ip - example 1
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+Bring down a network interface for maintenance on a RHEL system, and then bring it back up.
+
+**Scenario**
+Leslie is a RHEL sysadmin at Time magazine. She wants bring down the network interface **ens3** for maintenance on her RHEL system, and then bring it back up.
+a.) What command will Leslie use to verify that ens3 is currently up?
+b.) What command will she use to bring down ens3?
+c.) How will she verify that ens3 is down?
+d.) What command will she use to bring ens3 back up?
+e.) How will she verify that ens3 is back up?
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Verify that ens3 is currently up:
+	a. __ip addr show ens3 | grep "UP"__
+3. Bring down the ens3 network interface:
+	a. __su -c "ip link set ens3 down"__
+4. Verify that ens3 is down:
+	a. __ip addr show ens3 | grep "DOWN"__
+5. Bring ens3 network interface back up:
+	a. __su -c "ip link set ens3 up"__
+6. Verify that ens3 is back up:
+	a. __ip addr show ens3 | grep "UP"__
+
+**Relevant KEYWORD links:**
+* N/A
+
+**Relevant KEYWORD Screenshots**
+{{./pasted_image.png}}

@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T12:24:13-04:00
+
+====== loopback device - example 1 ======
+Created Sunday 02 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[loopback device - examples]]
+
+**KYWRD:** loopback device - example 1
+**RHCSA Objective: **005e Install Red Hat Enterprise Linux systems as virtual guests
+
+**Summary**
+Show network information for the [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:L:loopback device|loopback device]], lo.
+
+**Scenario**
+Kobie is a RHEL sysadmin at Red Hat. He wants to see network information for the loopback device, lo, on his RHEL system. What command will he issues?
+
+**loopback device - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. View network information for lo, the loopback device:
+	a. __ip addr show lo__
+3. Briefly describe task 3.
+
+**Relevant loopback device - example 1 links:**
+* N/A
+
+**Relevant loopback device - example 1 Screenshots**
+{{./pasted_image.png}}
