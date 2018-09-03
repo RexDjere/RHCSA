@@ -18,24 +18,60 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001d Access remote systems using ssh
 
 **Summary**
-Login to a remote shell using [[ssh]]. Create an empty file, delete the empty file, and then exit the remote shell.
+Login to a remote shell using [[ssh]]. Create an empty file, populater the file with the names of tech companies, and then exit the remote shell.
 
 **Scenario**
-Brian is a RHEL sysadmin-in-training. He wants to practice using the [[ssh]] command. He creates a free remote shell acount at https://sdf.org/ , and uses his local RHEL system to login to the remote shell. 
-* Brian's login username on the remote shell us **briankettering**
-* The remote shell is accessed via **tty.sdf.org**.
+Brian is a RHEL sysadmin-in-training. He wants to practice using the [[ssh]] command. He creates a free remote shell acount at https://sdfeu.org/w , and uses his local RHEL system to login to the remote shell. 
+He wants to create a new file called **companies_unsorted.txt**. We will use this same file in [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh:ssh - examples:ssh - example 2|ssh - example 2]], so please don't delete it after this lesson is complete.
 
 What command will Brian use to access the remote shell?
 
 **KEYWORD - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. //(optional)// Create a free Unix shell account at sdf: https://sdf.org/
-3. Briefly describe task 3.
+2. **(optional, if you don't feel comfortable creating an account sdfeu.org, you can just follow along with this tutorial and learn)** 
+	a. Create a free Unix shell account at sdf: https://sdfeu.org/w
+3. Login to the remove sdfeu server via [[ssh]] :
+	a. __ssh your_username@sdfeu.org__
+4. See **Figure 1** below. Your screen should look similar. 
+5. It will prompt you to hit Enter and Backspace before you finally get to a command prompt. Once you get the command prompt, enter the **clear** command to give us a nice clean work area:
+	a. __clear__
+6. Your screen should now look like **Figure 2**.
+7. Create a new file named **companies_unsorted.txt** (sdfeu does not have the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch|touch]] command available, it uses the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:pico|pico]] text editor to create text files):
+	a. __pico companies_unsorted.txt__
+	b. Enter the names of the 10 companies below, one company per line:
+		1. Red Hat 
+		2. Cisco
+		3. Intel
+		4. AMD
+		5. Google 
+		6. Microsoft 
+		7. DARPA
+		8. Qualcomm
+		9. Twitter
+		10. Facebook
+	c. Before you hit CTRL+O to save, your screen should look like **Figure 3** below.
+	d. Hit CTRL+O to write out the file.
+	e. It should say "wrote 10 lines" in the bottom of your window.
+	f. Exit by entering CTRL+X.
+8. __clear__
+9. View the new file using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat|cat]] command:
+	a. __cat companies_unsorted.txt__
+10. Your screen should look like **Figure 4** below.
+11. If you decided to create an [[https://sdfeu.org/w|sdfeu.org account]], and do this guide, please don't delete **companies_unsorted.txt**. We will use it again in future exercises.
 
 **Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant KEYWORD Screenshots**
-Paste any relevant screenshots here.
+
+Figure 1 - Logging in the sdfeu via ssh
+{{./pasted_image.png}}
+
+Figure 2 - Clear screen
+{{./pasted_image001.png}}
+
+Figure 3 - companies_unsorted.txt
+{{./pasted_image002.png}}
+
+Figure 4 - cat view of companies_unsorted.txt
+{{./pasted_image003.png}}l
