@@ -24,7 +24,7 @@ command to get timestamp: __date '+%A %D %X'__
 * ssh - function: access a shell on a remote Linux/Unix system.
 * ssh - description: N/A
 * [[+ssh - options-flags]] 
-* [[ssh - examples]] 
+* [[+ssh - examples]] 
 
 **Relevant ssh links:**
 * https://en.wikipedia.org/wiki/Secure_Shell

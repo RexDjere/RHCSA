@@ -29,7 +29,7 @@ What command will Brian use to access the remote shell?
 
 **KEYWORD - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Briefly describe task 2.
+2. //(optional)// Create a free Unix shell account at sdf: https://sdf.org/
 3. Briefly describe task 3.
 
 **Relevant KEYWORD links:**

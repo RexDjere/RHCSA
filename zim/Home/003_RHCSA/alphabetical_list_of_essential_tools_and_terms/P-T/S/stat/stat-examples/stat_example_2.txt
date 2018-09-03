@@ -5,7 +5,7 @@ Creation-Date: 2018-07-15T17:43:19-04:00
 ====== stat example 2 ======
 Created Sunday 15 July 2018
 
-[[stat-examples]]
+[[stat:stat-examples]]
 [[S]]
 
 **Summary**

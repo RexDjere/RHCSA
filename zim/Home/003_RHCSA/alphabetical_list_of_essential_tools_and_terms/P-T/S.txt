@@ -19,6 +19,7 @@ All commands, utilities and terms starting with the letter S are sub-pages to th
 **S:**
 * [[+scp]]
 * [[+screen]]
+* [[+sdf.org]]
 * [[+sdiff]]
 * [[+sed]]
 * [[+service]]

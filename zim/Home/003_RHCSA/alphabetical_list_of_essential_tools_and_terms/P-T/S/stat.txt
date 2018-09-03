@@ -11,9 +11,9 @@ alphabetical list of essential tools
 [[S]]
 
 **Summary**
-The stat utility allows you to see several pieces of information about a file or directory. See [[stat-description]] for more details.
+The stat utility allows you to see several pieces of information about a file or directory. See [[+stat-description]] for more details.
 
 stat
-* [[stat-function]]
-* [[stat-description]]
-* [[stat-examples]]
+* [[+stat-function]]
+* [[+stat-description]]
+* [[+stat-examples]]

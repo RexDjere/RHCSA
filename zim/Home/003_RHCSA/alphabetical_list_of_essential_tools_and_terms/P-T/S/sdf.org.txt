@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T20:58:39-04:00
+
+====== sdf.org ======
+Created Sunday 02 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[S]]
+
+**KYWRD:** sdf.org
+**RHCSA Objective: **001d Access remote systems using ssh
+
+**Summary**
+**sdf **stands for **Super Dimension Fortress**. https://sdf.org/ is the homepage for the sdf project. **sdf** consists of both a community, and a remotely accessible Unix server platform. **sdf **servers can be accessed remotely via ssh for users who register for the free sdf platform at sdf.org.
+
+**sdf.org:**
+* sdf.org - function: Provide remotely accessible Unix shells.
+* sdf.org - description: N/A
+* sdf.org - options-flags: N/A
+* [[+sdf.org - examples]] 
+
+**Relevant sdf.org links:**
+* https://sdf.org/
+
+**Relevant sdf.org notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant sdf.org Screenshots**
+{{./pasted_image001.png}}

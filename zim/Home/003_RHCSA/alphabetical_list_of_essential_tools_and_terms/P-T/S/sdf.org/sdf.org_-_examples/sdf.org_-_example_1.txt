@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-02T21:15:42-04:00
+
+====== sdf.org - example 1 ======
+Created Sunday 02 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[sdf.org - examples]]
+
+**KYWRD:** sdf.org - example 1
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+
+**Summary**
+Connect to an sdf.org remote shell using a CentOS VM.
+
+**Scenario**
+Kayode is a RHEL sysadmin at Linux Academy. He wants test ssh on his RHEL system using sdf.org's remote Unix shells.
+
+**sdf.org - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. **Steps 3-8 are optional.** //If you don't feel comfortable creating an sdf.org account, //**don't**//. You can just learn from the tutorial below.//
+3. Create a free Unix shell account at https://sdf.org/
+4. Open a terminal on your CentOS/RHEL machine and connect to your sdf server using ssh:
+	a. __ssh your_username@tty.sdf.org__
+5. Create a new empty file called **test_file.txt** :
+	a. __touch for_example1.txt__
+6. View the new file:
+	a. __ls__
+7. Remove **test_file.txt** :
+	a. __rm text_file.txt__
+8. Exit the sdf terminal:
+	a. __exit__
+
+**Relevant sdf.org - example 1 links:**
+* N/A
+
+**Relevant sdf.org - example 1 Screenshots**
+{{./pasted_image.png}}
+
+{{./pasted_image001.png}}

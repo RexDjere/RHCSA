@@ -5,7 +5,7 @@ Creation-Date: 2018-07-28T00:09:52-04:00
 ====== block size ======
 Created Saturday 28 July 2018
 
-[[P-T:S:stat example 3]]
+[[P-T:S:stat:stat-examples:stat example 3]]
 [[B]]
 
 **Summary**
