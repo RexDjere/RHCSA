@@ -21,10 +21,37 @@ command to get timestamp: __date '+%A %D %X'__
 This article lists the options available with the [[ssh]] command.
 
 **KEYWORD - options:**
-* -a: describe option a.
-* -b: describe option b.
-* -c: decsribe option c.
-
+* −4: forces **ssh** to use IPv4 addresses exclusively.
+* −6: forces **ssh** to use IPv6 addresses exclusively.
+* −A: allows forwarding of the authentication agent connection.
+* −a: disables forwarding of the authentication agent connection.
+* −B //bind_interface: //tells **ssh** to bind to the address of the **bind interface** before connecting to the destination host.
+* −b //bind_address: //tells **ssh** to use the **bind address** of the local machine as the source address of the connection.
+* −C
+* −c cipher_spec
+* −D
+* −E log_file
+* −e escape_char
+* −F configfile
+* −f
+* −G
+* −g
+* −I pkcs11
+* −i identity_file
+* −J destination
+* −K
+* −k
+* −L
+* −L
+* −L
+* −L
+* −l login_name
+* −M
+* −m mac_spec
+* −N
+* −n
+* −O ctl_cmd
+* −o option
 
 **Relevant KEYWORD Screenshots**
 N/A
