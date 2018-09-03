@@ -24,7 +24,7 @@ Ssh stands for secure shell. Ssh is a command-line interface and protocol that i
 3. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]]
 
 **remote ssh - examples:**
-* [[+001d - example 1]] : Login to a remote shell.
+* [[+001d - example 1]] : Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the ssh session.
 * [[+001d - example 2]] : briefly describe example 2.
 * [[+001d - example 3]] : briefly describe example 3.
 
