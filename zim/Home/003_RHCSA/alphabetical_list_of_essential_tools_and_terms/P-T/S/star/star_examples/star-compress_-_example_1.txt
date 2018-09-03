@@ -5,26 +5,53 @@ Creation-Date: 2018-08-02T11:10:26-04:00
 ====== star-compress - example 1 ======
 Created Thursday 02 August 2018
 
-examples template
-Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star-compress - examples
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[star examples]]
+
+**KYWRD:** star-compress - example 1
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
 **Summary**
 In star-compress - example 1, we will create 15 empty files, and compress them into a tar archive. We will then verify that the files were correctly archived.
 
-Tasks (NOTE: in examples, terminal commands are __highlighted__):
-* Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001a]]
-* Create 15 empty files using the touch commmand: climate_assessment.001.data though climate_assessment015.data : 
-	* __touch climate_assessment.{001..015}.data__
-* Roll up all 15 files into a tar archive named climate_assessments.tar with the Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star command: 
-	* __star -cv -f=climate_assessments.tar climate_assessment.{001..015}.data__
-* Verify that the tar archive actually contains all 15 files:
-	* Go up 1 level using the Home:RHCSA:alphabetical list of essential tools:C:cd command: //cd ..//
-	* Create a new directory using the Home:RHCSA:alphabetical list of essential tools and terms:K-O:M:mkdir command: //mkdir star-compress_ex001b//
-	* Copy climate_assessments.tar to the new directory using the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:cp command:
-		* __cp star-compress_ex001a/climate_assessments.tar star-compress_ex001b__
-* cd to star-compress_ex001b and decompress climate_assessments.tar. You should get back the 15 files in the star-compress_ex001b folder:
-	* cd to star-compress_ex001b: __cd star-compress_ex001b__
-	* decompress climate_assessments.tar: __star -x -f=climate_assessments.tar__
-	* Verify that the 15 .odt files are present in star-compress_ex001b: __ls__
+**Scenario**
+Brent, a RHEL sysadmin at Cisco, has been tasked with creating an archive using star.
+a.) What command will Brent use to create 15 empty files named **climate_assessment.001.data** through **climate_assessment.015.data**?
+b.) What **star** command will Brent use to compress the 15 files into an archive named **climate_assessments.tar**?
+c.) What **star** command would Brent use to decompress an archive named **climate_assessments.tar**?
 
-{{../star-compress_-_examples/pasted_image.png}}
+**star-compress - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Navigate to [[~/Sync/PROJECTS/RHCSA/examples/star/star-compress_ex001a]]
+2. Create 15 empty files using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:touch|touch]] commmand: **climate_assessment.001.data** though **climate_assessment.015.data** : 
+	a. __touch climate_assessment.{001..015}.data__
+3. Roll up all 15 files into a tar archive named **climate_assessments.tar** with the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:star|star]] command: 
+	a. __star -cv -f=climate_assessments.tar climate_assessment.{001..015}.data__
+4. Your screen should look similar to **Figure 1** below.
+5. Clear the screen: type __clear__ and hit __Enter__.
+6. Verify that the tar archive actually contains all 15 files:
+	a. Go up 1 level using [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cd|cd]] : __cd ..__
+	b. Create a new directory using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:mkdir|mkdir]] command: __mkdir star-compress_ex001b__
+	c. Copy **climate_assessments.tar** to the new directory using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cp|cp]] command:
+		1. __cp star-compress_ex001a/climate_assessments.tar star-compress_ex001b__
+	d. cd to **star-compress_ex001b** and **decompress climate_assessments.tar**. You should get back the 15 files in the **star-compress_ex001b** folder:
+		1. cd to **star-compress_ex001b**: __cd star-compress_ex001b__
+		2. decompress **climate_assessments.tar**: __star -x -f=climate_assessments.tar__
+		3. Verify that the 15 .odt files are present in star-compress_ex001b: __ls__
+7. Your screen should look similar to **Figure 2** below.
+
+**Relevant star-compress - example 1 links:**
+* N/A
+
+**Relevant star-compress - example 1 Screenshots**
+
+Figure 1 - Steps 1 through 3
+{{./pasted_image.png}}
+
+Figure 2 - Steps 6 and 7
+{{./pasted_image001.png}}

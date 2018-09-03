@@ -20,7 +20,7 @@ star
 * [[+star-examples]]
 * [[+star-compress - examples]]
 * [[+star-unpack - examples]]
-* [[alphabetical list of essential tools and terms:P-T:S:star:star examples:star-uncompress - examples]]
+* alphabetical list of essential tools and terms:P-T:S:star:star examples:star-uncompress - examples
 
 star all templates:options template:alphabetical list of essential tools:B:binary location: star: /usr/bin/star
 

@@ -15,15 +15,13 @@ command to get timestamp: __date '+%A %D %X'__
 [[star]]
 
 **KYWRD:** star
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
 **Summary**
-This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of star in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+This article illustrates the correct usage of the [[star]] command.
 
 **star - examples:**
+* [[+star-compress - example 1]] - In star-compress - example 1, we will create 15 empty files, and compress them into a tar archive. We will then verify that the files were correctly archived.
 * star - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
 * star - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
 * star - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
