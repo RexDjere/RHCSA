@@ -21,8 +21,8 @@ command to get timestamp: __date '+%A %D %X'__
 This article demonstrates the correct use of the [[ssh]] command.
 
 **ssh - examples:**
-* [[+ssh - example 1]] : Login to a remote shell using [[ssh]]. Create an empty file, populater the file with the names of tech companies, and then exit the remote shell.
-* [[+ssh - example 2]] : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* [[+ssh - example 1]] : Login to a remote shell using [[ssh]]. Create an empty file, populate the file with the names of tech companies, and then exit the remote shell.
+* [[+ssh - example 2]] : Use [[ssh]] to login to a remote server, edit a file, and exit.
 * ssh - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
 **Relevant ssh links:**
