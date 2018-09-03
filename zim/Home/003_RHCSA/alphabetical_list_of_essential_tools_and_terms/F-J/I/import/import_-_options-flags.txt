@@ -12,11 +12,10 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
+[[import]]
 
 **KYWRD:** import
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
 Options are also known as flags. This page is a template for pages where you will list and explain all of the options associated with a command.

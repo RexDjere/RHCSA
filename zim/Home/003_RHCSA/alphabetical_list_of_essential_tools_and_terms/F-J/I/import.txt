@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[I]]
 
 **KYWRD:** import
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
 The import utility is used to save any visible X server window, and save it as an image file. It can be used to take a screenshot of any rectangular portion of the screen, the whole screen, or any individual window.
@@ -23,8 +23,8 @@ The import utility is used to save any visible X server window, and save it as a
 **import:**
 * import - function: take screenshots.
 * import - description:N/A.
-* [[+import - options-flags]] [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the import options page using this template: [[Home:002 all templates:options template|options template]]]
-* import - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the import examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+import - options-flags]] 
+* [[+import - examples]] 
 
 **Relevant import links:**
 * N/A
