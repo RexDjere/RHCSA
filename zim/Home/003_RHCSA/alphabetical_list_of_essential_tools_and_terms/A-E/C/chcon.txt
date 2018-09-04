@@ -5,5 +5,39 @@ Creation-Date: 2018-07-17T14:18:34-04:00
 ====== chcon ======
 Created Tuesday 17 July 2018
 
-[[P-T:S:star:star examples:star example 2]]
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[C]]
+
+**KYWRD:** chcon
+**RHCSA Objective: **007d List and identify SELinux file and process context
+
+**Summary**
+**chcon **is used to change the **SELinux** security context of a file.
+
+**chcon:**
+* chcon - function: modify SELinux security context of a file.
+* chcon - description: N/A
+* [[+chcon - options-flags]] 
+* [[+chcon - examples]] 
+
+**Relevant chcon links:**
+* https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+**Relevant chcon notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: chcon: /usr/bin/chcon
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: chcon: /usr/share/man/man1/chcon.1.gz
+
+**Relevant chcon Screenshots**
+N/A
+
