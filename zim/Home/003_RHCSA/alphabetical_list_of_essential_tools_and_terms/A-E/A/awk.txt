@@ -18,14 +18,13 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-Awk is in a family of pattern scanning Linux utilitities that also includes [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]. Awk is both a programming language and a text processing utility. It can be used to manipulate text.
+**awk** is in a family of pattern scanning Linux utilitities that also includes [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]. **awk** is both a programming language and a text processing utility. It can be used to manipulate text.
 
 **awk:**
 * awk - function: manipulate text.
 * awk - description: awk is a programming language and utility that is used to manipulate text.
 * [[+awk - options-flags]]
 * [[+awk - examples]] 
-
 
 **Relevant awk links:**
 * N/A

@@ -22,10 +22,10 @@ command to get timestamp: __date '+%A %D %X'__
 At the time of this writing (Wednesday 08/15/18 06:58:44 PM), my system (Fedora 28) did not have the addgroup command installed, and I did not find it in a DNF repository search. I verified here that addgroup is not included with Fedora: https://docs.fedoraproject.org/en-US/Fedora/15/html/Deployment_Guide/s1-users-tools.html
 
 **addgroup:**
-* addgroup - function: State the main function of the topic here.
-* addgroup - description: Provide a more detail description here.
-* addgroup - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the addgroup options page using this template: [[Home:002 all templates:options template|options template]]]
-* addgroup - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the addgroup examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* addgroup - function: Add new group to the system.
+* addgroup - description: N/A
+* addgroup - options-flags: N/A
+* addgroup - examples: N/A
 
 **Relevant addgroup links:**
 * https://www.computerhope.com/unix/adduser.htm
@@ -40,4 +40,4 @@ At the time of this writing (Wednesday 08/15/18 06:58:44 PM), my system (Fedora 
 * N/A
 
 **Relevant addgroup Screenshots**
-Paste any relevant screenshots here.
+N/A

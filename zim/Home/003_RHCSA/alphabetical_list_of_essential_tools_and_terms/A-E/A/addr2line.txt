@@ -37,4 +37,4 @@ addr2line is a computer programming tool that is part of the GNU Binary Utilitie
 * addr2line: /usr/share/man/man1/addr2line.1.gz
 
 **Relevant addr2line Screenshots**
-Paste any relevant screenshots here.
+N/A

@@ -33,4 +33,4 @@ command to get timestamp: __date '+%A %D %X'__
 * [[+005k Modify the system bootloader]]
 
 **Relevant 005 maintain systems Screenshots**
-Paste any relevant screenshots here.
+N/A
