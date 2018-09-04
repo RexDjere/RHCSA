@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T20:00:32-04:00
 ====== options template ======
 Created Thursday 02 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+[[Home:002 all templates:options template|options template]] version: Tuesday 09/04/18 03:02:42 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
@@ -19,7 +19,7 @@ relevant backlink 2
 **RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
 
 **Summary**
-Options are also known as flags. This page is a template for pages where you will list and explain all of the options associated with a command.
+This article describes the options available with the **command_name/link_here ** command.
 
 **KEYWORD - options:**
 * -a: describe option a.

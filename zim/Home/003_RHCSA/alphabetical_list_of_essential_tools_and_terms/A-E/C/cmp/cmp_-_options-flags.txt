@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-04T14:57:22-04:00
+
+====== cmp - options-flags ======
+Created Tuesday 04 September 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[cmp]]
+
+**KYWRD:** cmp
+**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+
+**Summary**
+This article describes the options available with the [[cmp]] command.
+
+**cmp - options:**
+* −b, −−print−bytes
+* −i, −−ignore−initial=SKIP
+* −i, −−ignore−initial=SKIP1:SKIP2
+* −l, −−verbose
+* −n, −−bytes=LIMIT
+* −s, −−quiet, −−silent
+* −−help
+* −v, −−version
+
+**Relevant cmp Screenshots**
+N/A

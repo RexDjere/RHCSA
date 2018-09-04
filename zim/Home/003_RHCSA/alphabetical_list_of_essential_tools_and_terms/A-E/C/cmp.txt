@@ -5,4 +5,43 @@ Creation-Date: 2018-07-31T02:47:21-04:00
 ====== cmp ======
 Created Tuesday 31 July 2018
 
+[[Home]]
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[C]]
+
+**KYWRD:** cmp
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+The **cmp** command is used to compare 2 files byte by byte.
+
+**cmp:**
+* cmp - function: compare 2 files.
+* cmp - description: N/A
+* [[+cmp - examples]]
+* [[+cmp - options-flags]]
+
+**Relevant cmp links:**
+* https://en.wikipedia.org/wiki/Cmp_(Unix)
+
+**Relevant cmp notes**
+* N/A
+
+**Associated binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cmp: /usr/bin/cmp
+
+**Associated man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* cmp: 
+		* /usr/share/man/man1/cmp.1.gz 
+		* /usr/share/man/man1p/cmp.1p.gz
+
+**Relevant cmp Screenshots**
+N/A
