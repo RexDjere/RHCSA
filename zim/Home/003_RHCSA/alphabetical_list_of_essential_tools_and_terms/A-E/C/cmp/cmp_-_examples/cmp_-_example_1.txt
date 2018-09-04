@@ -21,17 +21,47 @@ command to get timestamp: __date '+%A %D %X'__
 Login to a CentOS/RHEL VM, create 2 files, and compare them using [[cmp]].
 
 **Scenario**
-Briefly describe the scenario here, and describe the problem that we are going to solve.
+Andreas is a RHEL sysadmin for the Chicago Cubs. He creates two text files in the **examples** directory using nano: **ex1.txt** and **ext2.txt.**
+What command can Andreas use to compare the two files?
 
 **cmp - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Briefly describe task 2.
-3. Briefly describe task 3.
+2. Create a new directory called **examples**: __mkdir examples__
+3. Create two files in **examples**:
+	a. **ex1.txt** and **ex2.txt**: __touch examples/ex{1,2}.txt__
+4. Edit **ex1.txt** using Nano: __nano examples/ex1.txt__
+	a. add these companies to **ex1.txt**:
+		1. Google
+		2. Microsoft
+		3. Red Hat
+		4. Linux Foundation
+	b. Save the file: __CTRL+O__ then __CTRL+X__
+5. Edit **ex2.txt** using Nano: __nano examples/ex2.txt__
+	a. add these companies to **ex1.txt**:
+		1. Google
+		2. Microsoft
+		3. Canonical
+		4. Linux Foundation
+	b. Save the file: __CTRL+O__ then __CTRL+X__
+6. Compare **ex1.txt** with **ex2.txt**:
+	a. __cmp examples/ex{1,2}.txt__
+7. Cleanup: __rm -r examples__
+8. Verify cleanup: __ls__
+9. Exit: __exit__
 
 **Relevant cmp - example 1 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant cmp - example 1 Screenshots**
-Paste any relevant screenshots here.
+
+Figure 1: Steps 1-3
+{{./pasted_image.png}}
+
+Figure 2: Step 4
+{{./pasted_image003.png}}
+
+Figure 3: Step 5
+{{./pasted_image002.png}}
+
+Figure 4: Steps 6-8
+{{./pasted_image001.png}}

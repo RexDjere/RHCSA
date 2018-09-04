@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **007d List and identify SELinux file and process context
 
 **Summary**
-**chcon **is used to change the **SELinux** security context of a file.
+**chcon **is used to change the **SELinux** security context of a file. **chcon** stands for "change context".
 
 **chcon:**
 * chcon - function: modify SELinux security context of a file.
