@@ -1,0 +1,67 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-03T17:24:14-04:00
+
+====== import - example 1 ======
+Created Monday 03 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[import - examples]]
+
+**KYWRD:** import - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Open a terminal, type some commands, take a screenshot of the session, and save the screenshot as **session_09032018.png**.
+
+**Scenario**
+Antonio is a RHEL sysadmin at CNN. He wants to take a screenshot of his terminal session, but he realizes that RHEL 7 does not have the **import** utility in its repositories. Luckily, he also has a Fedora system at work which does have the **import** utility. Antonio wants to open a terminal, rename the terminal **Terminal_Session_09032018**,  type a short set of commands, take a screenshot, and save the screenshot as **session_09032018.png**. He will save the folder in a folder in his home directory named **sessions**. 
+a.) What command will Antonio use to rename his terminal **Terminal_Session_09032018**?
+b.) What command will Antonio use to create the **sessions** directory?
+c.) What command will Antonio use to create a folder inside sessions named **text_files**?
+d.) What command will Antonio use to create 10 files inside **text_files**: **text_file001.txt** to **text_file010.txt**?
+e.) What command will he use to take a screenshot of his screens, and save it in **sessions **as **session_09032018.png**?
+f.) What command will he use to remove all of the files and folders that he created once he is done?
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+Open a **gnome-terminal**.
+a.) Previously, Antonio would have opened a new terminal window named Terminal_Session_09032018 with this command:
+	1.) __gnome-terminal --title="Terminal_Session_09032018"__
+	2.) Unfortunately, the --title option has been removed from gnome-terminal.
+	3.) So now, Antonio has to change the title manually using gnome-terminal's GUI interface:
+		a. Select the Terminal menu option. You'll get a dropdown menu.
+		b. Select **Set Title...**
+		c. Enter the new terminal name, and hit **OK**.
+	4.) See **Figure 1** below.
+b.) __mkdir sessions__
+c.) __mkdir sessions/text_files__
+d.) __touch sessions/text_files/text_file{001..010}.txt__
+e.) __import -window Terminal_Session_09032018 sessions/session_09032018.png__
+See **Figures 2 and 3** below.
+f.) __rm -r sessions__
+See **Figure 4** below.
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD Screenshots**
+
+Figure 1 - Changing the Title of the terminal window.
+{{./pasted_image.png}}
+
+Figure 2 - steps b.) through e.)
+{{./pasted_image001.png}}
+
+Figure 3 - Screenshot of **Terminal_Session_09032018** created by **import.**
+{{./pasted_image002.png}}
+
+Figure 4 - Cleaning up by removing **sessions**, and its contents.
+{{./pasted_image003.png}}

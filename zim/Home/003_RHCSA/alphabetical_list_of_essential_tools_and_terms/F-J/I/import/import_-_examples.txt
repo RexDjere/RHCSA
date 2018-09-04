@@ -17,11 +17,14 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** import
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
+**Note**
+Today is Sept. 3, 2018. I am writing this page on a Fedora 28 system. As of today, Fedora has [[import]] in its repositories, but CentOS 7 does not. However, I feel that **import** is such a useful tool that it will eventually make its way into RHEL/CentOS. I decided to include some examples of how to use **import**. All examples will be performed on my Fedora machine until **import** becomes available on CentOS.
+
 **Summary**
-This article contains examples of the correct use of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:import|import]] command.
+This article contains examples that illustrate how to correctly use the [[import]] command.
 
 **import - examples:**
-* import - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* [[+import - example 1]] : Open a terminal, type some commands, take a screenshot of the session, and save the screenshot as **session_09032018.png**.
 * import - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
 * import - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
