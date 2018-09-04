@@ -29,7 +29,7 @@ d.) What command will Antonio use to create 10 files inside **text_files**: **te
 e.) What command will he use to take a screenshot of his screens, and save it in **sessions **as **session_09032018.png**?
 f.) What command will he use to remove all of the files and folders that he created once he is done?
 
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+**import - example 1 - tasks **(command line commands are __highlighted__)**:**
 Open a **gnome-terminal**.
 a.) Previously, Antonio would have opened a new terminal window named Terminal_Session_09032018 with this command:
 	1.) __gnome-terminal --title="Terminal_Session_09032018"__
@@ -47,12 +47,12 @@ See **Figures 2 and 3** below.
 f.) __rm -r sessions__
 See **Figure 4** below.
 
-**Relevant KEYWORD links:**
+**Relevant import - example 1 links:**
 * link 1
 * link 2
 * link 3
 
-**Relevant KEYWORD Screenshots**
+**Relevant import - example 1 Screenshots**
 
 Figure 1 - Changing the Title of the terminal window.
 {{./pasted_image.png}}
