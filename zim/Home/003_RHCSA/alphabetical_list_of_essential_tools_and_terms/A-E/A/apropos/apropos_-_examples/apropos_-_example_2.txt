@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
 
 **Summary**
- Use the [[apropos]] command to research the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tar|tar]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:rsync|rsync]] commands.
+ Use the [[apropos]] command to research the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tar|tar]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:rsync|rsync]] commands.
 
 **Scenario**
 Chris is the men's basketball coach at L.A. University by day, and a RHEL sysadmin in L.A. University's IT Department by night. The more he automates, the more he sleeps. Chris wants to research two server backup options: (1.) tar + ssh (2.) rsync. He wants to read every man page whose description or title references tar, ssh or rsync. What command will Chris run?

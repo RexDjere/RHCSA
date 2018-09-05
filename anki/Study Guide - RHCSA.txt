@@ -94,3 +94,58 @@ Andreas wants to create two empty text files: <b>examples/ex1.txt</b> and&nbsp;<
 Andreas opens the file <b>examples/ex1.txt </b>in<b> nano</b>, and adds four lines of text to it:<div>Google</div><div>Microsoft</div><div>Red Hat</div><div>Linux Foundation</div><div><br /></div><div>What commands will Andreas use to save and exit <b>examples/ex1.txt</b>?</div>	To save the file: <b>CTRL+O</b><div>To exit <b>nano</b>: <b>CTRL+X</b></div>
 Andreas has created two different text files using <b>nano</b>: <b>ex1.txt</b> and <b>ex2.txt</b>. Both files are in the <b>examples</b> directory in Andreas' home directory. Both files contain the names of four companies: Google (1), Microsoft (2), Linux Foundation (4), and a line 3 company. The only line that differs is line 3: in <b>ex1.txt</b> it is <b>Red Hat</b>; in ex2.txt it is <b>Canonical</b>.<div><br /></div><div>What command will Andreas use to compare the two files?</div>	cmp examples/ex{1,2}.txt
 What is the function of the Linux&nbsp;<b>chcon</b> command?	"<b>chcon </b>stands for ""change context"". The <b>chcon </b>command is used to change the SELinux security context of a file."
+What port is associated with the <b>data channel</b> to the client when using the <b>File Transfer Protocol </b>(FTP)?	TCP port 20, the FTP server data port.
+What port is associated with command and control when using the <b>File Transfer Protocol</b> (FTP)?	TCP port 21, the FTP server command port.
+What port is associated with the <b>Secure Shell</b> (SSH)?	TCP port 22, the SSH service port.
+What port is associated with <b>Teletype Network</b> (Telnet)?	TCP port 23, the Telnet service port.
+What port is associated with the <b>Simple Mail Transfer Protocol</b> (SMTP)?	TCP port 25, the SMTP service port.
+What port is associated with the <b>Time Protocol</b>?	TCP and UDP ports 37, the Time Protocol service ports.
+What port is associated with the <b>WHOIS protocol</b>?	TCP port 43, the WHOIS directory service port.
+What port is associated with the <b>Terminal Access Controller Access-Control System</b> (TACACS)?	TCP and UDP ports 49, the TACACS service ports.
+What port is associated with the <b>Domain Name System</b> (DNS)?	TCP and UDP ports 53, the domain name services (BIND) service ports.
+What port is associated with the <b>Bootstrap Protocol</b> (BOOTP) server?	UDP port 67, which is also used by the <b>Dynamic Host Configuration Protocol</b> (DHCP).
+What port is associated with the <b>Bootstrap Protocol</b> (BOOTP) client?	UDP port 68, which is also used by the&nbsp;<b>Dynamic Host Configuration Protocol</b> (DHCP).
+What port is associated with the&nbsp;<b>Trivial File Transfer Protocol</b> (TFTP)?	UDP port 69, the TFTP service port.
+What port is associated with the <b>Gopher</b> protocol?	TCP port 70, the Gopher Internet document search and retrieval port.
+What ports are associated with the <b>Remote job entry </b>(NETRJS) protocol?	TCP and UDP ports 71-74, the <b>Remote Job Service</b> ports.
+What port is associated with the <b>Finger user information protocol</b> (Finger)?	TCP port 79, the Finger service for user contact information port.
+What port is associated with the&nbsp;&nbsp;<b>Hypertext Transfer Protocol</b> (HTTP)?	TCP port 80, the <b>World Wide Web</b> (WWW) services port.
+What port is associated with the <b>Kerberos</b>&nbsp;network authentication system?	Kerberos primarily uses <b>UDP port 88</b>, but can fall back onto&nbsp;<b>TCP port 88</b> for large Kerberos tickets.
+What port is associated with the <b>DoD Network Security for Information Exchange</b> (DNSIX)?	TCP and UDP ports 90.
+What port is associated with the <b>SRI-NIC Hostname services</b>?	TCP port 101.
+What port is associated with the&nbsp;<b>Digital Imaging and Communications in Medicine</b> (DICOM)?	TCP and UDP ports 104. DICOM also uses TCP and UDP ports 11112.
+What port is associated with the <b>Post Office Protocol, version 3</b> (POP3)?	TCP port 110.
+What port is associated with the&nbsp;<b>Open Network Computing Remote Procedure Call</b> (ONC RPC)?	TCP and UDP ports 111. <b>ONC RPC </b>(also known as <b>Sun RPC</b>) is used by the Linux/Unix <b>Network Filesystem</b> (NFS).
+What port is associated with the <b>Ident</b> protocol?	TCP port 113. Ident is used by <b>IRC</b> servers to indentify users.
+What port is associated with the&nbsp;<b>Simple File Transfer Protoco</b>l (SFTP)?	TCP port 115, the SFTP services port.
+What ports are associated with the&nbsp;<b>Structured Query Language</b> (SQL)?	TCP and UDP ports 118. <b>SQL </b>also uses TCP and UDP ports 156.
+What port is associated with the&nbsp;Network News Transfer Protocol (NNTP)?	TCP port 119,&nbsp;NNTP for the <b>USENET</b> discussion system.
+What port is associated with the&nbsp;<b>Network Time Protocol</b> (NTP)?	UDP port 123, used for time synchronization.
+What ports are associated with the Network Basic Input/Output System (NetBIOS) Service?	TCP and UDP ports 137:&nbsp;NetBIOS Name Service, used for name registration and resolution. Also used in <b>Red Hat Enterprise Linux</b> by <b>Samba</b>. Also known as <b>netbios-ns</b>.<div>UDP port 138:&nbsp;NetBIOS Datagram Service. Also used in&nbsp;<b>Red Hat Enterprise Linux</b>&nbsp;by&nbsp;<b>Samba</b>. Also known as&nbsp;<b>netbios-dgm</b>.</div><div>TCP port 139:&nbsp;NetBIOS Session Service. Also used in&nbsp;<b>Red Hat Enterprise Linux</b>&nbsp;by&nbsp;<b>Samba</b>. Also known as <b>netbios-ssn</b>.&nbsp;</div>
+"What port is associated with the<span class=""Apple-tab-span"" style=""white-space:pre""> </span><b>Internet Message Access Protocol</b> (IMAP)?"	TCP port 143.&nbsp;<div>TCP and UDP ports 993 are used for <b>IMAP over TLS/SSL</b>.</div>
+What port is associated with the&nbsp;<b>Simple Network Management Protocol</b> (SNMP)?	UDP port 161.
+What port is associated with the&nbsp;<b>X Display Manager Control Protocol</b> (XDMCP)?	TCP and UDP ports 177,&nbsp;used for remote logins to an <b>X Display Manager</b> server.
+What port is associated with the&nbsp;<b>Border Gateway Protocol</b> (BGP)?	TCP port 179,&nbsp;used to exchange routing/reachability information among <b>autonomous systems</b> (AS) on the Internet.
+What port is associated with <b>Internet Relay Chat </b>(IRC)?	TCP and UDP ports 194.
+What port is associated with the&nbsp;<b>Lightweight Directory Access Protocol</b> (LDAP)?	TCP and UDP* ports 389, the LDAP services ports.&nbsp;<div>*<b>Note</b>: LDAP use on TCP port 389 is standardized, but LDAP use on UDP port 389 may <b>NOT</b> be standardized.&nbsp;</div><div>See&nbsp;<b>https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers</b> for more details.</div>
+What port is associated with&nbsp;<b>Hypertext Transfer Protocol over TLS/SSL</b> (HTTPS)?	TCP port 443.
+What ports are associated with&nbsp;<b>Microsoft Active Directory (AD)&nbsp;</b>and <b>Server Message Block (SMB)</b>?	"TCP and UDP ports 445: <b>Microsoft Directory Services</b>&nbsp;<b style=""font-family: 'Liberation Sans';"">Active Directory (AD)&nbsp;</b>(Windows shares).<div><div>TCP port 445:&nbsp;<b>Microsoft Directory Services</b>&nbsp;<b style=""font-family: 'Liberation Sans';"">SMB&nbsp;</b>(SMB file sharing).</div></div><div>&nbsp;<b>Microsoft Directory Services&nbsp;</b>is also known as&nbsp;<b>Microsoft-DS.</b></div>"
+What port is associated with the&nbsp;<b>Citadel groupware system</b>?	TCP and UDP ports 504.
+What port is associated with the&nbsp;<b>Line Printer Daemon</b> (LPD)?	TCP port 515, the LPD print service port.
+What port is associated with the&nbsp;<b>Remote procedure call</b> (RPC)?&nbsp;	TCP and UDP ports 530.
+What port is associated with <b>klogin</b>, the <b>Kerberos</b> login?&nbsp;	TCP port 543.
+What port is associated with&nbsp;<b>kshell</b>, the <b>Kerberos</b> Remote shell?&nbsp;	TCP port 544.
+What port is associated with the&nbsp;<b>DHCPv6</b> client?	TCP and UDP ports 546.
+What port is associated with the&nbsp;<b>DHCPv6</b> server?&nbsp;	TCP and UDP ports 547.
+What port is associated with the&nbsp;<b>Real Time Streaming Protocol</b> (RTSP)?	TCP and UDP ports 554.
+What port is associated with the&nbsp;<b>Internet Printing Protocol</b> (IPP)?	TCP and UDP ports 631.
+What port is associated with the&nbsp;<b>Common Unix Printing System</b> (CUPS) administration console?	TCP and UDP ports 631. CUPS is and extension to the <b>Internet Printing Protocol</b> (IPP), and uses the same ports as IPP.
+What port is associated with the&nbsp;<b>Lightweight Directory Access Protocol over TLS/SSL</b> (LDAPS)?	TCP and UDP* ports 636.&nbsp;<div>*<b>Note</b>: TCP port 636 is considered <b>reliable</b>, while UDP port 636 is considered <b>unreliable</b>.&nbsp;</div><div>See&nbsp;<b>http://www.adminsub.net/tcp-udp-port-finder/636</b> for more details.</div>
+What port is associated with the&nbsp;<b>Domain Name System</b> over <b>Transport Layer Security </b>(DNS over TLS)?	TCP and UDP ports 853.
+What port is associated with the&nbsp;<b>Internet Small Computer Systems Interface </b>(iSCSI)?	TCP and UDP ports 860.&nbsp;<div>See:&nbsp;</div><div><b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=15&nbsp;</b></div><div>and&nbsp;</div><div><b>https://tools.ietf.org/html/rfc7143</b></div>
+What port is associated with the&nbsp;<b>rsync</b> file synchronization protocol?	TCP and UDP 873.&nbsp;<div>See&nbsp;<b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=15</b></div>
+What port is associated with the&nbsp;<b>CD DataBase</b> (CDDB) protocol (CDDBP)?	TCP port 888.
+What port is associated with the&nbsp;FTPS Protocol (data), FTP over TLS/SSL?	TCP and UDP ports 989.<div>See&nbsp;<b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=15</b></div>
+What port is associated with the&nbsp;FTPS Protocol (control), FTP over TLS/SSL?	TCP and UDP ports 990.<div>See&nbsp;<b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=15</b></div>
+What port is associated with the&nbsp;<b>Internet Message Access Protocol over TLS/SSL</b> (IMAPS)?	TCP 993 is for <b>IMAP over TLS protocol</b>.&nbsp;<div>UDP 993 is for <b>IMAP4 protocol over TLS/SSL</b>.&nbsp;</div><div>See&nbsp;<b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=16</b></div>
+What port is associated with the&nbsp;<b>Post Office Protocol 3 over TLS/SSL</b> (POP3S)?	TCP port 995 is associated with&nbsp;<b>POP3 over TLS protocol</b>.&nbsp;<div>UDP port 995 is associated with&nbsp;<b>pop3 protocol over TLS/SSL</b> (formerly spop3).&nbsp;</div><div>See&nbsp;<b>https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&amp;page=16&nbsp;</b></div>

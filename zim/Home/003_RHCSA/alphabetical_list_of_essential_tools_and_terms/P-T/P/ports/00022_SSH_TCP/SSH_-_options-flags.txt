@@ -1,26 +1,26 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-09-02T18:22:20-04:00
+Creation-Date: 2018-09-05T04:36:26-04:00
 
-====== ssh - options-flags ======
-Created Sunday 02 September 2018
+====== SSH - options-flags ======
+Created Wednesday 05 September 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+[[Home:002 all templates:options template|options template]] version: Wednesday 09/05/18 01:51:17 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-[[ssh]]
+[[00022 SSH TCP]]
 
-**KYWRD:** ssh
-**RHCSA Objective: **001d Access remote systems using ssh
+**KYWRD:** SSH
+**RHCSA Objective: **001d Access remote systems using SSH
 
-**Summary**
-This article lists the options available with the [[ssh]] command.
+**Summary:**
+This article describes the options available with the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command.
 
-**KEYWORD - options:**
+**SSH - options:**
 * −4: forces **ssh** to use IPv4 addresses exclusively.
 * −6: forces **ssh** to use IPv6 addresses exclusively.
 * −A: allows forwarding of the authentication agent connection.
@@ -52,6 +52,7 @@ This article lists the options available with the [[ssh]] command.
 * −n
 * −O ctl_cmd
 * −o option
+* **To be completed at a later time.**
 
-**Relevant KEYWORD Screenshots**
+**Relevant SSH Screenshots:**
 N/A

@@ -12,17 +12,17 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-[[001d Access remote systems using ssh]]
+[[001d Access remote systems using SSH]]
 
 **KYWRD:** 001d - example 1
-**RHCSA Objective: **001d Access remote systems using ssh
+**RHCSA Objective: **001d Access remote systems using SSH
 
 **Summary**
-Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the ssh session.
+Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the SSH session.
 
 **Scenario**
 Paul (**your_username@tty.sdf.org**) wants to:
-1. login to the remote sdf.org server using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh.]]
+1. login to the remote sdf.org server using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]].
 2. create a new directory called **my_files**.
 3. create an empty file in **my_files** called **my_doc1.odt**.
 4. List **my_doc1.odt** to make sure that it was created.

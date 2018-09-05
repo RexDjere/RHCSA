@@ -36,7 +36,7 @@ All commands, utilities and terms starting with the letter S are sub-pages to th
 * [[+stty]]
 * [[+su]]
 * [[+sudo]]
-* [[+ssh]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|+ssh]]
 * [[+stat]]
 * [[+sync]]
 * [[+systemctl]]

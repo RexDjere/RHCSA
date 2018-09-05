@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:45:36-04:00
+
+====== 00020 FTP TCP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** FTP
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+FTP stands for **File Transfer Protocol**. FTP is used to create a data channel to the client. For this purpose, it uses **TCP port 20**.
+
+**FTP:**
+* FTP - function: is used to create a data channel to the client on TCP port 20.
+* FTP - description: N/A
+* FTP - options-flags: N/A
+* FTP - examples: N/A
+
+**Relevant FTP links:**
+* https://tools.ietf.org/html/rfc959
+* lhttps://en.wikipedia.org/wiki/File_Transfer_Protocol
+
+**Relevant FTP notes:**
+* No FTP binary was installed on my Linux system at the time of this writing.
+
+**Associated FTP binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated FTP man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant FTP Screenshots:**
+N/A

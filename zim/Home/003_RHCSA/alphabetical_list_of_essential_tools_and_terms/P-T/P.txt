@@ -26,6 +26,7 @@ All commands, utilities and terms starting with the letter P are sub-pages to th
 * [[+ping]]
 * [[+pkill]]
 * [[+pmap]]
+* [[+ports]]
 * [[+printenv]]
 * [[+ps]]
 * [[+pwd]]

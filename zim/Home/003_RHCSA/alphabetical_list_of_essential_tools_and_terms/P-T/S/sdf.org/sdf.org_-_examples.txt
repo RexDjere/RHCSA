@@ -15,10 +15,10 @@ command to get timestamp: __date '+%A %D %X'__
 [[sdf.org]]
 
 **KYWRD:** sdf.org
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **001d Access remote systems using SSH
 
 **Summary**
-This article provides examples of how to use sdf.org remote shells via [[ssh]].
+This article provides examples of how to use sdf.org remote shells via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]].
 
 **sdf.org - examples:**
 * [[+sdf.org - example 1]] : Connect to an sdf.org remote shell using a CentOS VM.

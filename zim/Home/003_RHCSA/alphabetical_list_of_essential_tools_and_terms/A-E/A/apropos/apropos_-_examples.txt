@@ -22,7 +22,7 @@ This article presents examples of the correct usage of the Linux [[apropos]] com
 
 **apropos - examples:**
 * [[+apropos - example 1]] :  Use the [[apropos]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] commands to search for references to "search" and "bzip2" in the man page descriptions/titles.
-* [[+apropos - example 2]] : Use the [[apropos]] command to research the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tar|tar]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:rsync|rsync]] commands.
+* [[+apropos - example 2]] : Use the [[apropos]] command to research the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tar|tar]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:rsync|rsync]] commands.
 * apropos - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
 **Relevant apropos links:**

@@ -5,14 +5,14 @@ Creation-Date: 2018-08-07T23:45:03-04:00
 ====== A-Z pages template ======
 Created Tuesday 07 August 2018
 
-[[002 all templates:A-Z pages template|A-Z pages template]] version:Wednesday 08/08/18 11:21:44 AM
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Wednesday 09/05/18 04:33:33 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
+replace this with a link to the parent page 1 level above this page
 
 **Summary**
 All commands, utilities and terms starting with the letter X are sub-pages to this page.

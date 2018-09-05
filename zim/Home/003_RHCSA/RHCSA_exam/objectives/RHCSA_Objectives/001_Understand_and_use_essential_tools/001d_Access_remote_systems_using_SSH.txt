@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-08-08T16:07:21-04:00
 
-====== 001d Access remote systems using ssh ======
+====== 001d Access remote systems using SSH ======
 Created Wednesday 08 August 2018
 
 [[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
@@ -14,19 +14,19 @@ command to get timestamp: __date '+%A %D %X'__
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[001 Understand and use essential tools]]
 
-**KYWRD:** remote ssh
+**KYWRD:** remote SSH
 **RHCSA Objective: **001d Access remote systems using ssh
 
 **Summary**
-Ssh stands for secure shell. Ssh is a command-line interface and protocol that is used to access remote Linux/Unix computers from a Linux/Unix machine. Ssh is part of a 3-part suite of secure applications:
+[[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] stands for **Secure Shell**. SSH is a command-line interface and protocol that is used to access remote Linux/Unix computers from a Linux/Unix machine. SSH is part of a 3-part suite of secure applications:
 1. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:slogin|slogin]]
-2. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]]
+2. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]]
 3. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]]
 
-**remote ssh - examples:**
-* [[+001d - example 1]] : Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the ssh session.
+**remote SSH - examples:**
+* [[+001d - example 1]] : Use the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the SSH session.
 * [[+001d - example 2]] : briefly describe example 2.
 * [[+001d - example 3]] : briefly describe example 3.
 
-**Relevant remote ssh Screenshots**
+**Relevant remote SSH Screenshots**
 Paste any relevant screenshots here.

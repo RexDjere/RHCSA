@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **007b Configure key-based authentication for SSH
 
 **Summary**
-**slogin** is an alias for the Secure Shell, [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh|ssh]]. It is used to securely connect to a secure shell on a remote Linux/Unix machine.
+**slogin** is an alias for the Secure Shell, [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]]. It is used to securely connect to a secure shell on a remote Linux/Unix machine.
 
 **slogin:**
 * slogin - function: securely login to a remote Linux/Unix system.

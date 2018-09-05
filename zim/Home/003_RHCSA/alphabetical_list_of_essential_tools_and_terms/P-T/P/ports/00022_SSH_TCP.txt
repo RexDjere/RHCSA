@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:50:24-04:00
+
+====== 00022 SSH TCP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** SSH
+**RHCSA Objective: **001d Access remote systems using SSH
+
+**Summary:**
+SSH stands for **Secure Shell**. SSH provides a secure network connection over unsecured networks. It operates on **TCP port 22**.
+
+**SSH:**
+* SSH - function: provides a secure network connection via TCP port 22.
+* SSH - description: N/A
+* [[+SSH - examples]] 
+* [[+SSH - options-flags]]
+
+**Relevant SSH links:**
+* https://tools.ietf.org/html/rfc4253
+* https://en.wikipedia.org/wiki/Secure_Shell
+
+**Relevant SSH notes:**
+* N/A
+
+**Associated SSH binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* ssh: 
+		* /usr/bin/ssh 
+		* /etc/ssh
+
+**Associated SSH man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ssh: /usr/share/man/man1/ssh.1.gz
+
+**Relevant SSH Screenshots**
+N/A
+
+
+
+

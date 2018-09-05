@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:41:11-04:00
+
+====== 00018 MSP TCP+UDP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** MSP
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+MSP stands for **Message Send Protocol**.  Its more precise name is **Message Send Protocol 2**. It is used to send short messages between network nodes. MSP uses **TCP/UDP ports 18**.
+
+**MSP:**
+* MSP - function: MSP is used to send short messages between network nodes.
+* MSP - description: N/A
+* MSP - options-flags: N/A
+* MSP - examples: N/A
+
+**Relevant MSP links:**
+* https://tools.ietf.org/html/rfc1312
+* https://en.wikipedia.org/wiki/Message_Send_Protocol
+
+**Relevant MSP notes:**
+* N/A
+
+**Associated MSP binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated MSP man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant MSP Screenshots:**
+N/A

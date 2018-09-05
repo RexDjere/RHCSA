@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:25:10-04:00
+
+====== 00009 Discard Protocol TCP+UDP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** Discard Protocol
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+The Discard Protocol is a null service used for connection testing and debugging. It uses **TCP/UDP ports 9**.
+
+**Discard Protocol:**
+* Discard Protocol - function: is a null service used for testing and debugging.
+* Discard Protocol - description: N/A
+* Discard Protocol - options-flags: N/A
+* Discard Protocol - examples: N/A
+
+**Relevant Discard Protocol links:**
+* https://tools.ietf.org/html/rfc863
+* https://en.wikipedia.org/wiki/Discard_Protocol
+* http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
+
+**Relevant Discard Protocol notes:**
+* Dicard Protocol is TCP/UDP equivalent of Unix filesystem node **/dev/null**.
+* Dicard Protocol on Unix-like systems is built into the **inetd** or **xinetd** daemons. Neither was installed on my Linux system at the time of this writing.
+
+**Associated Discard Protocol binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A 
+
+**Associated Discard Protocol man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Discard Protocol Screenshots:**
+N/A

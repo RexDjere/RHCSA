@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:33:05-04:00
+
+====== 00011 Systat TCP+UDP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** Systat
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+**Systat** is also known as **Active Users**. Systat stands for **System Status**. It is used to debug and measure system status by listing clients connected to the server via **TCP/UDP port 11**. 
+
+**Systat:**
+* Systat - function: Systat is used for debugging and measurement by listing clients connected to the host via TCP or UDP port 11.
+* Systat - description: N/A
+* Systat - options-flags: N/A
+* Systat - examples: N/A
+
+**Relevant Systat links:**
+* https://www.rfc-editor.org/rfc/rfc866.txt
+* https://en.wikipedia.org/wiki/Systat_(protocol)
+* http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
+
+**Relevant Systat notes:**
+* Systat is generally not used; it is considered a security vulnerability.
+
+**Associated Systat binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated Systat man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Systat Screenshots:**
+N/A

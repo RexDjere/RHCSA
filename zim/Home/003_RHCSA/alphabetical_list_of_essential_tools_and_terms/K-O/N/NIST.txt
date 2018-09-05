@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T03:24:10-04:00
+
+====== NIST ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[N]]
+
+**KYWRD:** NIST
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+NIST stands for **National Institute of Standards and Technology**. It is a physical sciences laboratory that is also a non-regulatory agency within the **U.S. Department of Commerce**. NIST promotes industrial innovation and competitiveness. 
+
+**NIST:**
+* NIST - function: promotes industial innovation and competitiveness with the United States.
+* NIST - description: N/A
+* NIST - examples: N/A
+* NIST - options-flags: N/A
+
+**Relevant NIST links:**
+* https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
+* https://www.nist.gov/
+
+**Relevant NIST notes:**
+* NIST was founded on March 3rd, 1901 as the **National Bureau of Standards**.
+* Its name was changed to NIST in 1988.
+
+**Associated NIST binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated NIST man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant NIST Screenshots:**
+PN/A

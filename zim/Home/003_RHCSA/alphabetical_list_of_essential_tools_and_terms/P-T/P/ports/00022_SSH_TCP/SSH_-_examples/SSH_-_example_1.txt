@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-09-02T18:26:15-04:00
 
-====== ssh - example 1 ======
+====== SSH - example 1 ======
 Created Sunday 02 September 2018
 
 [[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
@@ -12,18 +12,18 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-[[ssh - examples]]
+[[SSH - examples]]
 
-**KYWRD:** ssh - example 1
-**RHCSA Objective: **001d Access remote systems using ssh
+**KYWRD:** SSH - example 1
+**RHCSA Objective: **001d Access remote systems using SSH
 
 **Summary**
-Login to a remote shell using [[ssh]]. Create an empty file, populate the file with the names of tech companies, and then exit the remote shell.
+Login to a remote shell using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]]. Create an empty file, populate the file with the names of tech companies, and then exit the remote shell.
 
-**Note:** We will use **companies_unsorted.txt** in [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:ssh:ssh - examples:ssh - example 2|ssh - example 2]], so please don't delete it after this lesson is complete.
+**Note:** We will use **companies_unsorted.txt** in [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP:SSH - examples:SSH - example 2|SSH - example 2]], so please don't delete it after this lesson is complete.
 
 **Scenario**
-Brian is a RHEL sysadmin-in-training at Google. He wants to practice using the [[ssh]] command. He creates a free remote shell acount at https://sdfeu.org/w , and wants to uses his local RHEL system to login to the remote shell. 
+Brian is a RHEL sysadmin-in-training at Google. He wants to practice using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command. He creates a free remote shell acount at https://sdfeu.org/w , and wants to uses his local RHEL system to login to the remote shell. 
 * He wants to create a new file called **companies_unsorted.txt**. 
 * Brian's username on sdfeu.org is **briank175**
 * sdfeu's remote ssh server is **@sdfeu.org**.
@@ -33,13 +33,11 @@ a.) What command will Brian use to access the remote shell via ssh?
 b.) Brian creates **companies_unsorted.txt** and add 10 companies to it using pico**.** What command will he use in pico to save the file?
 c.) What command will he use to exit pico?
 
-
-
-**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+**SSH - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
 2. **(optional, if you don't feel comfortable creating an account sdfeu.org, you can just follow along with this tutorial and learn)** 
 	a. Create a free Unix shell account at sdf: https://sdfeu.org/w
-3. Login to the remove sdfeu server via [[ssh]] :
+3. Login to the remove sdfeu server via [[Home:003 RHCSA:RHCSA exam:objectives:RHCSA Objectives:001 Understand and use essential tools:001d Access remote systems using SSH|ssh]] :
 	a. __ssh your_username@sdfeu.org__
 4. See **Figure 1** below. Your screen should look similar. 
 5. It will prompt you to hit Enter and Backspace before you finally get to a command prompt. Once you get the command prompt, enter the **clear** command to give us a nice clean work area:
@@ -68,10 +66,10 @@ c.) What command will he use to exit pico?
 10. Your screen should look like **Figure 4** below.
 11. If you decided to create an [[https://sdfeu.org/w|sdfeu.org account]], and do this guide, please don't delete **companies_unsorted.txt**. We will use it again in future exercises.
 
-**Relevant KEYWORD links:**
+**Relevant SSH - example 1 links:**
 * N/A
 
-**Relevant KEYWORD Screenshots**
+**Relevant SSH - example 1 Screenshots**
 
 Figure 1 - Logging in the sdfeu via ssh
 {{./pasted_image.png}}

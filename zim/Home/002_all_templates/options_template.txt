@@ -5,20 +5,19 @@ Creation-Date: 2018-08-02T20:00:32-04:00
 ====== options template ======
 Created Thursday 02 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Tuesday 09/04/18 03:02:42 PM
+[[Home:002 all templates:options template|options template]] version: Wednesday 09/05/18 01:51:17 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
+replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** type the kywrd here.
 **RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
 
-**Summary**
+**Summary:**
 This article describes the options available with the **command_name/link_here ** command.
 
 **KEYWORD - options:**
@@ -26,6 +25,5 @@ This article describes the options available with the **command_name/link_here *
 * -b: describe option b.
 * -c: decsribe option c.
 
-
-**Relevant KEYWORD Screenshots**
+**Relevant KEYWORD Screenshots:**
 Paste any relevant screenshots here.

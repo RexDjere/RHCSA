@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:20:55-04:00
+
+====== 00001 TCPMUX TCP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** TCPMUX
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+TCPMUX stands for **TCP Port Service Multiplexer**. It provides a TCP port multiplexing service. TCPMUX sses **TCP port 1**.
+
+
+**TCPMUX:**
+* TCPMUX - function: Clients use TCP port 1 to contact a remote host for multiple services.
+* TCPMUX - description: N/A.
+* TCPMUX - options-flags: N/A
+* TCPMUX - examples: N/A
+
+**Relevant TCPMUX links:**
+* https://tools.ietf.org/html/rfc1078
+* https://en.wikipedia.org/wiki/TCP_Port_Service_Multiplexer
+* https://tools.ietf.org/html/rfc7805
+* http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
+
+**Relevant TCPMUX notes:**
+* TCPMUX was deprecated in 2016 by **RFC 7805** for technical reasons, and lack of use.
+
+**Associated TCPMUX binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated TCPMUX man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant TCPMUX Screenshots:**
+N/A

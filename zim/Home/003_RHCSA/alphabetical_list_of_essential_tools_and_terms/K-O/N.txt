@@ -18,11 +18,13 @@ All commands, utilities and terms starting with the letter N are sub-pages to th
 
 **N:**
 * [[+nano]]
+* [[+ncat]]
 * [[+ncdu]]
 * [[+ncftp]]
 * [[+neat]]
 * [[+netcfg]] , [[+netconfig]]
 * [[+netconfig]] , [[+netcfg]]
 * [[+netstat]]
+* [[+NIST]]
 * [[+nm]]
 * [[+nslookup]]

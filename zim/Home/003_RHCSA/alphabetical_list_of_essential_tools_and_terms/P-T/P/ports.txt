@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:05:50-04:00
+
+====== ports ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[P]]
+
+**KYWRD:** ports
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary**
+**ports** are used by servers to communicate with clients on the application layer using the **Transmission Control Protocol** (TCP) and the **User Datagram Protocol** (UDP). This article provides details on the various **ports** that are used.
+
+**ports (portnumber_abbreviation_TCPorUDP : full_name : short_description.):**
+* [[+00001 TCPMUX TCP]] : TCP Port Service Multiplexer : TCP port multiplexing service.
+* [[+00007 Echo Protocol TCP+UDP]] : Echo Protocol : Testing and measurement.
+* [[+00009 Discard Protocol TCP+UDP]] : Discard Protocol : Is a null service used for testing and debugging.
+* [[+00011 Systat TCP+UDP]] : Active Users : Used for debugging and measurement.
+* [[+00013 Daytime Protocol TCP+UDP]] : Daytime Protocol : Sends date and time for testing and measurement purposes.
+* [[+00017 QOTD TCP+UDP]] : Quote of the Day : Serves up daily quotes to connected hosts; also used for testing and measurement.
+* [[+00018 MSP TCP+UDP]] : Message Send Protocol : Is used to send short messages between network nodes.
+* [[+00019 CHARGEN TCP+UDP]] : Character Generator Protocol : Is used to send an endless stream of characters for testing, debugging and measurement purposes.
+* [[+00020 FTP TCP]] : File Transer Protocol : Is used to create a data channel to the client.
+* [[+00021 FTP TCP]] : File Transfer Protocol : Command port; used as a control connection with the client.
+* [[+00022 SSH TCP]] : Secure Shell : SSH provides a secure network connection over unsecured networks.
+* **To be completed later.**
+
+**Relevant ports links:**
+* https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+* http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
+
+**Relevant ports notes**
+* N/A
+
+**Associated ports binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated ports man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant ports Screenshots**
+N/A

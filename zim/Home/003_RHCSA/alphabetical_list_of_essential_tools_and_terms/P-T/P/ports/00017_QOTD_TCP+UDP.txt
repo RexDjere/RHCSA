@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T00:37:48-04:00
+
+====== 00017 QOTD TCP+UDP ======
+Created Wednesday 05 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** QOTD
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+QOTD stands for **Quote of the Day**. It serves up daily quotes to connected hosts, and it is also used for testing and measurement. QOTD uses **TCP/UDP ports 17**.
+
+**QOTD:**
+* QOTD - function: serves up daily quotes to connected hosts, and also provides for testing and measurement.
+* QOTD - description: PN/A
+* QOTD - options-flags: see [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:N:ncat|ncat]].
+* QOTD - examples: see [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:N:ncat|ncat]].
+
+**Relevant QOTD links:**
+* https://tools.ietf.org/html/rfc865
+* https://en.wikipedia.org/wiki/QOTD
+* http://www.admin-magazine.com/Articles/Netcat-The-Admin-s-Best-Friend
+* https://github.com/nixterrimus/qotd-server
+* http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/ch-ports.html
+
+**Relevant QOTD notes:**
+* QOTD service is rarely enabled. 
+* QOTD service can be provided by the [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:N:ncat|ncat]] utility.
+
+**Associated QOTD binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ncat: /usr/bin/ncat
+
+**Associated QOTD man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ncat: /usr/share/man/man1/ncat.1.gz
+
+**Relevant QOTD Screenshots:**
+N/A

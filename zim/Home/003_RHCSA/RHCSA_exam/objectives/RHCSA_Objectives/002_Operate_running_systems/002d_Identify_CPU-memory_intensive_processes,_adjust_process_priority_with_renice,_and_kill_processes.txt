@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-08-08T20:32:40-04:00
 
-====== 002d Identify CPUmemory intensive processes, adjust process priority with renice, and kill processes ======
+====== 002d Identify CPU-memory intensive processes, adjust process priority with renice, and kill processes ======
 Created Wednesday 08 August 2018
 
 [[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM

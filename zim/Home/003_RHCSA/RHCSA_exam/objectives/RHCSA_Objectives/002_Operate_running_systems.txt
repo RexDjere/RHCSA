@@ -23,7 +23,7 @@ command to get timestamp: __date '+%A %D %X'__
 * [[+002a Boot, reboot, and shut down a system normally]]
 * [[+002b Boot systems into different targets manually]]
 * [[+002c Interrupt the boot process in order to gain access to a system]]
-* [[+002d Identify CPUmemory intensive processes, adjust process priority with renice, and kill processes]]
+* [[+002d Identify CPU-memory intensive processes, adjust process priority with renice, and kill processes]]
 * [[+002e Locate and interpret system log files and journals]]
 * [[+002f Access a virtual machine's console]]
 * [[+002g Start and stop virtual machines]]

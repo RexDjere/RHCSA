@@ -36,7 +36,7 @@ This page lists all of the RHCSA Exam Objectives.
 	a. [[+002 Operate running systems:002a Boot, reboot, and shut down a system normally|Boot, reboot, and shut down a system normally]]
 	b. [[+002 Operate running systems:002b Boot systems into different targets manually|Boot systems into different targets manually]]
 	c. [[+002 Operate running systems:002c Interrupt the boot process in order to gain access to a system|Interrupt the boot process in order to gain access to a system]]
-	d. [[+002 Operate running systems:002d Identify CPUmemory intensive processes, adjust process priority with renice, and kill processes|Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes]]
+	d. [[+002 Operate running systems:002d Identify CPU-memory intensive processes, adjust process priority with renice, and kill processes|Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes]]
 	e. [[+002 Operate running systems:002e Locate and interpret system log files and journals|Locate and interpret system log files and journals]]
 	f. [[+002 Operate running systems:002f Access a virtual machine's console|Access a virtual machine's console]]
 	g. [[+002 Operate running systems:002g Start and stop virtual machines|Start and stop virtual machines]]
