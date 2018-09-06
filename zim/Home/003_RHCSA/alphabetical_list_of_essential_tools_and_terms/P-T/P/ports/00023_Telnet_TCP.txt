@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-06T01:33:47-04:00
+
+====== 00023 Telnet TCP ======
+Created Thursday 06 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** Telnet
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+**Telnet** provides unencrypted text communications over a network. It uses **TCP port 23** to communicate. Telnet provides bi-directional 8-bit communications.
+
+**Telnet:**
+* Telnet - function: provides for unencrypted text communications between hosts on a network.
+* Telnet - description: N/A
+* [[+Telnet - examples]] 
+* [[+Telnet - options-flags]] 
+
+**Relevant Telnet links:**
+* https://tools.ietf.org/html/rfc854
+* https://en.wikipedia.org/wiki/Telnet
+
+**Relevant Telnet notes:**
+* N/A
+
+**Associated Telnet binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: telnet: /usr/bin/telnet
+
+**Associated Telnet man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: telnet: /usr/share/man/man1/telnet.1.gz
+
+**Relevant Telnet Screenshots:**
+N/A

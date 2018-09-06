@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-06T01:41:43-04:00
+
+====== Telnet - examples ======
+Created Thursday 06 September 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[00023 Telnet TCP]]
+
+**KYWRD:** Telnet
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+This article contains examples that illustrate the correct use of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00023 Telnet TCP|Telnet]] command.
+
+**Telnet - examples:**
+* Telnet - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* Telnet - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* Telnet - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant Telnet links:**
+* N/A
+
+**Relevant Telnet Screenshots:**
+N/A
