@@ -14,19 +14,16 @@ command to get timestamp: __date '+%A %D %X'__
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[001 Understand and use essential tools]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** 001e
+**RHCSA Objective: **001e Log in and switch users in multiuser targets
 
 **Summary**
-This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+This article demonstrates how to login in and switch users in multiuser targets.
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : briefly describe example 1.
-* KEYWORD - example 2 : briefly describe example 2.
-* KEYWORD - example 3 : briefly describe example 3.
+**001e - examples:**
+* [[+001e - example 1]] : Add a new user, switch to the new user's account, and the delete the new user.
+* 001e - example 2 : briefly describe example 2.
+* 001e - example 3 : briefly describe example 3.
 
-**Relevant KEYWORD Screenshots**
+**Relevant 001e Screenshots**
 Paste any relevant screenshots here.

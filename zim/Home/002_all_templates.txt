@@ -22,7 +22,7 @@ This page contains links to all of the templates available for use in this study
 **Relevant templates links:**
 * [[+A-Z pages template]]
 * [[+examples homepage template]]
-* [[+examples homepage template:examples template]]
+* [[Home:002 all templates:examples homepage template:examples template|+examples template]]
 * [[+generic template]]
 * [[+options template]]
 
