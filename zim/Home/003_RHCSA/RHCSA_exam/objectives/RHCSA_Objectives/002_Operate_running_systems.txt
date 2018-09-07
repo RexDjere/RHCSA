@@ -31,4 +31,4 @@ command to get timestamp: __date '+%A %D %X'__
 * [[+002i Securely transfer files between systems]]
 
 **Relevant 002 Operate running systems Screenshots**
-Paste any relevant screenshots here.
+N/A

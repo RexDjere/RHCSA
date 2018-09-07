@@ -1,0 +1,37 @@
+Twitter; San Francisco, CA; Dorsey, Jack P.; 20150930
+Intel; Santa Clara, CA; Swan, Rober H.; 20180621
+Google; Mountain View, CA; Pichai, Sundar; 20151002
+Dell; Round Rock, TX; Dell, Michael S.; 20070131
+Microsoft; Redmond, WA; Nadella, Satya, N.; 20140204
+Apple Inc.; Cupertino, CA; Cook, Tim D.; 20110824
+Red Hat; Raleigh, NC; Whitehurst, James M.; 200712
+HP; Palo Alto, CA; Weisler, Dion J.; 20151102
+Cisco; San Jose, CA; Robbins, Charles H.; 20150726
+Oracle; Redwood City, CA; Hurd, Mark V.; 20140918
+Facebook; Menlo Park, CA; Zuckerberg, Mark E.; 20040204
+IBM; Armonk, NY; Rometty, Virginia M.; 20120101
+General Motors; Detoit, MI; Barra, Mary T.; 20140115
+Ford Motor Company; Dearborn, MI; Hackett, James; 20170522
+Boeing; Chicago, IL; Muilenburg, Dennis A.; 20150701
+Amazon; Seattle, WA; Bezos, Jeffrey P.; 19950716
+WarnerMedia; New York City, NY; Bewkes, Jeffrey L.; 20080101
+FedEx; Memphis, TN; Smith, Frederick W.; 19710618
+Walmart; Bentonville, AR; McMillon, Carl D.; 20140201
+Berkshire Hathaway; Omaha, NE; Buffett, Warren E.; 1970
+Exxon Mobil; Woods, Irving, TX; Darren W.; 20170101
+AT&T; Dallas, TX; Stephenson, Randall L.; 20070509
+McKesson Corporation; San Francisco, CA; Hammergren, John H.; 2001
+BP; London, United Kingdom; Dudley, Robert W.; 20101001
+Glencore; Baar, Switzerland; Glasenberg, Ivan; 200201
+UnitedHealth Group; Minnetonka, MN; Wichmann, David S.; 20170901
+Chevron; San Ramon, CA; Wirth, Michael K.; 20180201 
+Costco; Issaquah, WA; Jelinek, Walter C.; 20120101
+Verizon; New York City, NY; Vestberg, Hans; 20180801
+CVS Health; Woonsocket, RI; Merlo, Larry J.; 2011
+Kroger; Cincinnati, OH; McMullen, William R.; 20140101 
+Prudential Financial; Newark, NJ; Strangfeld, John R.; 2008
+General Electric; Boston, MA; Flannery, John L.; 20170801  
+JPMorgan Chase; New York City, NY; Dimon, Jamie; 20051231
+Fannie Mae; Washington, D.C.; Mayopoulos, Timothy J.; 20120618  
+Trafigura; Amsterdam, Netherlands; Weir, Jeremy; 201403  
+Daimler AG; Stuttgart, Germany; Zetsche, Dieter; 200601

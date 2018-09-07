@@ -24,9 +24,9 @@ command to get timestamp: __date '+%A %D %X'__
 3. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]]
 
 **remote SSH - examples:**
-* [[+001d - example 1]] : Use the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the SSH session.
-* [[+001d - example 2]] : briefly describe example 2.
+* [[+001d - example 1]] : Transfer a file to a RHEL/CentOS machine using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp,]] Login to the remote machine via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], and manipulate the newly transferred file via the ssh connection.
+* [[+001d - example 2]] : Login to a RHEL/CentOS machine via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], transfer a file to it using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]], and manipulate the newly transferred file via the ssh connection.
 * [[+001d - example 3]] : briefly describe example 3.
 
 **Relevant remote SSH Screenshots**
-Paste any relevant screenshots here.
+N/A
