@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T00:00:06-04:00
+
+====== 00025 SMTP TCP ======
+Created Thursday 06 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[ports]]
+
+**KYWRD:** SMTP
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+**SMTP** stands for **Simple Mail Transfer Protocol**. SMTP is an Internet standard for electronic mail (email) transmission across networks. SMTP utilizes **TCP port 25**.
+
+**SMTP:**
+* SMTP - function: Enables the transmission of electronic mail (email) across networks.
+* SMTP - description: N/A
+* SMTP - examples: N/A
+* SMTP - options-flags: N/A
+
+**Relevant SMTP links:**
+* https://tools.ietf.org/html/rfc5321
+* https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+
+**Relevant SMTP notes:**
+* N/A
+
+**Associated SMTP binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated SMTP man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant SMTP Screenshots:**
+N/A

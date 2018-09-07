@@ -33,6 +33,7 @@ command to get timestamp: __date '+%A %D %X'__
 * [[+00021 FTP TCP]] : File Transfer Protocol : Command port; used as a control connection with the client.
 * [[+00022 SSH TCP]] : Secure Shell : SSH provides a secure network connection over unsecured networks.
 * [[+00023 Telnet TCP]] : Telnet : Teletype Network : provides unencrypted text communications over a network.
+* [[+00025 SMTP TCP]] : Simple Mail Transfer Protocol : SMTP is an Internet standard for electronic mail (email) transmission across networks.
 * **To be completed later.**
 
 **Relevant ports links:**

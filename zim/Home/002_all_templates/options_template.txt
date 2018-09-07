@@ -18,7 +18,7 @@ replace this with a link to the parent page 1 level above this page
 **RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
 
 **Summary:**
-This article describes the options available with the **command_name/link_here ** command.
+This article describes the options available with the **command_name/link_here **command.
 
 **KEYWORD - options:**
 * -a: describe option a.

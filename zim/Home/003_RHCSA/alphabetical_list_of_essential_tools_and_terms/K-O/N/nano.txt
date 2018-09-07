@@ -5,7 +5,41 @@ Creation-Date: 2018-07-10T22:57:24-04:00
 ====== nano ======
 Created Tuesday 10 July 2018
 
-Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:text files - view
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[N]]
+
+**KYWRD:** nano
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+**nano **stands for **N**ano's **ANO**ther editor. It is an enhanced clone of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:pico|pico]] text editor.
+
+**nano:**
+* nano - function: **nano** is an open source/free software text editor.
+* nano - description: N/A
+* [[+nano - examples]] 
+* [[+nano - options-flags]]
+**Relevant nano links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant nano notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated nano binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated nano man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant nano Screenshots:**
+Paste any relevant screenshots here.

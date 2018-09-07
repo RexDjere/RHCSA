@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T00:25:35-04:00
+
+====== nano - examples ======
+Created Friday 07 September 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[nano]]
+
+**KYWRD:** nano
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+This article contains examples that illustrate the correct use of the [[nano]] command.
+
+**nano - examples:**
+* [[+nano - example 1]] : Login to your RHEL/Centos machine. Create a new text document using nano.
+* nano - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* nano - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant nano links:**
+* N/A
+
+**Relevant nano Screenshots:**
+N/A

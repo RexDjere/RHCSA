@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T00:34:14-04:00
+
+====== nano - example 1 ======
+Created Friday 07 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+replace this with a link to the parent page 1 level above this example page
+
+**KYWRD:** nano - example 1
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+Login to your RHEL/Centos machine. Create a new text document using nano.
+
+**Scenario:**
+Reginald is an IT student at Tidewater Community College. He is taking an introductory class on Linux administration.  He is becoming familar with the **nano** text editor. His professor has instructed him to create a new file using nano. The file will be named **ten_tech_companies.txt**.  Reginald will type the names of these companies into the text file, 1 company per line:
+1. Red Hat
+2. Google
+3. Facebook 
+4. Twitter
+5. Microsoft
+6. Dell
+7. IBM
+8. Oracle
+9. Cisco
+10. AMD
+
+He will save the file to his home directory, and then exit nano.
+
+**nano - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Open nano: __nano__
+3. Type the names of these companies, 1 company per line:
+	a. Red Hat
+	b. Google
+	c. Facebook
+	d. Twitter
+	e. Microsoft
+	f. Dell
+	g. IBM
+	h. Oracle
+	i. Cisco
+	j. AMD
+4. Your screen should look similar to **Figure 1** below.
+5. Hit CTRL+O to save: __CTRL+O__
+6. Where it says "File Name to Write: " type __ten_tech_companies.txt__ , and hit __ENTER__.
+7. Hit CTRL+X to exit nano: __CTRL+X__
+8. Enter "clear" to clear the screen: __clear__
+9. View ten_tech_companies.txt: __cat ten_tech_companies.txt__
+10. //(optional)// Clean up:
+	a. __rm ten_tech_companies.txt__
+
+**Relevant nano - example 1 links:**
+* N/A
+
+**Relevant nano - example 1 Screenshots:**
+
+Figure 1: Editting the new file in nano
+{{./pasted_image.png}}
+
+Figure 2: Steps 9 and 10
+{{./pasted_image001.png}}
