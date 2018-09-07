@@ -21,15 +21,15 @@ command to get timestamp: __date '+%A %D %X'__
 This article describes the options available with the [[nano]] command.
 
 **KEYWORD - options:**
-* -A, --smarthome
-* -B, --backup
-* -C //directory//, --backupdir=//directory//
-* -D, --boldtext
-* -E, --tabstospaces
-* -F, --multibuffer
-* -G, --locking
-* -H, --historylog
-* -I, --ignorercfiles
+* -A, --smarthome: improves the behavior of the Home key to make editing documents in nano easier.
+* -B, --backup: backs up the previous version of a file when saving.
+* -C //directory//, --backupdir=//directory//: stores uniquely numbered backup versions of file being editted.
+* -D, --boldtext: uses bold text.
+* -E, --tabstospaces: converts tabs to spaces.
+* -F, --multibuffer: reads a file into a new buffer by default.
+* -G, --locking: uses vim-style file locking when editing files.
+* -H, --historylog: saves last hundred search and replacement strings and executed commands.
+* -I, --ignorercfiles: ignores nanorc files.
 * **MORE TO BE ADDED LATER**
 
 **Relevant KEYWORD Screenshots:**

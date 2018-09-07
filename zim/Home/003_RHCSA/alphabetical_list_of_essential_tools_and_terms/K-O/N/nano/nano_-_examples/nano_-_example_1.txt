@@ -63,7 +63,7 @@ He will save the file to his home directory, and then exit nano.
 
 **Relevant nano - example 1 Screenshots:**
 
-Figure 1: Editting the new file in nano
+Figure 1: Editing the new file in nano
 {{./pasted_image.png}}
 
 Figure 2: Steps 9 and 10

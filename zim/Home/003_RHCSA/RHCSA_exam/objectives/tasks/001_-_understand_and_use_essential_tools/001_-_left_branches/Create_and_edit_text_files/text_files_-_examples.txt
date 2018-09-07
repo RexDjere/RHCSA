@@ -16,7 +16,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 **KYWRD:** text files
 
 **Summary**
-In this article, we will walkthrough examples of creating and editting text files from teh Linux command line.
+In this article, we will walkthrough examples of creating and editing text files from teh Linux command line.
 
 **text files - examples:**
 * [[+text files - example 1]] : Creating and empty text file using the touch command.
