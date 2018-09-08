@@ -35,3 +35,4 @@ JPMorgan Chase; New York City, NY; Dimon, Jamie; 20051231
 Fannie Mae; Washington, D.C.; Mayopoulos, Timothy J.; 20120618  
 Trafigura; Amsterdam, Netherlands; Weir, Jeremy; 201403  
 Daimler AG; Stuttgart, Germany; Zetsche, Dieter; 200601
+Tesla; Palo Alto, CA; Musk, Elon; 200810

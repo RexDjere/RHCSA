@@ -5,7 +5,44 @@ Creation-Date: 2018-07-10T22:57:09-04:00
 ====== grep ======
 Created Tuesday 10 July 2018
 
-Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:text files - search
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[G]]
+
+**KYWRD:** grep
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+The **grep** utility is used to print the lines of a text file that match a given pattern.
+
+**grep:**
+* grep - function: match a given pattern to lines in a text file.
+* grep - description: N/A
+* [[+grep - examples]] 
+* [[+grep - options-flags]] 
+
+**Relevant grep links:**
+* http://pubs.opengroup.org/onlinepubs/009695399/utilities/grep.html
+* https://www.gnu.org/software/grep/
+* https://en.wikipedia.org/wiki/Grep
+
+**Relevant grep notes:**
+* The first version of **grep** was released by [[https://en.wikipedia.org/wiki/Ken_Thompson|Ken Thompson]], a long time employee of Bell Labs, in November 1974. 
+
+**Associated grep binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: grep: /usr/bin/grep
+
+**Associated grep man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* grep: 
+		* /usr/share/man/man1/grep.1.gz 
+		* /usr/share/man/man1p/grep.1p.gz 
+		* /usr/share/info/grep.info.gz
+
+**Relevant grep Screenshots:**
+N/A
