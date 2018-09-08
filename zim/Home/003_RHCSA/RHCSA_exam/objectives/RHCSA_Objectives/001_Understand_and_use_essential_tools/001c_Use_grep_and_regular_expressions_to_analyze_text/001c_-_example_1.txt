@@ -27,18 +27,18 @@ The syntax for using curl to download shortened urls is as follows:
 
 **Scenario**
 Chris has received a new assignment from his boss Crystal:
-* Crystal is going on a business trip to Taiwan, and she wants to search 00_tech_companies_unsorted.txt for companies in Taiwan.
-* She wants Chris to sort 00_tech_companies_unsorted.txt by company name,  and create 01_tech_companies_sorted.txt. 
-* She wants Chris to email her 02_taiwan_tech_companies.txt, a list of only the Taiwan-based companies.
+* Crystal is going on a business trip to Taiwan, and she wants to search **00_tech_companies_unsorted.txt** for companies in Taiwan.
+* She wants Chris to sort **00_tech_companies_unsorted.txt** by company name,  and create **01_tech_companies_sorted.txt**. 
+* She wants Chris to email her **02_taiwan_tech_companies.txt**, a list of only the Taiwan-based companies.
 
 **001c - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Download 00_tech_companies_unsorted.txt: 
+2. Download **00_tech_companies_unsorted.txt**: 
 	a. __curl -L -o 00_tech_companies_unsorted.txt https://bit.ly/2P7QEAp__
 	b. Verify that the file was correctly downloaded: __head 00*__
 3. Sort the downloaded file: __sort 00* > 01_tech_companies_sorted.txt__
 4. Verify that the file was corrrectly sorted: __head 01*__
-5. Use grep to find Taiwan companies and save to new file: __grep "Taiwan" 01* > 02_taiwan_tech_companies.txt__
+5. Use **grep** to find Taiwan companies and save to new file: __grep "Taiwan" 01* > 02_taiwan_tech_companies.txt__
 6. View the Taiwan companies file: __cat 02*__
 
 **Relevant 001c - example 1 links:**
