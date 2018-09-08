@@ -5,7 +5,42 @@ Creation-Date: 2018-07-10T22:59:30-04:00
 ====== cd ======
 Created Tuesday 10 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[C]]
 
+**KYWRD:** cd
+**RHCSA Objective: **001h Create, delete, copy, and move files and directories
+
 **Summary**
-cd stands for "change directory". This command is used to move from one directory to another on Linux systems.
+**cd** stands for "change directory". This command is used to move from one directory to another on Linux/Unix systems.
+
+**cd:**
+* cd - function: change directory.
+* cd - description: N/A
+* [[+cd - examples]]
+* [[+cd - options-flags]] 
+
+**Relevant cd links:**
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/cd.html
+* https://en.wikipedia.org/wiki/Cd_(command)
+
+**Relevant cd notes:**
+* N/A
+
+**Associated cd binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cd: /usr/bin/cd
+
+**Associated cd man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* cd: 
+		* /usr/share/man/man1/cd.1.gz 
+		* /usr/share/man/man1p/cd.1p.gz
+
+**Relevant cd Screenshots:**
+N/A

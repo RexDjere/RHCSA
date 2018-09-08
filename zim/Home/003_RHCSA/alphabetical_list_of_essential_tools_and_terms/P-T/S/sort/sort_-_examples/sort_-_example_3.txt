@@ -1,0 +1,73 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T19:27:44-04:00
+
+====== sort - example 3 ======
+Created Friday 07 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[sort - examples]]
+
+**KYWRD:** sort - example 3
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+Sort a list ascending and descending by the fourth column.
+
+**Scenario:**
+C.J. is a RHEL sysadmin at Southern Company.  Her boss is getting ready to make a presentation at a business conference.  C.J.'s boss gives her a list of companies which includes the name of the company's CEO, and the date that they assumed the CEO position.  C.J.'s boss asks her to please sort the list both ascending and descending by the fourth column, the date on which the CEO assumed their position.  The original file is named **00_tech_companies2_unsorted.txt**.  The two files that C.J.'s boss expects are **01_tech_companies2_up.txt** (ascending) and **02_tech_companies2_down.txt **(descending). 
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Make a new directory in your home directory on the CentOS/RHEL system named **tech_companies:**
+	a. __mkdir tech_companies__
+3. Open a terminal on your local machine.
+4. If not already done, clone this Github project to your local pc: https://github.com/RexDjere/RHCSA 
+5. The project should be cloned to this directory on your local pc: **/home/your_username/Sync/PROJECTS/RHCSA**
+6. change directory ([[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cd|cd]]) to the **lists/tech_companies **directory inside the RHCSA directory: 
+	a. __cd ~/Sync/PROJECTS/RHCSA/lists/tech_companies__
+7. Send **00_tech_companies2_unsorted.txt **to your remote RHEL/CentOS pc's **tech_companies** directory using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]] command in your local machine's terminal:
+	a. __scp 00_tech_companies2_unsorted.txt your_remote_username@your_remote_ip_address:~/tech_companies__
+8. Switch back to your RHEL/CentOS machine. Verify that **00_tech_companies2_unsorted.txt **now exists in the **tech_companies** directory:
+	a. __ls ~/tech_companies__
+9. Change directory ([[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cd|cd]]) to the tech_companies directory on your RHEL/CentOS machine:
+	a. __cd ~/tech_companies__
+10. Sort **00_tech_companies2_unsorted.txt  ascending** by the fourth column, and save it as **01_tech_companies2_up.txt **. Remember that the **delimiter (field separator)** is ";". To sort by the 4th column, starting with the 4th column, and ending with the 4th column, we invoke the **-k4,4** option:
+	a. __sort -t';' -k4,4 00_tech_companies2_unsorted.txt > 01_tech_companies2_up.txt__ 
+11. Sort **00_tech_companies2_unsorted.txt  descending** by the fourth column, and save it as **01_tech_companies2_down.txt **:
+	a. __sort -r -t';' -k4,4 00_tech_companies2_unsorted.txt > 02_tech_companies2_down.txt__ 
+12. Clear the screen: __clear__ then __ENTER__
+13. View **01_tech_companies2_up.txt**: __cat 01*__
+14. Clear the screen: __clear__ then __ENTER__
+15. View **02_tech_companies2_down.txt**: __cat 02*__
+16. (optional) Cleanup:
+	a. Go back up to your home directory: __cd ..__
+	b. View the file that you want to delete, **tech_companies** : __ls__
+	c. Delete **tech_companies**, and it's contents: __rm -r tech_companies__
+	d. Verify that tech_companies is gone: __ls__
+
+**Relevant KEYWORD links:**
+* N/A
+
+**Relevant KEYWORD Screenshots:**
+
+Figure 1: Steps 1 and 2
+{{./pasted_image.png}}
+
+Figure 2: Steps 3-7
+{{./pasted_image001.png}}
+
+Figure 3: Steps 8-11
+{{./pasted_image002.png}}
+
+Figure 4: Step 13
+{{./pasted_image003.png}}
+
+Figure 5: Step 15
+{{./pasted_image004.png}}

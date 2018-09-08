@@ -33,13 +33,13 @@ Maria, a RHEL sysadmin at Red Hat, has an unsorted list of programming languages
 
 **sort - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Download the unsorted programming languages list:
+2. Download the **unsorted** programming languages list:
 	a. __curl -L -o 00_programming_languages_unsorted.txt https://bit.ly/2LsAcZg__
 3. Make sure that the download was correct by viewing the 1st ten lines of the downloaded file:
 	a. __head 00_prog*__
-4. Sort the file ascending by programming language; save it as 01_programming_languages_sorted.txt:
+4. Sort the file **ascending** by programming language; save it as **01_programming_languages_sorted.txt**:
 	a. __sort 00_prog* > 01_programming_languages_sorted.txt__
-5. Sort 01_programming_languages_sorted.txt by the 2nd column, and save it as 02_programming_languages_sorted.txt:
+5. Sort **01_programming_languages_sorted.txt** by the 2nd column, and save it as **02_programming_languages_sorted.txt**:
 	a. Here we need the __-t";"__ option to tell sort to use ; as the delimiter.
 	b. We also need the __-k2,2__ option to tell sort to sort: starting with the 2nd column, and ending with the 2nd column.
 	c. So the command will look like this:

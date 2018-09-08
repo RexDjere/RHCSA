@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T20:20:02-04:00
+
+====== cd - options-flags ======
+Created Friday 07 September 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 09/05/18 01:51:17 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[cd]]
+
+**KYWRD:** cd
+**RHCSA Objective: **001h Create, delete, copy, and move files and directories
+
+**Summary:**
+This article describes the options available with the [[cd]] command.
+
+**cd - options:**
+* -L
+* -P
+* -e
+* -@
+* **TO BE COMPLETED LATER.**
+
+**Relevant cd Screenshots:**
+N/A

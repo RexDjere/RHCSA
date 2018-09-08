@@ -18,29 +18,30 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-The sort utility is used to sort the lines of a given text file.
+The **sort** utility is used to sort the lines of a given text file.
 
 **sort:**
 * sort - function: sort lines of text file.
 * sort - description: N/A
 * [[+sort - options-flags]] 
-* [[+sort - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the sort examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+sort - examples]]
 
 **Relevant sort links:**
-* link 1
-* link 2
-* link 3
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sort.html
+* https://en.wikipedia.org/wiki/Sort_(Unix)
 
 **Relevant sort notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: sort: /usr/bin/sort
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* sort: 
+		* /usr/share/man/man3/sort.3pm.gz 
+		* /usr/share/man/man1/sort.1.gz 
+		* /usr/share/man/man1p/sort.1p.gz
 
 **Relevant sort Screenshots**
-Paste any relevant screenshots here.
+N/A
