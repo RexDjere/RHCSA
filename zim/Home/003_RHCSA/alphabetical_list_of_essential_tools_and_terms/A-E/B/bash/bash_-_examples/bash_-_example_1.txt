@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-07T23:48:33-04:00
+
+====== bash - example 1 ======
+Created Friday 07 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[bash - examples]]
+
+**KYWRD:** bash - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+Manipulate numerical variables in [[bash]].
+
+**Scenario:**
+Ban Ki-moon is the Director of RHEL sysadmins at the United Nations. He wants to brush up on his Bash skills. He performs an interesting thought experiment:
+- There are 34 officers onboard the UNS (United Nations Ship) Endeavor: **num_officers**
+- There are 163 enlisted sailors onboard the UNS Endeavor: **num_enlisted**
+- What is total number of crew members? Variable: **total_crew**
+- What is the ratio of officers-to-enlisted?
+
+How can Ban express all of this within Bash?
+
+**bash - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. define the variable **num_officers**: __num_officers=34__
+3. define the variable **num_enlisted**: __num_enlisted=163__
+4. define the variable **total_crew**: __((total_crew=num_officers+num_enlisted))__
+5. Show the value of **total_crew**: __echo $total_crew__
+6. Show the ratio of officers-to-enlisted: __awk "BEGIN {print $num_officers/$num_enlisted}"__
+
+**Relevant bash - example 1 links:**
+* N/A
+
+**Relevant bash - example 1 Screenshots:**
+{{./pasted_image.png}}

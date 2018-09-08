@@ -21,7 +21,7 @@ command to get timestamp: __date '+%A %D %X'__
 This article contains examples that illustrate the correct use of the [[bash]] shell.
 
 **bash - examples:**
-* bash - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* [[+bash - example 1]] : Manipulate numerical variables in [[bash]].
 * bash - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
 * bash - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
