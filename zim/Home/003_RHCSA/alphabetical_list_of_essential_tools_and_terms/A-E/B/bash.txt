@@ -5,4 +5,43 @@ Creation-Date: 2018-07-31T06:05:06-04:00
 ====== bash ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[B]]
+
+**KYWRD:** bash
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**Bash **is a shell and command language for Linux/Unix. It was originally written by Brian Fox for the GNU Project as a replacement for the **Bourne shell**. Bash stands for "Bourne-Again Shell".
+
+**bash:**
+* bash - function: **bash** is a shell and command language for Unix-like systems.
+* bash - description: N/A
+* [[+bash - examples]]
+* [[+bash - options-flags]] 
+
+**Relevant bash links:**
+* https://www.gnu.org/software/bash/
+* https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+
+**Relevant bash notes:**
+* N/A
+
+**Associated bash binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: bash: /usr/bin/bash
+
+**Associated bash man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* bash: 
+		* /usr/share/man/man1/bash.1.gz 
+		* /usr/share/info/bash.info.gz
+
+**Relevant bash Screenshots:**
+N/A
