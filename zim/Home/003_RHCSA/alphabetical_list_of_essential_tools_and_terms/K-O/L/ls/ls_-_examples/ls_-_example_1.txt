@@ -2,10 +2,12 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-17T13:42:46-04:00
 
-====== ls example 1 ======
+====== ls - example 1 ======
 Created Tuesday 17 July 2018
 
-[[ls:ls - examples]]
+**THIS NEEDS TO BE CLEANED UP.**
+
+ls:ls - examples
 [[L]]
 
 One common use of the Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls command is to display the [[P-T:S:SELinux]] context (attributes) of a file or folder.  This is invoked by adding the -l and -Z options to ls. 

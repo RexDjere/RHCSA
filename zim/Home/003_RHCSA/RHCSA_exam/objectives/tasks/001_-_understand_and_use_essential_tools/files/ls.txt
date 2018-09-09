@@ -13,6 +13,6 @@ alphabetical list of essential tools
 The :Home:RHCSA:exam:objectives:001 - understand and use essential tools:files:ls command is used to list files and directories in a filesytem, and can also be used to see filesystem attributes. 
 
 ls
-* [[alphabetical list of essential tools and terms:K-O:L:ls:ls - function]]
-* [[alphabetical list of essential tools and terms:K-O:L:ls:ls - description]]
-* [[alphabetical list of essential tools and terms:K-O:L:ls:ls - examples]]
+* alphabetical list of essential tools and terms:K-O:L:ls:ls - function
+* alphabetical list of essential tools and terms:K-O:L:ls:ls - description
+* alphabetical list of essential tools and terms:K-O:L:ls:ls - examples

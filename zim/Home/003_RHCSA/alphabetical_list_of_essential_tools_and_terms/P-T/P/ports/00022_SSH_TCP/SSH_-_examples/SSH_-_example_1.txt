@@ -37,7 +37,7 @@ c.) What command will he use to exit pico?
 1. Startup your CentOS/RHEL system, and login as a normal user.
 2. **(optional, if you don't feel comfortable creating an account sdfeu.org, you can just follow along with this tutorial and learn)** 
 	a. Create a free Unix shell account at sdf: https://sdfeu.org/w
-3. Login to the remove sdfeu server via [[Home:003 RHCSA:RHCSA exam:objectives:RHCSA Objectives:001 Understand and use essential tools:001d Access remote systems using SSH|ssh]] :
+3. Login to the remove sdfeu server via ssh :
 	a. __ssh your_username@sdfeu.org__
 4. See **Figure 1** below. Your screen should look similar. 
 5. It will prompt you to hit Enter and Backspace before you finally get to a command prompt. Once you get the command prompt, enter the **clear** command to give us a nice clean work area:

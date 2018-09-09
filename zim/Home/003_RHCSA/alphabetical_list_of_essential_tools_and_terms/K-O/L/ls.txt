@@ -12,40 +12,35 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
-relevant backlink 1
-relevant backlink 2
+[[L]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**KYWRD:** ls
+**RHCSA Objective: **001j List, set, and change standard ugorwx permissions
 
 **Summary**
-This page is a template used to create wiki generic pages in this study guide. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+The Linux/Unix **ls** command is used to list the contents of a directory.
 
-**KEYWORD:**
-* KEYWORD - function: State the main function of the topic here.
-* KEYWORD - description: Provide a more detail description here.
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[Home:002 all templates:options template|options template]]]
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+**ls:**
+* ls - function: list the contents of a directory.
+* ls - description: N/A
+* [[+ls - examples]] 
+* [[ls - options-flags]]
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant ls links:**
+* http://pubs.opengroup.org/onlinepubs/009695399/utilities/ls.html
+* https://en.wikipedia.org/wiki/Ls
 
-**Relevant KEYWORD notes**
-* note 1
-* note 2
-* note 3
+**Relevant ls notes**
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ls: /usr/bin/ls
 
 **Associated man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* ls: 
+		* /usr/share/man/man1/ls.1.gz 
+		* /usr/share/man/man1p/ls.1p.gz
 
-**Relevant KEYWORD Screenshots**
-Paste any relevant screenshots here.
+**Relevant ls Screenshots**
+N/A
