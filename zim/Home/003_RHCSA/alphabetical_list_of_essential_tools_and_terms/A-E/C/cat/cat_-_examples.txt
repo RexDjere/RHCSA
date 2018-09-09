@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-08T22:07:53-04:00
+
+====== cat - examples ======
+Created Saturday 08 September 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+[[cat]]
+
+**KYWRD:** cat
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+This article contains examples that illustrate the correct use of the [[cat]] command.
+
+**cat - examples:**
+* [[+cat - example 1]] : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* [[+cat - example 2]] : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* [[+cat - example 3]] : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant cat links:**
+* N/A
+
+**Relevant cat Screenshots:**
+N/A

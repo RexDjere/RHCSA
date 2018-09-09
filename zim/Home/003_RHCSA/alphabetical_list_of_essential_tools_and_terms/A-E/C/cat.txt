@@ -5,4 +5,42 @@ Creation-Date: 2018-07-10T22:57:22-04:00
 ====== cat ======
 Created Tuesday 10 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
 [[C]]
+
+**KYWRD:** cat
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+The Linux/Unix **cat **utility is used to concatenate files, and to print out the contents of a file.
+
+**cat:**
+* cat - function: concatenate and print files.
+* cat - description: N/A
+* [[+cat - examples]] 
+* [[+cat - options-flags]] 
+
+**Relevant cat links:**
+* http://pubs.opengroup.org/onlinepubs/009695399/utilities/cat.html
+* https://en.wikipedia.org/wiki/Cat_(Unix)
+
+**Relevant cat notes:**
+* N/A
+
+**Associated cat binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cat: /usr/bin/cat
+
+**Associated cat man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* cat: 
+		* /usr/share/man/man1/cat.1.gz 
+		* /usr/share/man/man1p/cat.1p.gz
+
+**Relevant cat Screenshots:**
+N/A
