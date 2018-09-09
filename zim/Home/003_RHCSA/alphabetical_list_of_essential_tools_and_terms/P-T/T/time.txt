@@ -5,6 +5,50 @@ Creation-Date: 2018-07-31T03:49:32-04:00
 ====== time ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[T]]
+
+**KYWRD:** time
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **time **is used to run a specified command with given arguments.
+
+**time:**
+* time - function: sun a specified command with given arguments.
+* time - description: N/A
+* [[+time - examples]] 
+* [[+time - options-flags]] 
+
+**Relevant time links:**
+* http://pubs.opengroup.org/onlinepubs/009696899/utilities/time.html
+* https://en.wikipedia.org/wiki/Time_(Unix)
+
+**Relevant time notes:**
+* N/A
+
+**Associated time binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* time: 
+		* /usr/bin/time 
+		* /usr/include/time.h
+
+**Associated time man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* time: 
+		* /usr/share/man/man3/time.3am.gz 
+		* /usr/share/man/man3p/time.3p.gz 
+		* /usr/share/man/man2/time.2.gz 
+		* /usr/share/man/man1/time.1.gz 
+		* /usr/share/man/man7/time.7.gz 
+		* /usr/share/man/man1p/time.1p.gz 
+		* /usr/share/info/time.info.gz
+
+**Relevant time Screenshots:**
+N/A

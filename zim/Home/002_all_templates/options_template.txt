@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T20:00:32-04:00
 ====== options template ======
 Created Thursday 02 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 09/05/18 01:51:17 AM
+[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]

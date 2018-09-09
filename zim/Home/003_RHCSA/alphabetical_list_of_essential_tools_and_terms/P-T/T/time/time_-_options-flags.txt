@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-09T17:47:02-04:00
+
+====== time - options-flags ======
+Created Sunday 09 September 2018
+
+[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[time]]
+
+**KYWRD:** time
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+This article describes the options available with the [[time]] command.
+
+**time - options:**
+* -a: describe option a.
+* -b: describe option b.
+* -c: decsribe option c.
+
+**Relevant time Screenshots:**
+N/A
