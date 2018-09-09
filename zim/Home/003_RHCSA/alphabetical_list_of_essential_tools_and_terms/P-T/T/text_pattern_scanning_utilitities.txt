@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-09T17:18:01-04:00
+
+====== text pattern scanning utilitities ======
+Created Sunday 09 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[T]]
+
+**KYWRD:** text patterns
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+These Linux/Unix utilities form the **text pattern scanning** family of utilities:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]
+
+**text patterns:**
+* text patterns - function: utitilies for analyzing and manipulating text.
+* text patterns - description: N/A
+* [[+text patterns - examples]] 
+* [[+text patterns - options-flags]] 
+
+**Relevant text patterns links:**
+* http://matt.might.net/articles/sculpting-text/
+
+**Relevant text patterns notes:**
+* N/A
+
+**Associated text patterns binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]] , [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] , & [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]
+
+**Associated text patterns man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]] , [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] , & [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]
+
+**Relevant text patterns Screenshots:**
+N/A

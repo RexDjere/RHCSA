@@ -25,6 +25,7 @@ All commands, utilities and terms starting with the letter T are sub-pages to th
 * [[+tcpdump]]
 * [[+tee]]
 * [[+telnet]]
+* [[+text pattern scanning utilitities]]
 * [[+tig]] , [[F-J:G:git]]
 * [[+time]]
 * [[+tmpfs]]
