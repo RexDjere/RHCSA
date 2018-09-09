@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-10T23:18:55-04:00
-
-====== basic firewall configuration ======
-Created Tuesday 10 July 2018
-
-

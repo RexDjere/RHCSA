@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-10T02:02:51-04:00
+
+====== 001b - example 1 ======
+Created Friday 10 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[001b Use input-output redirection]]
+
+**KYWRD:** 001b - example 1
+**RHCSA Objective: **001b Use input-output redirection
+
+**Summary**
+ Open a terminal on a CentOS/RHEL machine, echo "Hello World", and redirect it to a file called hello_world.txt.
+
+**001b - example 1 - tasks **(command line commands are __highlighted__)**:**
+* Startup your CentOS/RHEL machine, and login as a normal user.
+* Redirect the output of 'echo "Hello World" to Examples/hello_world.txt: __echo "Hello World" > Examples/hello_world.txt__
+* Verify that hello_world.txt was created by inspecting the output of this command: __find Examples__
+* View the contents of hello_world.txt: __cat Examples/hello_world.txt__
+
+**Relevant 001b - example 1 links:**
+* N/A
+
+**Relevant 001b - example 1 Screenshots**
+{{./pasted_image.png}}

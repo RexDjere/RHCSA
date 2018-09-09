@@ -5,8 +5,8 @@ Creation-Date: 2018-07-10T22:45:42-04:00
 ====== tty ======
 Created Tuesday 10 July 2018
 
-[[RHCSA exam:objectives:tasks:001 - understand and use essential tools:files]]
-[[RHCSA exam:objectives:tasks]]
+RHCSA exam:objectives:tasks:001 - understand and use essential tools:files
+RHCSA exam:objectives:tasks
 [[T]]
 
 tty

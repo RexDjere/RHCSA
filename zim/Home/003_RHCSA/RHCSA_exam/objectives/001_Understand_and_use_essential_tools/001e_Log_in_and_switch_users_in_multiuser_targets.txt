@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T16:07:23-04:00
+
+====== 001e Log in and switch users in multiuser targets ======
+Created Wednesday 08 August 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[001 Understand and use essential tools]]
+
+**KYWRD:** 001e
+**RHCSA Objective: **001e Log in and switch users in multiuser targets
+
+**Summary**
+This article demonstrates how to login in and switch users in multiuser targets.
+
+**001e - examples:**
+* [[+001e - example 1]] : Add a new user, switch to the new user's account, and the delete the new user.
+* 001e - example 2 : briefly describe example 2.
+* 001e - example 3 : briefly describe example 3.
+
+**Relevant 001e Screenshots**
+Paste any relevant screenshots here.

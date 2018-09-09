@@ -11,12 +11,12 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 relevant backlink 1
 relevant backlink 2
 
 **KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
 iproute2 is a suite of utilities used for control TCP/IP networking on Linux systems. ip abd tc are the two most important utilities in the iproute2 suite.

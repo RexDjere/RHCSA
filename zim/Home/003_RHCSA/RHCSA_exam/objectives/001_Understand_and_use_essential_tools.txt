@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T15:55:01-04:00
+
+====== 001 Understand and use essential tools ======
+Created Wednesday 08 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/08/18 11:14:15 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+
+**KYWRD:** 001 essential tools
+**RHCSA Objective: **001 Understand and use essential tools
+
+**Summary**
+001 Understand and use essential tools
+
+**001 essential tools - tasks:**
+	a. [[+001a Access a shell prompt and issue commands with correct syntax]]
+	b. [[+001b Use input-output redirection]]
+	c. [[+001c Use grep and regular expressions to analyze text]]
+	d. [[+001d Access remote systems using ssh]]
+	e. [[+001e Log in and switch users in multiuser targets]]
+	f. [[+001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
+	g. [[+001g Create and edit text files]]
+	h. [[+001h Create, delete, copy, and move files and directories]]
+	i. [[+001i Create hard and soft links]]
+	j. [[+001j List, set, and change standard ugorwx permissions]]
+	k. [[+001k Locate, read, and use system documentation including man, info, and files in usrsharedoc]]
+
+**Relevant 001 essential tools Screenshots**
+N/A

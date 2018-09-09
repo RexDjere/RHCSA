@@ -11,7 +11,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 [[ifup]]
 
 **KYWRD:** ifup

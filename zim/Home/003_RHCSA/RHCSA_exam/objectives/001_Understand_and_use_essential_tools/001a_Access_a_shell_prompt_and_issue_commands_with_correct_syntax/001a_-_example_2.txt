@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-09T10:26:39-04:00
+
+====== 001a - example 2 ======
+Created Thursday 09 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[001a Access a shell prompt and issue commands with correct syntax]]
+
+**KYWRD:** 001a - example 2
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+Open a terminal on a CentOS/RHEL system, create a new directory and several sub-directories, convert several man pages to html, and store them in the new sub-directories.
+
+**001a -example 2 - tasks **(command line commands are __highlighted__)**:**
+* **Task 1:** Startup your Centos/RHEL system, and login as a normal user.
+* **Task 2:** In your home directory, create a new directory called man_pages that has the following sub-directories:
+	* alias
+	* bzip2
+	* cat
+	* mv
+* **Note:** in Task 2, we are going to use mkdir with the -p option. mkdir -p allows you to create a directory with subdirectories. You can pass several arguments to the mkdir command, so our command will look like this:  __mkdir -p man_pages/alias man_pages/bzip2 man_pages/cat man_pages/mv__
+* **Note**: here is a much shorter command that accomplishes the same goal as the command above: mkdir -p man_pages/{alias,bzip2,cat,mv}
+* **Task 3:** verify that all 4 sub-directories were correctly created:
+	* change directory to man_pages: __cd man-pages__
+	* list the contents of man_pages: __ls__
+* **Task 4:** Move back up to your home directory (__cd ..__ move you up one level in the filesystem structure): __cd ..__
+* **Task 5:** Use the ls command to verify that you are back in your home directory, and that the **man_pages** directory exists (NOTE: you could have also used the __cd ~__ command to move back to your home directory. Note that your terminal prompt should currently say **[your_username@your_hostname ~]$**): __ls__
+* **Task 6: **Use the man -Thtml command to create the 4 required man pages in html format (the man -Thtml command can accept multiple arguments): 
+	* __man -Thtml alias > man_pages/alias/alias.html bzip2 > man_pages/bzip2/bzip2.html cat > man_pages/cat/cman -Thtmlat.html mv > man_pages/mv/mv.html__
+* **Task 7: **Verify that all of the new files are in the correct location using the find command: 
+	* __find man_pages__
+	* inspect the output of the find command above to verify that all 4 html files are in their correct locations.
+* **Task 8: **Please review Tasks 1-8 on your screen, and compare it to Figure 1 below.
+
+**Relevant 001a -example 2 links:**
+* http://technosophos.com/2010/04/15/mkdir-creating-multiple-subdirectories-one-command.html
+* https://unix.stackexchange.com/questions/246888/how-do-i-convert-linux-man-pages-to-html-without-using-groff
+
+**Relevant 001a -example 2 Screenshots**
+Figure 1: Tasks 1-7
+{{./pasted_image.png}}

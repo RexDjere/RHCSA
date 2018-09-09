@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-16T12:06:07-04:00
-
-====== Install and update software packages from Red Hat Network, a remote repository, or from the local file system ======
-Created Monday 16 July 2018
-
-[[005 - left branches]]

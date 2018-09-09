@@ -11,11 +11,11 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 replace this with a link to the parent page 1 level above this example page
 
 **KYWRD:** command - example X
-**RHCSA Objective: **Replace this with the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]].
+**RHCSA Objective: **Replace this with the target RHCSA Objective.
 
 **Summary:**
 Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T15:55:33-04:00
+
+====== 003 Configure local storage ======
+Created Wednesday 08 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/08/18 11:14:15 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+
+**KYWRD:** 003 local storage
+**RHCSA Objective: **003 Configure local storage
+
+**Summary**
+003 Configure local storage
+
+**003 local storage - tasks **(command line commands are __highlighted__)**:**
+* [[+003a List, create, delete partitions on MBR and GPT disks]]
+* [[+003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes]]
+* [[+003c Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label]]
+* [[+003d Add new partitions and logical volumes, and swap to a system non-destructively]]
+
+**Relevant 003 local storage Screenshots**
+Paste any relevant screenshots here.

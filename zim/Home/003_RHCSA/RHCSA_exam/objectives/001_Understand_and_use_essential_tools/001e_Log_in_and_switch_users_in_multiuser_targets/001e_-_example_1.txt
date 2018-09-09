@@ -1,0 +1,65 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-06T02:29:56-04:00
+
+====== 001e - example 1 ======
+Created Thursday 06 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[001e Log in and switch users in multiuser targets]]
+
+**KYWRD:** 001e - example 1
+**RHCSA Objective: **001e Log in and switch users in multiuser targets
+
+**Summary:**
+Add a new user, switch to the new user's account, and the delete the new user.
+
+**Scenario:**
+Kwamé Holland is a RHEL sysadmin student at Linux Academy. He wants to complete the following tasks:
+1. Create a new account for himself on the RHEL system with a home directory:
+	* **username:** kwame_holland1
+	* **password**: 123456
+2. Create a second new account for himself:
+	* **username:** kwame_holland2
+	* **password**: 765432
+3. Switch between the accounts using **su - **.
+4. Delete both of Kwamé Holland's accounts recursively (delete account, home directory and mail spool).
+5. Verify that both accounts are deleted.
+
+**001e - example 1 - tasks **(command line commands are __highlighted__)**:**
+- Startup your CentOS/RHEL system, and login as a normal user.
+1. Create new account for Kwamé Holland with a home directory:
+	a. __su -c "useradd -m kwame_holland1"__
+	b. __su -c "passwd kwame_holland1"__
+2. Create second new account for Kwamé:
+	a. __su -c "useradd -m kwame_holland2"__
+	b. __su -c "passwd kwame_holland2"__
+3. Switch between accounts using **su - **:
+	a. Switch to kwame_holland1: __su - kwame_holland1__
+	b. Switch to kwame_holland2: __su - kwame_holland2__
+	c. Switch back to original account: __su - original_username__
+4. Delete both of Kwamé Holland accounts recursively (delete account, home directory and mail spool):
+	a. **NOTE 1:** since we switched to both accounts, they are both still involved with processes, so we will have to invoke the **--force** option to force the user delete.
+	b. **NOTE 2:** even using the **--force** option, we will still get an error message say that the accounts are using a process, but they will still be deleted.
+	c. __su -c "userdel --force -r kwame_holland1"__
+	d. __su -c "userdel --force -r kwame_holland2"__
+5. Verify that both accounts are deleted:
+	a. First verify that the original user's home directory still exits: ls [[/home]] | grep "original_username"
+	b. Now try the same with kwame_holland1:  __ls /home | grep kwame_holland1__
+	c. Try the same with kwame_holland2:  __ls /home | grep kwame_holland2__
+	d. Since we know that the original user's account still exists, we will look for the original user: __cat /etc/passwd | grep original_user*__
+	e. Now, look for Kwame Holland in the [[/etc/passwd]] file:
+		1. __cat /etc/passwd | grep kwame*__
+	f. Both of Kwamé Holland's accounts have been verified deleted.
+
+**Relevant 001e - example 1 links:**
+* N/A
+
+**Relevant 001e - example 1 Screenshots:**
+{{./pasted_image.png}}

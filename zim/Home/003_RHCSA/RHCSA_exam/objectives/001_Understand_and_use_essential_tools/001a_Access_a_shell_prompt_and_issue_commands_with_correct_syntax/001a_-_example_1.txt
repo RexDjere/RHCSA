@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T16:27:16-04:00
+
+====== 001a - example 1 ======
+Created Wednesday 08 August 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/08/18 11:14:15 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[001a Access a shell prompt and issue commands with correct syntax]]
+
+**KYWRD:** 001a - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+In 001a - example 1, we are using the terminal in multi-user.target (formerly known as runlevel 3) on a [[alphabetical list of essential tools and terms:A-E:C:CentOS|CentOS]] virtual machine. This example assumes that you already have networking enabled on the CentOS machine, including Internet access. We will complete the following tasks:
+* login
+* update the system using yum
+* install the Gnome Desktop Environment
+* use systemctl start to start Gnome
+* use gnome-terminal within the Gnome environment
+	* change the system hostname
+	* go back to multi-user.target using a command in gnome-terminal
+
+
+**001a - example 1 - tasks **(command line commands are __highlighted__)**:**
+* Startup your CentOS machine, and login using your username and password **(Figure 1)**
+* Update the CentOS system using yum **(Figure 2)**. Running yum requires admin privileges (hence su -c, or sudo if sudo is enabled for your account): __su -c "yum update"__
+* Install Gnome Graphical User Environment from the Internet (in a later example, we will walk through using a local repository).
+	* Note that the command for installing the Gnome Graphical Enviroment differs between CentOS and RHEL:
+		* CentOS command: __su -c ' yum groupinstall "Gnome Dekstop" "Graphical Administration Tools" '__ (**Note:** the extra space before the closing " ' " is not needed. I just added the space to make it easier to see the construction of the command). **(Figure 3)**
+	* RHEL command: __su -c "groupinstall "Server with GUI""__ 
+* Now, we will use this systemctl command to shift to graphical.target (equivalent to the old runlevel 5). This command must be run with root privileges, hence su -c: __su -c "systemctl isolate graphical.target"__ **(Figure 4)**
+* Use gnome-terminal from within the Gnome environment **(Figure 5)**
+	* the hostname for the VM is still "localhost". Let's change the hostname to something more descriptive like centos.desktop1: 
+		* __hostnamectl set-hostname centos.desktop1__  (**Note:** I will be asked to enter the root password by a popup window if I use this version of the command).
+		* OR
+		* __su -c "hostnamectl set-hostname centos.desktop1"__ 
+	* After the change, we will display the hostname using this command: __hostnamectl__
+* Finally, we will go back to the commandline environment of multi-user.target: __su -c "systemctl isolate multi-user.target"__ **(Figure 6)**
+
+
+**Relevant 001a - example 1 Screenshots**
+Figure 1 - Logging In
+{{./pasted_image.png}}
+Figure 2a - Running "yum update"
+{{./pasted_image002.png}}
+Figure 2b - yum update in progress
+{{./pasted_image003.png}}
+Figure 3a - entering the GUI install command
+{{./pasted_image004.png}}
+Figure 3b - installing Gnome Desktop Environment
+{{./pasted_image005.png}}
+Figure 4a - Getting ready to shift to graphical.target
+{{./pasted_image006.png}}
+Figure 4b - Gnome Welcome Screen
+{{./pasted_image007.png}}
+Figure 5a - Getting ready to run gnome-terminal
+{{./pasted_image008.png}}
+Figure 5b - Changing the hostname (SUCCESS)
+{{./pasted_image010.png}}
+Figure 6a - Getting ready to shift back to multi-user.target
+{{./pasted_image011.png}}
+Figure 6b - back in multi-user.target
+{{./pasted_image012.png}}

@@ -11,11 +11,11 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 [[T]]
 
 **KYWRD:** tc
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
 The tc utility is part of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]] network control suite. It is used to show and manipulate network traffic control settings. tc stands for "Traffic Control", and it consists of four components:

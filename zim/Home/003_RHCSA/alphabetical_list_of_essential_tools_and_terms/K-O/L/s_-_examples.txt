@@ -11,11 +11,11 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary:**
 This article contains examples that illustrate the correct use of the **command_name/link_here **command.

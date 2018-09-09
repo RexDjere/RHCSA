@@ -18,5 +18,5 @@ RHCSA stands for Red Hat Certified System Administrator. The RHCSA exam is a han
 * [[+cost]]
 * [[+duration]] 
 * [[+name]]
-* [[+objectives]]
+* +objectives
 

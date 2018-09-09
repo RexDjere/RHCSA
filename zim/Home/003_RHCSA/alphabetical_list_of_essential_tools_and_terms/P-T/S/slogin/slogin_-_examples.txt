@@ -11,12 +11,12 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objectives]]
+RHCSA Objectives
 relevant backlink 1
 relevant backlink 2
 
 **KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target [[003 RHCSA:RHCSA exam:objectives:RHCSA Objectives|RHCSA Objective]] here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
 This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:

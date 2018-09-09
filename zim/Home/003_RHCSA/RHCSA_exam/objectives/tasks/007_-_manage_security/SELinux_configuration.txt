@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-07-10T23:19:02-04:00
-
-====== SELinux configuration ======
-Created Tuesday 10 July 2018
-
-
