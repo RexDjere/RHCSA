@@ -10,6 +10,7 @@ Created Tuesday 10 July 2018
 [[+001 TODO LIST - ARCHIVED]]
 [[+002 all templates]]
 [[+003 RHCSA]]
+[[+003 RHCSA:RHCSA exam:objectives]]
 
 **KYWRD:** Home
 
