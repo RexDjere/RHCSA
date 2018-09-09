@@ -11,8 +11,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-RHCSA Objectives
-objectives:RHCSA Objectives:001 Understand and use essential tools:001 Understand and use essential tools
+[[objectives]]
+[[001 Understand and use essential tools]]
 
 **KYWRD:** 001a
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
