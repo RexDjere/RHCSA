@@ -10,6 +10,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 
 [[Home]]
 [[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[00 TODO LIST]]
 all templates:options template:alphabetical list of essential tools:A:addr2line:addr2line
 

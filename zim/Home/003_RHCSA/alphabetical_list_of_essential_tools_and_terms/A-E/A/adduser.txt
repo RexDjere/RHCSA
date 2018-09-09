@@ -8,6 +8,7 @@ Created Tuesday 10 July 2018
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U-Z:U:users]]
 [[A]]
 

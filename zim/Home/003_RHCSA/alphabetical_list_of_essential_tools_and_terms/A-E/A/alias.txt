@@ -27,6 +27,7 @@ Alias is a Bash built-in command. The alias command allows you to run a command 
 * [[+alias - examples]] 
 
 **Relevant alias links:**
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/alias.html
 * https://en.wikipedia.org/wiki/Alias_(command)
 
 **Relevant alias notes**

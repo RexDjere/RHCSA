@@ -11,6 +11,7 @@ options template version: Friday 31 2018 09:56:05 PM
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
 relevant backlink 1
 relevant backlink 2
 

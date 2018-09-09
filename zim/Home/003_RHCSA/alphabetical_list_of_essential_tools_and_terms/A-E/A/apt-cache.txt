@@ -11,14 +11,14 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-RHCSA Objectives
+[[003 RHCSA:RHCSA exam:objectives]]
 [[A]]
 
 **KYWRD:** apt-cache
 **RHCSA Objective: **001 Understand and use essential tools
 
 **Summary**
-The apt command is widely used on Debian, and Debian derivates, such as Ubuntu. The RHEL/CentOS family of operating systems generally use yum of dnf instead. The apt-cache command on Debian-based systems is used to diplay information from apt's internal database.
+The **apt** command is widely used on Debian, and Debian derivates, such as Ubuntu. The RHEL/CentOS family of operating systems generally use yum of dnf instead. The apt-cache command on Debian-based systems is used to diplay information from apt's internal database.
 
 **apt-cache:**
 * apt-cache - function: N/A

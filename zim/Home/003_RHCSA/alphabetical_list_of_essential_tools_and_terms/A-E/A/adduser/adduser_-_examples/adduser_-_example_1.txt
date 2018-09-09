@@ -5,6 +5,7 @@ Creation-Date: 2018-07-31T15:18:12-04:00
 ====== adduser - example 1 ======
 Created Tuesday 31 July 2018
 
+[[003 RHCSA:RHCSA exam:objectives]]
 [[adduser - examples]]
 
 **Summary**

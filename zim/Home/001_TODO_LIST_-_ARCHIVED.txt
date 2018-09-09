@@ -6,6 +6,7 @@ Creation-Date: 2018-07-31T17:18:23-04:00
 Created Tuesday 31 July 2018
 
 [[Home]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[00 TODO LIST]]
 
 **Summary**

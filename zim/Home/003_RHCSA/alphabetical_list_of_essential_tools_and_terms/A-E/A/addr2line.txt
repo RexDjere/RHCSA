@@ -11,7 +11,8 @@ generic template version: Friday 31 2018 09:50:26 PM
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:A:A
+[[RHCSA exam:objectives]]
+[[A]]
 
 **KYWRD:** addr2line
 

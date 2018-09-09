@@ -11,6 +11,7 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[adduser]]
 
 **KYWRD:** adduser

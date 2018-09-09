@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-09T16:37:39-04:00
+
+====== ar ======
+Created Sunday 09 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[A]]
+
+**KYWRD:** ar
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+
+**Summary:**
+The Linux/Unix **ar** utility is used to create and maintain library archive files.
+
+**ar:**
+* ar - function: create library archives.
+* ar - description: N/A
+* [[+ar - examples]]
+* [[+ar - options-flags]]
+
+**Relevant ar links:**
+* lhttp://pubs.opengroup.org/onlinepubs/9699919799/utilities/ar.html
+* https://en.wikipedia.org/wiki/Ar_(Unix)
+
+**Relevant ar notes:**
+* N/A
+
+**Associated ar binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* ar: 
+		* /usr/bin/ar 
+		* /usr/include/ar.h
+
+**Associated ar man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* ar: 
+		* /usr/share/man/man1/ar.1.gz 
+		* /usr/share/man/man1p/ar.1p.gz
+
+**Relevant ar Screenshots:**
+N/A

@@ -12,6 +12,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 [[alphabetical list of essential tools and terms]]
+[[RHCSA exam:objectives]]
 
 **Summary**
 This page links to A-E pages.
