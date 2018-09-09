@@ -27,7 +27,6 @@ Brent has an extremely long command that he is tired of typing in its entirety. 
 * He wants to make the alias permanent.
 * How is Brent going to do it?
 
-
 **alias - example 3 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
 2. We are going to add a permanent alias to our .bashrc file so that we can use the alias forever.

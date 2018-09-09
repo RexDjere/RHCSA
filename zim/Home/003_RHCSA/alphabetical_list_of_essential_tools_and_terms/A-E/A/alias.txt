@@ -36,7 +36,10 @@ Alias is a Bash built-in command. The alias command allows you to run a command 
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: alias: /usr/bin/alias
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: alias: /usr/share/man/man1/alias.1.gz /usr/share/man/man1p/alias.1p.gz
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* alias: 
+		* /usr/share/man/man1/alias.1.gz 
+		* /usr/share/man/man1p/alias.1p.gz
 
 **Relevant alias Screenshots**
 N/A
