@@ -11,9 +11,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-RHCSA Objectives
-relevant backlink 1
-relevant backlink 2
+[[objectives]]
+[[004 Create and configure file systems]]
 
 **KYWRD:** type the kywrd here.
 **RHCSA Objective: **Type the target RHCSA Objective here.

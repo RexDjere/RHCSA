@@ -5,8 +5,14 @@ Creation-Date: 2018-08-02T21:39:23-04:00
 ====== alphabetical list of essential tools ======
 Created Tuesday 31 July 2018
 
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Sunday 09/09/18 10:15:04 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-[[00 TODO LIST]]
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[003 RHCSA]]
 
 **Summary**
 This is an alphabetically list of essential Linux tools and terms.
@@ -17,5 +23,9 @@ This is an alphabetically list of essential Linux tools and terms.
 * [[+K-O]]
 * [[+P-T]]
 * [[+U-Z]]
+
+
+
+
 
 

@@ -5,6 +5,38 @@ Creation-Date: 2018-07-11T10:35:43-04:00
 ====== cost ======
 Created Wednesday 11 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[RHCSA exam]]
 
-400 USD
+**KYWRD:** cost
+**RHCSA Objective: **N/A
+
+**Summary:**
+The **Red Hat Certified System Administrator** (RHCSA) exam fee is currently **$400 U.S.**, pluas any additional taxes.
+
+**cost:**
+* cost - function: The **RHCSA** exams fee is **$400**.
+* cost - description: N/A
+* cost - examples: N/A
+* cost - options-flags: N/A
+
+**Relevant cost links:**
+* https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
+
+**Relevant cost notes:**
+* N/A
+
+**Associated cost binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated cost man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant cost Screenshots:**
+N/A

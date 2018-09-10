@@ -5,14 +5,14 @@ Creation-Date: 2018-08-03T22:51:53-04:00
 ====== examples template ======
 Created Friday 03 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Sunday 09/09/18 04:51:52 PM
+[[002 all templates:examples homepage template:examples template|examples template]] version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
-
+replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** command - example X
 **RHCSA Objective: **Replace this with the target RHCSA Objective.

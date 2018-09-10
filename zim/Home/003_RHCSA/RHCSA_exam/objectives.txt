@@ -12,6 +12,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
+[[objectives]]
+[[RHCSA exam]]
 
 **KYWRD:** RHCSA Objectives
 

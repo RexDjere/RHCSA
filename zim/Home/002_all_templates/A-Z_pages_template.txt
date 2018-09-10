@@ -5,7 +5,7 @@ Creation-Date: 2018-08-07T23:45:03-04:00
 ====== A-Z pages template ======
 Created Tuesday 07 August 2018
 
-[[002 all templates:A-Z pages template|A-Z pages template]] version: Wednesday 09/05/18 04:33:33 AM
+[[002 all templates:A-Z pages template|A-Z pages template]] version: Sunday 09/09/18 10:15:04 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]

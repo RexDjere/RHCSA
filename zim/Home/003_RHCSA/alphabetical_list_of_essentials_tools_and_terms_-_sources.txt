@@ -8,6 +8,7 @@ Created Tuesday 31 July 2018
 [[alphabetical list of essential tools and terms]]
 [[Home:000 TODO LIST|TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
+[[003 RHCSA]]
 
 **Summary**
 This is a list of sources that I used to come up with the alphabetical list of essential tools.

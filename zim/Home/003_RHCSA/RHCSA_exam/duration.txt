@@ -5,6 +5,38 @@ Creation-Date: 2018-07-11T10:35:39-04:00
 ====== duration ======
 Created Wednesday 11 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[RHCSA exam]]
 
-2.5 hours
+**KYWRD:** duration
+**RHCSA Objective: **N/A
+
+**Summary:**
+The **Red Hat Certified System Administrator** (RHCSA) exam duration is **2.5 hours**.
+
+**duration:**
+* duration - function: The **RHCSA** exams duration is **2.5 hours.**
+* duration - description: N/A
+* duration - examples: N/A
+* duration - options-flags: N/A
+
+**Relevant duration links:**
+* https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
+
+**Relevant duration notes:**
+* N/A
+
+**Associated duration binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated duration man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant duration Screenshots:**
+N/A

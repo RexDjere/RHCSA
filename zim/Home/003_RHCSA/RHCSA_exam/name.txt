@@ -5,6 +5,38 @@ Creation-Date: 2018-07-11T10:35:36-04:00
 ====== name ======
 Created Wednesday 11 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[RHCSA exam]]
 
-Red Hat Certified System Administrator (RHCSA) Exam - EX200
+**KYWRD:** name
+**RHCSA Objective: **N/A
+
+**Summary:**
+**Red Hat Certified System Administrator exam** is the full name of the.
+
+**name:**
+* name - function: **Red Hat Certified System Administrator exam **is the full name of the **RHCSA exam.**
+* name - description: N/A
+* name - examples: N/A
+* name - options-flags: N/A
+
+**Relevant name links:**
+* https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
+
+**Relevant name notes:**
+* N/A
+
+**Associated name binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated name man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant name Screenshots:**
+N/A
