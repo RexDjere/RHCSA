@@ -11,7 +11,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[002 all templates]]
 [[00 TODO LIST]]
-RHCSA Objectives
+[[objectives]]
 [[001d Access remote systems using SSH]]
 
 **KYWRD:** 001d - example 1
