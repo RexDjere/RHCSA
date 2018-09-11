@@ -22,8 +22,8 @@ This article contains examples that illustrate the correct use of the [[grep]] c
 
 **grep - examples:**
 * [[+grep - example 1]] : Search an unsorted list to find all of the CEO's who assumed their positions in 2014.
-* [[+grep - example 2]] : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* [[+grep - example 3]] : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* [[+grep - example 2]] : Search for all lines that contains a capital G in a list of names/phone numbers.
+* [[+grep - example 3]] : Search a text file for lines that don't match a given pattern. Get some additional experience with vi, sort, pipes and output redirects.
 
 **Relevant grep links:**
 * N/A

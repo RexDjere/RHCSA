@@ -1,0 +1,66 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-11T09:00:20-04:00
+
+====== metacharacter ======
+Created Tuesday 11 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[001b Use input-output redirection]]
+
+**KYWRD:** metacharacter
+**RHCSA Objective: **001b Use input-output redirection
+
+**Summary:**
+**Redirection** is used to redirect the **input (stdin)**, **output (stdout)**, or **error (stderr)** data of a process within a Linux/Unix shell.  **metacharacters** are interpreted by the shell instead of being passed on to the comand issued by the shell's user. There are several metacharacters used for redirection:
+* **Metacharacter; Function; Notes:**
+	* > ; output redirection; overwrites any existing data in the output file
+	* >> ; output redirection; appends new data to the end of existing file, if it exists
+	* < ; input redirection; usually involves a file being redirected to the standard input of a process
+	* << //stream_marker// ; in-line input redirection; input character stream is listed as part of the command line
+	* 2> ; error redirection; overwrites any existing data in the output file
+	* 2>> ; error redirection; appends new data to the end of existing file, if it exists
+
+There are also other metacharacters:
+* **Metacharacter; Function:**
+	* *; wildcard for file substitution of zero or more characters
+	* ?; wildcard for file substitution of one character
+	* [ ]; any character between the brackets is a file substitution wildcard
+	* `cmd` ; command substitution
+	* $(cmd) ; command substitution
+	* | ; pipe, redirects the data from the output of one process to the input of another process
+	* ;  - semi-colon separates a sequence of commands
+	* || ; logical OR for conditional process execution
+	* && ; logical	AND for conditional process execution
+	* ( ) ; used to group commands to form a sequence of commands
+	* & ; tells shell to run command within a background process
+	* # 	; tells shell to ignore a string of text. This string forms a comment: text that provides information to code viewer, but is not processed by the shell
+	* $ ; tells shell to expand the value of a variable
+	* \  ;  tells shell to prevent or escape interpretation of the next character
+
+**metacharacter:**
+* metacharacter - function: redirects process data in Linux/Unix shells
+* metacharacter - description: N/A
+* [[+metacharacter - examples]] 
+* metacharacter - options-flags: N/A
+
+**Relevant metacharacter links:**
+* http://faculty.salina.k-state.edu/tim/unix_sg/shell/metachar.html
+
+**Relevant metacharacter notes:**
+* N/A
+
+**Associated metacharacter binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated metacharacter man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant metacharacter Screenshots:**
+N/A
