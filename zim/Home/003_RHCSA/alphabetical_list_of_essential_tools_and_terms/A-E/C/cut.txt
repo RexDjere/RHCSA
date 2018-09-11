@@ -5,4 +5,42 @@ Creation-Date: 2018-07-31T05:41:34-04:00
 ====== cut ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[C]]
+
+**KYWRD:** cut
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **cut** utility is used to remove sections from each line of a line. **cut** is also a Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:filters|filter]].
+
+**cut:**
+* cut - function: remove sections from each line of a file.
+* cut - description: N/A
+* [[+cut - examples]] 
+* [[+cut - options-flags]] 
+
+**Relevant cut links:**
+* http://pubs.opengroup.org/onlinepubs/009696699/utilities/cut.html
+* https://en.wikipedia.org/wiki/Cut_(Unix)
+
+**Relevant cut notes:**
+* N/A
+
+**Associated cut binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cut: /usr/bin/cut
+
+**Associated cut man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* cut: 
+		* /usr/share/man/man1p/cut.1p.gz 
+		* /usr/share/man/man1/cut.1.gz
+
+**Relevant cut Screenshots:**
+N/A
