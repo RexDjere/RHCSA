@@ -5,4 +5,43 @@ Creation-Date: 2018-07-31T02:48:36-04:00
 ====== comm ======
 Created Tuesday 31 July 2018
 
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[C]]
+
+**KYWRD:** comm
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The Linux/Unix **comm** utility is used to compare two sorted files line by line. **comm** is also a Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:filters|filter]].
+
+**comm:**
+* comm - function: compare 2 sorted files line by line.
+* comm - description: N/A
+* [[+comm - examples]] 
+* [[+comm - options-flags]] 
+
+**Relevant comm links:**
+* http://pubs.opengroup.org/onlinepubs/009696699/utilities/comm.html
+* https://en.wikipedia.org/wiki/Comm
+
+**Relevant comm notes:**
+* N/A
+
+**Associated comm binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: comm: /usr/bin/comm
+
+**Associated comm man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* comm: 
+		* /usr/share/man/man1p/comm.1p.gz 
+		* /usr/share/man/man1/comm.1.gz
+
+**Relevant comm Screenshots:**
+N/A

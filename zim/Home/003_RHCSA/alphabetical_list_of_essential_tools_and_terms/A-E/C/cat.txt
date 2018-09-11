@@ -18,7 +18,7 @@ RHCSA Objectives
 **RHCSA Objective: **001g Create and edit text files
 
 **Summary:**
-The Linux/Unix **cat **utility is used to concatenate files, and to print out the contents of a file.
+The Linux/Unix **cat **utility is used to concatenate files, and to print out the contents of a file. **cat** is also a Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:filters|filter]].
 
 **cat:**
 * cat - function: concatenate and print files.
