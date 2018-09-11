@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-10T22:41:06-04:00
+
+====== 00037 Time Protocol TCP+UDP ======
+Created Monday 10 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[ports]]
+
+**KYWRD:** Time Protocol
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary:**
+The **Time Protocol** is a network protocol that provides site-independent machine-readable date and time.
+
+**Time Protocol:**
+* Time Protocol - function: network protocol provides site-independent machine-readable date and time.
+* Time Protocol - description: N/A
+* Time Protocol - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Time Protocol examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* Time Protocol - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Time Protocol options page using this template: [[Home:002 all templates:options template|options template]]]
+
+**Relevant Time Protocol links:**
+* https://tools.ietf.org/html/rfc868
+* https://en.wikipedia.org/wiki/Time_Protocol
+
+**Relevant Time Protocol notes:**
+* N/A
+
+**Associated Time Protocol binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated Time Protocol man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Time Protocol Screenshots:**
+N/A
