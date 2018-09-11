@@ -26,5 +26,7 @@ All commands, utilities and terms starting with the letter N are sub-pages to th
 * [[+netconfig]] , [[+netcfg]]
 * [[+netstat]]
 * [[+NIST]]
+* [[+nl]]
 * [[+nm]]
+* [[+nroff]]
 * [[+nslookup]]

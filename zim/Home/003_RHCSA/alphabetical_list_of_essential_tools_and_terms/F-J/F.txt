@@ -23,6 +23,7 @@ All commands, utilities and terms starting with the letter F are sub-pages to th
 * [[+fg]] , [[A-E:B:bg]]
 * [[+fifo]]
 * [[+file]]
+* [[+filters]]
 * [[+find]]
 * [[+findmnt]]
 * [[+finger]]
