@@ -12,7 +12,7 @@ alphabetical list of essential tools
 
 **vi Modes:**
 vi has 3 possible modes of operation.  The vi user has the capability to switch to any of the 3 modes:
-1. **vi Mode** : this is the mode that vi starts in.
-2. **Input Mode** :  This mode allows the user to add or remove text data from the file, or to edit existing text data in the file.
-3. **Command Mode **: 
+1. **vi Mode**: this is the mode that vi starts in.
+2. **Input Mode**:  This mode allows the user to add or remove text data from the file, or to edit existing text data in the file.
+3. **Command Mode**: vi commands can be issued.
 **TO BE COMPLETED LATER.**
