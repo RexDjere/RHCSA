@@ -28,26 +28,25 @@ The Linux/Unix **date **command is used to print or set the date and time on Uni
 
 **date:**
 * date - function: print or set the date and time.
-* date - description: Provide a more detail description here.
-* date - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the date examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* date - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the date options page using this template: [[Home:002 all templates:options template|options template]]]
+* date - description: N/A
+* [[date - examples]] 
+* [[date - options-flags]] 
 
 **Relevant date links:**
-* link 1
-* link 2
-* link 3
+* http://pubs.opengroup.org/onlinepubs/009604599/utilities/date.html
 
 **Relevant date notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated date binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: date: /usr/bin/date
 
 **Associated date man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* date: 
+		* /usr/bin/date /usr/share/man/man1p/date.1p.gz 
+		* /usr/share/man/man1/date.1.gz
 
 **Relevant date Screenshots:**
-Paste any relevant screenshots here.
+N/A
 
