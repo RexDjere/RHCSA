@@ -23,7 +23,7 @@ command to get timestamp: __date '+%A %D %X'__
 **g++:**
 * g++ - function: compile C++ code.
 * g++ - description: N/A
-* [[g++ - examples]]
+* [[+g++ - examples]]
 * [[g++ - options-flags]] 
 
 **Relevant g++ links:**
