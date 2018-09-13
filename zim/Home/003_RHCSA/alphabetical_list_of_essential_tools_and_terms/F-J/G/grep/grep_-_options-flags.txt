@@ -21,9 +21,8 @@ RHCSA Objectives
 This article describes the options available with the [[grep]] command.
 
 **KEYWORD - options:**
-* -a: describe option a.
-* -b: describe option b.
-* -c: decsribe option c.
+* -c: tells grep to print the number of matched lines.
+* -v: tells grep to print the lines that don't match the given pattern.
 
 **Relevant KEYWORD Screenshots:**
 N/A

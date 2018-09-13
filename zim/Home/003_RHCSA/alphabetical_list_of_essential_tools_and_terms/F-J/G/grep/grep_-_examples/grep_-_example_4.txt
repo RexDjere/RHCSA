@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-12T08:50:35-04:00
+
+====== grep - example 4 ======
+Created Wednesday 12 September 2018
+__curl -L -o 00_tech_companies_unsorted.txt https://bit.ly/2P7QEAp__
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[grep - examples]]
+
+**KYWRD:** grep - example 4
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+Have grep print the number of matched lines in a given text file.
+
+**Scenario:**
+Ponce is a RHEL sysadmin-in-training at Prudential. His boss gives him a training exercise: create a short list of tech companies, and then write a Bash command line that will count how many of the companies are California-based. 
+
+**grep - example 4 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system in a hypervisor, and login as a normal user.
+2. Open **vi**.  Create a new text file:  __vi tech_companies_US.info__
+3. Populate the text file with the info below, and save it in your home directory: 
+	a. Amazon WA
+	b. LinkedIn CA
+	c. Red Hat NC
+	d. Cisco CA
+	e. Dell TX
+	f. Tesla CA
+	g. Comcast PA
+	h. Verizon NY
+	i. Motorola IL
+	j. Linux Academy TX
+4. View the new file: __cat tech_companies_US.info__
+5. Count how many of the companies are California-based using grep:
+	a. **grep** with the -c option prints out how many lines matched the given pattern.
+	b. __grep -c CA tech_companies_US.info__
+6. Verify that the number that grep returns matches what you expected.
+7. Cleanup: __rm tech*__
+8. Verify cleanup: __ls__
+
+**Relevant grep - example 4 links:**
+* N/A
+
+**Relevant grep - example 4 Screenshots:**
+{{./pasted_image.png}}

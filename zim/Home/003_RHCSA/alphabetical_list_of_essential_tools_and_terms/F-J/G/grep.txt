@@ -18,7 +18,7 @@ RHCSA Objectives
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
-The **grep** utility is used to print the lines of a text file that match a given pattern. **grep** is a Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:filters|filter]]. grep stands for **Global Regular Expression Print**.
+The **grep** utility (**Global Regular Expression Print)** is used to print the lines of a text file that match a given pattern. 
 
 **grep:**
 * grep - function: match a given pattern to lines in a text file.
