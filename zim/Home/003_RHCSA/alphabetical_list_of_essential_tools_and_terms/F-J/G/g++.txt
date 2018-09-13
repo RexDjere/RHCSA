@@ -5,6 +5,39 @@ Creation-Date: 2018-07-31T04:39:59-04:00
 ====== g++ ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
+
+**KYWRD:** g++
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**g++** is the C++ compiler in the GNU Compiler Collection (GCC).  
+
+**g++:**
+* g++ - function: compile C++ code.
+* g++ - description: N/A
+* [[g++ - examples]]
+* [[g++ - options-flags]] 
+
+**Relevant g++ links:**
+* https://gcc.gnu.org/
+* https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+
+**Relevant g++ notes:**
+* N/A
+
+**Associated g++ binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: g++: /usr/bin/g++
+
+**Associated g++ man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: g++: /usr/share/man/man1/g++.1.gz
+
+**Relevant g++ Screenshots:**
+N/A
