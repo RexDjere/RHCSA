@@ -12,7 +12,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[T]]
 
 **KYWRD:** trapdoor function
 **RHCSA Objective: **007b Configure key-based authentication for SSH

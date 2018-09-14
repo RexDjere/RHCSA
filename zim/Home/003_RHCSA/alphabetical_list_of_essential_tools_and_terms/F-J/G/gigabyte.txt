@@ -5,12 +5,45 @@ Creation-Date: 2018-07-30T21:25:42-04:00
 ====== gigabyte ======
 Created Monday 30 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples:df - example 1
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
+**KYWRD:** gigabyte
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
 **Summary**
-1 gigabyte (GB) of space listed in the Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:du and Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df utlilities equals all of the following:
+1 gigabyte (GB) of space listed in the du and df utlilities equals all of the following:
 * 1 [[gigibyte]] 
 * 2^30 bytes
 * 1024^3 bytes
 * 1,073,741,824 bytes
+
+The textbook definition of a gigabyte is **10^9 bytes**.
+The textbook definition of a [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:gigibyte|gigibyte]] is **2^30 bytes**.
+
+**gigabyte:**
+* gigabyte - function: represents a value of storage in a digital storage system, such as a hard drive.
+* gigabyte - description: N/A
+* [[+gigabyte - examples]]
+* gigabyte - options-flags: N/A
+
+**Relevant gigabyte links:**
+* https://en.wikipedia.org/wiki/Gigabyte
+
+**Relevant gigabyte notes:**
+* N/A
+
+**Associated gigabyte binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated gigabyte man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant gigabyte Screenshots:**
+N/A
