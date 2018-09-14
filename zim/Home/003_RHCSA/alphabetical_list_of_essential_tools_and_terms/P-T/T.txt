@@ -33,6 +33,7 @@ All commands, utilities and terms starting with the letter T are sub-pages to th
 * [[+touch]]
 * [[+tr]]
 * [[+traceroute]]
+* [[+trapdoor function]]
 * [[+true]] , [[F-J:F:false]]
 * [[+tty]]
 * [[+type]]
