@@ -5,5 +5,38 @@ Creation-Date: 2018-07-31T06:32:34-04:00
 ====== git ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[G]]
+
+**KYWRD:** git
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**Git** is a popular version control system for computer cource code.
+
+**git:**
+* git - function: a popular version control system.
+* git - description: N/A
+* [[git - examples]] 
+* [[git - options-flags]]
+
+**Relevant git links:**
+* https://en.wikipedia.org/wiki/Git
+
+**Relevant git notes:**
+* N/A
+
+**Associated git binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: git: /usr/bin/git
+
+**Associated git man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: git: /usr/share/man/man1/git.1.gz
+
+**Relevant git Screenshots:**
+Paste any relevant screenshots here.
