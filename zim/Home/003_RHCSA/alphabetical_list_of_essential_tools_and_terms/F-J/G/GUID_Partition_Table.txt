@@ -5,8 +5,38 @@ Creation-Date: 2018-07-18T16:41:00-04:00
 ====== GUID Partition Table ======
 Created Wednesday 18 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Boot Loader
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-**Summary**
-The GUID Partition Table is a newer disk architecture that introduces better functionality when compared to the older [[K-O:M:MBR]] (Master Boot Record) partitioning method. For more information on the GUID Partition Table, see here: https://support.microsoft.com/en-us/help/302873/frequently-asked-questions-about-the-guid-partitioning-table-disk-arch
+**KYWRD:** GUID Partition Table
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+The **GUID Partition Table **provides a standard layout for the partition table in digital storage devices, suich as hard drives and solid state drives.
+
+**GUID Partition Table:**
+* GUID Partition Table - function: provides standard layout for the partition table on digital storage devices.
+* GUID Partition Table - description: N/A
+* [[+GUID Partition Table - examples]]
+* GUID Partition Table - options-flags: N/A
+
+**Relevant GUID Partition Table links:**
+* https://en.wikipedia.org/wiki/GUID_Partition_Table
+
+**Relevant GUID Partition Table notes:**
+* N/A
+
+**Associated GUID Partition Table binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated GUID Partition Table man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant GUID Partition Table Screenshots:**
+N/A
