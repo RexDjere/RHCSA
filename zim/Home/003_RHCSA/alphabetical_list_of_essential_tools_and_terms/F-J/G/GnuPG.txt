@@ -5,7 +5,39 @@ Creation-Date: 2018-07-11T19:25:45-04:00
 ====== GnuPG ======
 Created Wednesday 11 July 2018
 
-Home:RHCSA:exam:objectives:tasks:004 - create and configure file systems:encryption
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-[[GnuPG]] stands for GNU Privacy Guard.  It is a free software implementation of the [[gpg:OpenPGP]] standard defined in [[https://www.ietf.org/rfc/rfc4880.txt|RFC4880.]] [[GnuPG]] is one utility that can be used to encrypt files, folders, and messages in Unix-like computer operating systems, such as Linux.
+**KYWRD:** GnuPG
+**RHCSA Objective: **007b Configure key-based authentication for SSH
+
+**Summary:**
+**GnuPG** is a free software/open source crytographic suite.
+
+**GnuPG:**
+* GnuPG - function: encrypt files and folders.
+* GnuPG - description: N/A
+* [[+GnuPG - examples]]
+* [[+GnuPG - options-flags]]
+
+**Relevant GnuPG links:**
+* https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+* https://gnupg.org/
+
+**Relevant GnuPG notes:**
+* N/A
+
+**Associated GnuPG binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: gpg: /usr/bin/gpg
+
+**Associated GnuPG man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: gpg: /usr/share/man/man1/gpg.1.gz
+
+**Relevant GnuPG Screenshots:**
+N/A
