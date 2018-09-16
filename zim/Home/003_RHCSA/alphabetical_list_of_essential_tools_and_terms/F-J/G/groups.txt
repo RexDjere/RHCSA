@@ -11,7 +11,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-RHCSA Objectives
+[[RHCSA exam:objectives]]
 [[G]]
 
 **See also:**
@@ -23,32 +23,21 @@ RHCSA Objectives
 **RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
 
 **Summary**
-This page is a template used to create wiki generic pages in this study guide. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of groups in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+A **group** is a collections of users on a Linux/Unix computer system.
 
 **groups:**
-* groups - function: State the main function of the topic here.
-* groups - description: Provide a more detail description here.
-* groups - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groups options page using this template: [[Home:002 all templates:options template|options template]]]
-* groups - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the groups examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* groups - function: a convenient collection of users on a Linux/Unix computer system.
+* groups - description: N/A
+* [[groups - examples]] 
 
 **Relevant groups links:**
-* link 1
-* link 2
-* link 3
+* https://wiki.archlinux.org/index.php/users_and_groups
 
 **Relevant groups notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
