@@ -24,7 +24,7 @@ command to get timestamp: __date '+%A %D %X'__
 * g++ - function: compile C++ code.
 * g++ - description: N/A
 * [[+g++ - examples]]
-* [[g++ - options-flags]] 
+* [[+g++ - options-flags]] 
 
 **Relevant g++ links:**
 * https://gcc.gnu.org/

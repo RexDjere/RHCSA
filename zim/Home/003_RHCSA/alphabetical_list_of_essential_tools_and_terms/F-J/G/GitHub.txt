@@ -5,12 +5,40 @@ Creation-Date: 2018-07-31T16:51:13-04:00
 ====== GitHub ======
 Created Tuesday 31 July 2018
 
-[[K-O:O:open source]]
-article template
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-**Summary**
-:Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub (https://github.com/) is operated by :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub Inc., a subsidiary of [[K-O:M:Microsoft]]. :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub is a web-based source code hosting service that is tightly integregated with the Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:free software / [[K-O:O:open source]] [[U-Z:V:version control system]] known as Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:git.
+**KYWRD:** GitHub
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
-More information about :Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub can be found here:
-https://en.wikipedia.org/wiki/GitHub 
+**Summary:**
+**GitHub** provides web-based hosting for projects that manage their source code using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:git|git]] version control system.
+
+**GitHub:**
+* GitHub - function: provide web-hosting for git-powered open source projects.
+* GitHub - description: N/A
+* GitHub - examples: N/A
+* GitHub - options-flags: N/A
+
+**Relevant GitHub links:**
+* https://en.wikipedia.org/wiki/GitHub
+* https://github.com/
+
+**Relevant GitHub notes:**
+* N/A
+
+**Associated GitHub binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated GitHub man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant GitHub Screenshots:**
+N/A
+

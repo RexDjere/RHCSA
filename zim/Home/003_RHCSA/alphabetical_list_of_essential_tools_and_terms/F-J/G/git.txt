@@ -23,8 +23,8 @@ command to get timestamp: __date '+%A %D %X'__
 **git:**
 * git - function: a popular version control system.
 * git - description: N/A
-* [[git - examples]] 
-* [[git - options-flags]]
+* [[+git - examples]] 
+* [[+git - options-flags]]
 
 **Relevant git links:**
 * https://en.wikipedia.org/wiki/Git
@@ -39,4 +39,4 @@ command to get timestamp: __date '+%A %D %X'__
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: git: /usr/share/man/man1/git.1.gz
 
 **Relevant git Screenshots:**
-Paste any relevant screenshots here.
+N/A
