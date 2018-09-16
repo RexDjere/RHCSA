@@ -5,7 +5,44 @@ Creation-Date: 2018-07-18T16:55:36-04:00
 ====== GRand Unified Bootloader ======
 Created Wednesday 18 July 2018
 
+[[Home]]
 [[GRUB]]
 [[G]]
 
+
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[G]]
+
+**KYWRD:** GRand Unified Bootloader
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+See [[GRUB]].
+
+**GRand Unified Bootloader:**
+* GRand Unified Bootloader - function: See [[GRUB]].
+* GRand Unified Bootloader - description: See [[GRUB]].
+* GRand Unified Bootloader - examples: See [[GRUB]].
+* GRand Unified Bootloader - options-flags: See [[GRUB]].
+
+**Relevant GRand Unified Bootloader links:**
+* See [[GRUB]].
+
+**Relevant GRand Unified Bootloader notes:**
+* See [[GRUB]].
+
+**Associated GRand Unified Bootloader binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[GRUB]].
+
+**Associated GRand Unified Bootloader man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[GRUB]].
+
+**Relevant GRand Unified Bootloader Screenshots:**
 See [[GRUB]].
