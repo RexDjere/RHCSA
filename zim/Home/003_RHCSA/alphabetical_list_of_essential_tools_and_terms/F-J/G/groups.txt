@@ -28,7 +28,7 @@ A **group** is a collections of users on a Linux/Unix computer system.
 **groups:**
 * groups - function: a convenient collection of users on a Linux/Unix computer system.
 * groups - description: N/A
-* [[groups - examples]] 
+* [[+groups - examples]] 
 
 **Relevant groups links:**
 * https://wiki.archlinux.org/index.php/users_and_groups

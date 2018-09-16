@@ -5,7 +5,36 @@ Creation-Date: 2018-07-19T22:45:56-04:00
 ====== GUI ======
 Created Thursday 19 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:graphical user interface
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-See Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:graphical user interface.
+**KYWRD:** GUI
+**RHCSA Objective: **002b Boot systems into different targets manually
+
+**Summary:**
+**GUI** stands for **Graphical User Interface**.  The GUI allows the Linux/Unix computer user to interact with the computer using graphical windows and icons. 
+
+**GUI:**
+* GUI - function: provides a graphical interface for users of computer systems.
+* GUI - description: N/A
+* GUI - examples: N/A
+* GUI - options-flags: N/A
+
+**Relevant GUI links:**
+* https://en.wikipedia.org/wiki/Graphical_user_interface
+* https://archive.org/details/AlanKeyD1987
+
+**Relevant GUI notes:**
+* N/A
+
+**Associated GUI binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated GUI man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant GUI Screenshots:**
+N/A
