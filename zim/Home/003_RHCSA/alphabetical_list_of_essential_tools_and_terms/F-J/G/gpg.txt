@@ -5,13 +5,38 @@ Creation-Date: 2018-07-11T19:47:05-04:00
 ====== gpg ======
 Created Wednesday 11 July 2018
 
-[[+gpg-encrypt example 1]]
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-The gpg command allows to encrypt, decypt, and digitally sign files, folders, and messages. The gpg command runs GNU Privacy Guard (GnuPG), a free software implementation of the [[+OpenPGP]] standard.
+**KYWRD:** gpg
+**RHCSA Objective: **007b Configure key-based authentication for SSH
 
-One of the most commonly used gpg flags is -c.  This option encrypts with a symmetric cipher using a passphrase.  For example, the command below would encrypt the file name myfile
+**Summary:**
+**gpg **is a free sofware/open source tool used for encryption and signing.
 
-gpg -c myfile
+**gpg:**
+* gpg - function: encrypt and sign.
+* gpg - description: N/A
+* [[+gpg - examples]]
+* [[+gpg - options-flags]]
+
+**Relevant gpg links:**
+* https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+* https://gnupg.org/
+
+**Relevant gpg notes:**
+* N/a
+
+**Associated gpg binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: gpg: /usr/bin/gpg
+
+**Associated gpg man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: gpg: /usr/share/man/man1/gpg.1.gz
+
+**Relevant gpg Screenshots:**N/A
