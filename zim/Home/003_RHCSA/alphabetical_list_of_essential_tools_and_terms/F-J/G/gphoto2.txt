@@ -5,6 +5,39 @@ Creation-Date: 2018-07-31T05:24:25-04:00
 ====== gphoto2 ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
+
+**KYWRD:** gphoto2
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**gphoto2** is a free software/open source suite used for digital photography.
+
+**gphoto2:**
+* gphoto2 - function: digital photography.
+* gphoto2 - description: N/A
+* gphoto2 - examples: N/A
+* gphoto2 - options-flags: N/A
+
+**Relevant gphoto2 links:**
+* https://en.wikipedia.org/wiki/GPhoto
+* http://gphoto.org/
+
+**Relevant gphoto2 notes:**
+* N/A
+
+**Associated gphoto2 binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: not installed on my Linux system (9/15/18).
+
+**Associated gphoto2 man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: not installed on my Linux system (9/15/18).
+
+**Relevant gphoto2 Screenshots:**
+N/A

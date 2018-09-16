@@ -31,7 +31,7 @@ command to get timestamp: __date '+%A %D %X'__
 * https://gnupg.org/
 
 **Relevant gpg notes:**
-* N/a
+* N/A
 
 **Associated gpg binary files: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: gpg: /usr/bin/gpg
