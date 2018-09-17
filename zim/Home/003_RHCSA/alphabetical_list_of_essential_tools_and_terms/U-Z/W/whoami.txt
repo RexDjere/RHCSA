@@ -24,7 +24,7 @@ The **whoami** command is used to print the userid of the active user logged in 
 * whoami - function: print the active userid.
 * whoami - description: N/A
 * [[+whoami - examples]]
-* [[whoami - options-flags]] 
+* [[+whoami - options-flags]] 
 
 **Relevant whoami links:**
 * https://en.wikipedia.org/wiki/Whoami

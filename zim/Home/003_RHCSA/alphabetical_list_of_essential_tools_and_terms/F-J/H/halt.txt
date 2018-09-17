@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-07-10T23:04:27-04:00
+Creation-Date: 2018-09-16T20:46:43-04:00
 
-====== top ======
-Created Tuesday 10 July 2018
+====== halt ======
+Created Sunday 16 September 2018
 
 [[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
@@ -12,39 +12,39 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives]]
-[[T]]
+[[H]]
 
-**KYWRD:** top
+**KYWRD:** halt
 **RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary:**
 Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
-1. Find and Replace any occurence of top in this page with the actual word.
+1. Find and Replace any occurence of halt in this page with the actual word.
 2. Edit this paragraph to provide a summary of this page.
 3. N/A anything that is not applicable.
 4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
 
-**top:**
-* top - function: State the main function of the topic here.
-* top - description: Provide a more detail description here.
-* top - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the top examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* top - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the top options page using this template: [[Home:002 all templates:options template|options template]]]
+**halt:**
+* halt - function: State the main function of the topic here.
+* halt - description: Provide a more detail description here.
+* halt - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the halt examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* halt - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the halt options page using this template: [[Home:002 all templates:options template|options template]]]
 
-**Relevant top links:**
+**Relevant halt links:**
 * link 1
 * link 2
 * link 3
 
-**Relevant top notes:**
+**Relevant halt notes:**
 * note 1
 * note 2
 * note 3
 
-**Associated top binary files: **
+**Associated halt binary files: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
 
-**Associated top man pages: **
+**Associated halt man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
 
-**Relevant top Screenshots:**
+**Relevant halt Screenshots:**
 Paste any relevant screenshots here.

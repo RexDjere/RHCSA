@@ -17,6 +17,7 @@ command to get timestamp: __date '+%A %D %X'__
 All commands, utilities and terms starting with the letter A are sub-pages to this page.
 
 **H:**
+* [[+halt]]
 * [[+hardware]]
 * [[+hdparm]]
 * [[+head]] , [[P-T:T:tail]]

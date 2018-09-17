@@ -27,6 +27,7 @@ All commands, utilities and terms starting with the letter P are sub-pages to th
 * [[+pkill]]
 * [[+pmap]]
 * [[+ports]]
+* [[+poweroff]]
 * [[+pr]]
 * [[+printenv]]
 * [[+ps]]
