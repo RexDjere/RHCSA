@@ -24,7 +24,7 @@ command to get timestamp: __date '+%A %D %X'__
 * tcpdump - function: perform packet analysis on Linux/Unix systems.
 * tcpdump - description: N/A
 * [[+tcpdump - examples]] 
-* [[tcpdump - options-flags]] 
+* [[+tcpdump - options-flags]] 
 
 **Relevant tcpdump links:**
 * https://en.wikipedia.org/wiki/Tcpdump

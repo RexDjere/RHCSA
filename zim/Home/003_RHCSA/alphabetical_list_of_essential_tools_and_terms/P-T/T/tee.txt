@@ -5,6 +5,42 @@ Creation-Date: 2018-07-31T05:34:56-04:00
 ====== tee ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[T]]
+
+**KYWRD:** tee
+**RHCSA Objective: **001b Use input-output redirection
+
+**Summary:**
+The **tee** command is used to read a standard input (**stdin**), and to then produce an output that goes both to the standard output (**stdout**) AND one or more files.
+
+**tee:**
+* tee - function: receive input on stdin; produce output to stdout and 1 or more files.
+* tee - description: N/A
+* [[tee - examples]] 
+* [[tee - options-flags]] 
+
+**Relevant tee links:**
+* https://en.wikipedia.org/wiki/Tee_(command)
+
+**Relevant tee notes:**
+* N/A
+
+**Associated tee binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: tee: /usr/bin/tee
+
+**Associated tee man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* tee: 
+		* /usr/share/man/man2/tee.2.gz 
+		* /usr/share/man/man1/tee.1.gz 
+		* /usr/share/man/man1p/tee.1p.gz
+
+**Relevant tee Screenshots:**
+N/A
