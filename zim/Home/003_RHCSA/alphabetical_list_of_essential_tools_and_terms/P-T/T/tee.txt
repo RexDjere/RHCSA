@@ -23,8 +23,8 @@ The **tee** command is used to read a standard input (**stdin**), and to then pr
 **tee:**
 * tee - function: receive input on stdin; produce output to stdout and 1 or more files.
 * tee - description: N/A
-* [[tee - examples]] 
-* [[tee - options-flags]] 
+* [[+tee - examples]] 
+* [[+tee - options-flags]] 
 
 **Relevant tee links:**
 * https://en.wikipedia.org/wiki/Tee_(command)
