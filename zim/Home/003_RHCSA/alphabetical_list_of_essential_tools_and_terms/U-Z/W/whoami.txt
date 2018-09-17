@@ -5,7 +5,38 @@ Creation-Date: 2018-07-10T23:07:52-04:00
 ====== whoami ======
 Created Tuesday 10 July 2018
 
-[[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:users]]
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U-Z:W]]
+
+**KYWRD:** whoami
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **whoami** command is used to print the userid of the active user logged in to a Linux/Unix system.
+
+**whoami:**
+* whoami - function: print the active userid.
+* whoami - description: N/A
+* [[+whoami - examples]]
+* [[whoami - options-flags]] 
+
+**Relevant whoami links:**
+* https://en.wikipedia.org/wiki/Whoami
+
+**Relevant whoami notes:**
+* N/A
+
+**Associated whoami binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: whoami: /usr/bin/whoami
+
+**Associated whoami man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: whoami: /usr/share/man/man1/whoami.1.gz
+
+**Relevant whoami Screenshots:**
+N/A
