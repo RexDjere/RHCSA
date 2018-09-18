@@ -18,16 +18,16 @@ RHCSA Objectives
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-The uname utility is used to print system information.
+The **uname** utility is used to print system information.  Uname is short for **Unix Name**.
 
 **uname:**
 * uname - function: Print system information.
 * uname - description: Print system information using the provided options.
-* [[+uname - options-flags]]
 * [[+uname - examples]] 
+* [[+uname - options-flags]]
 
 **Relevant uname links:**
-* https://www.computerhope.com/unix/uuname.htm
+* https://en.wikipedia.org/wiki/Uname
 
 **Relevant uname notes**
 * N/A
