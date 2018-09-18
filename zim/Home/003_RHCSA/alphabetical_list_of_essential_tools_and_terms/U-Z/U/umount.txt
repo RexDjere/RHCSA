@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[U]]
 
 **KYWRD:** umount
-**RHCSA Objective: **003c Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label
+**RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
 **Summary:**
 The **umount** utility is used to unmount file systems on Linux/Unix computer systems.
