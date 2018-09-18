@@ -5,6 +5,46 @@ Creation-Date: 2018-07-31T03:39:25-04:00
 ====== umount ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** umount
+**RHCSA Objective: **003c Configure systems to mount file systems at boot by Universally Unique ID (UUID) or label
+
+**Summary:**
+The **umount** utility is used to unmount file systems on Linux/Unix computer systems.
+
+**umount:**
+* umount - function: unmount file systems.
+* umount - description: N/A
+* [[+umount - examples]] 
+* [[+umount - options-flags]]
+
+**Relevant umount links:**
+* https://en.wikipedia.org/wiki/Mount_(Unix)
+
+**Relevant umount notes:**
+* N/A
+
+**Associated umount binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* umount: 
+		* /usr/bin/umount 
+		* /usr/sbin/umount.nfs 
+		* /usr/sbin/umount.nfs4 
+		* /usr/sbin/umount.udisks2
+
+**Associated umount man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* umount: 
+		* /usr/share/man/man8/umount.8.gz 
+		* /usr/share/man/man2/umount.2.gz
+
+**Relevant umount Screenshots:**
+N/A
