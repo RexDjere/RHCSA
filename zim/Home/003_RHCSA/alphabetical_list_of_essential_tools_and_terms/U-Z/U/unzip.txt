@@ -5,6 +5,38 @@ Creation-Date: 2018-07-31T05:40:26-04:00
 ====== unzip ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** unzip
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+
+**Summary:**
+The unzip utility is used to decompress ZIP archives on Linux/Unix systems.
+
+**unzip:**
+* unzip - function: decompress ZIP archives on Linux/Unix systems.
+* unzip - description: N/A
+* [[unzip - examples]] 
+* [[unzip - options-flags]] 
+
+**Relevant unzip links:**
+* https://en.wikipedia.org/wiki/Zip_(file_format)
+
+**Relevant unzip notes:**
+* N/A
+
+**Associated unzip binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: unzip: /usr/bin/unzip
+
+**Associated unzip man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: unzip: /usr/share/man/man1/unzip.1.gz
+
+**Relevant unzip Screenshots:**
+N/A

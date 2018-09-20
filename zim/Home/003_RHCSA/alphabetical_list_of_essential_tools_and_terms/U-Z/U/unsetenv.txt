@@ -23,8 +23,8 @@ The **setenv** command in Linux/Unix is used to add or change environment variab
 **unsetenv:**
 * unsetenv - function: used to delete variable names from the environment.
 * unsetenv - description: N/A
-* [[unsetenv - examples]] 
-* [[unsetenv - options-flags]] 
+* [[+unsetenv - examples]] 
+* [[+unsetenv - options-flags]] 
 
 **Relevant unsetenv links:**
 * http://pubs.opengroup.org/onlinepubs/009696899/functions/unsetenv.html
