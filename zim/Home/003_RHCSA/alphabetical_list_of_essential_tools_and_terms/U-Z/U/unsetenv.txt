@@ -5,6 +5,42 @@ Creation-Date: 2018-07-31T05:14:53-04:00
 ====== unsetenv ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** unsetenv
+**RHCSA Objective:** 001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **setenv** command in Linux/Unix is used to add or change environment variables.  Its opposite command, **unsetenv**, is used to delete variable names from the environment.
+
+**unsetenv:**
+* unsetenv - function: used to delete variable names from the environment.
+* unsetenv - description: N/A
+* [[unsetenv - examples]] 
+* [[unsetenv - options-flags]] 
+
+**Relevant unsetenv links:**
+* http://pubs.opengroup.org/onlinepubs/009696899/functions/unsetenv.html
+* https://en.wikipedia.org/wiki/Environment_variable#unset_command
+
+**Relevant unsetenv notes:**
+* N/A
+
+**Associated unsetenv binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated unsetenv man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* unsetenv: 
+		* /usr/share/man/man3/unsetenv.3.gz 
+		* /usr/share/man/man3p/unsetenv.3p.gz
+
+**Relevant unsetenv Screenshots:**
+N/A
