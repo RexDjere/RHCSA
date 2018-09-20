@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** false
 
 **Summary**
-The false command does nothing, and then exits with a status code indicating failure (1).
+The **false** command does nothing, and then exits with a status code indicating failure (1).
 
 **false:**
 * false - function: does nothing, and exits with failure status code.
@@ -37,7 +37,10 @@ The false command does nothing, and then exits with a status code indicating fai
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: false: /usr/bin/false
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: false: /usr/share/man/man1/false.1.gz /usr/share/man/man1p/false.1p.gz
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* false: 
+		* /usr/share/man/man1/false.1.gz 
+		* /usr/share/man/man1p/false.1p.gz
 
 **Relevant false Screenshots**
-Paste any relevant screenshots here.
+N/A
