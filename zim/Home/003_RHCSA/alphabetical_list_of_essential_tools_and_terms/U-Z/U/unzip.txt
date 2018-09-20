@@ -23,8 +23,8 @@ The unzip utility is used to decompress ZIP archives on Linux/Unix systems.
 **unzip:**
 * unzip - function: decompress ZIP archives on Linux/Unix systems.
 * unzip - description: N/A
-* [[unzip - examples]] 
-* [[unzip - options-flags]] 
+* [[+unzip - examples]] 
+* [[+unzip - options-flags]] 
 
 **Relevant unzip links:**
 * https://en.wikipedia.org/wiki/Zip_(file_format)

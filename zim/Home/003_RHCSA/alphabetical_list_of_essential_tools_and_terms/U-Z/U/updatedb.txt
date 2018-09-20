@@ -5,6 +5,42 @@ Creation-Date: 2018-07-31T06:05:37-04:00
 ====== updatedb ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** updatedb
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+The **updatedb** utility updates a system database that is used by the **locate** command to find files in Linux/Unix filesystems.
+
+**updatedb:**
+* updatedb - function: updates database used to find files on Linux/Unix systems.
+* updatedb - description: N/A
+* [[+updatedb - examples]] 
+* [[+updatedb - options-flags]] 
+
+**Relevant updatedb links:**
+* http://linux-sxs.org/utilities/updatedb.html
+* https://en.wikipedia.org/wiki/Locate_(Unix)
+
+**Relevant updatedb notes:**
+* N/A
+
+**Associated updatedb binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: 
+	* updatedb: 
+		* /usr/bin/updatedb 
+		* /etc/updatedb.conf
+
+**Associated updatedb man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: updatedb: /usr/share/man/man8/updatedb.8.gz
+
+**Relevant updatedb Screenshots:**
+N/A
