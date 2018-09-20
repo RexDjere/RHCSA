@@ -5,7 +5,38 @@ Creation-Date: 2018-07-31T16:34:09-04:00
 ====== Fedora ======
 Created Tuesday 31 July 2018
 
-[[K-O:K:KVM]]
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[F]]
 
-**Summary**
+**KYWRD:** Fedora
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+**Fedora** is a community-supported Linux distribution that is the proving-ground for applications that end up making it into the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:RHEL|Red Hat Enterprise Linux]] operating system.  The Fedora project is sponsored by [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:Red Hat|Red Hat]].
+
+**Fedora:**
+* Fedora - function: community-supported Linux operating system sponsored by Red Hat,
+* Fedora - description: N/A
+* Fedora - examples: N/A
+* Fedora - options-flags: N/A
+
+**Relevant Fedora links:**
+* https://en.wikipedia.org/wiki/Fedora_(operating_system)
+
+**Relevant Fedora notes:**
+* N/A
+
+**Associated Fedora binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated Fedora man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Fedora Screenshots:**
+N/A

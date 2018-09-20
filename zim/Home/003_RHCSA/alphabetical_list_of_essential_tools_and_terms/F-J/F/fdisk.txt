@@ -22,8 +22,8 @@ The **fdisk** utility is used to manipulate the disk partition table on Linux/Un
 **fdisk:**
 * fdisk - function: manipulate the disk partition table.
 * fdisk - description: N/A
-* [[fdisk - examples]]
-* [[fdisk - options-flags]]
+* [[+fdisk - examples]]
+* [[+fdisk - options-flags]]
 
 **Relevant fdisk links:**
 * https://en.wikipedia.org/wiki/Fdisk
