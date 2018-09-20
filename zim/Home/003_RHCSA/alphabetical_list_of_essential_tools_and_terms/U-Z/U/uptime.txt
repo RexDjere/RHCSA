@@ -5,4 +5,40 @@ Creation-Date: 2018-08-07T20:59:15-04:00
 ====== uptime ======
 Created Tuesday 07 August 2018
 
+[[Home]]
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** uptime
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **uptime** utility tells the system user how long a Linux/Unix system has been running.
+
+**uptime:**
+* uptime - function: tells how long the system has been running.
+* uptime - description: N/A
+* [[+uptime - examples]] 
+* [[+uptime - options-flags]] 
+
+**Relevant uptime links:**
+* https://en.wikipedia.org/wiki/Uptime
+
+**Relevant uptime notes:**
+* N/A
+
+**Associated uptime binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: uptime: /usr/bin/uptime
+
+**Associated uptime man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: uptime: /usr/share/man/man1/uptime.1.gz
+
+**Relevant uptime Screenshots:**
+N/A
