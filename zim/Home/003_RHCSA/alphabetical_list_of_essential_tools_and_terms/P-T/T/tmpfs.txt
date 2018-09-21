@@ -5,10 +5,44 @@ Creation-Date: 2018-07-28T00:06:09-04:00
 ====== tmpfs ======
 Created Saturday 28 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:stat example 3
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[T]]
+
+**KYWRD:** tmpfs
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
 tmpfs is the temporary file system for Linux.  It is similar in construction to a Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RAM disk.
 
 More info on tmpfs can found here: https://en.wikipedia.org/wiki/Tmpfs
+
+**tmpfs:**
+* tmpfs - function: State the main function of the topic here.
+* tmpfs - description: Provide a more detail description here.
+* tmpfs - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tmpfs examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* tmpfs - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tmpfs options page using this template: [[Home:002 all templates:options template|options template]]]
+
+**Relevant tmpfs links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant tmpfs notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated tmpfs binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated tmpfs man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant tmpfs Screenshots:**
+Paste any relevant screenshots here.

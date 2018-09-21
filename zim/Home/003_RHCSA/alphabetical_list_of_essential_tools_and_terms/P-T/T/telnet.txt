@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[T]]
 
 **KYWRD:** telnet
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
 The **telnet** utility for Linux/Unix is an 8-bit bi-directional communications program and protocol for unencrypted text messages between network peers.
