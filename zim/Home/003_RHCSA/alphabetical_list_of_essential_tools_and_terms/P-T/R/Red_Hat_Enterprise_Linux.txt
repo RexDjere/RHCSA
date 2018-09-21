@@ -5,7 +5,40 @@ Creation-Date: 2018-07-16T12:26:06-04:00
 ====== Red Hat Enterprise Linux ======
 Created Monday 16 July 2018
 
-:Home:RHCSA:alphabetical list of essential tools and terms:P-T:R:RHCSA
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[R]]
 
+**KYWRD:** type the kywrd here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 See [[RHEL]].
+
+**KEYWORD:**
+* KEYWORD - function: State the main function of the topic here.
+* KEYWORD - description: Provide a more detail description here.
+* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[Home:002 all templates:options template|options template]]]
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated KEYWORD binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated KEYWORD man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant KEYWORD Screenshots:**
+Paste any relevant screenshots here.
+
