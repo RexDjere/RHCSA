@@ -5,16 +5,38 @@ Creation-Date: 2018-07-16T18:24:00-04:00
 ====== Red Hat ======
 Created Monday 16 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
 [[Home]]
-generic template
+[[000 TODO LIST]]
 [[002 all templates]]
-TODO LIST
-Home:RHCSA:exam:objectives:tasks
+[[003 RHCSA:RHCSA exam:objectives]]
 [[R]]
 
-**Summary** 
-Red Hat Corporation is an open source technology company headquartered in Raleigh, North Carolina.  Their flagship product is [[Red Hat Enterprise Linux]], a commercial Linux distribution aimed at enterprise customers. 
+**KYWRD:** Red Hat
+**RHCSA Objective: N/A**
 
-More information about Red Hat can be found at the links below:
-* https://www.redhat.com/en
+**Summary:**
+**Red Hat **is an open source software company headquartered in Raleigh, North Carolina.  Their flasgship product is [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:RHEL|Red Hat Enterprise Linux]], a commercial Linux distribution for enterprise customers.
+
+**Red Hat:**
+* Red Hat - function: an open source software company.
+* Red Hat - description: N/A
+* Red Hat - examples: N/A
+* Red Hat - options-flags: N/A
+
+**Relevant Red Hat links:**
 * https://en.wikipedia.org/wiki/Red_Hat
+
+**Relevant Red Hat notes:**
+* N/A
+
+**Associated Red Hat binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated Red Hat man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Red Hat Screenshots:**
+N/A

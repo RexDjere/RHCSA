@@ -11,36 +11,35 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-RHCSA Objectives
+[[RHCSA exam:objectives]]
 [[F]]
 
 **KYWRD:** fuser
 **RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
 **Summary**
-Fuser identifies which processes are using given files or sockets.
+**fuser** identifies which processes are using given files or sockets.
 
 **fuser:**
 * fuser - function: Identies which processes are using files or sockets.
 * fuser - description: fuser displays the PID of whichever processes are using a specified file or filesystem.
-* fuser - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the fuser options page using this template: [[Home:002 all templates:options template|options template]]]
-* [[+fuser - examples]] [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the fuser examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+fuser - examples]] 
+* [[+fuser - options-flags]] 
 
 **Relevant fuser links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Fuser_(Unix)
 
 **Relevant fuser notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: fuser: /usr/sbin/fuser
 
 **Associated man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* fuser: 
+		* /usr/share/man/man1/fuser.1.gz 
+		* /usr/share/man/man1p/fuser.1p.gz
 
 **Relevant fuser Screenshots**
-Paste any relevant screenshots here.
+N/A

@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T03:28:08-04:00
 ====== uniq ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[U]]
+
+**KYWRD:** uniq
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **uniq** utility is used to identify and/or remove duplicate lines in a text file.
+
+**uniq:**
+* uniq - function: identify/remove duplicate lines.
+* uniq - description: Provide a more detail description here.
+* [[+uniq - examples]]
+* [[+uniq - options-flags]] 
+
+**Relevant uniq links:**
+* https://en.wikipedia.org/wiki/Uniq
+
+**Relevant uniq notes:**
+* N/A
+
+**Associated uniq binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: uniq: /usr/bin/uniq
+
+**Associated uniq man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* uniq: 
+		* /usr/share/man/man1/uniq.1.gz
+		* /usr/share/man/man1p/uniq.1p.gz
+
+**Relevant uniq Screenshots:**
+N/A

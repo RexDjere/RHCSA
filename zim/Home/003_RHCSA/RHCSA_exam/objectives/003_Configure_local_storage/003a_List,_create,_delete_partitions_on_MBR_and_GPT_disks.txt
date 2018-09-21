@@ -14,15 +14,15 @@ command to get timestamp: __date '+%A %D %X'__
 [[objectives]]
 [[003 Configure local storage]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** partitions
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
 
 **Summary**
 This page is a template homepage that link to examples of how to use commands and utitlies. Please follow these steps when creating a page using this template:
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
+1. Find and Replace any occurence of partitions in this page with the actual word.
 2. Edit this paragraph to provide a summary of this page.
 3. N/A anything that is not applicable.
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : briefly describe example 1.
-* KEYWORD - example 2 : briefly describe example 2.
+**partitions - examples:**
+* partitions - example 1 : briefly describe example 1.
+* partitions - example 2 : briefly describe example 2.
