@@ -5,10 +5,19 @@ Creation-Date: 2018-07-31T03:28:29-04:00
 ====== vi ======
 Created Tuesday 31 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
 [[Home]]
-tasks template
-alphabetical list of essential tools
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[V]]
+
+**KYWRD:** vi
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 
 **vi Modes:**
 vi has 3 possible modes of operation.  The vi user has the capability to switch to any of the 3 modes:
@@ -16,3 +25,30 @@ vi has 3 possible modes of operation.  The vi user has the capability to switch 
 2. **Input Mode**:  This mode allows the user to add or remove text data from the file, or to edit existing text data in the file.
 3. **Command Mode**: vi commands can be issued.
 **TO BE COMPLETED LATER.**
+
+**vi:**
+* vi - function: State the main function of the topic here.
+* vi - description: Provide a more detail description here.
+* vi - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vi examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* vi - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vi options page using this template: [[Home:002 all templates:options template|options template]]]
+
+**Relevant vi links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant vi notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated vi binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated vi man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant vi Screenshots:**
+Paste any relevant screenshots here.
+
+
