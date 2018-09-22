@@ -17,8 +17,10 @@ command to get timestamp: __date '+%A %D %X'__
 All commands, utilities and terms starting with the letter V are sub-pages to this page.
 
 **V:**
+* [[+version control system]]
 * [[+vi]]
 * [[+vim]]
 * [[+vimdiff]]
+* [[+virsh]]
 * [[+visudo]]
 * [[+vmstat]]

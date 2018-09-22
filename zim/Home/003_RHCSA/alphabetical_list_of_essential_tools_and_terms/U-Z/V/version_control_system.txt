@@ -5,12 +5,37 @@ Creation-Date: 2018-07-31T17:25:45-04:00
 ====== version control system ======
 Created Tuesday 31 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GitHub
-article template
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[V]]
 
-**Summary**
-A version control system is software that helps software developers to manage updates to software source code, especially when those updates are being made by different people, at different times, often in different locations. Version control systems help to minimize conflicts, and to manage conflicts when they do occur. For example, if two software developers try to make conflicting changes to the same source code file at the same time, the version control system might alert both develpers of the problem.
+**KYWRD:** vcs
+**RHCSA Objective: **N/A
 
-More information on version control systems can be found here:
-https://en.wikipedia.org/wiki/Version_control
+**Summary:**
+A **version control system** is used to manage revisions in a body of knowledge, such as a source code repository.
+
+**vcs:**
+* vcs - function: Manage revisions in a body of knowledge.
+* vcs - description: N/A
+* vcs - examples: N/A
+* vcs - options-flags: N/A
+**Relevant vcs links:**
+* https://en.wikipedia.org/wiki/Version_control
+
+**Relevant vcs notes:**
+* N/A
+
+**Associated vcs binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated vcs man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant vcs Screenshots:**
+N/A

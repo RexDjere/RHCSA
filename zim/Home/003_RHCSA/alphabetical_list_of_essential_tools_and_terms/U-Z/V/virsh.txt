@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-21T23:28:44-04:00
+
+====== virsh ======
+Created Friday 21 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[V]]
+
+**KYWRD:** virsh
+**RHCSA Objective: **005e Install Red Hat Enterprise Linux systems as virtual guests
+
+**Summary:**
+The **virsh** utility is used to manage virsh guest domains and hypervisors on Linux/Unix hosts.
+
+**virsh:**
+* virsh - function: manage virsh guests on Linux/Unix hosts.
+* virsh - description: N/A
+* [[+virsh - examples]]
+* [[+virsh - options-flags]]
+
+**Relevant virsh links:**
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/chap-virtualization-managing_guests_with_virsh
+* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/virtualization_administration_guide/chap-virtualization_administration_guide-managing_guests_with_virsh
+
+
+**Relevant virsh notes:**
+* N/A
+
+**Associated virsh binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: virsh: /usr/bin/virsh
+
+**Associated virsh man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: virsh: /usr/share/man/man1/virsh.1.gz
+
+**Relevant virsh Screenshots:**
+N/A
