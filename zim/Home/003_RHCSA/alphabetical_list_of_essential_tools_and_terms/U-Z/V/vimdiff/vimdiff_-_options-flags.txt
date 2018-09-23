@@ -12,10 +12,10 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[vimdiff]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** vimdiff
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
 This article describes the options available with the **command_name/link_here **command.

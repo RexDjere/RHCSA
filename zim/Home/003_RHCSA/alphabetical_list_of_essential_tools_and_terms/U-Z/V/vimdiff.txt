@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[V]]
 
 **KYWRD:** vimdiff
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
 The Linux/Unix **vimdiff** utility is used to visually see the differences between multiple files.
