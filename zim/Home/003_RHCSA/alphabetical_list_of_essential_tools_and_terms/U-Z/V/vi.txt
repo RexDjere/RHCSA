@@ -15,40 +15,39 @@ command to get timestamp: __date '+%A %D %X'__
 [[V]]
 
 **KYWRD:** vi
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **001g Create and edit text files
 
 **Summary:**
+**vi** is a command-line-based text editor for Linux/Unix.  It was created by software developer Bill Joy in 1976.
 
-**vi Modes:**
+**vi Modes of Operation:**
 vi has 3 possible modes of operation.  The vi user has the capability to switch to any of the 3 modes:
 1. **vi Mode**: this is the mode that vi starts in.
 2. **Input Mode**:  This mode allows the user to add or remove text data from the file, or to edit existing text data in the file.
 3. **Command Mode**: vi commands can be issued.
-**TO BE COMPLETED LATER.**
 
 **vi:**
-* vi - function: State the main function of the topic here.
-* vi - description: Provide a more detail description here.
-* vi - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vi examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* vi - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vi options page using this template: [[Home:002 all templates:options template|options template]]]
+* vi - function: a Linux/Unix text editor.
+* vi - description: N/A
+* [[+vi - examples]] 
+* [[+vi - options-flags]] 
 
 **Relevant vi links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Vi
 
 **Relevant vi notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated vi binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: vi: /usr/bin/vi
 
 **Associated vi man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* vi: 
+		* /usr/share/man/man1/vi.1.gz 
+		* /usr/share/man/man1p/vi.1p.gz
 
 **Relevant vi Screenshots:**
-Paste any relevant screenshots here.
+N/A
 
 
