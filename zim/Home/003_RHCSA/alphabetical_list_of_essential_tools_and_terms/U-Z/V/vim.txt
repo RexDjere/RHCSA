@@ -15,36 +15,28 @@ command to get timestamp: __date '+%A %D %X'__
 [[V]]
 
 **KYWRD:** vim
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **001g Create and edit text files
 
 **Summary:**
-Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
-1. Find and Replace any occurence of vim in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+**vim **stands for **vi improved**.  vim is a clone of the Linux/Unix text editor vi that has some improvements.  vim was created by software developer Bram Moolenaar in 1991.
 
 **vim:**
-* vim - function: State the main function of the topic here.
-* vim - description: Provide a more detail description here.
-* vim - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vim examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* vim - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the vim options page using this template: [[Home:002 all templates:options template|options template]]]
+* vim - function: an improved version of the vi text editor. 
+* vim - description: N/A
+* [[vim - examples]]
+* [[vim - options-flags]]
 
 **Relevant vim links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Vim_(text_editor)
 
 **Relevant vim notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated vim binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: vim: /usr/bin/vim /usr/share/vim
 
 **Associated vim man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: vim: /usr/share/man/man1/vim.1.gz
 
 **Relevant vim Screenshots:**
-Paste any relevant screenshots here.
+N/A
