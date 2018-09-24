@@ -31,6 +31,5 @@ This article discusses the options available with the [[groupdel]] command.
 		* PAM authentication uses the host files.
 		* No SELinux support.
 
-
 **Relevant groupdel Screenshots**
 N/A
