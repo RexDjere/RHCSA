@@ -12,27 +12,25 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[GRUB]]
 
-**KYWRD:** type the kywrd here.
+**KYWRD:** GRUB
 **RHCSA Objective: **005k Modify the system bootloader
 
 **Summary:**
-This article contains examples that illustrate the correct use of the **command_name/link_here **command.
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
+This article contains examples that illustrate the correct use of GRUB.
+1. Find and Replace any occurence of GRUB in this page with the actual word.
 2. Edit this paragraph to provide a summary of this page.
 3. N/A anything that is not applicable.
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
-* KEYWORD - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* KEYWORD - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+**GRUB - examples:**
+* GRUB - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* GRUB - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* GRUB - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant GRUB links:**
+* N/A
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant GRUB Screenshots:**
+N/A
 
