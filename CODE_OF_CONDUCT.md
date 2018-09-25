@@ -1,8 +1,9 @@
 # Zim-powered RHCSA Study Guide 
 # Community Code of Conduct
 
-# License: This document is licensed under the Creative Commons Attribution - Share Alike 3.0 License.
-# Credit: 
+**License:** This document is licensed under the Creative Commons Attribution - Share Alike 3.0 License.
+
+# Credits: 
    * This Community Code of Conduct (CCOC) is a very lightly edited version of the KDE Communicy Code of Conduct: https://www.kde.org/code-of-conduct/
    * Special thanks to the KDE community for developing such a wonderful CCOC.
 
