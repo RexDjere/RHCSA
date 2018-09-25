@@ -1,4 +1,5 @@
-# Zim-powered RHCSA Study Guide Community Code of Conduct
+# Zim-powered RHCSA Study Guide 
+# Community Code of Conduct
 
 ## 1. Preamble
 
@@ -11,12 +12,12 @@ This Code of Conduct is shared by all contributors and users who engage with the
 ## 2. Overview
 
 This Code of Conduct presents a summary of the shared values and “common sense” thinking in our community. The basic social ingredients that hold our project together include:
-    • Be considerate 
-    • Be respectful 
-    • Be collaborative 
-    • Be pragmatic 
-    • Support others in the community 
-    • Get support from others in the community 
+   * Be considerate 
+   * Be respectful 
+   * Be collaborative 
+   * Be pragmatic 
+   * Support others in the community 
+   * Get support from others in the community 
 
 Our community is made up of several groups of individuals and organizations which can roughly be divided into two groups:
     • Contributors, or those who add value to the project through improving Zim-powered RHCSA Study Guide software and its services 
