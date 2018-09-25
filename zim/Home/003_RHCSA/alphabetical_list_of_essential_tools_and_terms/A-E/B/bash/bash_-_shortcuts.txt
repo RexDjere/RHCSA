@@ -21,7 +21,7 @@ command to get timestamp: __date '+%A %D %X'__
 This article dicusses useful shortcuts in the [[bash]] shell.
 
 **bash - shortcuts:**
-* **cursor controls:**
+* **cursor controls (added these to Anki 9/25/18 => bash shortcuts):**
 	* ALT+B: GOTO previous word in current line.
 	* ALT+F: GOTO next word in current line.
 	* CTRL+A: GOTO beginning of current line.
@@ -35,7 +35,7 @@ This article dicusses useful shortcuts in the [[bash]] shell.
 	* CTRL+J:
 	* CTRL+P:
 	* CTRL+R:
-* **manipulating text:**
+* **manipulating text (added these to Anki 9/25/18 => manipulating text in bash):**
 	* ALT+.: Print last word of most recently issued command.
 	* ALT+C: Capitalize character that cursor is currently on and then go to end of current word.
 	* ALT+D: Delete character that cursor is currently on.
