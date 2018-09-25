@@ -24,7 +24,7 @@ command to get timestamp: __date '+%A %D %X'__
 * GRUB - function: a bootloader for Linux/Unix.
 * GRUB - description: N/A
 * [[+GRUB - examples]] 
-* [[GRUB image files]]
+* GRUB image files
 * [[+GRUB - options-flags]]
 * [[+GRUB Stages]]
 

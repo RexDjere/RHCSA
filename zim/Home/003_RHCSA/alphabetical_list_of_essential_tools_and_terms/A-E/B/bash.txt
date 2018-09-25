@@ -25,6 +25,7 @@ command to get timestamp: __date '+%A %D %X'__
 * bash - description: N/A
 * [[+bash - examples]]
 * [[+bash - options-flags]] 
+* [[+bash - version history]]
 
 **Relevant bash links:**
 * https://www.gnu.org/software/bash/

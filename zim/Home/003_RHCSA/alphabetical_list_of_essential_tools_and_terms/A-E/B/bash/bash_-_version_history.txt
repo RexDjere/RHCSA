@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-25T01:34:21-04:00
+
+====== bash - version history ======
+Created Tuesday 25 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[bash]]
+
+**KYWRD:** bash - version history
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary (commands are **__highlighted__**):**
+This article discusses the version history of **bash**.  This command-line will return the version of bash installed on your Linux/Unix system:
+__bash --version | grep version__
+
+**bash - version history (version ; release date):**
+* 0.99 	; 	1989-06-08
+* 1.01 	; 	1989-06-23
+* 2.0 	; 	1996-12-31
+* 2.02 	; 	1998-04-20
+* 2.03 	; 	1999-02-19
+* 2.04 	; 	2001-03-21
+* 2.05b 	; 	2002-07-17
+* 3.0 	; 	2004-08-03
+* 3.1 	; 	2005-12-08
+* 3.2 	; 	2006-10-11
+* 4.0 	; 	2009-02-20
+* 4.1 	; 	2009-12-31
+* 4.2 	; 	2011-02-13
+* 4.3 	; 	2014-02-26
+* 4.4 	;	2016-09-15
+
+**Relevant bash - version history links:**
+* https://goalkicker.com/BashBook
+
+**Relevant bash - version history notes:**
+* N/A
+
+**Associated bash - version history binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated bash - version history man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant bash - version history Screenshots:**
+N/A
