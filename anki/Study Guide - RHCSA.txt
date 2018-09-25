@@ -181,3 +181,21 @@ BONUS QUESTION: What kind of taco did Terry Forster make for David Letterman?	ch
 You are a RHEL sysdamin at Dell. &nbsp;You run the ls command in your home directory. &nbsp;What color is the text in the names of folders/directories?<div><br /></div>	blue
 <b>cat tech_companies_US.info</b> produces this output:<div><div>Amazon WA</div><div>LinkedIn CA</div><div>Red Hat NC</div><div>Cisco CA</div><div>Dell TX</div><div>Tesla CA</div><div>Comcast PA</div><div>Verizon NY</div><div>Motorola IL</div><div>Linux Academy TX</div></div><div><br /></div><div>What is the output of this command?</div><div><b>grep -c CA tech_companies_US.info</b></div><div><br /></div>	3<div><br /><div>The -c options tells grep to print the number of lines in which the given pattern appears.</div></div>
 What is a trapdoor function?	"A trapdoor function is eay to compute in one direction, but difficult to compute in the opposite direction without special information. &nbsp;This special information is known as the ""trapdoor"". &nbsp;It is&nbsp;used in cryptography to create public key ciphers, also known as asymmetric ciphers. These ciphers can be used for things such as ssh logins."
+bash shortcuts:&nbsp;ALT+B?	GOTO previous word in current line.
+bash shortcuts:&nbsp;ALT+F?	GOTO next word in current line.
+bash shortcuts:&nbsp;CTRL+A?	GOTO beginning of current line.
+bash shortcuts:&nbsp;CTRL+B?	GOTO previous character in current line.
+bash shortcuts:&nbsp;CTRL+E?	GOTO end of current line.
+bash shortcuts:&nbsp;CTRL+F?	GOTO next character in current line.
+bash shortcuts:&nbsp;CTRL+XX?	Switch between beginning of line and current cursor position.
+manipulating text in bash:&nbsp;ALT+.?	Print last word of most recently issued command.
+manipulating text in bash:&nbsp;ALT+C?	Capitalize character that cursor is currently on and then go to end of current word.
+manipulating text in bash:&nbsp;ALT+D?	Delete character that cursor is currently on.
+manipulating text in bash:&nbsp;ALT+L?	Make all characters in current word lowercase from current cursor position forward.
+manipulating text in bash:&nbsp;ALT+T?	Swap last 2 words before cursor.
+manipulating text in bash:&nbsp;ALT+U?	Make all characters in current word uppercase from current cursor position forward.
+manipulating text in bash:&nbsp;CTRL+K?	"<div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* Cut line from current position to end of line. &nbsp;Add to clipboard.</div><div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* If at beginning of line, cut the entire line.</div><div><br /></div>"
+manipulating text in bash:&nbsp;CTRL+T?	Swap last 2 characters before cursor.
+manipulating text in bash:&nbsp;CTRL+U?	"<div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* Cut line from current position to beginning of line. &nbsp;Add to clipboard.</div><div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* If at end of line, cut the entire line.</div><div><br /></div>"
+manipulating text in bash:&nbsp;CTRL+W?	Cut word before cursor and add to clipboard.
+manipulating text in bash:&nbsp;CTRL+Y?	Paste most recently cut item in clipboard to current line.
