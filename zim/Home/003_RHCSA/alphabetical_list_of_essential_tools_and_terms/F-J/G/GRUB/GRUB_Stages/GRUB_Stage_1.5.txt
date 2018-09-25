@@ -9,7 +9,7 @@ Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Bo
 [[G]]
 
 **Summary**
-GRUB's Stage 1.5 Boot Loader is loaded into memory by [[GRUB:GRUB Stage 1|GRUB's Stage 1 Boot Loader]]. GRUB Stage 1.5 is associated with the core.img file, and is contained in Sectors 1 through 62 of the boot hard disk. GRUB Stage 1.5 also contains file system drivers so that it can read the file system information that it needs to initialize [[GRUB Stage 2]].
+GRUB's Stage 1.5 Boot Loader is loaded into memory by [[GRUB Stages:GRUB Stage 1|GRUB's Stage 1 Boot Loader]]. GRUB Stage 1.5 is associated with the core.img file, and is contained in Sectors 1 through 62 of the boot hard disk. GRUB Stage 1.5 also contains file system drivers so that it can read the file system information that it needs to initialize [[GRUB Stage 2]].
 
 More information about GRUB Stage 1.5 can be found here:
 * https://www.centos.org/docs/rhel-rg-en-3/s1-grub-whatis.html

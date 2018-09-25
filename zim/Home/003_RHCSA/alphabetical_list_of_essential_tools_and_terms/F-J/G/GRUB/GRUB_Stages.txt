@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-25T00:50:15-04:00
+
+====== GRUB Stages ======
+Created Tuesday 25 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+replace this with a link to the parent page 1 level above this page
+
+**KYWRD:** GRUB Stages
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
+1. Find and Replace any occurence of GRUB Stages in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+
+**GRUB Stages:**
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB Stages:GRUB Stage 1|GRUB Stage 1]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB Stages:GRUB Stage 1.5|GRUB Stage 1.5]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB Stages:GRUB Stage 2|GRUB Stage 2]]
+
+**Relevant GRUB Stages links:**
+* http://vault.centos.org/3.4/docs/html/rhel-rg-en-3/s1-grub-whatis.html
+
+**Relevant GRUB Stages notes:**
+* N/A
+
+**Associated GRUB Stages binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated GRUB Stages man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant GRUB Stages Screenshots:**
+N/A

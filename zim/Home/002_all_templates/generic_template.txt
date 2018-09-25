@@ -5,10 +5,10 @@ Creation-Date: 2018-08-02T21:29:11-04:00
 ====== generic template ======
 Created Thursday 02 August 2018
 
-[[Home:002 all templates:generic template|generic template version: Sunday 09/09/18 05:29:36 PM
-command to get timestamp: ]]__[[Home:002 all templates:generic template|date '+%A %D %X']]__[[Home:002 all templates:generic template| 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]]]
+[[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives]]
