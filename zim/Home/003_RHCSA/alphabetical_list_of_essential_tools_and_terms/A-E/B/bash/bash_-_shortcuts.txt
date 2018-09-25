@@ -1,0 +1,90 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-25T01:53:05-04:00
+
+====== bash - shortcuts ======
+Created Tuesday 25 September 2018
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[bash]]
+
+**KYWRD:** bash - shortcuts
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+This article dicusses useful shortcuts in the [[bash]] shell.
+
+**bash - shortcuts:**
+* **cursor controls:**
+	* ALT+B: GOTO previous word in current line.
+	* ALT+F: GOTO next word in current line.
+	* CTRL+A: GOTO beginning of current line.
+	* CTRL+B: GOTO previous character in current line.
+	* CTRL+E: GOTO end of current line.
+	* CTRL+F: GOTO next character in current line.
+	* CTRL+XX: Switch between beginning of line and current cursor position.
+* **history controls (TO BE COMPLETED LATER):**
+	* ALT+R:
+	* CTRL+G:
+	* CTRL+J:
+	* CTRL+P:
+	* CTRL+R:
+* **manipulating text:**
+	* ALT+.: Print last word of most recently issued command.
+	* ALT+C: Capitalize character that cursor is currently on and then go to end of current word.
+	* ALT+D: Delete character that cursor is currently on.
+	* ALT+L: Make all characters in current word lowercase from current cursor position forward.
+	* ALT+T: Swap last 2 words before cursor.
+	* ALT+U: Make all characters in current word uppercase from current cursor position forward.
+	* CTRL+K:
+		* Cut line from current position to end of line.  Add to clipboard.
+		* If at beginning of line, cut the entire line.
+	* CTRL+T: Swap last 2 characters before cursor.
+	* CTRL+U:
+		* Cut line from current position to beginning of line.  Add to clipboard.
+		* If at end of line, cut the entire line.
+	* CTRL+W: Cut word before cursor and add to clipboard.
+	* CTRL+Y: Paste most recently cut item in clipboard to current line.
+* **opening a terminal:**
+	* CTRL+ALT+T
+	* SUPER_KEY+T
+* **special characters** **(TO BE COMPLETED LATER):**
+	* CTRL+G:
+	* CTRL+H:
+	* CTRL+I:
+	* CTRL+J:
+	* CTRL+M:
+	* CTRL+@:
+	* ESC:
+* **terminal controls (TO BE COMPLETED LATER):**
+	* CTRL+C:
+	* CTRL+D:
+	* CTRL+L:
+	* CTRL+Q:
+	* CTRL+S:
+	* CTRL+Z:
+	* CTRL+SHIFT+Q:
+	* CTRL+SHIFT+W:
+	* TAB:
+	* TAB TAB:
+
+**Relevant bash - shortcuts links:**
+* https://goalkicker.com/LinuxBook
+
+**Relevant bash - shortcuts notes:**
+* N/A
+
+**Associated bash - shortcuts binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated bash - shortcuts man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant bash - shortcuts Screenshots:**
+N/A
