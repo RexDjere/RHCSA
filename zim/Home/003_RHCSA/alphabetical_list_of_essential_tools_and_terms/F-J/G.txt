@@ -28,6 +28,7 @@ All commands, utilities and terms starting with the letter A are sub-pages to th
 * [[+git]] , [[P-T:T:tig]]
 * [[+GitHub]]
 * [[+GnuPG]]
+* [[+GNU Project]]
 * [[+gpg]]
 * [[+gphoto2]]
 * [[+GRand Unified Bootloader]]

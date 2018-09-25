@@ -1,14 +1,14 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T21:29:11-04:00
+Creation-Date: 2018-09-24T18:03:00-04:00
 
-====== generic template ======
-Created Thursday 02 August 2018
+====== GNU Project ======
+Created Monday 24 September 2018
 
-[[Home:002 all templates:generic template|generic template version: Sunday 09/09/18 05:29:36 PM
-command to get timestamp: ]]__[[Home:002 all templates:generic template|date '+%A %D %X']]__[[Home:002 all templates:generic template| 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]]]
+[[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives]]
@@ -48,3 +48,4 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 
 **Relevant KEYWORD Screenshots:**
 Paste any relevant screenshots here.
+

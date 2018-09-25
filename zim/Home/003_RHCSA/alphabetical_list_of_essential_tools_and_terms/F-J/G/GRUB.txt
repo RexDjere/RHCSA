@@ -5,10 +5,44 @@ Creation-Date: 2018-07-18T16:54:29-04:00
 ====== GRUB ======
 Created Wednesday 18 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Boot Loader
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[G]]
 
-**Summary**
-GRUB stands for Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GRand Unified Bootloader. GRUB is what is known as a [[K-O:M:Multiboot]] boot loader. The Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Boot Loader is the first program that runs on a computer system after the Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS Power On Self Test ([[P-T:P:POST]]) passes.  GRUB is the most popular Boot Loader on Linux computer systems. On a Linux system where GRUB acts as the Boot Loader, GRUB handles loading and transferring control to the Linux kernel. Once the kernel receives control, it initializes the rest of the computer operating system (user space).
+**KYWRD:** GRUB
+**RHCSA Objective: **005k Modify the system bootloader
 
-More information about GRUB can be found here: https://www.gnu.org/software/grub/
+**Summary:**
+**GRUB** is a boot loader package for Linux/Unix systems developed by the [[GNU Project]].  GRUB is an acronym that stands for **GRand Unified Bootloader**.
+
+**GRUB:**
+* GRUB - function: a bootloader for Linux/Unix.
+* GRUB - description: N/A
+* [[+GRUB - examples]] 
+* [[+GRUB - options-flags]] 
+
+**Relevant GRUB links:**
+* https://en.wikipedia.org/wiki/GNU_GRUB
+* https://www.gnu.org/software/grub/
+
+**Relevant GRUB notes:**
+* N/A
+
+**Associated GRUB binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+	* grub: 
+		* /usr/lib/grub 
+		* /etc/grub.d 
+		* /etc/grub2.cfg 
+		* /usr/share/grub
+
+**Associated GRUB man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant GRUB Screenshots:**
+N/A.
