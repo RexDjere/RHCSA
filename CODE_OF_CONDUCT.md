@@ -1,5 +1,5 @@
 # Zim-powered RHCSA Study Guide 
-# Community Code of Conduct
+## Community Code of Conduct
 
 **License:** This document is licensed under the Creative Commons Attribution - Share Alike 3.0 License.
 
