@@ -1,4 +1,4 @@
-Notes:
+**Notes:**
 * All files in this RHCSA Study Guide Project, with the exception of the Community Code of Conduct, are licensed under GPL version 3 or later.
 * The Community Code of Conduct is licensed under the Creative Commons Attribution - Share Alike 3.0 License.
 _______________________________________________________________________________________
