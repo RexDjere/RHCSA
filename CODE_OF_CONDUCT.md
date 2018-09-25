@@ -1,20 +1,28 @@
-# Code of Conduct
+# Zim-powered RHCSA Study Guide Community Code of Conduct
 
-## 1. Purpose
+## 1. Preamble
 
-A primary goal of the Zim-powered RHCSA Study Guide is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+In the Zim-powered RHCSA Study Guide community, participants from all over the world come together to create a Free Software Study Guide for the community of Red Hat-loving IT professionals. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who contribute to and use the Zim-powered RHCSA Study Guide.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This document offers some guidance to ensure that Zim-powered RHCSA Study Guide participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
 
-We invite all those who participate in the Zim-powered RHCSA Study Guide to help us create safe and positive experiences for everyone.
+This Code of Conduct is shared by all contributors and users who engage with the Zim-powered RHCSA Study Guide team and its community services.
 
-## 2. Open Source Citizenship
+## 2. Overview
 
-A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+This Code of Conduct presents a summary of the shared values and “common sense” thinking in our community. The basic social ingredients that hold our project together include:
+    • Be considerate 
+    • Be respectful 
+    • Be collaborative 
+    • Be pragmatic 
+    • Support others in the community 
+    • Get support from others in the community 
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Our community is made up of several groups of individuals and organizations which can roughly be divided into two groups:
+    • Contributors, or those who add value to the project through improving Zim-powered RHCSA Study Guide software and its services 
+    • Users, or those who add value to the project through their support as consumers of Zim-powered RHCSA Study Guide software 
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+This Code of Conduct reflects the agreed standards of behavior for members of the Zim-powered RHCSA Study Guide community, in any forum, mailing list, wiki, web site, IRC channel, public meeting or private correspondence within the context of the Zim-powered RHCSA Study Guide team and its services. The community acts according to the standards written down in this Code of Conduct and will defend these standards for the benefit of the community. Leaders of any group, such as moderators of mailing lists, IRC channels, forums, etc., will exercise the right to suspend access to any person who persistently breaks our shared Code of Conduct.
 
 ## 3. Expected Behavior
 
