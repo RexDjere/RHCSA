@@ -5,39 +5,40 @@ Creation-Date: 2018-07-12T13:57:58-04:00
 ====== Burrows-Wheeler algorithm ======
 Created Thursday 12 July 2018
 
-Home:RHCSA:alphabetical list of essential tools:B:bzip2:bzip2-description
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[B]]
 
-Burrows-Wheeler algorithm
-* very good compression performance
-* [[block sorting text compression algorithm]]
-* [[F-J:H:Huffman coding]]
-* compresses large files in blocks
+**KYWRD:** Burrows-Wheeler algorithm
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
-Common flags/options:
-* -c --stdout
-	* compress or decompress to standard output (the monitor)
-* -d --decompress
-	* forces decompression using bzip2
-* -t --test
-	* check integrity of specified file(s).  trial decompression only with results discarded.
-* -f --force
-	* force overwrite of output files
-* -k --keep
-	* don't delete input files during compression/decompression/testing.
-* -s --small
-	* reduce memory usage for compresssion, decompression, and testing
-* -q --quiet
-	* suppresses warning messages that are not essential
-* -v --verbose
-	* shows compression ratio for each file processed, and provides an overall much more verbose output
-* -L --license -V --version
-	* displays version, license, and terms & conditions information
-* -1 --fast to -9 --best
-	* sets focus of compression: speed or better compression.  has no effect on decompression.
-* — (2 dashes)
-	* allows you to deal with files whose name starts with a dash (eg bzip2 — -myfile)
-* --repetitive-fast --repetitive-best
-	* used to set focus of sorting algorithm (speed versus quality). no longer relevant flags.
+**Summary:**
+The **Burrows-Wheeler algorithm** is the data compression method used by the Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bzip2|bzip2]] utility.
+
+**Burrows-Wheeler algorithm:**
+* Burrows-Wheeler algorithm - function: Data compression algorithm used by bzip2.
+* Burrows-Wheeler algorithm - description: N/A
+* [[Burrows-Wheeler algorithm - examples]] 
+* [[Burrows-Wheeler algorithm - options-flags]]
+
+**Relevant Burrows-Wheeler algorithm links:**
+* https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
+
+**Relevant Burrows-Wheeler algorithm notes:**
+* N/A
+
+**Associated Burrows-Wheeler algorithm binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated Burrows-Wheeler algorithm man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant Burrows-Wheeler algorithm Screenshots:**
+N/A
 
 

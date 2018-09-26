@@ -24,8 +24,8 @@ A block is a series of data of fixed length (e.g. 4kB, 8kB etc.). The block size
 **blockdev:**
 * blockdev - function: The blockdev command is used to view the block size of a Linux/Unix filesystem.
 * blockdev - description: N/A
-* [[blockdev - examples]]
-* [[blockdev - options-flags]] 
+* [[+blockdev - examples]]
+* [[+blockdev - options-flags]] 
 
 **Relevant blockdev links:**
 * http://man7.org/linux/man-pages/man8/blockdev.8.html
