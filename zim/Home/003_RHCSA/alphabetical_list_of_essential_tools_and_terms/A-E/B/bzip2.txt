@@ -5,16 +5,38 @@ Creation-Date: 2018-07-11T10:49:37-04:00
 ====== bzip2 ======
 Created Wednesday 11 July 2018
 
-exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
-[[P-T:T:tar:tar - examples:tar-compress - examples:tar-compress - example 4]]
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[B]]
 
-bzip2
-* [[+bzip2-function]]
-* [[+bzip2-description]]
-* [[+bzip2-examples]]
-* [[+bzip2-compress]]
-* [[+bzip2-unpack]]
-* [[+bzip2-uncompress]]
+**KYWRD:** bzip2
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+
+**Summary:**
+The **bzip2** utility for Linux/Unix is a free software/open source file compression program.  It uses the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Burrows-Wheeler algorithm|Burrows-Wheeler data compression algorithm]].
+
+**bzip2:**
+* bzip2 - function: file compression utility for Linux/Unix.
+* bzip2 - description: N/A
+* [[+bzip2 - examples]] 
+* [[+bzip2 - options-flags]]
+
+**Relevant bzip2 links:**
+* https://en.wikipedia.org/wiki/Bzip2
+
+**Relevant bzip2 notes:**
+* N/A
+
+**Associated bzip2 binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: bzip2: /usr/bin/bzip2
+
+**Associated bzip2 man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: bzip2: /usr/share/man/man1/bzip2.1.gz
+
+**Relevant bzip2 Screenshots:**
+N/A

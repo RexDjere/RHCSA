@@ -23,11 +23,11 @@ The **Burrows-Wheeler algorithm** is the data compression method used by the Lin
 **Burrows-Wheeler algorithm:**
 * Burrows-Wheeler algorithm - function: Data compression algorithm used by bzip2.
 * Burrows-Wheeler algorithm - description: N/A
-* [[Burrows-Wheeler algorithm - examples]] 
-* [[Burrows-Wheeler algorithm - options-flags]]
+* [[+Burrows-Wheeler algorithm - examples]] 
+* [[+Burrows-Wheeler algorithm - options-flags]]
 
 **Relevant Burrows-Wheeler algorithm links:**
-* https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
+* https://en.wikipedia.org/wiki/Burrows–Wheeler_transform
 
 **Relevant Burrows-Wheeler algorithm notes:**
 * N/A
