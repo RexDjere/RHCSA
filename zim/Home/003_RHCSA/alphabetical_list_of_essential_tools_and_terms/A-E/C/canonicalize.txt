@@ -19,7 +19,7 @@ command to get timestamp: __date '+%A %D %X'__
 Canonicalization is the process of making data that can be presented in many forms to be presented in one standard (canonical) form.
 
 **canonicalize:**
-* canonicalize - function: N/A
+* canonicalize - function: standardize the form in which data is presented.
 * canonicalize - description: N/A
 * canonicalize - options-flags N/A
 * canonicalize - examples N/A
