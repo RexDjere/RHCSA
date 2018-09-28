@@ -23,8 +23,8 @@ The **halt** utility is used to shutdown or reboot Linux/Unix systems.
 **halt:**
 * halt - function: shutdown or reboot Linux/Unix systems.
 * halt - description: N/A
-* [[halt - examples]] 
-* [[halt - options-flags]]
+* [[+halt - examples]] 
+* [[+halt - options-flags]]
 
 **Relevant halt links:**
 * https://www.computerhope.com/unix/uhalt.htm
