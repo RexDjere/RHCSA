@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[H]]
 
 **KYWRD:** halt
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
 
 **Summary:**
 The **halt** utility is used to shutdown or reboot Linux/Unix systems.
