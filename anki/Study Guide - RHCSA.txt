@@ -199,3 +199,43 @@ manipulating text in bash:&nbsp;CTRL+T?	Swap last 2 characters before cursor.
 manipulating text in bash:&nbsp;CTRL+U?	"<div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* Cut line from current position to beginning of line. &nbsp;Add to clipboard.</div><div><span class=""Apple-tab-span"" style=""white-space:pre""> </span>* If at end of line, cut the entire line.</div><div><br /></div>"
 manipulating text in bash:&nbsp;CTRL+W?	Cut word before cursor and add to clipboard.
 manipulating text in bash:&nbsp;CTRL+Y?	Paste most recently cut item in clipboard to current line.
+What is the basic file system structure of Linux/Unix?	Hierarchical File System
+In Linux and Unix, what is a file system?	The method by which files are organized on the disk.
+Compare and contrast file systems between Linux and AIX:<div>a. Name 4 file systems commonly associated with Linux.</div><div>b. Name 2 file systems commonly associated with AIX.</div>	a. ext2, ext3, ext4<div>b. JFS, JFS2</div>
+All files in a Linux/Unix file system are organized into a multi-level a.) called a b.)	a.) hierarchy<div>b.) directory tree</div>
+The top of a Linux/Unix file system is a single directory called a.) which is represented by a b.)	a.) root<div>b.) / (forward slash)</div>
+All files in a Linux/Unix file system are descendants of a.)	a.) root
+Linux/Unix file systems are accessed via a a.)	a.) mount point
+In Linux/Unix, a directory path that provides a logical connection the the fle system is called a...	mount point
+In Linux/Unix, everything is a...	file
+In Linux/Unix, data files are stored in ...	directories (folders)
+This Linux/Unix file type is used to represent real physical devices.	device file
+This Linux/Unix fle type is used to organize a group of files.	directories
+This Linux/Unix file type is used to store information such as text, images, programs etc.	ordinary files
+This Linux/Unix file type contains no actual data. &nbsp;It is a pointer to another file.	soft link (symbolic link)
+This Linux/Unix file type is an additional name for an existing file (essentially an alias).	hard link
+A hard link to a file in a Linux/Unix file system has the same a.) as the file.	a.) inode number
+In Linux and Unix, pipes come in two categories. &nbsp;What are they?	named pipes and unnamed pipes
+In Linux/Unix, and unnamed pipe is a ...	temporary file used to hold data from one command until it is read by another command.
+In Linux/Unix, a named pipe is a ...	special file used to synchronize communication between processes.
+In Linux/Unix, what command is used to create named pipes?	The mkfifo command
+Maury, a RHEL sysadmin at Linux Academy, wants to see the inode number for all of the files in his home directory. &nbsp;What command will he issue?	ls -i (the i stands for inode)
+Maury, a RHEL sysadmin at Jupitier Broadcasting, want to produce a long listing of all of the files in his home directory. &nbsp;What command will he issue?	ls -l (the l stands for long)
+File names in Linux/Unix are ....	case-sensitive.
+In Linux/Unix, can two files with the same name exist in the same directory?	No. &nbsp;Each file name in a directory must be unique.
+This kind of link can link to files or directories, even in a different file system.	soft link/symbolic link
+If a symbolic link is deleted, its target is ...	unaffected.
+a.) do not link paths on different volumes or file systems.	a.) hard links
+Hard links always refer to an ...	existing file.
+Can a symbolic link point to a non-existent file or directory?	Yes. &nbsp;This is known as a broken, dead, orphaned, or dangling symbolic link.
+Absolute pathnames always start with a ...	/ (forward slash)
+Relative pathnames never beging with a ...	/ (forward slash)
+Permissions for a file may be any or all of:	r -read<div>w - write</div><div>x -execute</div>
+Each Linux/Unix permission can be controlled at three levels:	0 - owner<div>g - group</div><div>w - world (everyone)</div>
+Expressing permissions as a number:<div>How would you express rwx?</div>	111<div>OR<br /><div>7</div></div>
+Expressing permissions as a number:<div>How would you express rw-?</div>	110<div>OR</div><div>6</div>
+Expressing permissions as a number:<div>How would you express r--?</div>	100<div>OR</div><div>4</div>
+What is the purpose of the umask command?	To set/control default file permissions.
+When Linux/Unix file systems are formatted, the disk is divided into groups of sectors called ...	blocks.
+In Linux/Unix, what is the function of a Super Block?	Stores file system metadata:<div>- total inode count</div><div>- total block count</div><div>- number of mounts since last fsck</div><div>- mount time</div><div>- file system type (e.g. ext4, JFS)</div><div>- file system &nbsp;(e.g. clean or errors detected)</div><div>- OS</div><div>- UUID for the volume</div>
+What command is used to dump ext2/ext3/ext4 filesystem information?	dumpe2fs
