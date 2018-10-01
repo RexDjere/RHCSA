@@ -11,36 +11,37 @@ command to get timestamp: __date '+%A %D %X'__
 [[Home]]
 [[000 TODO LIST]]
 [[002 all templates]]
-RHCSA Objectives
+[[RHCSA exam:objectives]]
 [[C]]
 
 **KYWRD:** chmod
 **RHCSA Objective: **001j List, set, and change standard ugorwx permissions
 
 **Summary**
-The Linux/Unix chmod utility is used to change the access permissions of files and directories.
+The Linux/Unix **chmod** utility is used to change the access permissions of files and directories. **chmod** stands for "change mode".
 
 **chmod:**
 * chmod - function: change file/direcory access permissions.
 * chmod - description: N/A.
-* chmod - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the chmod options page using this template: [[Home:002 all templates:options template|options template]]]
-* chmod - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the chmod examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* [[+chmod - options-flags]] 
+* [[+chmod - examples]] 
 
 **Relevant chmod links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Chmod
 
 **Relevant chmod notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: chmod: /usr/bin/chmod
 
 **Associated man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* chmod: 
+		* /usr/share/man/man3p/chmod.3p.gz 
+		* /usr/share/man/man2/chmod.2.gz 
+		* /usr/share/man/man1/chmod.1.gz 
+		* /usr/share/man/man1p/chmod.1p.gz
 
 **Relevant chmod Screenshots**
-Paste any relevant screenshots here.
+N/A

@@ -17,7 +17,7 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** chgrp
 **RHCSA Objective: **0006c Create, delete, and modify local groups and group memberships
 **Summary:**
-The chgrp command is used to change the group ownership of files and folders on Linux/Unix systems.
+The **chgrp** command is used to change the group ownership of files and folders on Linux/Unix systems.
 
 **chgrp:**
 * chgrp - function: Change group ownership of files and folders.
