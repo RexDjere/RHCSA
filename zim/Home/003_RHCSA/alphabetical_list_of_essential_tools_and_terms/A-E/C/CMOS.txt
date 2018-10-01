@@ -18,8 +18,7 @@ RHCSA Objectives
 **RHCSA Objective: **002a Boot, reboot, and shut down a system normally
 
 **Summary**
-**CMOS **stands **complementary metal-oxide-semiconductor**. It is a technology used to create  integrated circuits. In the context of the Linux computer operating system, CMOS stores
-system settings that are read by **BIOS** during the PC's startup process. The CMOS chip is soldered onto the PC's motherboard, and it is powered by a battery that generally lasts about 3 years.
+**CMOS **stands **complementary metal-oxide-semiconductor**. It is a technology used to create  integrated circuits. In the context of the Linux computer operating system, CMOS storessystem settings that are read by **BIOS** during the PC's startup process. The CMOS chip is soldered onto the PC's motherboard, and it is powered by a battery that generally lasts about 3 years.
 
 **CMOS:**
 * CMOS - function: Stores system settings read by **BIOS** during the PC startup process.

@@ -239,3 +239,20 @@ What is the purpose of the umask command?	To set/control default file permission
 When Linux/Unix file systems are formatted, the disk is divided into groups of sectors called ...	blocks.
 In Linux/Unix, what is the function of a Super Block?	Stores file system metadata:<div>- total inode count</div><div>- total block count</div><div>- number of mounts since last fsck</div><div>- mount time</div><div>- file system type (e.g. ext4, JFS)</div><div>- file system &nbsp;(e.g. clean or errors detected)</div><div>- OS</div><div>- UUID for the volume</div>
 What command is used to dump ext2/ext3/ext4 filesystem information?	dumpe2fs
+What command -flag would be used to restore a corrupted superblock?	e2fsck -b
+Where are inodes located on Linux/Unix systems?	In the inode table.
+What is an inode?	An inode is essentially a file header that contains metadata that describes a file.
+What file description metadata does an inode contain?	mode (permissions)<div>ownerinfo</div><div>size</div><div>time stamps</div><div>- creation time, modify time, access time</div><div>block pointers - pointers to the file extents containing the actual file data</div>
+What command can you use to view the inode number of a file named workers.txt?	ls -i workers.txt
+Chuck is a RHEL sysadmin at TNT Broadcasting. &nbsp;He wants to check the inode utilization of all filesystem mount points which are currently mounted on his RHEL system. &nbsp;What command will he issue?	df -i
+Tasha is a RHEL sysadmin in the Chicago Public School System. &nbsp;She wants to check disk usage on her RHEL system in human-readable format. &nbsp;What command will she issue?	df -h
+Wesley Crusher is a RHEL sysadmin at Starfleet Academy in San Francisco. &nbsp;He wants to mount all file systems listed in /etc/fstab. &nbsp;What command will he issue?	mount -a<div><br /></div><div>OR</div><div><br /></div><div>mount --all</div>
+Coretta wants to unmount the file system mount point /apps. &nbsp;What command will she issue?	umount /apps
+Dexter wants to remount the read-only /apps mount point as read-write. &nbsp;What command will he issue?	mount -o remount,rw /apps
+Tunde wants to display all currently mounted mount points in his RHEL filesystem. &nbsp;What command will he issue?	mount
+Olivet wants to determine all processes and users are that accessing the /opt/google mount point on her RHEL system. &nbsp;What command will she issue?	fuser -cu /opt/google
+Carlos wants to display all open files in the /opt/google directory. &nbsp;What command will he issue?	lsof /opt/google
+Jumai wants to long list all files in her current working directory. What command will she issue?	ls -l
+What is the purpose of the Set User ID &nbsp;(SUID) bit?	It is set on executable files to grant the user the permissions of the owner of the file.<div>It is a temporary elevation of priivleges, only in effect while the program runs.</div>
+What is the purpose of the Set Group ID (SGID) bit?	It is set on executable files to grant the user the permissions of the group asscociated with the file.<div>It is set on directories to cause newly created files to inherit the group ownership of the drectory rather than of the user that created the file.</div>
+What is the Sticky Bit?	Also known as the Restricted Deletion Flag.<div>Is a single bit.<br /><div>For directories: prevents unprivileged users from removing or renaming a file in the directory unless they own the file or directory.</div></div><div>Is commonly found on world-writable directories such as /tmp.</div><div><br /></div>
