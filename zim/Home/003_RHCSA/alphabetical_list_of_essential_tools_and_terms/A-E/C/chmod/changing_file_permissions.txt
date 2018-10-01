@@ -5,8 +5,19 @@ Creation-Date: 2018-07-11T19:16:41-04:00
 ====== changing file permissions ======
 Created Wednesday 11 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[chmod]]
 
+**KYWRD:** chmod
+**RHCSA Objective: **001j List, set, and change standard ugorwx permissions
+
+**Summary:**
 changing file permissions with [[chmod]]:
 * File permissions are also known as access modes.  
 * Changing the permission of a file is done using the [[chmod]] command.
@@ -17,3 +28,25 @@ changing file permissions with [[chmod]]:
 	* g: the group associated with the file.
 	* o:  all system users not covered by u or g above.
 	* a: all of the above.  a is the equivalent of ugo.
+
+
+**chmod:**
+* chmod - function: See [[chmod ]]
+* chmod - description: See [[chmod ]]
+* chmod - examples: See [[chmod ]]
+* chmod - options-flags: See [[chmod ]]
+
+**Relevant chmod links:**
+* See [[chmod ]]
+
+**Relevant chmod notes:**
+* See [[chmod ]]
+
+**Associated chmod binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[chmod ]]
+
+**Associated chmod man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[chmod ]]
+
+**Relevant chmod Screenshots:**
+See [[chmod ]]
