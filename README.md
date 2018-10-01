@@ -50,6 +50,7 @@ To get the most out of this study guide, I recommend the following:
 	- lists (holds list text files that I use for examples)
 	- MILESTONES.md
 	- mindmaps (hold all mindmaps created with Freemind)
+	- objectives (contains the RHCSA objectives)
 	- PULL_REQUEST_TEMPLATE.md
 	- README.md (the study guide's home page)
 	- zim (holds all zim wiki pages)
