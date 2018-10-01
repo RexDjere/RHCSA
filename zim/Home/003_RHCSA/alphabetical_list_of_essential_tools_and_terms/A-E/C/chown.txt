@@ -5,4 +5,43 @@ Creation-Date: 2018-07-10T22:46:06-04:00
 ====== chown ======
 Created Tuesday 10 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[C]]
+
+**KYWRD:** chown
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary:**
+The **chown** command is used to change the owner/group of a file on Linux/Unix systems.
+
+**chown:**
+* chown - function: Change file ownership.
+* chown - description: N/A
+* [[+chown - examples]] 
+* [[+chown - options-flags]] 
+
+**Relevant chown links:**
+* https://en.wikipedia.org/wiki/Chown
+
+**Relevant chown notes:**
+* N/A
+
+**Associated chown binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: chown: /usr/bin/chown
+
+**Associated chown man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* chown: 
+		* /usr/share/man/man3p/chown.3p.gz 
+		* /usr/share/man/man2/chown.2.gz 
+		* /usr/share/man/man1/chown.1.gz 
+		* /usr/share/man/man1p/chown.1p.gz
+
+**Relevant chown Screenshots:**
+N/A

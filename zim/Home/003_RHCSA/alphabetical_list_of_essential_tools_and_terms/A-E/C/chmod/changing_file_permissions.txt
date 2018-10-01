@@ -31,22 +31,22 @@ changing file permissions with [[chmod]]:
 
 
 **chmod:**
-* chmod - function: See [[chmod ]]
-* chmod - description: See [[chmod ]]
-* chmod - examples: See [[chmod ]]
-* chmod - options-flags: See [[chmod ]]
+* chmod - function: See chmod 
+* chmod - description: See chmod 
+* chmod - examples: See chmod 
+* chmod - options-flags: See chmod 
 
 **Relevant chmod links:**
-* See [[chmod ]]
+* See chmod 
 
 **Relevant chmod notes:**
-* See [[chmod ]]
+* See chmod 
 
 **Associated chmod binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[chmod ]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See chmod 
 
 **Associated chmod man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[chmod ]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See chmod 
 
 **Relevant chmod Screenshots:**
-See [[chmod ]]
+See chmod 
