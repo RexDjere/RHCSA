@@ -5,10 +5,6 @@ Creation-Date: 2018-07-18T16:25:01-04:00
 ====== Complemetary Metal-Oxide-Semiconductor ======
 Created Wednesday 18 July 2018
 
-[[Home]]
-[[C]]
-
-
 [[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
