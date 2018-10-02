@@ -5,4 +5,41 @@ Creation-Date: 2018-08-02T10:14:39-04:00
 ====== command ======
 Created Thursday 02 August 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[C]]
+
+**KYWRD:** command
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**command** is a bash built-in utility that allows the Linux/Unix user to run a shell command named "foo' while ignoring any shell functions also named "foo".
+
+**command:**
+* command - function: run shell command bypassing similarly named shell functions.
+* command - description: Provide a more detail description here.
+* [[+command - examples]]
+* [[+command - options-flags]] 
+
+**Relevant command links:**
+* https://ss64.com/bash/command.html
+
+**Relevant command notes:**
+* N/A
+
+**Associated command binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: command: /usr/bin/command
+
+**Associated command man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* command: 
+		* /usr/share/man/man1/command.1.gz 
+		* /usr/share/man/man1p/command.1p.gz
+
+**Relevant command Screenshots:**
+N/A

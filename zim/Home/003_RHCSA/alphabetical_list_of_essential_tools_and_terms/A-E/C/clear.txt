@@ -23,8 +23,8 @@ The **clear** utility is used to clear the terminal screen on Linux/Unix systems
 **clear:**
 * clear - function: clear the terminal screen.
 * clear - description: N/A
-* [[clear - examples]] 
-* [[clear - options-flags]]
+* [[+clear - examples]] 
+* [[+clear - options-flags]]
 
 **Relevant clear links:**
 * https://en.wikipedia.org/wiki/Clear_(Unix)
