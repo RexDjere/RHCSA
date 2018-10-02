@@ -5,7 +5,42 @@ Creation-Date: 2018-07-18T16:25:01-04:00
 ====== Complemetary Metal-Oxide-Semiconductor ======
 Created Wednesday 18 July 2018
 
-Home:RHCSA:exam:objectives:002 - operate running systems:002 - right branches:Boot, reboot, and shut down a system normally:boot:BIOS-MBR - legacy boot process:legacy boot process - stage 1 - BIOS:BIOS
+[[Home]]
 [[C]]
 
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[CMOS]]
+
+**KYWRD:** CMOS
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+See [[CMOS]].
+
+**CMOS:**
+* CMOS - function: See [[CMOS]].
+* CMOS - description: See [[CMOS]].
+* CMOS - examples: See [[CMOS]].
+* CMOS - options-flags: See [[CMOS]].
+
+**Relevant CMOS links:**
+* See [[CMOS]].
+
+**Relevant CMOS notes:**
+* See [[CMOS]].
+
+**Associated CMOS binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[CMOS]].
+
+**Associated CMOS man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[CMOS]].
+
+**Relevant CMOS Screenshots:**
 See [[CMOS]].
