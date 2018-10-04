@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-04T13:59:27-04:00
+
+====== cron - example 2 ======
+Created Thursday 04 October 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[cron - examples]]
+
+**KYWRD:** cron - example 2
+**RHCSA Objective: **005b Schedule tasks using at and cron
+
+**Summary:**
+Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
+1. Find and Replace any occurence of cron - example 2 in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**Scenario:**
+Briefly describe the scenario here, and describe the problem that we are going to solve.
+
+**cron - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
+
+**Relevant cron - example 2 links:**
+* N/A
+
+**Relevant cron - example 2 Screenshots:**
+Paste any relevant screenshots here.
