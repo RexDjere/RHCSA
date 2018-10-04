@@ -12,13 +12,13 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[cron - examples]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** cron
+**RHCSA Objective: **005b Schedule tasks using at and cron
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with the **cron **command.
 
 **KEYWORD - options:**
 * -a: describe option a.
