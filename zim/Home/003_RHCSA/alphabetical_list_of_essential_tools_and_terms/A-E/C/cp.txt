@@ -5,16 +5,52 @@ Creation-Date: 2018-07-10T22:45:48-04:00
 ====== cp ======
 Created Tuesday 10 July 2018
 
+tasks template
+* +cp - function
+* +cp - description
+* +cp - examples
+
+
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[C]]
 
-**Summary**
-The cp cp is used to copy files and directories.
+**KYWRD:** cp
+**RHCSA Objective: **001h Create, delete, copy, and move files and directories
 
-tasks template
-* [[+cp - function]]
-* [[+cp - description]]
+**Summary:**
+The **cp** command is used to copy files and directories.
+
+**cp:**
+* cp - function: The primary function of the cp command is to copy files and directories. The general format is:
+	* cp //SOURCE DESTINATION//
+* cp - description: The cp command is used to copy a file or directory from a //SOURCE// location to a //DESTINATION// location. The general systax of the command is as follows:
+	* cp //SOURCE// //DESTINATION//
+	* For example, let us assume that we want to copy a file named test_text_file.odt from FOLDER1 to FOLDER2 in the current working directory. We would simply issue this command:
+		* mv FOLDER1/test_text_file.odt FOLDER2
 * [[+cp - examples]]
+* [[+cp - options-flags]] 
 
-cp all templates:options template:alphabetical list of essential tools:B:binary location:
-cp [[K-O:M:man location]]:
+**Relevant cp links:**
+* https://en.wikipedia.org/wiki/Cp_(Unix)
+
+**Relevant cp notes:**
+* N/A
+
+**Associated cp binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cp: /usr/bin/cp
+
+**Associated cp man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* cp: 
+		* /usr/share/man/man1/cp.1.gz 
+		* /usr/share/man/man1p/cp.1p.gz
+
+**Relevant cp Screenshots:**
+N/A
 
