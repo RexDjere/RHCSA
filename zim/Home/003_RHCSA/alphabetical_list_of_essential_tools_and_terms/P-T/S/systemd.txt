@@ -5,12 +5,27 @@ Creation-Date: 2018-07-19T02:41:13-04:00
 ====== systemd ======
 Created Thursday 19 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[+systemd - targets]]
 [[S]]
 
-**Summary**
+**KYWRD:** systemd
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 systemd is a newer system that replaced the older System V Init system. systemd replaces the Init system concept of run levels with [[+systemd - targets]]. Each systemd target defines a different mode of operation. 
+
+**systemd:**
+* systemd - function: State the main function of the topic here.
+* systemd - description: Provide a more detail description here.
+* systemd - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the systemd examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* systemd - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the systemd options page using this template: [[Home:002 all templates:options template|options template]]]
 
 systemd
 * [[+systemd - function]]
@@ -24,3 +39,21 @@ systemd
 The current systemd level can be viewed using this command: __systemctl get-default__
 {{./pasted_image.png}}
 
+**Relevant systemd links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant systemd notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated systemd binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated systemd man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant systemd Screenshots:**
+Paste any relevant screenshots here.
