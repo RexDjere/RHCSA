@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T03:38:44-04:00
 ====== dd ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
+
+**KYWRD:** dd
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**dd** is a Linux/Unix utility that is used to convert and copy files.
+
+**dd:**
+* dd - function: convert and copy files.
+* dd - description: N/A
+* [[+dd - examples]]
+* [[+dd - options-flags]] 
+
+**Relevant dd links:**
+* https://en.wikipedia.org/wiki/Dd_(Unix)
+
+**Relevant dd notes:**
+* N/A
+
+**Associated dd binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dd: /usr/bin/dd
+
+**Associated dd man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* dd: 
+		* /usr/share/man/man1/dd.1.gz 
+		* /usr/share/man/man1p/dd.1p.gz
+
+**Relevant dd Screenshots:**
+N/A

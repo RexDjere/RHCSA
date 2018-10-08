@@ -29,8 +29,8 @@ The Linux/Unix **date **command is used to print or set the date and time on Uni
 **date:**
 * date - function: print or set the date and time.
 * date - description: N/A
-* [[date - examples]] 
-* [[date - options-flags]] 
+* [[+date - examples]] 
+* [[+date - options-flags]] 
 
 **Relevant date links:**
 * http://pubs.opengroup.org/onlinepubs/009604599/utilities/date.html
