@@ -5,7 +5,39 @@ Creation-Date: 2018-07-10T23:08:50-04:00
 ====== delgroup ======
 Created Tuesday 10 July 2018
 
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[F-J:G:groups]]
 [[D]]
 
+**KYWRD:** delgroup
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary:**
+See [[F-J:G:groupdel]]
+
+**delgroup:**
+* delgroup - function: See [[F-J:G:groupdel]]
+* delgroup - description: See [[F-J:G:groupdel]]
+* delgroup - examples: See [[F-J:G:groupdel]]
+* delgroup - options-flags: See [[F-J:G:groupdel]]
+
+**Relevant delgroup links:**
+* https://www.computerhope.com/unix/deluser.htm
+
+**Relevant delgroup notes:**
+* N/A
+
+**Associated delgroup binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[F-J:G:groupdel]]
+
+**Associated delgroup man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[F-J:G:groupdel]]
+
+**Relevant delgroup Screenshots:**
 See [[F-J:G:groupdel]]

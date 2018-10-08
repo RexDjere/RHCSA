@@ -23,7 +23,6 @@ command to get timestamp: __date '+%A %D %X'__
 2. set the attributes of shell variables and functions
 3. display the value of shell variables and functions
 
-
 **declare:**
 * declare - function: process shell variables and functions
 * declare - description: N/A
