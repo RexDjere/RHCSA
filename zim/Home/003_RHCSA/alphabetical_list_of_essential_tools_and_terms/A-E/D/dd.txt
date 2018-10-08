@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[D]]
 
 **KYWRD:** dd
-**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+**RHCSA Objective: **001h Create, delete, copy, and move files and directories
 
 **Summary:**
 **dd** is a Linux/Unix utility that is used to convert and copy files.

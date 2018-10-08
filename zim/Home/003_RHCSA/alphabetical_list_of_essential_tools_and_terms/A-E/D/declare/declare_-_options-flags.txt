@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-10-07T21:40:45-04:00
+Creation-Date: 2018-10-07T21:54:22-04:00
 
-====== dd - options-flags ======
+====== declare - options-flags ======
 Created Sunday 07 October 2018
 
 [[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
@@ -12,10 +12,10 @@ command to get timestamp: __date '+%A %D %X'__
 [[002 all templates]]
 [[00 TODO LIST]]
 [[003 RHCSA:RHCSA exam:objectives]]
-[[dd]]
+[[declare]]
 
-**KYWRD:** dd
-**RHCSA Objective: **001h Create, delete, copy, and move files and directories
+**KYWRD:** declare
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
 This article describes the options available with the **command_name/link_here **command.
