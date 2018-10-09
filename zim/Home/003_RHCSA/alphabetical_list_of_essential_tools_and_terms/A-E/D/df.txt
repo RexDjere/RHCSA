@@ -14,38 +14,32 @@ command to get timestamp: __date '+%A %D %X'__
 [[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** df
+**RHCSA Objective: **005a. Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
 **Summary**
-The **df** utility is used to report file system space usage.
-
-df
-* [[+df - function]]
-* [[+df - description]]
-* [[+df - examples]]
+The **df** utility is used to report file system space usage on Linux Unix systems.
 
 **df:**
-* df - function: State the main function of the topic here.
-* df - description: Provide a more detail description here.
-* df - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the df examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* df - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the df options page using this template: [[Home:002 all templates:options template|options template]]]
+* df - function: The df command is used to display file system usage.
+* df - description: N/A
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples|df - examples]] 
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - options-flags|df - options-flags]]
 
 **Relevant df links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Df_(Unix)
 
 **Relevant df notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated df binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: df: /usr/bin/df
 
 **Associated df man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* df: 
+		* /usr/share/man/man1/df.1.gz 
+		* /usr/share/man/man1p/df.1p.gz
 
 **Relevant df Screenshots:**
-Paste any relevant screenshots here.
+N/A
