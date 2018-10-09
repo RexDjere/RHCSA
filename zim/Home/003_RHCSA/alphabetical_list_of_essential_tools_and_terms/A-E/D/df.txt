@@ -5,14 +5,47 @@ Creation-Date: 2018-07-10T23:04:22-04:00
 ====== df ======
 Created Tuesday 10 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:P-T:S:system information
-Home:RHCSA:exam:objectives:tasks:005 - deploy, configure, and maintain systems:005 - right branches:Install Red Hat Enterprise Linux systems as virtual guests
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:D
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[D]]
+
+**KYWRD:** type the kywrd here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
-The df utility is used to report file system space usage.
+The **df** utility is used to report file system space usage.
 
 df
 * [[+df - function]]
 * [[+df - description]]
 * [[+df - examples]]
+
+**df:**
+* df - function: State the main function of the topic here.
+* df - description: Provide a more detail description here.
+* df - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the df examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* df - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the df options page using this template: [[Home:002 all templates:options template|options template]]]
+
+**Relevant df links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant df notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated df binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated df man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant df Screenshots:**
+Paste any relevant screenshots here.
