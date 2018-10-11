@@ -23,8 +23,8 @@ command to get timestamp: __date '+%A %D %X'__
 **dmesg:**
 * dmesg - function: print the message buffer of the Linux kernel.
 * dmesg - description: N/A
-* [[dmesg - examples]] 
-* [[dmesg - options-flags]]
+* [[+dmesg - examples]] 
+* [[+dmesg - options-flags]]
 
 **Relevant dmesg links:**
 * https://en.wikipedia.org/wiki/Dmesg
