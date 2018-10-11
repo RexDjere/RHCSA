@@ -23,8 +23,8 @@ The Linux/Unix **diff** utility is used to compare files line by line.
 **diff:**
 * diff - function: compare files line by line.
 * diff - description: N/A
-* [[diff - examples]] 
-* [[diff - options-flags]] 
+* [[+diff - examples]] 
+* [[+diff - options-flags]] 
 
 **Relevant diff links:**
 * https://en.wikipedia.org/wiki/Diff
