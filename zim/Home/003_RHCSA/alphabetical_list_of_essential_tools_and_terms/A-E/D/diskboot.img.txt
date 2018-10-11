@@ -26,8 +26,8 @@ diskboot.img
 **diskboot.img:**
 * diskboot.img - function: reads remainder of core image into memory and loads the operating system kernel
 * diskboot.img - description: N/A
-* [[diskboot.img - examples]] 
-* [[diskboot.img - options-flags]] 
+* [[+diskboot.img - examples]] 
+* [[+diskboot.img - options-flags]] 
 
 **Relevant diskboot.img links:**
 * https://www.gnu.org/software/grub/manual/grub/html_node/Images.html
