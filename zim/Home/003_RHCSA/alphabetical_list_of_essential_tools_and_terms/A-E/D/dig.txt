@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[D]]
 
 **KYWRD:** dig
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
 
 **Summary:**
 **dig** stands for **domain information groper**.  **dig** is a utility for Linux/Unix that is used to query **Domain Name System** (**DNS**) servers.

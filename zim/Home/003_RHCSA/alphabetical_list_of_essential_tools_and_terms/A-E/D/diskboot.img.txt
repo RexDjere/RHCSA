@@ -5,10 +5,41 @@ Creation-Date: 2018-07-19T02:09:38-04:00
 ====== diskboot.img ======
 Created Thursday 19 July 2018
 
-[[F-J:G:GRUB:GRUB image files]]
-v
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[F-J:G:GRUB:GRUB image files]]
+
+**KYWRD:** diskboot.img
+**RHCSA Objective: **005d Configure systems to boot into a specific target automatically
+
+**Summary:**
 diskboot.img
 	* is contained in the first sector of the core image
 	* does not have file handling, so the location of core.img is hard coded into it
 	* reads remainder of core image into memory and loads the operating system kernel
+
+**diskboot.img:**
+* diskboot.img - function: reads remainder of core image into memory and loads the operating system kernel
+* diskboot.img - description: N/A
+* [[diskboot.img - examples]] 
+* [[diskboot.img - options-flags]] 
+
+**Relevant diskboot.img links:**
+* https://www.gnu.org/software/grub/manual/grub/html_node/Images.html
+
+**Relevant diskboot.img notes:**
+* N/A
+
+**Associated diskboot.img binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated diskboot.img man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant diskboot.img Screenshots:**
+N/A
