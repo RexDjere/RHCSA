@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-30T19:26:19-04:00
 
-====== df - options ======
+====== df - options-flags ======
 Created Monday 30 July 2018
 
 options template version: Friday 31 2018 09:56:05 PM

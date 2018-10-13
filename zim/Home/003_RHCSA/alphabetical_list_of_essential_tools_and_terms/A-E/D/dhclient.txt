@@ -5,6 +5,38 @@ Creation-Date: 2018-07-31T04:55:46-04:00
 ====== dhclient ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
+
+**KYWRD:** dhclient
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary:**
+**dhclient** is the Linux/Unix client for the Dynamic Host Configuration Protocol.
+
+**dhclient:**
+* dhclient - function: client for the Dynamic Host Configuration Protocol.
+* dhclient - description: N/A
+* [[+dhclient - examples]] 
+* [[+dhclient - options-flags]]
+
+**Relevant dhclient links:**
+* https://linux.die.net/man/8/dhclient
+
+**Relevant dhclient notes:**
+* N/A
+
+**Associated dhclient binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dhclient: /usr/sbin/dhclient
+
+**Associated dhclient man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: dhclient: /usr/share/man/man8/dhclient.8.gz
+
+**Relevant dhclient Screenshots:**
+N/A

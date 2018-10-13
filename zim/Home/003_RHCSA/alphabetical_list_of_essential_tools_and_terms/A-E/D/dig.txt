@@ -5,6 +5,38 @@ Creation-Date: 2018-07-31T04:32:19-04:00
 ====== dig ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
+
+**KYWRD:** dig
+**RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
+
+**Summary:**
+**dig** stands for **domain information groper**.  **dig** is a utility for Linux/Unix that is used to query **Domain Name System** (**DNS**) servers.
+
+**dig:**
+* dig - function: used to query DNS servers.
+* dig - description: N/A
+* [[+dig - examples]]
+* [[+dig - options-flags]]
+
+**Relevant dig links:**
+* https://en.wikipedia.org/wiki/Dig_(command)
+
+**Relevant dig notes:**
+* N/A
+
+**Associated dig binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dig: /usr/bin/dig
+
+**Associated dig man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: dig: /usr/share/man/man1/dig.1.gz
+
+**Relevant dig Screenshots:**
+N/A

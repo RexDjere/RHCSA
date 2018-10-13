@@ -5,10 +5,36 @@ Creation-Date: 2018-07-30T19:22:01-04:00
 ====== df - examples ======
 Created Monday 30 July 2018
 
-:Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df
-
-**Summary**
-In this article, we will go over several examples of how to use the df command.
-
 df - examples
+
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
+replace this with a link to the parent page 1 level above this page
+
+**KYWRD:** df
+**RHCSA Objective: **005a. Create, mount, unmount, and use vfat, ext4, and xfs file systems
+
+**Summary:**
+This article contains examples that illustrate the correct use of the **df **command.
+1. Find and Replace any occurence of df in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**df - examples:**
 * [[+df - example 1]] - Displaying the filesystem space usage information on all mounted filesystems in gigabytes (GB).
+* df - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* df - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant df links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant df Screenshots:**
+Paste any relevant screenshots here.

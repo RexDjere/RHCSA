@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T03:44:06-04:00
 ====== diff ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
+
+**KYWRD:** diff
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+The Linux/Unix **diff** utility is used to compare files line by line.
+
+**diff:**
+* diff - function: compare files line by line.
+* diff - description: N/A
+* [[+diff - examples]] 
+* [[+diff - options-flags]] 
+
+**Relevant diff links:**
+* https://en.wikipedia.org/wiki/Diff
+
+**Relevant diff notes:**
+* N/A
+
+**Associated diff binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: diff: /usr/bin/diff
+
+**Associated diff man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* diff: 
+		* /usr/share/man/man1/diff.1.gz 
+		* /usr/share/man/man1p/diff.1p.gz
+
+**Relevant diff Screenshots:**
+N/A

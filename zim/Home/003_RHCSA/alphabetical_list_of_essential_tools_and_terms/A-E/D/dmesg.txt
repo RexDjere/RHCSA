@@ -5,6 +5,38 @@ Creation-Date: 2018-07-31T04:12:40-04:00
 ====== dmesg ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[D]]
+
+**KYWRD:** dmesg
+**RHCSA Objective: **005j Update the kernel package appropriately to ensure a bootable system
+
+**Summary:**
+**dmesg** stands for **display message** or **driver message**.  The **dmesg **utility is used to print the message buffer of the Linux kernel.
+
+**dmesg:**
+* dmesg - function: print the message buffer of the Linux kernel.
+* dmesg - description: N/A
+* [[+dmesg - examples]] 
+* [[+dmesg - options-flags]]
+
+**Relevant dmesg links:**
+* https://en.wikipedia.org/wiki/Dmesg
+
+**Relevant dmesg notes:**
+* N/A
+
+**Associated dmesg binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dmesg: /usr/bin/dmesg
+
+**Associated dmesg man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: dmesg: /usr/share/man/man1/dmesg.1.gz
+
+**Relevant dmesg Screenshots:**
+N/A

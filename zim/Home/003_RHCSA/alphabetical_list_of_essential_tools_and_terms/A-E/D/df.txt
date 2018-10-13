@@ -5,14 +5,41 @@ Creation-Date: 2018-07-10T23:04:22-04:00
 ====== df ======
 Created Tuesday 10 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:P-T:S:system information
-Home:RHCSA:exam:objectives:tasks:005 - deploy, configure, and maintain systems:005 - right branches:Install Red Hat Enterprise Linux systems as virtual guests
-Home:RHCSA:alphabetical list of essential tools and terms:A-E:D:D
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[D]]
+
+**KYWRD:** df
+**RHCSA Objective: **005a. Create, mount, unmount, and use vfat, ext4, and xfs file systems
 
 **Summary**
-The df utility is used to report file system space usage.
+The **df** utility is used to report file system space usage on Linux Unix systems.
 
-df
-* [[+df - function]]
-* [[+df - description]]
-* [[+df - examples]]
+**df:**
+* df - function: The df command is used to display file system usage.
+* df - description: N/A
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples|df - examples]] 
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - options-flags|df - options-flags]]
+
+**Relevant df links:**
+* https://en.wikipedia.org/wiki/Df_(Unix)
+
+**Relevant df notes:**
+* N/A
+
+**Associated df binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: df: /usr/bin/df
+
+**Associated df man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+	* df: 
+		* /usr/share/man/man1/df.1.gz 
+		* /usr/share/man/man1p/df.1p.gz
+
+**Relevant df Screenshots:**
+N/A
