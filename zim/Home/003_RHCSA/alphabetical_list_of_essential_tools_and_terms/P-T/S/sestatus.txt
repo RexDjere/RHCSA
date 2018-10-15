@@ -5,6 +5,42 @@ Creation-Date: 2018-07-31T05:33:30-04:00
 ====== sestatus ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[S]]
+
+**KYWRD:** sestatus
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+The **sestatus** command is used to get SELinux status information on Linux/Unix systems.
+
+**sestatus:**
+* sestatus - function: get SELinux status information.
+* sestatus - description: N/A
+* [[+sestatus - examples]]
+* [[+sestatus - options-flags]] 
+
+**Relevant sestatus links:**
+* https://www.centos.org/docs/5/html/5.1/Deployment_Guide/sec-selinux-status-viewing.html
+* https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+**Relevant sestatus notes:**
+* N/A
+
+**Associated sestatus binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: 
+	* sestatus: 	
+		* /usr/sbin/sestatus 
+		* /etc/sestatus.conf
+
+**Associated sestatus man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: sestatus: /usr/share/man/man8/sestatus.8.gz
+
+**Relevant sestatus Screenshots:**
+N/A
