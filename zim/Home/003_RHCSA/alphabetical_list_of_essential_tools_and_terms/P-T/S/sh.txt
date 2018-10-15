@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T05:53:26-04:00
 ====== sh ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[S]]
+
+**KYWRD:** sh
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**sh** is the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Bourne shell|Bourne shell]].
+
+**sh:**
+* sh - function: the Bourne shell.
+* sh - description: N/A
+* [[sh - examples]]
+* [[sh - options-flags]] 
+
+**Relevant sh links:**
+* https://en.wikipedia.org/wiki/Bourne_shell
+
+**Relevant sh notes:**
+* N/A
+
+**Associated sh binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: sh: /usr/bin/sh
+
+**Associated sh man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* sh: /
+		* usr/share/man/man1/sh.1.gz 
+		* /usr/share/man/man1p/sh.1p.gz
+
+**Relevant sh Screenshots:**
+N/A

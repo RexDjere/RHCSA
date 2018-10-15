@@ -28,6 +28,7 @@ All commands, utilities and terms starting with the letter B are sub-pages to th
 * [[+boot.img]]
 * [[+Boot Loader]]
 * [[+Bootstrap Loader]]
+* [[+Bourne shell]]
 * [[+bridge]]
 * [[+bridge-utils]]
 * [[+bunzip2]]
