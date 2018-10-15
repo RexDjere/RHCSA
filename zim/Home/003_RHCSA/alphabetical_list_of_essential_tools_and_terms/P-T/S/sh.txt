@@ -23,8 +23,8 @@ command to get timestamp: __date '+%A %D %X'__
 **sh:**
 * sh - function: the Bourne shell.
 * sh - description: N/A
-* [[sh - examples]]
-* [[sh - options-flags]] 
+* [[+sh - examples]]
+* [[+sh - options-flags]] 
 
 **Relevant sh links:**
 * https://en.wikipedia.org/wiki/Bourne_shell

@@ -34,6 +34,7 @@ All commands, utilities and terms starting with the letter C are sub-pages to th
 * [[+comm]]
 * [[+command]]
 * [[+command:command line interface]]
+* [[+command-line interpreter]]
 * [[+Complemetary Metal-Oxide-Semiconductor]]
 * [[+core.img]]
 * [[+cp]]

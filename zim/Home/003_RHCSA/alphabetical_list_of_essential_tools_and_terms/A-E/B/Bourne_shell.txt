@@ -12,39 +12,34 @@ command to get timestamp: __date '+%A %D %X'__
 [[000 TODO LIST]]
 [[002 all templates]]
 [[003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[B]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** Bourne shell
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+The **Bourne shell **is a shell, also known as a [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:command-line interpreter|command-line interpreter]], for Linux/Unix operating systems.  The Bourne shell binary is [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sh|sh]].
 
-**KEYWORD:**
-* KEYWORD - function: State the main function of the topic here.
-* KEYWORD - description: Provide a more detail description here.
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[Home:002 all templates:options template|options template]]]
+**Bourne shell:**
+* Bourne shell - function: command-line interpreter for Linux/Unix.
+* Bourne shell - description: N/A
+* [[+Bourne shell - examples]] 
+* [[+Bourne shell - options-flags]]
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant Bourne shell links:**
+* https://en.wikipedia.org/wiki/Bourne_shell
 
-**Relevant KEYWORD notes:**
-* note 1
-* note 2
-* note 3
+**Relevant Bourne shell notes:**
+* N/A
 
-**Associated KEYWORD binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+**Associated Bourne shell binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: sh: /usr/bin/sh
 
-**Associated KEYWORD man pages: **
+**Associated Bourne shell man pages: **
 * [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* sh: /
+		* usr/share/man/man1/sh.1.gz 
+		* /usr/share/man/man1p/sh.1p.gz
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant Bourne shell Screenshots:**
+N/A
