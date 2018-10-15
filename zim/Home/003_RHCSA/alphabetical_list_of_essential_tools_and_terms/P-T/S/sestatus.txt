@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[S]]
 
 **KYWRD:** sestatus
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **007d List and identify SELinux file and process context
 
 **Summary:**
 The **sestatus** command is used to get SELinux status information on Linux/Unix systems.
