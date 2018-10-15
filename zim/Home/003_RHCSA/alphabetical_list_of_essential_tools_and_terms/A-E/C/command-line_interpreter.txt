@@ -17,8 +17,15 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** command-line interpreter
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
+
 **Summary:**
 A **command-line interpreter** is designed to read lines of text entered by the computer's user, and to execute them.
+
+Some popular command-line interpreters for Linux/Unix:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash|bash]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Bourne shell|Bourne shell]]
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:KornShell|KornShell]]
+
 
 **command-line interpreter:**
 * command-line interpreter - function: read and execute lines of text entered by the computer's user.

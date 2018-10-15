@@ -17,5 +17,9 @@ command to get timestamp: __date '+%A %D %X'__
 All commands, utilities and terms starting with the letter K are sub-pages to this page.
 
 **K:**
+* [[+Kernel-based Virtual Machine]]
+* [[+kernel.img]]
 * [[+kill]]
 * [[+killall]]
+* [[+KornShell]]
+* [[+KVM]]
