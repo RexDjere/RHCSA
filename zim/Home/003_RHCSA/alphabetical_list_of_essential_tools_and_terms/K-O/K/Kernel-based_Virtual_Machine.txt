@@ -31,10 +31,10 @@ See [[KVM]].
 * See [[KVM]].
 
 **Associated KVM binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[KVM]].
 
 **Associated KVM man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[KVM]].
 
 **Relevant KVM Screenshots:**
 See [[KVM]].

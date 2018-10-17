@@ -5,8 +5,38 @@ Creation-Date: 2018-07-19T02:09:51-04:00
 ====== kernel.img ======
 Created Thursday 19 July 2018
 
-Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB image files
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[K]]
 
-kernel.img
-	* contains GRUB's basic run-time facilities. Is rarely used.
+**KYWRD:** kernel.img
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+**kernel.img** is a file used by [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB|GRUB]] during the computer's boot process.  It contains GRUB's basic run-time facilities.
+
+**kernel.img:**
+* kernel.img - function: a file containing GRUB;s basic run-time facilities.
+* kernel.img - description: N/A
+* [[+kernel.img - examples]]
+* [[+kernel.img - options-flags]]
+
+**Relevant kernel.img links:**
+* https://www.gnu.org/software/grub/manual/grub/html_node/Images.html
+
+**Relevant kernel.img notes:**
+* N/A
+
+**Associated kernel.img binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated kernel.img man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+
+**Relevant kernel.img Screenshots:**
+N/A
