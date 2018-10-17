@@ -5,6 +5,42 @@ Creation-Date: 2018-07-31T03:44:46-04:00
 ====== kill ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[K]]
+
+**KYWRD:** kill
+**RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
+
+**Summary:**
+The **kill** command is used to terminate processes on Linux/Unix systems.
+
+**kill:**
+* kill - function: terminate procces.
+* kill - description: N/A
+* [[+kill - examples]]
+* [[+kill - options-flags]]
+
+**Relevant kill links:**
+* http://www.linfo.org/kill.html
+
+**Relevant kill notes:**
+* N/A
+
+**Associated kill binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: kill: /usr/bin/kill
+
+**Associated kill man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* kill: 
+		* /usr/share/man/man3p/kill.3p.gz 
+		* /usr/share/man/man2/kill.2.gz /usr/share/man/man1/kill.1.gz 
+		* /usr/share/man/man1p/kill.1p.gz
+
+**Relevant kill Screenshots:**
+N/A
