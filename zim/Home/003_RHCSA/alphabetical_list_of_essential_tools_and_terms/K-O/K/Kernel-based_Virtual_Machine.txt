@@ -5,8 +5,36 @@ Creation-Date: 2018-07-31T16:20:45-04:00
 ====== Kernel-based Virtual Machine ======
 Created Tuesday 31 July 2018
 
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[KVM]]
 [[K]]
 
+**KYWRD:** KVM
+**RHCSA Objective: **002f Access a virtual machine's console
+
 **Summary**
+See [[KVM]].
+
+**KVM:**
+* KVM - function: See [[KVM]].
+* KVM - description: See [[KVM]].
+* KVM - examples: See [[KVM]].
+* KVM - options-flags: See [[KVM]].
+
+**Relevant KVM links:**
+* See [[KVM]].
+
+**Relevant KVM notes:**
+* See [[KVM]].
+
+**Associated KVM binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+
+**Associated KVM man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+
+**Relevant KVM Screenshots:**
 See [[KVM]].
