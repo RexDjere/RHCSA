@@ -5,19 +5,41 @@ Creation-Date: 2018-07-31T16:19:11-04:00
 ====== KVM ======
 Created Tuesday 31 July 2018
 
-Home
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[K]]
 
 **KYWRD:** KVM
 **RHCSA Objective: **002f Access a virtual machine's console
 
-**Summary**
-KVM stands for Home:RHCSA:alphabetical list of essential tools and terms:K-O:K:Kernel-based Virtual Machine. It is an [[O:open source]] / Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:free software program that allows a host computer system to operate virtual machines running on guest operating systems.  For example, KVM would allow one to run Home:RHCSA:alphabetical list of essential tools and terms:A-E:C:CentOS on a virtual machine hosted on a physical computer running the Home:RHCSA:alphabetical list of essential tools and terms:F-J:F:Fedora operating system.
+**Summary:**
+**KVM** stands for **Kernel-based Virtual Machine**.  KVM is a hypervisor, a virtualization infrastructure that allows one to run guest operating systems in a virtualized environment.
 
-More information on KVM can be found here:
+**KVM:**
+* KVM - function: a hypervisor for Linux/Unix.
+* KVM - description: N/A
+* [[+KVM - examples]]
+* [[+KVM - options-flags]]
+
+**Relevant KVM links:**
 * https://www.linux-kvm.org/page/Main_Page
 * https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine
 
+**Relevant KVM notes:**
+* N/A
 
+**Associated KVM binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: qemu-kvm: /usr/bin/qemu-kvm
+
+**Associated KVM man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: qemu-kvm: /usr/share/man/man1/qemu-kvm.1.gz
+
+**Relevant KVM Screenshots:**
+N/A
 
 
