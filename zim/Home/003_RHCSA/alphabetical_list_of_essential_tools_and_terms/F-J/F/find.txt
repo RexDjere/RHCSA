@@ -5,6 +5,44 @@ Creation-Date: 2018-07-31T02:53:46-04:00
 ====== find ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[F]]
+
+**KYWRD:** find
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **find** command is used to search for files in Linux/Unix filesystems.
+
+**find:**
+* find - function: search for files.
+* find - description: N/A
+* [[+find - examples]] 
+* [[+find - options-flags]] 
+
+**Relevant find links:**
+* https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/
+
+**Relevant find notes:**
+* N/A
+
+**Associated find binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: find: /usr/bin/find
+
+**Associated find man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* find: 
+		* /usr/share/man/man1p/find.1p.gz 
+		* /usr/share/man/man1/find.1.gz 
+		* /usr/share/info/find.info.gz 
+		* /usr/share/info/find.info-2.gz 
+		* /usr/share/info/find.info-1.gz
+
+**Relevant find Screenshots:**
+N/A
