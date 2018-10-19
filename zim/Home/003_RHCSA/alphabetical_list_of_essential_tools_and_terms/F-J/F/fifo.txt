@@ -23,8 +23,8 @@ command to get timestamp: __date '+%A %D %X'__
 **fifo:**
 * fifo - function: first in, first out.
 * fifo - description: N/A
-* [[fifo - examples]] 
-* [[fifo - options-flags]]
+* [[+fifo - examples]] 
+* [[+fifo - options-flags]]
 
 **Relevant fifo links:**
 * http://man7.org/linux/man-pages/man7/fifo.7.html

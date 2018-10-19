@@ -5,6 +5,41 @@ Creation-Date: 2018-07-31T03:35:22-04:00
 ====== file ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[F]]
+
+**KYWRD:** file
+**RHCSA Objective: **005f Diagnose and correct file permission problems
+
+**Summary:**
+The **file** command is used to determine file types on Linux/Unix systems.
+
+**file:**
+* file - function: determine file types.
+* file - description: N/A
+* [[+file - examples]] 
+* [[+file - options-flags]]
+
+**Relevant file links:**
+* https://shapeshed.com/unix-file/
+
+**Relevant file notes:**
+* N/A
+
+**Associated file binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: file: /usr/bin/file /usr/share/file
+
+**Associated file man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+	* file: 
+		* /usr/share/man/man1p/file.1p.gz 
+		* /usr/share/man/man1/file.1.gz
+
+**Relevant file Screenshots:**
+N/A
