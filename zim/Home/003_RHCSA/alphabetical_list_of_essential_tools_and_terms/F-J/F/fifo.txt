@@ -5,7 +5,38 @@ Creation-Date: 2018-07-14T21:41:59-04:00
 ====== fifo ======
 Created Saturday 14 July 2018
 
-Home:RHCSA:exam:objectives:001 - understand and use essential tools:001 - left branches:Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2:star:star-description
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[F]]
 
-first in, first out - method for organizing and manipulating a data buffer such that the oldest entry is processed first
+**KYWRD:** fifo
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+**fifo**: first in, first out - method for organizing and manipulating a data buffer such that the oldest entry is processed first.
+
+**fifo:**
+* fifo - function: first in, first out.
+* fifo - description: N/A
+* [[fifo - examples]] 
+* [[fifo - options-flags]]
+
+**Relevant fifo links:**
+* http://man7.org/linux/man-pages/man7/fifo.7.html
+
+**Relevant fifo notes:**
+* N/A
+
+**Associated fifo binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+
+**Associated fifo man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: fifo: /usr/share/man/man7/fifo.7.gz
+
+**Relevant fifo Screenshots:**
+N/A
