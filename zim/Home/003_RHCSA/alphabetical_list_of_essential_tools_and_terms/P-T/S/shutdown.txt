@@ -23,8 +23,8 @@ The **shutdown** comand is used to halt, power off, or reboot Linux/Unix machine
 **shutdown:**
 * shutdown - function: halt, power off, or reboot the machine.
 * shutdown - description: N/A
-* [[shutdown - examples]]
-* [[shutdown - options-flags]]
+* [[+shutdown - examples]]
+* [[+shutdown - options-flags]]
 
 **Relevant shutdown links:**
 * https://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/system-shutdown-and-restart.html
