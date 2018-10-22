@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-The **last** command displays a list of the last users who logged in to a particular Linux/Unix system.
+The **last** command displays a list of the last users who logged in to a particular Linux/Unix system.  It displays this list by searching the **/var/log/wtmp** file.
 
 **last:**
 * last - function: display a list of the last users logged into a system.
@@ -27,9 +27,8 @@ The **last** command displays a list of the last users who logged in to a partic
 * [[+last - options-flags]] 
 
 **Relevant last links:**
-* link 1
-* link 2
-* link 3
+* https://www.howtoforge.com/linux-last-command/
+* https://www.computerhope.com/unix/last.htm
 
 **Relevant last notes:**
 * https://www.howtoforge.com/linux-last-command/

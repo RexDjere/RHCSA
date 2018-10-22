@@ -2,9 +2,42 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-07-31T04:07:44-04:00
 
-====== lastb ======
+====== lastbb ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[L]]
+
+**KYWRD:** lastbb
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **lastb** command displays a list of the lastb users who logged in to a particular Linux/Unix system.  It displays this list by searching the **/var/log/btmp** file. In addition to the last users who logged into the system, the lastb command also shows bad login attempts.
+
+**lastb:**
+* lastb - function: display a list of the last users logged into a system, and bad login attempts.
+* lastb - description: N/A
+* [[+lastb - examples]] 
+* [[+lastb - options-flags]] 
+
+**Relevant lastb links:**
+* https://www.systutorials.com/docs/linux/man/1-lastb/
+* https://www.computerhope.com/unix/last.htm
+
+**Relevant lastb notes:**
+* [[N/A]]
+
+**Associated lastb binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: lastb: /usr/bin/lastb
+
+**Associated lastb man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: lastb: /usr/share/man/man1/lastb.1.gz
+
+**Relevant lastb Screenshots:**
+N/A
