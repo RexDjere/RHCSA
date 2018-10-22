@@ -5,6 +5,39 @@ Creation-Date: 2018-07-31T05:25:37-04:00
 ====== ldd ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
+[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[003 RHCSA:RHCSA exam:objectives]]
 [[L]]
+
+**KYWRD:** ldd
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **ldd** command displays the dynamic libraries required by an executable file.  An example of its usage is as follows:
+__ldd /bin/cp__
+
+**ldd:**
+* ldd - function: display the dynamic libraries required by an executable file.
+* ldd - description: N/A
+* [[+ldd - examples]]
+* [[+ldd - options-flags]]
+
+**Relevant ldd links:**
+* https://linoxide.com/linux-command/ldd-command-examples-linux/
+
+**Relevant ldd notes:**
+* N/A
+
+**Associated ldd binary files: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ldd: /usr/bin/ldd
+
+**Associated ldd man pages: **
+* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ldd: /usr/share/man/man1/ldd.1.gz
+
+**Relevant ldd Screenshots:**
+N/A
