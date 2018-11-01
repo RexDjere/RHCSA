@@ -8,10 +8,10 @@ Created Tuesday 31 July 2018
 [[:Home:002 all templates:generic template]] version: Friday 31 2018 09:50:26 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[RHCSA exam:objectives]]
+Home
+002 all templates
+00 TODO LIST
+RHCSA exam:objectives
 [[A]]
 
 **KYWRD:** addr2line
