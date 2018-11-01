@@ -5,13 +5,14 @@ Creation-Date: 2018-08-07T12:28:41-04:00
 ====== U-Z ======
 Created Tuesday 07 August 2018
 
-[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[alphabetical list of essential tools and terms]]
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms]]
 
 **Summary**
 This page links to U-Z pages.

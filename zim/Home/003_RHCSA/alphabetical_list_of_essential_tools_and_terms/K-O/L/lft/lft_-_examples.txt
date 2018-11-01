@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T20:03:40-04:00
+Creation-Date: 2018-10-31T20:53:28-04:00
 
-====== examples homepage template ======
-Created Thursday 02 August 2018
+====== lft - examples ======
+Created Wednesday 31 October 2018
 
 [[:Home:002 all templates:examples homepage template]][[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
 command to get timestamp: __date '+%A %D %X'__ 
@@ -35,10 +35,3 @@ This article contains examples that illustrate the correct use of the **command_
 
 **Relevant KEYWORD Screenshots:**
 Paste any relevant screenshots here.
-
-
-
-
-
-
-

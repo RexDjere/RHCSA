@@ -1,11 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-08-02T20:00:32-04:00
+Creation-Date: 2018-10-31T20:55:18-04:00
 
-====== options template ======
-Created Thursday 02 August 2018
+====== lft - options-flags ======
+Created Wednesday 31 October 2018
 
-[[options template]] version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 Home

@@ -5,14 +5,14 @@ Creation-Date: 2018-07-19T02:04:39-04:00
 ====== Linux Loader ======
 Created Thursday 19 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[L]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+L
 
 **KYWRD:** Linux Loader
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -27,8 +27,8 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **Linux Loader:**
 * Linux Loader - function: State the main function of the topic here.
 * Linux Loader - description: Provide a more detail description here.
-* Linux Loader - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* Linux Loader - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader options page using this template: [[Home:002 all templates:options template|options template]]]
+* Linux Loader - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader examples page using this template:  examples homepage template]
+* Linux Loader - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader options page using this template: options template]
 
 **Relevant Linux Loader links:**
 * link 1
@@ -41,10 +41,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * note 3
 
 **Associated Linux Loader binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated Linux Loader man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant Linux Loader Screenshots:**
 Paste any relevant screenshots here.
