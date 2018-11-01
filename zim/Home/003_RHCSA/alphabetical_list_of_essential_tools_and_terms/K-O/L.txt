@@ -22,7 +22,7 @@ All commands, utilities and terms starting with the letter L are sub-pages to th
 * [[+ldd]]
 * [[+less]] , [[M:more]]
 * [[+LILO]]
-* [[+locate]] , [[P-T:S:slocate]]
+* [[+locate]] , P-T:S:slocate
 * [[+lft]]
 * [[+ln]]
 * [[+login]]
