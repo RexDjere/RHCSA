@@ -5,7 +5,7 @@ Creation-Date: 2018-07-31T05:46:13-04:00
 ====== addr2line ======
 Created Tuesday 31 July 2018
 
-generic template version: Friday 31 2018 09:50:26 PM
+[[:Home:002 all templates:generic template]] version: Friday 31 2018 09:50:26 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
 [[Home]]
