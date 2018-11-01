@@ -5,14 +5,14 @@ Creation-Date: 2018-07-19T02:04:39-04:00
 ====== Linux Loader ======
 Created Thursday 19 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-L
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** Linux Loader
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -27,8 +27,9 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **Linux Loader:**
 * Linux Loader - function: State the main function of the topic here.
 * Linux Loader - description: Provide a more detail description here.
-* Linux Loader - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader examples page using this template:  examples homepage template]
-* Linux Loader - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader options page using this template: options template]
+* Linux Loader - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* Linux Loader - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Linux Loader options page using this template:  [[:Home:002 all templates:options template]] ]
+
 
 **Relevant Linux Loader links:**
 * link 1
