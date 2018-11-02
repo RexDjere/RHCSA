@@ -6,11 +6,11 @@ Creation-Date: 2018-07-10T22:32:19-04:00
 Created Tuesday 10 July 2018
 
 [[Home]]
-[[002 all templates:generic template]]
-[[002 all templates]]
-[[000 TODO LIST]]
+002 all templates:generic template
+002 all templates
+000 TODO LIST
 [[+objectives]]
-[[003 RHCSA]]
+003 RHCSA
 
 **Summary**
 RHCSA stands for Red Hat Certified System Administrator. The RHCSA exam is a hands on performanced-based exam that the prospective RHCSA must pass to become certified.

@@ -6,8 +6,8 @@ Creation-Date: 2018-07-10T22:28:27-04:00
 Created Tuesday 10 July 2018
 
 [[:Home]]
-[[+000 TODO LIST]]
-[[+001 TODO LIST - ARCHIVED]]
++000 TODO LIST
++001 TODO LIST - ARCHIVED
 [[+002 all templates]]
 [[+003 RHCSA]]
 [[+003 RHCSA:RHCSA exam:objectives]]

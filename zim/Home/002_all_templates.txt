@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T19:55:07-04:00
 ====== 002 all templates ======
 Created Thursday 02 August 2018
 
-[[Home]]
+Home
 [[003 RHCSA:RHCSA exam:objectives]]
 [[002 all templates]]
 
@@ -23,7 +23,7 @@ This page contains links to all of the templates available for use in this study
 **Relevant templates links:**
 * [[+A-Z pages template]]
 * [[+examples homepage template]]
-* [[Home:002 all templates:examples homepage template:examples template|+examples template]]
+* +examples template
 * [[+generic template]]
 * [[+options template]]
 

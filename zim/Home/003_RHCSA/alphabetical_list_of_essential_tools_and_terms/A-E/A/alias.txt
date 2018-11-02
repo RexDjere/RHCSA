@@ -9,8 +9,8 @@ Created Tuesday 31 July 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+000 TODO LIST
+002 all templates
 RHCSA Objectives
 [[A]]
 
