@@ -7,7 +7,7 @@ Created Thursday 02 August 2018
 
 [[:Home]]
 [[003 RHCSA:RHCSA exam:objectives]]
-01 TODO LIST - ARCHIVED
+[[001 TODO LIST - ARCHIVED]]
 
 **Summary**
 This TODO list helps me to keep track of items that I decided to leave for later completion.
