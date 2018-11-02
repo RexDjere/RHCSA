@@ -5,9 +5,9 @@ Creation-Date: 2018-07-31T17:18:23-04:00
 ====== 001 TODO LIST - ARCHIVED ======
 Created Tuesday 31 July 2018
 
-Home
+[[:Home]]
 [[003 RHCSA:RHCSA exam:objectives]]
-00 TODO LIST
+[[000 TODO LIST]]
 
 **Summary**
 This TODO list archive helps me keep track of what TODO tasks were completed in the past.
