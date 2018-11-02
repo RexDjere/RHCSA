@@ -5,7 +5,7 @@ Creation-Date: 2018-08-02T21:41:43-04:00
 ====== 000 TODO LIST ======
 Created Thursday 02 August 2018
 
-[[Home]]
+[[:Home]]
 [[003 RHCSA:RHCSA exam:objectives]]
 [[01 TODO LIST - ARCHIVED]]
 
