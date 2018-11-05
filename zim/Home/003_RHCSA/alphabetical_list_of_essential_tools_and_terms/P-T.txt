@@ -18,8 +18,8 @@ command to get timestamp: __date '+%A %D %X'__
 This page links to P-T pages.
 
 **P-T:**
-* [[+P]]
-* [[+Q]]
-* [[+R]]
-* [[+S]]
-* [[+T]]
+[[+P]]
+[[+Q]]
+[[+R]]
+[[+S]]
+[[+T]]
