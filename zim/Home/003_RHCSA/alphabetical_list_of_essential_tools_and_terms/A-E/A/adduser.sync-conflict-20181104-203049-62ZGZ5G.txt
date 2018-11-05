@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:07:47-04:00
+
+====== adduser ======
+Created Tuesday 10 July 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:users]]
+[[A]]
+
+**KYWRD:** adduser
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
+
+**Summary**
+adduser is used to create a new user account, and to modify user account settings during the creation process.  The adduser and useradd commands are interchangeable.
+
+**adduser:**
+* adduser - function: The adduser command is very similar to the useradd command. It is used to create new user accounts, and to set various account parameters during the creation process.
+* adduser - description: The adduser command is very similar to the useradd command. It is used to create new user accounts, and to set various account parameters during the creation process.
+* [[+adduser - options-flags]] 
+* [[+adduser - examples]] 
+
+**Relevant adduser links:**
+* N/A
+
+**Relevant adduser notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: adduser: /usr/sbin/adduser
+
+**Associated man pages: **
+* man location 1: adduser: /usr/share/man/man8/adduser.8.gz
+
+**Relevant adduser Screenshots**
+N/A

@@ -8,7 +8,7 @@ Created Tuesday 31 July 2018
 A-Z pages template version: Sunday 09/09/18 10:15:04 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -18,9 +18,9 @@ command to get timestamp: __date '+%A %D %X'__
 This is an alphabetically list of essential Linux tools and terms.
 
 **alphabetical list of essential tools:**
-* [[+A-E]]
-* [[+F-J]]
-* [[+K-O]]
+[[+A-E]]
+[[+F-J]]
+[[+K-O]]
 * [[+P-T]]
 * [[+U-Z]]
 

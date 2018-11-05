@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:04:31-04:00
+
+====== lft ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:L]]
+
+**KYWRD:** lft
+**RHCSA **Objective: 001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The Linux/Unix **lft** utility displays the route that packets take as they traverse a network.
+
+**lft:**
+* lft - function: display routing information.
+* lft - description: PN/A
+* [[+lft - examples]] 
+* [[+lft - options-flags]] 
+
+**Relevant lft links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant lft notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated lft binary files: **
+* binary location 1:
+
+**Associated lft man pages: **
+* man location 1:
+
+**Relevant lft Screenshots:**
+Paste any relevant screenshots here.

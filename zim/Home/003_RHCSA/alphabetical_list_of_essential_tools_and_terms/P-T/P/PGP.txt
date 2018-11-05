@@ -6,6 +6,6 @@ Creation-Date: 2018-07-17T21:14:07-04:00
 Created Tuesday 17 July 2018
 
 Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:gpg:OpenPGP:Phil Zimmermann
-[[P]]
+P
 
 See [[Pretty Good Privacy]].

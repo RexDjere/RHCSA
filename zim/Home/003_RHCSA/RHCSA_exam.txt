@@ -5,7 +5,7 @@ Creation-Date: 2018-07-10T22:32:19-04:00
 ====== RHCSA exam ======
 Created Tuesday 10 July 2018
 
-[[Home]]
+Home
 002 all templates:generic template
 002 all templates
 000 TODO LIST

@@ -5,12 +5,12 @@ Creation-Date: 2018-08-05T21:50:35-04:00
 ====== T ======
 Created Sunday 05 August 2018
 
-[[002 all templates:A-Z pages template|A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 [[P-T]]
 
 **Summary**
@@ -18,7 +18,7 @@ All commands, utilities and terms starting with the letter T are sub-pages to th
 
 **T:**
 * [[+tac]]
-* [[+tail]] , [[F-J:H:head]]
+* [[+tail]] , F-J:H:head
 * [[+talk]]
 * [[+tar]]
 * [[+tc]]
@@ -26,14 +26,14 @@ All commands, utilities and terms starting with the letter T are sub-pages to th
 * [[+tee]]
 * [[+telnet]]
 * [[+text pattern scanning utilitities]]
-* [[+tig]] , [[F-J:G:git]]
+* [[+tig]] , F-J:G:git
 * [[+time]]
 * [[+tmpfs]]
-* [[+top]] , [[F-J:H:htop]]
+* [[+top]] , F-J:H:htop
 * [[+touch]]
 * [[+tr]]
 * [[+traceroute]]
 * [[+trapdoor function]]
-* [[+true]] , [[F-J:F:false]]
+* [[+true]] , F-J:F:false
 * [[+tty]]
 * [[+type]]

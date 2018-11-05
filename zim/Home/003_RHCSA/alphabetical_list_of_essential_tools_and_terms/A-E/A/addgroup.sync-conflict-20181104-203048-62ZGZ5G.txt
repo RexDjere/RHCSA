@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:08:48-04:00
+
+====== addgroup ======
+Created Tuesday 10 July 2018
+
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:groups]]
+[[A]]
+
+**KYWRD:** addgroup
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+At the time of this writing (Wednesday 08/15/18 06:58:44 PM), my system (Fedora 28) did not have the addgroup command installed, and I did not find it in a DNF repository search. I verified here that addgroup is not included with Fedora: https://docs.fedoraproject.org/en-US/Fedora/15/html/Deployment_Guide/s1-users-tools.html
+
+**addgroup:**
+* addgroup - function: Add new group to the system.
+* addgroup - description: N/A
+* addgroup - options-flags: N/A
+* addgroup - examples: N/A
+
+**Relevant addgroup links:**
+* https://www.computerhope.com/unix/adduser.htm
+
+**Relevant addgroup notes**
+* N/A
+
+**Associated binary files: **
+* N/A
+
+**Associated man pages: **
+* N/A
+
+**Relevant addgroup Screenshots**
+N/A
