@@ -21,7 +21,7 @@ All commands, utilities and terms starting with the letter B are sub-pages to th
 * [[+badblocks]]
 * [[+bash]]
 * [[+bg]] , F-J:F:fg
-* [[+binary location]]
+* [[binary location]]
 * [[+blockdev]]
 * [[+block size]]
 * [[+block sorting text compression algorithm]]

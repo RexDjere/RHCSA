@@ -11,6 +11,8 @@ Created Tuesday 10 July 2018
 [[+002 all templates]]
 [[+003 RHCSA]]
 [[+003 RHCSA:RHCSA exam:objectives]]
+[[+binary location]]
+[[+man location]]
 
 **KYWRD:** Home
 
@@ -33,7 +35,7 @@ This is the homepage for the RHCSA Study Guide.  This guide is designed to prepa
 **Relevant Home Screenshots**
 N/A
 
-q6g3LZHQ
+
 
 
 

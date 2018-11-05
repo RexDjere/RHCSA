@@ -8,10 +8,10 @@ Created Tuesday 31 July 2018
 generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-RHCSA Objectives
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[A]]
 
 **KYWRD: **alias
@@ -34,10 +34,10 @@ Alias is a Bash built-in command. The alias command allows you to run a command 
 * N/A
 
 **Associated binary files: **
-* binary location 1: alias: /usr/bin/alias
+* [[binary location]] 1: alias: /usr/bin/alias
 
 **Associated man pages: **
-* man location 1: 
+* [[man location]] 1: 
 	* alias: 
 		* /usr/share/man/man1/alias.1.gz 
 		* /usr/share/man/man1p/alias.1p.gz

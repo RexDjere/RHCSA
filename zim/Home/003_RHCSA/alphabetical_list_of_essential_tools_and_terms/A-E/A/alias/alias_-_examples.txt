@@ -5,14 +5,14 @@ Creation-Date: 2018-08-17T11:48:52-04:00
 ====== alias - examples ======
 Created Friday 17 August 2018
 
-examples homepage template version: Monday 08/13/18 06:01:29 PM
+[[:Home:002 all templates:examples homepage template]] version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-alias
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[A:alias]]
 
 **KYWRD:** alias
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax

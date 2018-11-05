@@ -34,10 +34,10 @@ adduser is used to create a new user account, and to modify user account setting
 * N/A
 
 **Associated binary files: **
-* [[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location]] 1: adduser: /usr/sbin/adduser
+* [[:Home:binary location]] 1: adduser: /usr/sbin/adduser
 
 **Associated man pages: **
-* [[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location]] 1: adduser: /usr/share/man/man8/adduser.8.gz
+* [[:Home:man location]] 1: adduser: /usr/share/man/man8/adduser.8.gz
 
 **Relevant adduser Screenshots**
 N/A

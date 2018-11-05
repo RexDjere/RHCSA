@@ -21,7 +21,7 @@ All commands, utilities and terms starting with the letter A are sub-pages to th
 [[+addgroup]]
 [[+addr2line]]
 [[+adduser]]
-[[+alias]] , [[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:unalias]]
+[[+alias]]
 [[+apropos]]
 [[+apt-cache]]
 [[+apt-get]]
