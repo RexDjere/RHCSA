@@ -26,7 +26,7 @@ This article discusses the essential tools associated with Linux/Unix operating 
 	a. [[+001a Access a shell prompt and issue commands with correct syntax]]
 	b. [[+001b Use input-output redirection]]
 	c. [[+001c Use grep and regular expressions to analyze text]]
-	d. [[+001d Access remote systems using ssh]]
+	d. +001d Access remote systems using ssh
 	e. [[+001e Log in and switch users in multiuser targets]]
 	f. [[+001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 	g. [[+001g Create and edit text files]]

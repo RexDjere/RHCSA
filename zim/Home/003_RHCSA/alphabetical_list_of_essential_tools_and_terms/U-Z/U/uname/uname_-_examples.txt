@@ -5,14 +5,14 @@ Creation-Date: 2018-08-15T20:44:41-04:00
 ====== uname - examples ======
 Created Wednesday 15 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+examples homepage template version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[uname]]
+uname
 
 **KYWRD:** uname
 **RHCSA Objective:** 001a Access a shell prompt and issue commands with correct syntax
@@ -22,8 +22,8 @@ The article provides examples of how to use the uname command.
 
 **uname - examples:**
 * [[+uname - example 1]] : Use uname to list the Linux kernel version on a Linux system.
-* uname - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* uname - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* uname - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* uname - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant uname links:**
 * N/A

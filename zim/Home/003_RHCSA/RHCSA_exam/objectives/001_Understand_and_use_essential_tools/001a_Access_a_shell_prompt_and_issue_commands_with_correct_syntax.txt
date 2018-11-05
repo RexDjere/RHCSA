@@ -21,7 +21,7 @@ command to get timestamp: __date '+%A %D %X'__
 This article will demonstrate several examples of accessing a shell prompt and issuing commands with the correct syntax.
 
 **001a - examples:**
-* [[+001a - example 1]] : use the terminal in multi-user.target (formerly known as runlevel 3) on a [[alphabetical list of essential tools and terms:A-E:C:CentOS|CentOS]] virtual machine. 
+* [[+001a - example 1]] : use the terminal in multi-user.target (formerly known as runlevel 3) on a CentOS virtual machine. 
 * [[+001a - example 2]] : Open a terminal on a CentOS/RHEL system, create a new directory and several sub-directories, convert several man pages to html, and store them in the new sub-directories.
 * 001a - example 3 : briefly describe example 3.
 

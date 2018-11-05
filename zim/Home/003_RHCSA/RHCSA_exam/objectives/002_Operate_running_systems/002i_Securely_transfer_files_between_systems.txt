@@ -5,14 +5,14 @@ Creation-Date: 2018-08-08T20:32:50-04:00
 ====== 002i Securely transfer files between systems ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
+examples homepage template version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[002 Operate running systems]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+002 Operate running systems
 
 **KYWRD:** type the kywrd here.
 **RHCSA Objective: **Type the target RHCSA Objective here.

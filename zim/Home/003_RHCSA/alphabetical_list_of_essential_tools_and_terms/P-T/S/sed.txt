@@ -5,14 +5,14 @@ Creation-Date: 2018-07-10T22:57:11-04:00
 ====== sed ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[S]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
 
 **KYWRD:** sed
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -27,8 +27,8 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **sed:**
 * sed - function: State the main function of the topic here.
 * sed - description: Provide a more detail description here.
-* sed - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the sed examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* sed - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the sed options page using this template: [[Home:002 all templates:options template|options template]]]
+* sed - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the sed examples page using this template:  examples homepage template]
+* sed - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the sed options page using this template: options template]
 
 **Relevant sed links:**
 * link 1
@@ -41,10 +41,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * note 3
 
 **Associated sed binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated sed man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant sed Screenshots:**
 Paste any relevant screenshots here.

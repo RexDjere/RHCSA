@@ -27,7 +27,7 @@ This page lists all of the RHCSA Exam Objectives.
 	a. [[+001 Understand and use essential tools:001a Access a shell prompt and issue commands with correct syntax|Access a shell prompt and issue commands with correct syntax]]
 	b. [[+001 Understand and use essential tools:001b Use input-output redirection|Use input-output redirection]] (>, >>, |, 2>, etc.)
 	c. [[+001 Understand and use essential tools:001c Use grep and regular expressions to analyze text|Use grep and regular expressions to analyze text]]
-	d. [[+001 Understand and use essential tools:001d Access remote systems using ssh|Access remote systems using ssh]]
+	d. Access remote systems using ssh
 	e. [[+001 Understand and use essential tools:001e Log in and switch users in multiuser targets|Log in and switch users in multiuser targets]]
 	f. [[+001 Understand and use essential tools:001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2|Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2]]
 	g. [[+001 Understand and use essential tools:001g Create and edit text files|Create and edit text files]]

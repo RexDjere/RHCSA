@@ -5,14 +5,14 @@ Creation-Date: 2018-08-09T09:58:53-04:00
 ====== 006a Create, delete, and modify local user accounts ======
 Created Thursday 09 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+examples homepage template version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[006 Manage users and groups]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+006 Manage users and groups
 
 **KYWRD:** 006a
 **RHCSA Objective: **006a Create, delete, and modify local user accounts
@@ -23,5 +23,5 @@ This article contains examples of how to create, delete and modify local user ac
 **006a - examples:**
 * [[+006a - example 1]] : create a new group called starfleet_academy_grads and add 3 new system users to the group.
 * [[+006a - example 2]] : delete the users and group created in [[+006a - example 1]] .
-* 006a - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* 006a - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 

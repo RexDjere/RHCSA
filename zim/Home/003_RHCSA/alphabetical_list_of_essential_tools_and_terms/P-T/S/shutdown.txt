@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:16:08-04:00
 ====== shutdown ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[S]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
 
 **KYWRD:** shutdown
 **RHCSA Objective: **002a Boot, reboot, and shut down a system normally
@@ -33,10 +33,10 @@ The **shutdown** comand is used to halt, power off, or reboot Linux/Unix machine
 * N/A
 
 **Associated shutdown binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: shutdown: /usr/sbin/shutdown
+* binary location 1: shutdown: /usr/sbin/shutdown
 
 **Associated shutdown man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* shutdown: 
 		* /usr/share/man/man2/shutdown.2.gz 	
 		* /usr/share/man/man8/shutdown.8.gz 

@@ -5,20 +5,20 @@ Creation-Date: 2018-09-02T18:04:34-04:00
 ====== slogin ======
 Created Sunday 02 September 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[RHCSA exam:objectives]]
-[[S]]
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+S
 
 **KYWRD:** slogin
 **RHCSA Objective: **007b Configure key-based authentication for SSH
 
 **Summary**
-**slogin** is an alias for the Secure Shell, [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]]. It is used to securely connect to a secure shell on a remote Linux/Unix machine.
+**slogin** is an alias for the Secure Shell, ssh. It is used to securely connect to a secure shell on a remote Linux/Unix machine.
 
 **slogin:**
 * slogin - function: securely login to a remote Linux/Unix system.
@@ -32,10 +32,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: not installed on Fedora Linux system used to write this study guide.
+* binary location 1: not installed on Fedora Linux system used to write this study guide.
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: not installed on Fedora Linux system used to write this study guide.
+* man location 1: not installed on Fedora Linux system used to write this study guide.
 
 **Relevant slogin Screenshots**
 N/A

@@ -5,4 +5,4 @@ Creation-Date: 2018-07-31T03:24:35-04:00
 ====== ssh ======
 Created Tuesday 31 July 2018
 
-See [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH.]]
+See SSH.

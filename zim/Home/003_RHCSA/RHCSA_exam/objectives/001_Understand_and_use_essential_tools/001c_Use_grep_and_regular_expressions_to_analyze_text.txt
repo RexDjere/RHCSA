@@ -5,25 +5,25 @@ Creation-Date: 2018-08-08T16:07:20-04:00
 ====== 001c Use grep and regular expressions to analyze text ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
+examples homepage template version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
+Home
+002 all templates
 00 TODO LIST
-[[objectives]]
-[[001 Understand and use essential tools]]
+objectives
+001 Understand and use essential tools
 
 **KYWRD:** 001c
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-This article will provide examples of how to use [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] and regular expressions to analyze text.
+This article will provide examples of how to use grep and regular expressions to analyze text.
 
 **001c - examples:**
-* [[+001c - example 1]] : Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] to search a text file for a string.
-* 001c - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* 001c - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* [[+001c - example 1]] : Use grep to search a text file for a string.
+* 001c - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* 001c - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant 001c Screenshots**
 Paste any relevant screenshots here.

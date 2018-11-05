@@ -5,27 +5,27 @@ Creation-Date: 2018-08-08T16:07:21-04:00
 ====== 001d Access remote systems using SSH ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
+examples homepage template version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
+Home
+002 all templates
 00 TODO LIST
-[[objectives]]
-[[001 Understand and use essential tools]]
+objectives
+001 Understand and use essential tools
 
 **KYWRD:** remote SSH
 **RHCSA Objective: **001d Access remote systems using ssh
 
 **Summary**
-[[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] stands for **Secure Shell**. SSH is a command-line interface and protocol that is used to access remote Linux/Unix computers from a Linux/Unix machine. SSH is part of a 3-part suite of secure applications:
-1. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:slogin|slogin]]
-2. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]]
-3. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]]
+SSH stands for **Secure Shell**. SSH is a command-line interface and protocol that is used to access remote Linux/Unix computers from a Linux/Unix machine. SSH is part of a 3-part suite of secure applications:
+1. slogin
+2. SSH
+3. scp
 
 **remote SSH - examples:**
-* [[+001d - example 1]] : Transfer a file to a RHEL/CentOS machine using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp,]] Login to the remote machine via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], and manipulate the newly transferred file via the ssh connection.
-* [[+001d - example 2]] : Login to a RHEL/CentOS machine via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], transfer a file to it using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]], and manipulate the newly transferred file via the ssh connection.
+* [[+001d - example 1]] : Transfer a file to a RHEL/CentOS machine using scp, Login to the remote machine via ssh, and manipulate the newly transferred file via the ssh connection.
+* [[+001d - example 2]] : Login to a RHEL/CentOS machine via ssh, transfer a file to it using scp, and manipulate the newly transferred file via the ssh connection.
 * [[+001d - example 3]] : briefly describe example 3.
 
 **Relevant remote SSH Screenshots**

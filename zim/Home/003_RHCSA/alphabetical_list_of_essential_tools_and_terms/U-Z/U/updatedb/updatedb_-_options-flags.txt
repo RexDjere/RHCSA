@@ -5,13 +5,13 @@ Creation-Date: 2018-09-19T20:53:20-04:00
 ====== updatedb - options-flags ======
 Created Wednesday 19 September 2018
 
-[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
+options template version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** type the kywrd here.

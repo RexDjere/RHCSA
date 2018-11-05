@@ -5,14 +5,14 @@ Creation-Date: 2018-09-06T01:33:47-04:00
 ====== 00023 Telnet TCP ======
 Created Thursday 06 September 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+generic template version: Wednesday 09/05/18 01:25:38 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[ports]]
+ports
 
 **KYWRD:** Telnet
 **RHCSA Objective: **002h Start, stop, and check the status of network services
@@ -34,10 +34,10 @@ RHCSA Objectives
 * N/A
 
 **Associated Telnet binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: telnet: /usr/bin/telnet
+* binary location 1: telnet: /usr/bin/telnet
 
 **Associated Telnet man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: telnet: /usr/share/man/man1/telnet.1.gz
+* man location 1: telnet: /usr/share/man/man1/telnet.1.gz
 
 **Relevant Telnet Screenshots:**
 N/A

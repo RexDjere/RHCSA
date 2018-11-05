@@ -5,9 +5,9 @@ Creation-Date: 2018-07-26T23:49:43-04:00
 ====== SysV ======
 Created Thursday 26 July 2018
 
-[[Home]]
+Home
 Home:RHCSA:alphabetical list of essential tools and terms:P-T:S:systemd
-[[S]]
+S
 
 **Summary**
 [[SysV]] Init was the older init system used by most Linux operating systems before systemd became dominant. The configuration files for [[SysV]] init are located in the [[/etc/rc.d/]] directory. This directory contains rc, rc.local, and rc.sysinit scripts and the folders listed below.
@@ -27,13 +27,13 @@ id:3:initdefault:
 
 [[/etc/inittab]] can be editted by root.
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** SysV
@@ -49,8 +49,8 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **KEYWORD:**
 * KEYWORD - function: State the main function of the topic here.
 * KEYWORD - description: Provide a more detail description here.
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: [[Home:002 all templates:options template|options template]]]
+* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  examples homepage template]
+* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: options template]
 
 **Relevant KEYWORD links:**
 * link 1
@@ -63,10 +63,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * note 3
 
 **Associated KEYWORD binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated KEYWORD man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant KEYWORD Screenshots:**
 Paste any relevant screenshots here.

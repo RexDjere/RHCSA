@@ -5,14 +5,14 @@ Creation-Date: 2018-08-09T09:58:32-04:00
 ====== 004c Extend existing logical volumes ======
 Created Thursday 09 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 08/08/18 11:13:56 AM
+examples homepage template version: Wednesday 08/08/18 11:13:56 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[004 Create and configure file systems]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+004 Create and configure file systems
 
 **KYWRD:** type the kywrd here.
 **RHCSA Objective: **Type the target RHCSA Objective here.

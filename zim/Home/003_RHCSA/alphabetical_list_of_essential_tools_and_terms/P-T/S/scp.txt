@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:34:38-04:00
 ====== scp ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[S]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
 
 **KYWRD:** scp
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -27,8 +27,8 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **scp:**
 * scp - function: State the main function of the topic here.
 * scp - description: Provide a more detail description here.
-* scp - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the scp examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* scp - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the scp options page using this template: [[Home:002 all templates:options template|options template]]]
+* scp - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the scp examples page using this template:  examples homepage template]
+* scp - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the scp options page using this template: options template]
 
 **Relevant scp links:**
 * link 1
@@ -41,10 +41,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * note 3
 
 **Associated scp binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated scp man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant scp Screenshots:**
 Paste any relevant screenshots here.

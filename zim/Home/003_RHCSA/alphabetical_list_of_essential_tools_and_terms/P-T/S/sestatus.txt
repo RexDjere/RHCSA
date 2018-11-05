@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T05:33:30-04:00
 ====== sestatus ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[S]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
 
 **KYWRD:** sestatus
 **RHCSA Objective: **007d List and identify SELinux file and process context
@@ -34,13 +34,13 @@ The **sestatus** command is used to get SELinux status information on Linux/Unix
 * N/A
 
 **Associated sestatus binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: 
+* binary location 1: 
 	* sestatus: 	
 		* /usr/sbin/sestatus 
 		* /etc/sestatus.conf
 
 **Associated sestatus man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: sestatus: /usr/share/man/man8/sestatus.8.gz
+* man location 1: sestatus: /usr/share/man/man8/sestatus.8.gz
 
 **Relevant sestatus Screenshots:**
 N/A
