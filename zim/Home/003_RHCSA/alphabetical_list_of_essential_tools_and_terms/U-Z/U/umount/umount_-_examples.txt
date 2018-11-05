@@ -5,7 +5,7 @@ Creation-Date: 2018-09-18T17:13:17-04:00
 ====== umount - examples ======
 Created Tuesday 18 September 2018
 
-examples homepage template version: Wednesday 09/05/18 01:56:46 AM
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]
