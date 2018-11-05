@@ -5,19 +5,20 @@ Creation-Date: 2018-08-08T11:01:43-04:00
 ====== RHCSA Objectives ======
 Created Wednesday 08 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
 https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
 [[objectives]]
-[[RHCSA exam]]
+[[:Home:003 RHCSA:RHCSA exam]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:CentOS]]
 
 **KYWRD:** RHCSA Objectives
 
-CentOS
+
 
 **Summary**
 This page lists all of the RHCSA Exam Objectives.

@@ -5,13 +5,13 @@ Creation-Date: 2018-07-18T16:25:01-04:00
 ====== Complemetary Metal-Oxide-Semiconductor ======
 Created Wednesday 18 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
 [[CMOS]]
 
 **KYWRD:** CMOS
@@ -33,10 +33,10 @@ See [[CMOS]].
 * See [[CMOS]].
 
 **Associated CMOS binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[CMOS]].
+* binary location 1: See [[CMOS]].
 
 **Associated CMOS man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[CMOS]].
+* man location 1: See [[CMOS]].
 
 **Relevant CMOS Screenshots:**
 See [[CMOS]].

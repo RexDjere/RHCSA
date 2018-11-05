@@ -5,14 +5,14 @@ Creation-Date: 2018-07-11T10:35:43-04:00
 ====== cost ======
 Created Wednesday 11 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[RHCSA exam]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+RHCSA exam
 
 **KYWRD:** cost
 **RHCSA Objective: **N/A
@@ -33,10 +33,10 @@ The **Red Hat Certified System Administrator** (RHCSA) exam fee is currently **$
 * N/A
 
 **Associated cost binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated cost man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant cost Screenshots:**
 N/A

@@ -5,14 +5,14 @@ Creation-Date: 2018-07-10T22:59:30-04:00
 ====== cd ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+generic template version: Wednesday 09/05/18 01:25:38 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[RHCSA exam:objectives]]
-[[C]]
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+C
 
 **KYWRD:** cd
 **RHCSA Objective: **001h Create, delete, copy, and move files and directories
@@ -34,10 +34,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated cd binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cd: /usr/bin/cd
+* binary location 1: cd: /usr/bin/cd
 
 **Associated cd man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* man location 1: 
 	* cd: 
 		* /usr/share/man/man1/cd.1.gz 
 		* /usr/share/man/man1p/cd.1p.gz

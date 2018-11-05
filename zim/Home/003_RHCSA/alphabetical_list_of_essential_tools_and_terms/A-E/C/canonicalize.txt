@@ -5,13 +5,13 @@ Creation-Date: 2018-08-07T23:39:57-04:00
 ====== canonicalize ======
 Created Tuesday 07 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+generic template version: Tuesday 08/07/18 08:47:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[C]]
+Home
+000 TODO LIST
+002 all templates
+C
 
 **KYWRD:** canonicalize
 

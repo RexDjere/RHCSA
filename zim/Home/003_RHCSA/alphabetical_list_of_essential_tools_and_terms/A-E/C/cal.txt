@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:01:49-04:00
 ====== cal ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 09/05/18 01:25:38 AM
+generic template version: Wednesday 09/05/18 01:25:38 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[C]]
+C
 
 **KYWRD:** cal
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ The Linux/Unix cal utility is used to display a calendar in the terminal.
 * N/A
 
 **Associated cal binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: cal: /usr/bin/cal
+* binary location 1: cal: /usr/bin/cal
 
 **Associated cal man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* man location 1: 
 	* cal: 
 		* /usr/share/man/man1/cal.1.gz 
 		* /usr/share/man/man1p/cal.1p.gz

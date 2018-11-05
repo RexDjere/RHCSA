@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T02:49:12-04:00
 ====== cpio ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[C]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+C
 
 **KYWRD:** cpio
 **RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
@@ -33,13 +33,13 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated cpio binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 	* cpio: 
 		* /usr/bin/cpio 
 		* /usr/include/cpio.h
 
 **Associated cpio man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* cpio: 
 		* /usr/share/man/man5/cpio.5.gz 
 		* /usr/share/man/man1/cpio.1.gz 

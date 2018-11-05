@@ -5,14 +5,14 @@ Creation-Date: 2018-10-15T01:53:32-04:00
 ====== command-line interpreter ======
 Created Monday 15 October 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[C]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+C
 
 **KYWRD:** command-line interpreter
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -22,9 +22,9 @@ command to get timestamp: __date '+%A %D %X'__
 A **command-line interpreter** is designed to read lines of text entered by the computer's user, and to execute them.
 
 Some popular command-line interpreters for Linux/Unix:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash|bash]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Bourne shell|Bourne shell]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:KornShell|KornShell]]
+* bash
+* Bourne shell
+* KornShell
 
 
 **command-line interpreter:**
@@ -40,10 +40,10 @@ Some popular command-line interpreters for Linux/Unix:
 * N/A
 
 **Associated command-line interpreter binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated command-line interpreter man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant command-line interpreter Screenshots:**
 N/A

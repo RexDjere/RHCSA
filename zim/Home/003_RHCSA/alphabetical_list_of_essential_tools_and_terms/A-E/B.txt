@@ -8,7 +8,7 @@ Created Sunday 05 August 2018
 A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives

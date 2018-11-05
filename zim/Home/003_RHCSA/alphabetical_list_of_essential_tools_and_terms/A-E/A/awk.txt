@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T02:45:19-04:00
 ====== awk ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-**awk** is in a family of Linux [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:text pattern scanning utilitities|text pattern scanning utilitities]] that also includes [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]. **awk** is both a programming language and a text processing utility. It can be used to manipulate text. **awk** is also a Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:filters|filter]].
+**awk** is in a family of Linux text pattern scanning utilitities that also includes grep and sed. **awk** is both a programming language and a text processing utility. It can be used to manipulate text. **awk** is also a Linux/Unix filter.
 
 **awk:**
 * awk - function: manipulate text.
@@ -33,14 +33,14 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: 
+* binary location 1: 
 * awk: 
 	* /usr/bin/awk 
 	* /usr/libexec/awk 
 	* /usr/share/awk
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* awk: 
 		* /usr/share/man/man1/awk.1.gz 
 		* /usr/share/man/man1p/awk.1p.gz

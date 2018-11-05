@@ -8,7 +8,7 @@ Created Sunday 05 August 2018
 A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 A-E
@@ -22,7 +22,7 @@ All commands, utilities and terms starting with the letter E are sub-pages to th
 * [[+ed]]
 * [[+egrep]] , Home:RHCSA:alphabetical list of essential tools and terms:A-E:F-J:G:grep
 * [[+eject]]
-* [[+emacs]] , [[U-Z:X:xemacs]]
+* [[+emacs]] , U-Z:X:xemacs
 * [[+enable]]
 * [[+env]]
 * [[+eval]]

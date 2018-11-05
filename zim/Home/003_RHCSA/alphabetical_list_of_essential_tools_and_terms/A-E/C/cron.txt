@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T02:49:30-04:00
 ====== cron ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[C]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+C
 
 **KYWRD:** cron
 **RHCSA Objective: **005b Schedule tasks using at and cron
@@ -33,7 +33,7 @@ The **cron** utility is used to shedule the execution of a command at a given ti
 * N/A
 
 **Associated cron binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 	* cron: 
 		* /etc/cron.monthly 
 		* /etc/cron.daily 
@@ -43,7 +43,7 @@ The **cron** utility is used to shedule the execution of a command at a given ti
 		* /etc/cron.hourly
 
 **Associated cron man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: cron: /usr/share/man/man8/cron.8.gz
+* man location 1: cron: /usr/share/man/man8/cron.8.gz
 
 **Relevant cron Screenshots:**
 N/A
