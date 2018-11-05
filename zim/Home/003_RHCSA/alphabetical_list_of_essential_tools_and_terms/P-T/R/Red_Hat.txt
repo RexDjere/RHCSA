@@ -5,20 +5,20 @@ Creation-Date: 2018-07-16T18:24:00-04:00
 ====== Red Hat ======
 Created Monday 16 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[R]]
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
 
 **KYWRD:** Red Hat
 **RHCSA Objective: N/A**
 
 **Summary:**
-**Red Hat **is an open source software company headquartered in Raleigh, North Carolina.  Their flasgship product is [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:RHEL|Red Hat Enterprise Linux]], a commercial Linux distribution for enterprise customers.
+**Red Hat **is an open source software company headquartered in Raleigh, North Carolina.  Their flasgship product is Red Hat Enterprise Linux, a commercial Linux distribution for enterprise customers.
 
 **Red Hat:**
 * Red Hat - function: an open source software company.
@@ -33,10 +33,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated Red Hat binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated Red Hat man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant Red Hat Screenshots:**
 N/A

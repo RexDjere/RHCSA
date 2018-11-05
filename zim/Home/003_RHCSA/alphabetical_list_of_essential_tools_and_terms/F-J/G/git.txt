@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T06:32:34-04:00
 ====== git ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[G]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
 
 **KYWRD:** git
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated git binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: git: /usr/bin/git
+* binary location 1: git: /usr/bin/git
 
 **Associated git man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: git: /usr/share/man/man1/git.1.gz
+* man location 1: git: /usr/share/man/man1/git.1.gz
 
 **Relevant git Screenshots:**
 N/A

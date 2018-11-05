@@ -21,11 +21,11 @@ This page contains links to all of the templates available for use in this study
 * templates - examples N/A
 
 **Relevant templates links:**
-* [[+A-Z pages template]]
-* [[+examples homepage template]]
-* [[+examples homepage template:examples template]]
-* [[+generic template]]
-* [[+options template]]
+[[+A-Z pages template]]
+[[+examples homepage template]]
+[[+examples homepage template:examples template]]
+[[+generic template]]
+[[+options template]]
 
 **Relevant templates notes**
 * N/A

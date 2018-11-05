@@ -5,14 +5,14 @@ Creation-Date: 2018-09-14T00:24:17-04:00
 ====== trapdoor function ======
 Created Friday 14 September 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[T]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+T
 
 **KYWRD:** trapdoor function
 **RHCSA Objective: **007b Configure key-based authentication for SSH
@@ -33,10 +33,10 @@ A trapdoor function is eay to compute in one direction, but difficult to compute
 * N/A
 
 **Associated trapdoor function binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated trapdoor function man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant trapdoor function Screenshots:**
 N/A

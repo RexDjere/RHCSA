@@ -5,20 +5,20 @@ Creation-Date: 2018-07-16T18:28:30-04:00
 ====== Community Enterprise Operating System ======
 Created Monday 16 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[CentOS]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+CentOS
 
 **KYWRD:** CentOS
 **RHCSA Objective: **N/A
 
 **Summary:**
-See [[CentOS]].
+See CentOS.
 
 **CentOS:**
 * CentOS - function: N/A
@@ -33,10 +33,10 @@ See [[CentOS]].
 * N/A
 
 **Associated CentOS binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated CentOS man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant CentOS Screenshots:**
 N/A

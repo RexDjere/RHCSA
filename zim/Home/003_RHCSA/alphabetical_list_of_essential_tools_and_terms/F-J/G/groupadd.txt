@@ -8,10 +8,10 @@ Created Monday 06 August 2018
 generic template version: Monday 08/06/18 10:14:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[G]]
+Home
+002 all templates
+00 TODO LIST
+G
 
 **KYWRD:** groupadd
 
@@ -37,7 +37,7 @@ The groupadd utility is used to add groups on Linux systems.
 * binary location 1: groupadd: /usr/sbin/groupadd
 
 **Associated man pages: **
-* [[K-O:M:man location]] 1: groupadd: /usr/share/man/man8/groupadd.8.gz
+* K-O:M:man location 1: groupadd: /usr/share/man/man8/groupadd.8.gz
 
 **Relevant groupadd Screenshots**
 N/A

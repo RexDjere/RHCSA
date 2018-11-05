@@ -5,20 +5,20 @@ Creation-Date: 2018-07-31T16:51:13-04:00
 ====== GitHub ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[G]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
 
 **KYWRD:** GitHub
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-**GitHub** provides web-based hosting for projects that manage their source code using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:git|git]] version control system.
+**GitHub** provides web-based hosting for projects that manage their source code using the git version control system.
 
 **GitHub:**
 * GitHub - function: provide web-hosting for git-powered open source projects.
@@ -34,10 +34,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated GitHub binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated GitHub man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant GitHub Screenshots:**
 N/A

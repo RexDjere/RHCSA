@@ -5,38 +5,38 @@ Creation-Date: 2018-09-10T20:56:21-04:00
 ====== filters ======
 Created Monday 10 September 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[F]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+F
 
 **KYWRD:** Linux/Unix filters
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
 A **filter** is a Linux/Unix utility that accepts an input on standard in (**stdin**), performs useful work, and then produces an output on standard out (**stdout**) and standard error (**stderr**). Filters can be pipelined: the output of one filter can be piped into the input of another filter. The sequences of connected filters can be used to perform very significant tasks. The list of Linux/Unix filters is as follows:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat|cat]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:comm|comm]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cut|cut]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:diff|diff]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:J:join|join]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:N:nl|nl]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:N:nroff|nroff]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:O:od|od]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:paste|paste]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:pr|pr]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sort|sort]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tail|tail]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tee|tee]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:T:tr|tr]]
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uniq|uniq]]
+* awk
+* cat
+* comm
+* cut
+* diff
+* grep
+* join
+* nl
+* nroff
+* od
+* paste
+* pr
+* sed
+* sort
+* tail
+* tee
+* tr
+* uniq
 
 **Linux/Unix filters:**
 * Linux/Unix filters - function: accepts input on **stdin**, and produces useful output on **stdout** and **stderr**.
@@ -52,10 +52,10 @@ A **filter** is a Linux/Unix utility that accepts an input on standard in (**std
 * N/A
 
 **Associated Linux/Unix filters binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: various
+* binary location 1: various
 
 **Associated Linux/Unix filters man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: various
+* man location 1: various
 
 **Relevant Linux/Unix filters Screenshots:**
 N/A

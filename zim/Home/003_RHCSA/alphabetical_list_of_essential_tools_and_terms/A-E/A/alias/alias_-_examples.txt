@@ -5,20 +5,20 @@ Creation-Date: 2018-08-17T11:48:52-04:00
 ====== alias - examples ======
 Created Friday 17 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+examples homepage template version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[alias]]
+alias
 
 **KYWRD:** alias
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-This article contains examples of how to correctly use [[alias]] the command.
+This article contains examples of how to correctly use alias the command.
 
 **alias - examples:**
 * [[+alias - example 1]] : List all of the aliases currently in use on a Linux system.

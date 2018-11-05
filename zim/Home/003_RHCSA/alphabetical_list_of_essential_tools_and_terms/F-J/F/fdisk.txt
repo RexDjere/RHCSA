@@ -5,14 +5,14 @@ Creation-Date: 2018-08-07T17:04:46-04:00
 ====== fdisk ======
 Created Tuesday 07 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[F]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+F
 
 **KYWRD:** fdisk
 **RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
@@ -32,10 +32,10 @@ The **fdisk** utility is used to manipulate the disk partition table on Linux/Un
 * N/A
 
 **Associated fdisk binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: fdisk: /usr/sbin/fdisk
+* binary location 1: fdisk: /usr/sbin/fdisk
 
 **Associated fdisk man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: fdisk: /usr/share/man/man8/fdisk.8.gz
+* man location 1: fdisk: /usr/share/man/man8/fdisk.8.gz
 
 **Relevant fdisk Screenshots:**
 N/A

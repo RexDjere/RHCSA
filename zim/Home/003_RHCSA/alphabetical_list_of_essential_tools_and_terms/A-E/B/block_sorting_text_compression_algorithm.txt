@@ -6,7 +6,7 @@ Creation-Date: 2018-07-12T14:02:23-04:00
 Created Thursday 12 July 2018
 
 [[Burrows-Wheeler algorithm]]
-[[B]]
+B
 
 block sorting text compression algorithm
 * considers text in blocks

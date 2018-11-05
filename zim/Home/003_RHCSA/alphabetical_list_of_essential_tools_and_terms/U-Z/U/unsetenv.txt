@@ -9,9 +9,9 @@ Created Tuesday 31 July 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
 [[U]]
 
 **KYWRD:** unsetenv

@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T05:34:56-04:00
 ====== tee ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[T]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+T
 
 **KYWRD:** tee
 **RHCSA Objective: **001b Use input-output redirection
@@ -33,10 +33,10 @@ The **tee** command is used to read a standard input (**stdin**), and to then pr
 * N/A
 
 **Associated tee binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: tee: /usr/bin/tee
+* binary location 1: tee: /usr/bin/tee
 
 **Associated tee man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* man location 1: 
 	* tee: 
 		* /usr/share/man/man2/tee.2.gz 
 		* /usr/share/man/man1/tee.1.gz 

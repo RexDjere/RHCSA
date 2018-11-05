@@ -6,7 +6,7 @@ Creation-Date: 2018-07-23T00:47:21-04:00
 Created Monday 23 July 2018
 
 useful utilities for the RHCSA
-[[F]]
+F
 
 formatting USB drives
-* [[P-T:R:Rufus]]
+* P-T:R:Rufus

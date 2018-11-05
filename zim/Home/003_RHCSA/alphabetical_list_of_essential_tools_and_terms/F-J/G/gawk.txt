@@ -5,35 +5,35 @@ Creation-Date: 2018-07-31T02:57:27-04:00
 ====== gawk ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[G]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
 
 **KYWRD:** gawk
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+See awk.
 
 **gawk:**
-See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+See awk.
 
 **Relevant gawk links:**
-See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+See awk.
 
 **Relevant gawk notes:**
-See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+See awk.
 
 **Associated gawk binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+* binary location 1: See awk.
 
 **Associated gawk man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]].
+* man location 1: See awk.
 
 **Relevant gawk Screenshots:**
 N/A

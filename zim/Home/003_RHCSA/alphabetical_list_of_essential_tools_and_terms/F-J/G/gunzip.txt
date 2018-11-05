@@ -7,12 +7,12 @@ Created Tuesday 31 July 2018
 
 tasks template
 
-[[Home]]
-[[002 all templates:generic template]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates:generic template
+002 all templates
+00 TODO LIST
 Home:RHCSA:alphabetical list of essential tools
-[[G]]
+G
 
 
 **KYWRD:** gunzip
@@ -23,8 +23,8 @@ The gunzip utility is used to decompress archives.
 **gunzip:**
 * gunzip - function: Decompress files.
 * gunzip - description: gunzip can be used to decompress archives that were created using gzip, zip, compress, compress _H or pack .
-* gunzip - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip options page using this template: [[002 all templates:options template]]]
-* gunzip - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip examples page using this template: [[002 all templates:examples homepage template]]]
+* gunzip - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip options page using this template: 002 all templates:options template]
+* gunzip - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gunzip examples page using this template: 002 all templates:examples homepage template]
 
 **Relevant gunzip links:**
 * link 1
@@ -42,4 +42,4 @@ The gunzip utility is used to decompress archives.
 **Relevant gunzip Screenshots**
 Paste any relevant screenshots here.
 
-[[Home]]
+Home

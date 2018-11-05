@@ -6,7 +6,7 @@ Creation-Date: 2018-07-31T17:40:16-04:00
 Created Tuesday 31 July 2018
 
 article template
-[[M]]
+M
 
 **Summary**
 Microsoft (full name: Microsoft Corporation) is a large American-based software company headquarted in Redmond, Washington. They are best known for the Microsoft Windows computer operating system, and the Microsoft Office suite of office application.

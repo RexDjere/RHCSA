@@ -7,7 +7,7 @@ Created Tuesday 10 July 2018
 
 RHCSA exam:objectives:tasks:001 - understand and use essential tools:files
 RHCSA exam:objectives:tasks
-[[T]]
+T
 
 tty
 * [[+tty - function]]

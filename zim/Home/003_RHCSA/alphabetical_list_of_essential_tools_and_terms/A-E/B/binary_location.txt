@@ -5,13 +5,13 @@ Creation-Date: 2018-07-31T02:24:46-04:00
 ====== binary location ======
 Created Tuesday 31 July 2018
 
-[[002 all templates:examples homepage template|examples homeplate template]] version: Tuesday 08/07/18 07:45:27 PM
+examples homeplate template version: Tuesday 08/07/18 07:45:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[B]]
+Home
+002 all templates
+00 TODO LIST
+B
 
 **KYWRD:** binary location
 

@@ -5,14 +5,14 @@ Creation-Date: 2018-07-19T01:40:06-04:00
 ====== boot.img ======
 Created Thursday 19 July 2018
 
-[[F-J:G:GRUB:GRUB Stages:GRUB Stage 1]]
-[[F-J:G:GRUB:GRUB image files]]
-[[B]]
+F-J:G:GRUB:GRUB Stages:GRUB Stage 1
+F-J:G:GRUB:GRUB image files
+B
 
-boot.img is one of several [[F-J:G:GRUB:GRUB image files]] are used as bootstrap images during the boot process.  
+boot.img is one of several F-J:G:GRUB:GRUB image files are used as bootstrap images during the boot process.  
 
 boot.img
-	* the first part of [[F-J:G:GRUB]] to start
-	* is contained in the Master Boot Record ([[K-O:M:MBR]])
+	* the first part of F-J:G:GRUB to start
+	* is contained in the Master Boot Record (K-O:M:MBR)
 	* since boot sector is 512 bytes, boot.img is 512 bytes as well => designed to fit in the boot sector
-	* boot.img has a simple function: read the first sector of the core image, and to then jump to loading [[C:core.img]]
+	* boot.img has a simple function: read the first sector of the core image, and to then jump to loading C:core.img

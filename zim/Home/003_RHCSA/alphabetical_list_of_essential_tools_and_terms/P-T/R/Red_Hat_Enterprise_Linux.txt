@@ -5,11 +5,11 @@ Creation-Date: 2018-07-16T12:26:06-04:00
 ====== Red Hat Enterprise Linux ======
 Created Monday 16 July 2018
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[R]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+R
 
 **KYWRD:** RHEL
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -20,8 +20,8 @@ See [[RHEL]].
 **RHEL:**
 * RHEL - function: State the main function of the topic here.
 * RHEL - description: Provide a more detail description here.
-* RHEL - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RHEL examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* RHEL - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RHEL options page using this template: [[Home:002 all templates:options template|options template]]]
+* RHEL - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RHEL examples page using this template:  examples homepage template]
+* RHEL - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RHEL options page using this template: options template]
 
 **Relevant RHEL links:**
 * link 1
@@ -34,10 +34,10 @@ See [[RHEL]].
 * note 3
 
 **Associated RHEL binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated RHEL man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant RHEL Screenshots:**
 Paste any relevant screenshots here.

@@ -5,20 +5,20 @@ Creation-Date: 2018-08-08T14:27:58-04:00
 ====== tc ======
 Created Wednesday 08 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+generic template version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[RHCSA exam:objectives]]
-[[T]]
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+T
 
 **KYWRD:** tc
 **RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
-The tc utility is part of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]] network control suite. It is used to show and manipulate network traffic control settings. tc stands for "Traffic Control", and it consists of four components:
+The tc utility is part of the iproute2 network control suite. It is used to show and manipulate network traffic control settings. tc stands for "Traffic Control", and it consists of four components:
 * [[+tc shaping]]
 * [[+tc scheduling]]
 * [[+tc policing]]
@@ -27,8 +27,8 @@ The tc utility is part of the [[Home:003 RHCSA:alphabetical list of essential to
 **tc:**
 * tc - function: show/manipulate network traffic control settings.
 * tc - description: The tc utility is used to configure network traffic control in the Linux kernel.
-* tc - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tc options page using this template: [[Home:002 all templates:options template|options template]]]
-* tc - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tc examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* tc - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tc options page using this template: options template]
+* tc - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tc examples page using this template:  examples homepage template]
 
 **Relevant tc links:**
 * https://en.wikipedia.org/wiki/Tc_(Linux)
@@ -39,10 +39,10 @@ The tc utility is part of the [[Home:003 RHCSA:alphabetical list of essential to
 * note 3
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: tc: /usr/sbin/tc /usr/lib64/tc
+* binary location 1: tc: /usr/sbin/tc /usr/lib64/tc
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: tc: /usr/share/man/man8/tc.8.gz
+* man location 1: tc: /usr/share/man/man8/tc.8.gz
 
 
 **Relevant tc Screenshots**

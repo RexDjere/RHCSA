@@ -5,23 +5,23 @@ Creation-Date: 2018-07-31T06:32:40-04:00
 ====== tig ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[T]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+T
 
 **KYWRD:** tig
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-The **tig** utility is a text-mode inferface for [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:git|git]] that is ncurses-baed.
+The **tig** utility is a text-mode inferface for git that is ncurses-baed.
 
 **tig:**
-* tig - function: an ncurses text-mode interface for [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:git|git]].
+* tig - function: an ncurses text-mode interface for git.
 * tig - description: N/A
 * [[+tig - examples]]
 * [[+tig - options-flags]] 
@@ -33,10 +33,10 @@ The **tig** utility is a text-mode inferface for [[Home:003 RHCSA:alphabetical l
 * N/A
 
 **Associated tig binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: not installed on my Linux system (9/9/2018).
+* binary location 1: not installed on my Linux system (9/9/2018).
 
 **Associated tig man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: not installed on my Linux system (9/9/2018)
+* man location 1: not installed on my Linux system (9/9/2018)
 
 **Relevant tig Screenshots:**
 N/A

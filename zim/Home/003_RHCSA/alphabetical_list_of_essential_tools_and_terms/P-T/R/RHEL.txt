@@ -5,20 +5,20 @@ Creation-Date: 2018-07-16T12:26:10-04:00
 ====== RHEL ======
 Created Monday 16 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[R]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+R
 
 **KYWRD:** RHEL
 **RHCSA Objective: **002a Boot, reboot, and shut down a system normally
 
 **Summary:**
-**RHEL **stands for **Red Hat Enterprise Linux**. RHEL is [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:Red Hat|Red Hat Corporation's]] enterprise Linux operating system, which is designed for use by businesses.
+**RHEL **stands for **Red Hat Enterprise Linux**. RHEL is Red Hat Corporation's enterprise Linux operating system, which is designed for use by businesses.
 
 **RHEL:**
 * RHEL - function: Red Hat's commercial Linux operating system for enterprise customers.
@@ -33,10 +33,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated RHEL binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated RHEL man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant RHEL Screenshots:**
 N/A

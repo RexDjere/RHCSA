@@ -5,20 +5,20 @@ Creation-Date: 2018-10-15T01:44:13-04:00
 ====== Bourne shell ======
 Created Monday 15 October 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[B]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+B
 
 **KYWRD:** Bourne shell
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-The **Bourne shell **is a shell, also known as a [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:command-line interpreter|command-line interpreter]], for Linux/Unix operating systems.  The Bourne shell binary is [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sh|sh]].
+The **Bourne shell **is a shell, also known as a command-line interpreter, for Linux/Unix operating systems.  The Bourne shell binary is sh.
 
 **Bourne shell:**
 * Bourne shell - function: command-line interpreter for Linux/Unix.
@@ -33,10 +33,10 @@ The **Bourne shell **is a shell, also known as a [[Home:003 RHCSA:alphabetical l
 * N/A
 
 **Associated Bourne shell binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: sh: /usr/bin/sh
+* binary location 1: sh: /usr/bin/sh
 
 **Associated Bourne shell man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* sh: /
 		* usr/share/man/man1/sh.1.gz 
 		* /usr/share/man/man1p/sh.1p.gz

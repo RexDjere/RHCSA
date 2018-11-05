@@ -8,10 +8,10 @@ Created Friday 03 August 2018
 [[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** command - example X

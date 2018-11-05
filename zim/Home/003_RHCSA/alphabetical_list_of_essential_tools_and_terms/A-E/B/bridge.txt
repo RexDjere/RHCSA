@@ -5,12 +5,12 @@ Creation-Date: 2018-08-08T12:26:03-04:00
 ====== bridge ======
 Created Wednesday 08 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+generic template version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
 relevant backlink 1
 relevant backlink 2
@@ -24,8 +24,8 @@ A bridge is a network connection that combines two or more network adapters to a
 **bridge:**
 * bridge - function: State the main function of the topic here.
 * bridge - description: Provide a more detail description here.
-* bridge - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge options page using this template: [[Home:002 all templates:options template|options template]]]
-* bridge - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
+* bridge - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge options page using this template: options template]
+* bridge - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge examples page using this template:  examples homepage template]
 
 **Relevant bridge links:**
 * https://fedoramagazine.org/build-network-bridge-fedora/
@@ -38,12 +38,12 @@ A bridge is a network connection that combines two or more network adapters to a
 * note 3
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 2:
+* binary location 1:
+* binary location 2:
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 2:
+* man location 1:
+* man location 2:
 
 **Relevant bridge Screenshots**
 Paste any relevant screenshots here.

@@ -5,14 +5,14 @@ Creation-Date: 2018-07-18T16:54:29-04:00
 ====== GRUB ======
 Created Wednesday 18 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[G]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
 
 **KYWRD:** GRUB
 **RHCSA Objective: **005k Modify the system bootloader
@@ -36,7 +36,7 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated GRUB binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 	* grub: 
 		* /usr/lib/grub 
 		* /etc/grub.d 
@@ -44,7 +44,7 @@ command to get timestamp: __date '+%A %D %X'__
 		* /usr/share/grub
 
 **Associated GRUB man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant GRUB Screenshots:**
 N/A.

@@ -5,10 +5,10 @@ Creation-Date: 2018-08-02T21:40:32-04:00
 ====== RHCSA ======
 Created Tuesday 10 July 2018
 
-Home
+[[:Home]]
 [[002 all templates:generic template]]
 [[002 all templates]]
-00 TODO LIST
+[[000 TODO LIST]]
 [[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 [[+RHCSA exam:objectives]]
 [[+alphabetical list of essential tools and terms]]

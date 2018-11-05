@@ -8,11 +8,11 @@ Created Tuesday 31 July 2018
 examples homepage template version: Friday 31 2018 10:09:02 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[adduser]]
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[A:adduser]]
 
 **KYWRD:** adduser
 
@@ -20,9 +20,9 @@ examples homepage template version: Friday 31 2018 10:09:02 PM
 In the adduser examples, we will walk through some of the uses of the adduser command.
 
 **adduser - examples:**
-* [[+adduser - example 1]] : Adding a new user in a [[C:CentOS|CentOS]] virtual machine.
+* [[+adduser - example 1]] : Adding a new user in a CentOS virtual machine.
 * [[+adduser - example 2]] : Add a new normal user, Jean-Luc Picard, to a CentOS system, and verify that his account was created properly.
-* KEYWORD - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* KEYWORD - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 
 **Relevant adduser Screenshots**

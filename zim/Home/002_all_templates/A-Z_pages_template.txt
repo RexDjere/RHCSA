@@ -5,13 +5,13 @@ Creation-Date: 2018-08-07T23:45:03-04:00
 ====== A-Z pages template ======
 Created Tuesday 07 August 2018
 
-A-Z pages template version: Sunday 09/09/18 10:15:04 PM
+[[:Home:002 all templates:A-Z pages template]] version: Sunday 09/09/18 10:15:04 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 replace this with a link to the parent page 1 level above this page
 
 **Summary**

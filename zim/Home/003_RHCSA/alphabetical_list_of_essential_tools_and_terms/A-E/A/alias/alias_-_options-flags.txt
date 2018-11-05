@@ -5,20 +5,20 @@ Creation-Date: 2018-08-17T11:43:49-04:00
 ====== alias - options-flags ======
 Created Friday 17 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+options template version: Wednesday 08/08/18 11:13:20 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[alias]]
+alias
 
 **KYWRD:** alias
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-This article lists and describes all options available with the [[alias]] command.
+This article lists and describes all options available with the alias command.
 
 **alias - options:**
 * -p: prints the list of aliases with the form **alias** //name=value// on stdout.

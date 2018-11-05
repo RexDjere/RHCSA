@@ -6,7 +6,7 @@ Creation-Date: 2018-07-12T13:59:59-04:00
 Created Thursday 12 July 2018
 
 Home:RHCSA:alphabetical list of essential tools and terms:A-E:B:Burrows-Wheeler algorithm
-[[H]]
+H
 
 Huffman coding
 * lossless data compression algorithm

@@ -9,7 +9,7 @@ Created Tuesday 10 July 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]
-:Home:000 TODO LIST
+[[:Home:000 TODO LIST]]
 [[:Home:002 all templates]]
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:users]]
@@ -34,10 +34,10 @@ adduser is used to create a new user account, and to modify user account setting
 * N/A
 
 **Associated binary files: **
-* binary location 1: adduser: /usr/sbin/adduser
+* [[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location]] 1: adduser: /usr/sbin/adduser
 
 **Associated man pages: **
-* man location 1: adduser: /usr/share/man/man8/adduser.8.gz
+* [[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location]] 1: adduser: /usr/share/man/man8/adduser.8.gz
 
 **Relevant adduser Screenshots**
 N/A

@@ -5,14 +5,14 @@ Creation-Date: 2018-08-05T22:07:39-04:00
 ====== addr2line - examples ======
 Created Sunday 05 August 2018
 
-examples homepage template version: Friday 31 2018 10:09:02 PM
+[[:Home:002 all templates:examples homepage template]] version: Friday 31 2018 10:09:02 PM
 (command to get timestamp: date '+%A %W %Y %X' )
 
-[[Home]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[00 TODO LIST]]
-all templates:options template:alphabetical list of essential tools:A:addr2line:addr2line
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:000 TODO LIST]]
+[[A:addr2line]]
 
 **KYWRD:** addr2line
 

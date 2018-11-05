@@ -5,11 +5,11 @@ Creation-Date: 2018-07-31T05:46:46-04:00
 ====== readelf ======
 Created Tuesday 31 July 2018
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[R]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+R
 
 **KYWRD:** readelf
 **RHCSA Objective: **Type the target RHCSA Objective here.
@@ -24,8 +24,8 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **readelf:**
 * readelf - function: State the main function of the topic here.
 * readelf - description: Provide a more detail description here.
-* readelf - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the readelf examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* readelf - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the readelf options page using this template: [[Home:002 all templates:options template|options template]]]
+* readelf - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the readelf examples page using this template:  examples homepage template]
+* readelf - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the readelf options page using this template: options template]
 
 **Relevant readelf links:**
 * link 1
@@ -36,10 +36,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * N/A
 
 **Associated readelf binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* binary location 1:
 
 **Associated readelf man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 
 **Relevant readelf Screenshots:**
 Paste any relevant screenshots here.

@@ -5,7 +5,7 @@ Creation-Date: 2018-07-11T10:49:27-04:00
 ====== tar ======
 Created Wednesday 11 July 2018
 
-[[T]]
+T
 
 **Summary:**
 The tar utility is used to create archives, extract from archives, and to update archives.  The tar utility was orginally used to store archives on magnetic tapes => the name tar comes from tape archiver.
@@ -19,6 +19,6 @@ tar
 * [[+tar - examples:tar-uncompress - examples]]
 
 tar all templates:options template:alphabetical list of essential tools:B:binary location: [[/usr/bin/tar]]
-tar [[alphabetical list of essential tools and terms:K-O:M:man location]]: tar: /usr/share/man/man5/tar.5.gz /usr/share/man/man1/tar.1.gz /usr/share/info/tar.info-1.gz /usr/share/info/tar.info-2.gz /usr/share/info/tar.info.gz
+tar alphabetical list of essential tools and terms:K-O:M:man location: tar: /usr/share/man/man5/tar.5.gz /usr/share/man/man1/tar.1.gz /usr/share/info/tar.info-1.gz /usr/share/info/tar.info-2.gz /usr/share/info/tar.info.gz
 
 

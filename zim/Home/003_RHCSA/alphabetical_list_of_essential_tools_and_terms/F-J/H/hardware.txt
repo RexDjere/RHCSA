@@ -5,14 +5,14 @@ Creation-Date: 2018-07-10T23:01:45-04:00
 ====== hardware ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[H]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+H
 
 **KYWRD:** hardware
 **RHCSA Objective: **N/A
@@ -27,23 +27,23 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 **hardware:**
 * hardware - function: State the main function of the topic here.
 * hardware - description: Provide a more detail description here.
-* hardware - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hardware examples page using this template:  [[Home:002 all templates:examples homepage template|examples homepage template]]]
-* hardware - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hardware options page using this template: [[Home:002 all templates:options template|options template]]]
+* hardware - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hardware examples page using this template:  examples homepage template]
+* hardware - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hardware options page using this template: options template]
 
 **Relevant hardware links:**
-* [[K-O:L:lspci]]
-* [[K-O:L:lsusb]]
-* [[I:ishal]]
-* [[K-O:L:lshw]]
+* K-O:L:lspci
+* K-O:L:lsusb
+* I:ishal
+* K-O:L:lshw
 
 **Relevant hardware notes:**
 * N/A
 
 **Associated hardware binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated hardware man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant hardware Screenshots:**
 N/A

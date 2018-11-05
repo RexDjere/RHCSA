@@ -5,14 +5,14 @@ Creation-Date: 2018-07-18T16:41:00-04:00
 ====== GUID Partition Table ======
 Created Wednesday 18 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[G]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
 
 **KYWRD:** GUID Partition Table
 **RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
@@ -33,10 +33,10 @@ The **GUID Partition Table **provides a standard layout for the partition table 
 * N/A
 
 **Associated GUID Partition Table binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated GUID Partition Table man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant GUID Partition Table Screenshots:**
 N/A

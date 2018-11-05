@@ -5,20 +5,20 @@ Creation-Date: 2018-07-12T13:57:58-04:00
 ====== Burrows-Wheeler algorithm ======
 Created Thursday 12 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[B]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+B
 
 **KYWRD:** Burrows-Wheeler algorithm
 **RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
 **Summary:**
-The **Burrows-Wheeler algorithm** is the data compression method used by the Linux/Unix [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bzip2|bzip2]] utility.
+The **Burrows-Wheeler algorithm** is the data compression method used by the Linux/Unix bzip2 utility.
 
 **Burrows-Wheeler algorithm:**
 * Burrows-Wheeler algorithm - function: Data compression algorithm used by bzip2.
@@ -33,10 +33,10 @@ The **Burrows-Wheeler algorithm** is the data compression method used by the Lin
 * N/A
 
 **Associated Burrows-Wheeler algorithm binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated Burrows-Wheeler algorithm man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant Burrows-Wheeler algorithm Screenshots:**
 N/A

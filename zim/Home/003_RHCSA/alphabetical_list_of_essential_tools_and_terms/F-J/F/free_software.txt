@@ -5,9 +5,9 @@ Creation-Date: 2018-07-31T16:33:03-04:00
 ====== free software ======
 Created Tuesday 31 July 2018
 
-[[K-O:K:KVM]]
-[[K-O:O:open source]]
-[[F]]
+K-O:K:KVM
+K-O:O:open source
+F
 
 **Summary**
 Free software is software that guarantees the software's user four basic freedoms:
