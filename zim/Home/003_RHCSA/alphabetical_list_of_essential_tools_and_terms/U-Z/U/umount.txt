@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:39:25-04:00
 ====== umount ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-[[U]]
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U]]
 
 **KYWRD:** umount
 **RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
@@ -33,7 +33,7 @@ The **umount** utility is used to unmount file systems on Linux/Unix computer sy
 * N/A
 
 **Associated umount binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1:
+* [[binary location]] 1:
 	* umount: 
 		* /usr/bin/umount 
 		* /usr/sbin/umount.nfs 
@@ -41,7 +41,7 @@ The **umount** utility is used to unmount file systems on Linux/Unix computer sy
 		* /usr/sbin/umount.udisks2
 
 **Associated umount man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* [[man location]] 1:
 	* umount: 
 		* /usr/share/man/man8/umount.8.gz 
 		* /usr/share/man/man2/umount.2.gz

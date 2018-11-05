@@ -17,12 +17,12 @@ U-Z
 All commands, utilities and terms starting with the letter U are sub-pages to this page.
 
 **U:**
-* [[+umount]] , K-O:M:mount
-* [[+unalias]] , +A:alias
+* [[+umount]] 
+* [[+unalias]] 
 * [[+uname]]
 * [[+uniq]]
 * [[+unsetenv]]
-* [[+unzip]] , [[Z:zip]]
+* [[+unzip]]
 * [[+updatedb]]
 * [[+uptime]]
 * [[+useradd]]

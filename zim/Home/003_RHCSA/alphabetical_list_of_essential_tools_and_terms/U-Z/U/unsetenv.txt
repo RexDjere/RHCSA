@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T05:14:53-04:00
 ====== unsetenv ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
-[[U]]
+U
 
 **KYWRD:** unsetenv
 **RHCSA Objective:** 001a Access a shell prompt and issue commands with correct syntax
@@ -34,10 +34,10 @@ The **setenv** command in Linux/Unix is used to add or change environment variab
 * N/A
 
 **Associated unsetenv binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated unsetenv man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* unsetenv: 
 		* /usr/share/man/man3/unsetenv.3.gz 
 		* /usr/share/man/man3p/unsetenv.3p.gz

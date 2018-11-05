@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:28:08-04:00
 ====== uniq ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
-[[U]]
+U
 
 **KYWRD:** uniq
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ The **uniq** utility is used to identify and/or remove duplicate lines in a text
 * N/A
 
 **Associated uniq binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: uniq: /usr/bin/uniq
+* binary location 1: uniq: /usr/bin/uniq
 
 **Associated uniq man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* man location 1: 
 	* uniq: 
 		* /usr/share/man/man1/uniq.1.gz
 		* /usr/share/man/man1p/uniq.1p.gz
