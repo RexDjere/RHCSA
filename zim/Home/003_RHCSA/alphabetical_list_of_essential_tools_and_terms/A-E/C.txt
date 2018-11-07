@@ -5,46 +5,47 @@ Creation-Date: 2018-08-05T21:47:25-04:00
 ====== C ======
 Created Sunday 05 August 2018
 
-A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
+[[:Home:002 all templates:A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-A-E
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E]]
 
 **Summary**
 All commands, utilities and terms starting with the letter C are sub-pages to this page.
 
 **C:**
-* [[+cal]]
-* [[+canonicalize]]
-* [[+cat]]
-* [[+cd]]
-* [[+cdboot.img]]
-* [[+CentOS]]
-* [[+chcon]]
-* [[+chgrp]]
-* [[+chmod]]
-* [[+chown]]
-* [[+chsh]]
-* [[+clear]]
-* [[+CMOS]]
-* [[+cmp]]
-* [[+comm]]
-* [[+command]]
-* [[+command:command line interface]]
-* [[+command-line interpreter]]
-* [[+Complemetary Metal-Oxide-Semiconductor]]
-* [[+core.img]]
-* [[+cp]]
-* [[+cpio]]
-* [[+cron]]
-* [[+csplit]]
-* [[+Ctrl-C]]
-* [[+Ctrl-D]]
-* [[+Ctrl-Z]]
-* [[+curl]]
-* [[+cut]]
+[[+cal]]
+[[+canonicalize]]
+[[+cat]]
+[[+cd]]
+[[+cdboot.img]]
+[[+CentOS]]
+[[+chcon]]
+[[+chgrp]]
+[[+chmod]]
+[[+chown]]
+[[+chsh]]
+[[+clear]]
+[[+CMOS]]
+[[+cmp]]
+[[+comm]]
+[[+command]]
+[[+command:command line interface]]
+[[+command-line interpreter]]
+[[+Complemetary Metal-Oxide-Semiconductor]]
+[[+core.img]]
+[[+cp]]
+[[+cpio]]
+[[+cron]]
+[[+csplit]]
+[[+Ctrl-C]]
+[[+Ctrl-D]]
+[[+Ctrl-Z]]
+[[+curl]]
+[[+cut]]
 
 
