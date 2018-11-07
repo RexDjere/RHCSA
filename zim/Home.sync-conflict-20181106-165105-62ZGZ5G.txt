@@ -11,6 +11,8 @@ Created Tuesday 10 July 2018
 [[+002 all templates]]
 [[+003 RHCSA]]
 [[+003 RHCSA:RHCSA exam:objectives]]
+[[+binary location]]
+[[+man location]]
 
 **KYWRD:** Home
 

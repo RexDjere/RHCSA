@@ -5,32 +5,32 @@ Creation-Date: 2018-08-05T21:48:04-04:00
 ====== F ======
 Created Sunday 05 August 2018
 
-A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
+[[:Home:002 all templates:A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-F-J
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J]]
 
 **Summary**
 All commands, utilities and terms starting with the letter F are sub-pages to this page.
 
 **F:**
-* [[+false|false]] , P-T:T:true
-* [[+fdisk]]
-* [[+Fedora]]
-* [[+fg]] , A-E:B:bg
-* [[+fifo]]
-* [[+file]]
-* [[+filters]]
-* [[+find]]
-* [[+findmnt]]
-* [[+finger]]
-* [[+First-Stage Boot Loader]]
-* [[+for]] , U-Z:W:while
-* [[+formatting USB drives]]
-* [[+free]]
-* [[+free software]]
-* [[+ftp]]
-* [[+fuser]]
+[[+false]]
+[[+fdisk]]
+[[+Fedora]]
+[[+fg]] 
+[[+fifo]]
+[[+file]]
+[[+filters]]
+[[+find]]
+[[+findmnt]]
+[[+finger]]
+[[+First-Stage Boot Loader]]
+[[+for]] 
+[[+formatting USB drives]]
+[[+free]]
+[[+free software]]
+[[+ftp]]
+[[+fuser]]
