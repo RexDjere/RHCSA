@@ -5,5 +5,5 @@ Creation-Date: 2018-07-10T23:04:37-04:00
 ====== iwconfig ======
 Created Tuesday 10 July 2018
 
-[[P-T:S:system information]]
-[[I]]
+P-T:S:system information
+I

@@ -5,13 +5,13 @@ Creation-Date: 2018-07-10T23:07:55-04:00
 ====== who ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+generic template version: Tuesday 08/07/18 08:47:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[U-Z:W]]
+Home
+000 TODO LIST
+002 all templates
+U-Z:W
 
 **KYWRD:** who
 
@@ -33,10 +33,10 @@ The who command shows useful information about who is logged into a computer sys
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: who: /usr/bin/who
+* binary location 1: who: /usr/bin/who
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: who: /usr/share/man/man1/who.1.gz /usr/share/man/man1p/who.1p.gz
+* man location 1: who: /usr/share/man/man1/who.1.gz /usr/share/man/man1p/who.1p.gz
 
 
 **Relevant who Screenshots**

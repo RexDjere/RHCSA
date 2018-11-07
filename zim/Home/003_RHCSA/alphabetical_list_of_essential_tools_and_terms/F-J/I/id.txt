@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:03:10-04:00
 ====== id ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[I]]
+I
 
 **KYWRD:** id
 **RHCSA Objective: **006a Create, delete, and modify local user accounts
@@ -33,10 +33,10 @@ The id utility is used to view to user id (UID) and group id (GID) of users on L
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: id: /usr/bin/id
+* binary location 1: id: /usr/bin/id
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* id: 
 		* /usr/share/man/man1p/id.1p.gz 
 		* /usr/share/man/man1/id.1.gz

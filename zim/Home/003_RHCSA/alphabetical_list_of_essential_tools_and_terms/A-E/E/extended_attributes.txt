@@ -8,7 +8,7 @@ Created Tuesday 17 July 2018
 generic template version: Monday 08/06/18 10:14:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 002 all templates
 00 TODO LIST
 Home:RHCSA:alphabetical list of essential tools and terms:A-E:E:P-T:S:star example 2

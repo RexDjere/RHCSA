@@ -5,20 +5,20 @@ Creation-Date: 2018-07-10T23:04:35-04:00
 ====== ifconfig ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+generic template version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[I]]
+I
 
 **KYWRD:** ifconfig
 **RHCSA Objective: **5.a. Configure networking and hostname resolution statically or dynamically
 
 **Summary**
-ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:ip|ip]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:I:iproute2|iproute2]]. ifconfig was used for network interface configuration.
+ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with ip and iproute2. ifconfig was used for network interface configuration.
 
 **ifconfig:**
 * ifconfig - function: network interface configuration.
@@ -33,10 +33,10 @@ ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ifconfig: /usr/sbin/ifconfig
+* binary location 1: ifconfig: /usr/sbin/ifconfig
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ifconfig: /usr/share/man/man8/ifconfig.8.gz
+* man location 1: ifconfig: /usr/share/man/man8/ifconfig.8.gz
 
 **Relevant ifconfig Screenshots**
 N/A

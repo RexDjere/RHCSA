@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:53:29-04:00
 ====== ip ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/08/18 11:14:36 AM
+generic template version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[I]]
+I
 
 **KYWRD:** ip
 **RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
@@ -33,10 +33,10 @@ The ip utility is used to show and manipulate network devices, routing, network 
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ip: /usr/sbin/ip
+* binary location 1: ip: /usr/sbin/ip
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* ip: 
 		* /usr/share/man/man8/ip.8.gz 
 		* /usr/share/man/man7/ip.7.gz

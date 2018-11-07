@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:01:07-04:00
 ====== ifup ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[I]]
+I
 
 **KYWRD:** ifup
 **RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
@@ -33,10 +33,10 @@ The ifup utility is used to start up a network interface.
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ifup: /usr/sbin/ifup
+* binary location 1: ifup: /usr/sbin/ifup
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ifup: /usr/share/man/man8/ifup.8.gz
+* man location 1: ifup: /usr/share/man/man8/ifup.8.gz
 
 **Relevant ifup Screenshots**
 N/A

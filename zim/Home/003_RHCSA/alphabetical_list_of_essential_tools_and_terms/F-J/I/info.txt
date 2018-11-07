@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:04:06-04:00
 ====== info ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[I]]
+I
 
 **KYWRD:** info
 **RHCSA Objective: **001k Locate, read, and use system documentation including man, info, and files in usrsharedoc
@@ -21,10 +21,10 @@ RHCSA Objectives
 The info commmand is used to find out information about other commands. The basic format is this:
 info //[command_name]//
 
-For examples, this command would return information about the [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:W:whereis|whereis]] command:
+For examples, this command would return information about the whereis command:
 __info whereis__
 
-info is an alternative to the [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man|man]] command.
+info is an alternative to the man command.
 
 **info:**
 * info - function: find information on commands.
@@ -39,13 +39,13 @@ info is an alternative to the [[Home:003 RHCSA:alphabetical list of essential to
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: 
+* binary location 1: 
 	* info: 
 		* /usr/bin/info 
 		* /usr/share/info
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* info: 
 		* /usr/share/man/man5/info.5.gz 
 		* /usr/share/man/man1/info.1.gz
