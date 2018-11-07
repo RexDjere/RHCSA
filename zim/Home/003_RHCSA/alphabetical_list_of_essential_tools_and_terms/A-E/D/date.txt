@@ -15,10 +15,10 @@ alphabetical list of essential tools
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[D]]
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+D
 
 **KYWRD:** date
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax

@@ -9,10 +9,10 @@ Created Tuesday 31 July 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[D]]
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+D
 
 **KYWRD:** dig
 **RHCSA Objective: **005a Configure networking and hostname resolution statically or dynamically
