@@ -5,13 +5,13 @@ Creation-Date: 2018-07-31T05:51:22-04:00
 ====== false ======
 Created Tuesday 31 July 2018
 
-generic template version: Monday Tuesday 08/07/18 07:30:30 PM
+[[:Home:002 all templates:generic template]] version: Monday Tuesday 08/07/18 07:30:30 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-F
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F]]
 
 **See also:** P-T:T:true
 
@@ -34,10 +34,10 @@ The **false** command does nothing, and then exits with a status code indicating
 * N/A
 
 **Associated binary files: **
-* binary location 1: false: /usr/bin/false
+* [[binary location]] 1: false: /usr/bin/false
 
 **Associated man pages: **
-* man location 1: 
+* [[man location]] 1: 
 	* false: 
 		* /usr/share/man/man1/false.1.gz 
 		* /usr/share/man/man1p/false.1p.gz

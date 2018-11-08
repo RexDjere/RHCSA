@@ -5,7 +5,7 @@ Creation-Date: 2018-07-31T02:45:15-04:00
 ====== alias ======
 Created Tuesday 31 July 2018
 
-generic template version: Wednesday 08/15/18 08:48:19 PM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]

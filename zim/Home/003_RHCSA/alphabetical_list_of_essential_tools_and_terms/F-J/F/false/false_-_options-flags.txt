@@ -5,13 +5,13 @@ Creation-Date: 2018-08-07T16:24:58-04:00
 ====== false - options-flags ======
 Created Tuesday 07 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Tuesday 08/07/18 07:33:46 PM
+options template version: Tuesday 08/07/18 07:33:46 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[false]]
+Home
+002 all templates
+00 TODO LIST
+false
 
 **KYWRD:** false
 

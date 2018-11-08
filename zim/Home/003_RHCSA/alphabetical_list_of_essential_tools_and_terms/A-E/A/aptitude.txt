@@ -5,13 +5,13 @@ Creation-Date: 2018-07-31T05:12:41-04:00
 ====== aptitude ======
 Created Tuesday 31 July 2018
 
-generic template version: Wednesday 08/15/18 08:48:19 PM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[A]]
 
 **KYWRD:** aptitude
@@ -33,10 +33,10 @@ Aptitude is an Ncurses-based front end to the Debian package manager, apt.
 * N/A
 
 **Associated binary files: **
-* binary location 1: N/A
+* [[binary location]] 1: N/A
 
 **Associated man pages: **
-* man location 1: N/A
+* [[man location]] 1: N/A
 
 **Relevant aptitude Screenshots**
 N/A
