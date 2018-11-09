@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T06:31:31-04:00
 ====== vimdiff ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[V]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+V
 
 **KYWRD:** vimdiff
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ The Linux/Unix **vimdiff** utility is used to visually see the differences betwe
 * N/A
 
 **Associated vimdiff binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: vimdiff: /usr/bin/vimdiff
+* binary location 1: vimdiff: /usr/bin/vimdiff
 
 **Associated vimdiff man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: vimdiff: /usr/share/man/man1/vimdiff.1.gz
+* man location 1: vimdiff: /usr/share/man/man1/vimdiff.1.gz
 
 **Relevant vimdiff Screenshots:**
 N/A
