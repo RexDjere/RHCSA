@@ -5,24 +5,24 @@ Creation-Date: 2018-09-02T18:37:07-04:00
 ====== 001d - example 2 ======
 Created Sunday 02 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+examples template version: Wednesday 08/15/18 10:08:58 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[001d Access remote systems using SSH]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+001d Access remote systems using SSH
 
 **KYWRD:** 001d - example 2
 **RHCSA Objective: **001d Access remote systems using SSH
 
 **Summary**
-Transfer a file to a RHEL/CentOS machine using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp,]] Login to the remote machine via [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|ssh]], and manipulate the newly transferred file via the ssh connection.
+Transfer a file to a RHEL/CentOS machine using scp, Login to the remote machine via ssh, and manipulate the newly transferred file via the ssh connection.
 
 **Scenario**
 Victor, a U.S. Navy RHEL sysadmin, wants to complete the following tasks:
-1. Transfer the file **00_tech_companies2_unsorted.txt **to the remote RHEL machine using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp.]]
+1. Transfer the file **00_tech_companies2_unsorted.txt **to the remote RHEL machine using scp.
 2. Login to the remote RHEL machine using ssh.
 3. Create a new directory on the remote machine: **tech_companies**
 4. Move **00_tech_companies2_unsorted.txt **
@@ -32,7 +32,7 @@ Victor, a U.S. Navy RHEL sysadmin, wants to complete the following tasks:
 
 **001d - example 2 - tasks **(command line commands are __highlighted__)**:**
 - Startup your remote CentOS/RHEL system, but don't login. 
-1. Transfer the file **00_tech_companies2_unsorted.txt **to a remote RHEL machine using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp.]]
+1. Transfer the file **00_tech_companies2_unsorted.txt **to a remote RHEL machine using scp.
 	a. __cd ~/Sync/PROJECTS/RHCSA/lists/tech_companies__
 	b. Verify that **00_tech_companies2_unsorted.txt **exists: __ls | grep 00_tech_companies2_unsorted.txt__
 	c. Perform the actual transfer: __scp 00_tech_companies2_unsorted.txt your_remote_username@your_remote_ip_address:~__

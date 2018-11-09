@@ -5,24 +5,24 @@ Creation-Date: 2018-09-02T18:36:57-04:00
 ====== 001d - example 1 ======
 Created Sunday 02 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+examples template version: Wednesday 08/15/18 10:08:58 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[001d Access remote systems using SSH]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+001d Access remote systems using SSH
 
 **KYWRD:** 001d - example 1
 **RHCSA Objective: **001d Access remote systems using SSH
 
 **Summary**
-Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] command to login to a remote server, create a set of new empty files, delete the new files, and then exit the SSH session.
+Use SSH command to login to a remote server, create a set of new empty files, delete the new files, and then exit the SSH session.
 
 **Scenario**
 Paul (**your_username@tty.sdf.org**) wants to:
-1. login to the remote sdf.org server using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]].
+1. login to the remote sdf.org server using SSH.
 2. create a new directory called **my_files**.
 3. create an empty file in **my_files** called **my_doc1.odt**.
 4. List **my_doc1.odt** to make sure that it was created.
