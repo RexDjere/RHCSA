@@ -33,10 +33,10 @@ The Linux/Unix **date **command is used to print or set the date and time on Uni
 * N/A
 
 **Associated date binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: date: /usr/bin/date
+* [[binary location]] 1: date: /usr/bin/date
 
 **Associated date man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* [[man location]] 1: 
 	* date: 
 		* /usr/bin/date /usr/share/man/man1p/date.1p.gz 
 		* /usr/share/man/man1/date.1.gz

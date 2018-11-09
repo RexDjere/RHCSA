@@ -5,10 +5,10 @@ Creation-Date: 2018-08-08T00:16:02-04:00
 ====== DNS ======
 Created Wednesday 08 August 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Tuesday 08/07/18 08:47:27 PM
+generic template version: Tuesday 08/07/18 08:47:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 D

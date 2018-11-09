@@ -5,14 +5,14 @@ Creation-Date: 2018-07-19T02:09:38-04:00
 ====== diskboot.img ======
 Created Thursday 19 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
-[[F-J:G:GRUB:GRUB image files]]
+F-J:G:GRUB:GRUB image files
 
 **KYWRD:** diskboot.img
 **RHCSA Objective: **005d Configure systems to boot into a specific target automatically
@@ -36,10 +36,10 @@ diskboot.img
 * N/A
 
 **Associated diskboot.img binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated diskboot.img man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant diskboot.img Screenshots:**
 N/A

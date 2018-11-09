@@ -5,10 +5,10 @@ Creation-Date: 2018-07-10T23:04:22-04:00
 ====== df ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -23,8 +23,8 @@ The **df** utility is used to report file system space usage on Linux Unix syste
 **df:**
 * df - function: The df command is used to display file system usage.
 * df - description: N/A
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - examples|df - examples]] 
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:df:df - options-flags|df - options-flags]]
+* df - examples 
+* df - options-flags
 
 **Relevant df links:**
 * https://en.wikipedia.org/wiki/Df_(Unix)
@@ -33,10 +33,10 @@ The **df** utility is used to report file system space usage on Linux Unix syste
 * N/A
 
 **Associated df binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: df: /usr/bin/df
+* binary location 1: df: /usr/bin/df
 
 **Associated df man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: 
+* man location 1: 
 	* df: 
 		* /usr/share/man/man1/df.1.gz 
 		* /usr/share/man/man1p/df.1p.gz

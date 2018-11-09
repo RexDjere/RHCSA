@@ -5,39 +5,39 @@ Creation-Date: 2018-07-10T23:07:58-04:00
 ====== deluser ======
 Created Tuesday 10 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
-[[U-Z:U:users]]
+U-Z:U:users
 D
 
 **KYWRD:** deluser
 **RHCSA Objective: **006a Create, delete, and modify local user accounts
 
 **Summary:**
-See [[U-Z:U:userdel|userdel]].
+See userdel.
 
 **deluser:**
-* deluser - function: See [[U-Z:U:userdel|userdel]].
-* deluser - description: See [[U-Z:U:userdel|userdel]].
-* deluser - examples: See [[U-Z:U:userdel|userdel]].
-* deluser - options-flags: See [[U-Z:U:userdel|userdel]].
+* deluser - function: See userdel.
+* deluser - description: See userdel.
+* deluser - examples: See userdel.
+* deluser - options-flags: See userdel.
 
 **Relevant deluser links:**
-* See [[U-Z:U:userdel|userdel]].
+* See userdel.
 
 **Relevant deluser notes:**
-* See [[U-Z:U:userdel|userdel]].
+* See userdel.
 
 **Associated deluser binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: See [[U-Z:U:userdel|userdel]].
+* binary location 1: See userdel.
 
 **Associated deluser man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: See [[U-Z:U:userdel|userdel]].
+* man location 1: See userdel.
 
 **Relevant deluser Screenshots:**
-See [[U-Z:U:userdel|userdel]].
+See userdel.

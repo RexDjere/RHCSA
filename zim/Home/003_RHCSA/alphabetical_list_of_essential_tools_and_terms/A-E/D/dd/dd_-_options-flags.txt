@@ -5,14 +5,14 @@ Creation-Date: 2018-10-07T21:40:45-04:00
 ====== dd - options-flags ======
 Created Sunday 07 October 2018
 
-[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
+options template version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[dd]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+dd
 
 **KYWRD:** dd
 **RHCSA Objective: **001h Create, delete, copy, and move files and directories

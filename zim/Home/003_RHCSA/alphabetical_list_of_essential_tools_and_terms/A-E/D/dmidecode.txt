@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T04:16:56-04:00
 ====== dmidecode ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -33,10 +33,10 @@ The **dmidecode** utility is used to inspect the information provided by the **S
 * N/A
 
 **Associated dmidecode binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dmidecode: /usr/sbin/dmidecode
+* binary location 1: dmidecode: /usr/sbin/dmidecode
 
 **Associated dmidecode man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: dmidecode: /usr/share/man/man8/dmidecode.8.gz
+* man location 1: dmidecode: /usr/share/man/man8/dmidecode.8.gz
 
 **Relevant dmidecode Screenshots:**
 N/A

@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T02:50:04-04:00
 ====== declare ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -18,7 +18,7 @@ D
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-**declare** is a built-in [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash|bash]] command.  It is used to perform 3 functions:
+**declare** is a built-in bash command.  It is used to perform 3 functions:
 1. declare shell variables and functions
 2. set the attributes of shell variables and functions
 3. display the value of shell variables and functions
@@ -36,10 +36,10 @@ D
 * N/A
 
 **Associated declare binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated declare man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: declare: /usr/share/man/man1/declare.1.gz
+* man location 1: declare: /usr/share/man/man1/declare.1.gz
 
 **Relevant declare Screenshots:**
 N/A

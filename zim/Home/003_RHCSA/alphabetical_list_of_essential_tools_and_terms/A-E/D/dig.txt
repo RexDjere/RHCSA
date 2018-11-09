@@ -5,10 +5,10 @@ Creation-Date: 2018-07-31T04:32:19-04:00
 ====== dig ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
+Home
 000 TODO LIST
 002 all templates
 003 RHCSA:RHCSA exam:objectives
@@ -33,10 +33,10 @@ D
 * N/A
 
 **Associated dig binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: dig: /usr/bin/dig
+* binary location 1: dig: /usr/bin/dig
 
 **Associated dig man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: dig: /usr/share/man/man1/dig.1.gz
+* man location 1: dig: /usr/share/man/man1/dig.1.gz
 
 **Relevant dig Screenshots:**
 N/A
