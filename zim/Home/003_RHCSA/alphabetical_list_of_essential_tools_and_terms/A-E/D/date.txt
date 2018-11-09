@@ -5,20 +5,14 @@ Creation-Date: 2018-07-31T02:49:47-04:00
 ====== date ======
 Created Tuesday 31 July 2018
 
-[[Home]]
-tasks template
-alphabetical list of essential tools
-
-
-
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-D
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D]]
 
 **KYWRD:** date
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
