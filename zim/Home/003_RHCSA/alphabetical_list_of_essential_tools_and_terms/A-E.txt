@@ -21,6 +21,6 @@ This page links to A-E pages.
 **A-E:**
 [[+A]]
 [[+B]]
-[[+D:C]]
+[[+C]]
 [[+D]]
 [[+E]]

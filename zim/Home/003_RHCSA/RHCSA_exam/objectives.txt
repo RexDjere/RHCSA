@@ -14,7 +14,7 @@ command to get timestamp: __date '+%A %D %X'__
 https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
 [[objectives]]
 [[:Home:003 RHCSA:RHCSA exam]]
-[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:C:CentOS]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:CentOS]]
 
 **KYWRD:** RHCSA Objectives
 

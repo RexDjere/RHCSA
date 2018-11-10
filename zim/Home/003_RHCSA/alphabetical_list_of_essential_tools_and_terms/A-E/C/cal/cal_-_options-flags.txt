@@ -5,12 +5,12 @@ Creation-Date: 2018-09-08T21:44:23-04:00
 ====== cal - options-flags ======
 Created Saturday 08 September 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 09/05/18 01:51:17 AM
+options template version: Wednesday 09/05/18 01:51:17 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
 [[cal]]
 

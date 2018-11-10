@@ -5,14 +5,14 @@ Creation-Date: 2018-10-07T21:54:22-04:00
 ====== declare - options-flags ======
 Created Sunday 07 October 2018
 
-[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
+options template version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[declare]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+declare
 
 **KYWRD:** declare
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
