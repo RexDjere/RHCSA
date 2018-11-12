@@ -33,10 +33,10 @@ The **apt** command is widely used on Debian, and Debian derivates, such as Ubun
 * N/A
 
 **Associated binary files: **
-* binary location 1: N/A
+* [[binary location]] 1: N/A
 
 **Associated man pages: **
-* man location 1: N/A
+* [[man location]] 1: N/A
 
 **Relevant apt-cache Screenshots**
 N/A
