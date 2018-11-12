@@ -5,14 +5,14 @@ Creation-Date: 2018-10-13T08:52:45-04:00
 ====== bash - example 2 ======
 Created Saturday 13 October 2018
 
-examples template version: Sunday 09/09/18 10:13:39 PM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash:bash - examples]]
 
 **KYWRD:** bash - example 2
 **RHCSA Objective: **Replace this with the target RHCSA Objective.
