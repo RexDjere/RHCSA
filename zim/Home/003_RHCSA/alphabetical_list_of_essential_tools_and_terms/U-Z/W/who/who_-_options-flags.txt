@@ -5,18 +5,18 @@ Creation-Date: 2018-08-07T23:34:07-04:00
 ====== who - options-flags ======
 Created Tuesday 07 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Tuesday 08/07/18 07:33:46 PM
+options template version: Tuesday 08/07/18 07:33:46 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[who]]
+Home
+002 all templates
+00 TODO LIST
+who
 
 **KYWRD:** who
 
 **Summary**
-This article discusses the options associated with the [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:W:who|who]] command.
+This article discusses the options associated with the who command.
 
 **who - options:**
 * -a, --all: same as -b -d --login -p -r -t -T -u
@@ -24,7 +24,7 @@ This article discusses the options associated with the [[Home:003 RHCSA:alphabet
 * -d, --dead: print dead processes
 * -H, --heading: print line of column headings
 * -l, --login: print system loging processes
-* --lookup: attempts to [[A-E:C:canonicalize|canonicalize]] hostnames via [[A-E:D:DNS|DNS]]
+* --lookup: attempts to canonicalize hostnames via DNS
 * -m: returns only hostname and user associated with stdin
 * -p, --process: prints active processes spawned by init.
 * -q, --count: provides all login names and number of users logged on

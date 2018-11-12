@@ -5,20 +5,20 @@ Creation-Date: 2018-08-08T16:27:16-04:00
 ====== 001a - example 1 ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/08/18 11:14:15 AM
+examples template version: Wednesday 08/08/18 11:14:15 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[001a Access a shell prompt and issue commands with correct syntax]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+001a Access a shell prompt and issue commands with correct syntax
 
 **KYWRD:** 001a - example 1
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-In 001a - example 1, we are using the terminal in multi-user.target (formerly known as runlevel 3) on a [[alphabetical list of essential tools and terms:A-E:C:CentOS|CentOS]] virtual machine. This example assumes that you already have networking enabled on the CentOS machine, including Internet access. We will complete the following tasks:
+In 001a - example 1, we are using the terminal in multi-user.target (formerly known as runlevel 3) on a CentOS virtual machine. This example assumes that you already have networking enabled on the CentOS machine, including Internet access. We will complete the following tasks:
 * login
 * update the system using yum
 * install the Gnome Desktop Environment

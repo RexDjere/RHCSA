@@ -5,14 +5,14 @@ Creation-Date: 2018-08-10T02:02:51-04:00
 ====== 001b - example 1 ======
 Created Friday 10 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+examples template version: Thursday 08/09/18 10:26:11 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[001b Use input-output redirection]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+001b Use input-output redirection
 
 **KYWRD:** 001b - example 1
 **RHCSA Objective: **001b Use input-output redirection

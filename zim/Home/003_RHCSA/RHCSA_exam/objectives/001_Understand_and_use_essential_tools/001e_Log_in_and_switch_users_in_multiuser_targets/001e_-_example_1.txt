@@ -5,14 +5,14 @@ Creation-Date: 2018-09-06T02:29:56-04:00
 ====== 001e - example 1 ======
 Created Thursday 06 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+examples template version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[001e Log in and switch users in multiuser targets]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+001e Log in and switch users in multiuser targets
 
 **KYWRD:** 001e - example 1
 **RHCSA Objective: **001e Log in and switch users in multiuser targets

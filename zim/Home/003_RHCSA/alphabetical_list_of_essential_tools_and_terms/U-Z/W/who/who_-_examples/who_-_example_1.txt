@@ -5,18 +5,18 @@ Creation-Date: 2018-08-08T00:59:17-04:00
 ====== who - example 1 ======
 Created Wednesday 08 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Tuesday 08/07/18 07:50:30 PM
+examples template version: Tuesday 08/07/18 07:50:30 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[who - examples]]
+Home
+002 all templates
+00 TODO LIST
+who - examples
 
 **KYWRD:** who
 
 **Summary**
-In who - example 1, we will the following usages of the [[Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:W:who|who]] command:
+In who - example 1, we will the following usages of the who command:
 
 
 **who - tasks **(command line commands are __highlighted__)**:**
@@ -26,7 +26,7 @@ In who - example 1, we will the following usages of the [[Home:003 RHCSA:alphabe
 5. Enter this command: __who --boot__ . This will show you the last time that the sytem was booted.
 6. Enter this command: __who__ . This will show you all of the users logged in to the system, and what time they logged in.
 7. Enter this command: __who -d__ . This will display any dead processes on the system.
-8. Enter this command: __who -r__ . This will show the current system [[P-T:S:systemd:systemd - targets|run level]].
+8. Enter this command: __who -r__ . This will show the current system run level.
 9. Enter this command: __who -a__ . The -a options consolidates several options to give a kind of "combo" report.
 10. Enter this command: __who -aH__ . This displays the same information as who -a, but it adds a convenient header that make the information more presentable.
 11. Enter this command: __who -q__ . This command displays the names and number of users logged into the system.

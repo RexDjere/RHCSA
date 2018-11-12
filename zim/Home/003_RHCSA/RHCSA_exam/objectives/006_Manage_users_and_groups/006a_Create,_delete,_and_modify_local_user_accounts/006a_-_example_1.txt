@@ -5,15 +5,15 @@ Creation-Date: 2018-08-13T18:02:43-04:00
 ====== 006a - example 1 ======
 Created Monday 13 August 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Thursday 08/09/18 10:26:11 AM
+examples template version: Thursday 08/09/18 10:26:11 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[objectives]]
-[[006a Create, delete, and modify local user accounts]]
-[[006c Create, delete, and modify local groups and group memberships]]
+Home
+002 all templates
+00 TODO LIST
+objectives
+006a Create, delete, and modify local user accounts
+006c Create, delete, and modify local groups and group memberships
 
 **KYWRD:** 006a - example 1
 **RHCSA Objectives: **
@@ -26,9 +26,9 @@ Create a new group called starfleet_academy_grads and add 3 new system users to 
 **006a - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. **NOTE:** Adding a lot of system users with the newusers command can be cumbersome because you have to manually type the detaisl for each user into a file. I wrote a C++ program called Linux Newusers File Creator  to make the task much easier. That program is here: https://github.com/RexDjere/RHCSA/blob/master/cpp_files/newusers_file_creator/Linux_newusers_file_creator.cpp
 2. Startup your RHEL/CentOS machine, and login as a normal user.
-3. Create a newgroup called starfleet_academy_grads with a GID of 555 using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:groupadd|groupadd]] command:
+3. Create a newgroup called starfleet_academy_grads with a GID of 555 using the groupadd command:
 	* __su -c "groupadd starfleet_academy_grads -g 555"__
-4. Verify that the new group was correctly created using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat|cat]] and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]] commands:
+4. Verify that the new group was correctly created using the cat and grep commands:
 	* __cat /etc/group | grep starfleet_academy_grads__
 5. In the next steps, we are going to download and compile my C++ Linux Newusers File Creator, and use it to create the detail file for the new users.
 	* First, we will make sure that wget is installed by entering wget: __wget__
