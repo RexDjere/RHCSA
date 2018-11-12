@@ -5,13 +5,13 @@ Creation-Date: 2018-10-13T08:52:45-04:00
 ====== bash - example 2 ======
 Created Saturday 13 October 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Sunday 09/09/18 10:13:39 PM
+examples template version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** bash - example 2

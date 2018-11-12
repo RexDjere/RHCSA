@@ -5,20 +5,20 @@ Creation-Date: 2018-09-07T23:48:33-04:00
 ====== bash - example 1 ======
 Created Friday 07 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+examples template version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[bash - examples]]
+bash - examples
 
 **KYWRD:** bash - example 1
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-Manipulate numerical variables in [[bash]].
+Manipulate numerical variables in bash.
 
 **Scenario:**
 Ban Ki-moon is the Director of RHEL sysadmins at the United Nations. He wants to brush up on his Bash skills. He performs an interesting thought experiment:
