@@ -5,16 +5,25 @@ Creation-Date: 2018-07-18T16:36:49-04:00
 ====== Boot Loader ======
 Created Wednesday 18 July 2018
 
-[[Bootstrap Loader]]
-B
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-**Summary**
-The function of the Boot Loader is the load the computer's operating system into memory during the boot process. The Boot Loader is found in the K-O:M:MBR (Master Boot Record), or in the F-J:G:GUID Partition Table. The Boot Loader is not enabled until after the POST (Power On Self Test) is completed, and the POST status is "PASS". In Linux, the most popular Boot Loader is F-J:G:GRUB. The Boot Loader is sometimes referred to as the [[Bootstrap Loader]].  They are one and the same.
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[Bootstrap Loader]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** Boot Loader
+**RHCSA Objective: **005k Modify the system bootloader
+
+**Summary:**
+The function of the Boot Loader is the load the computer's operating system into memory during the boot process. The Boot Loader is found in the Master Boot Record, or in the GUID Partition Table. The Boot Loader is not enabled until after the POST (Power On Self Test) is completed, and the POST status is "PASS". In Linux, the most popular Boot Loader is F-J:G:GRUB. The Boot Loader is sometimes referred to as the [[Bootstrap Loader]].  They are one and the same.
 
 The Boot Loader is divided into two categories:
 * The F-J:F:First-Stage Boot Loader
 * The P-T:S:Second-Stage Boot Loader - this is typically Grub on most Linux systems.
-
 
 **Description**
 The following steps occur after you hit the power button to turn on your computer:
@@ -25,3 +34,26 @@ The following steps occur after you hit the power button to turn on your compute
 		1. the Boot Loader
 		2. the partition table
 * Once the Boot Loader is found, the Boot Loader then loads the computer's operating system into memory.
+
+
+**Boot Loader:**
+* Boot Loader - function: State the main function of the topic here.
+* Boot Loader - description: Provide a more detail description here.
+* Boot Loader - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Boot Loader examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* Boot Loader - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the Boot Loader options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant Boot Loader links:**
+* https://en.wikipedia.org/wiki/Booting
+
+**Relevant Boot Loader notes:**
+* N/A
+
+**Associated Boot Loader binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated Boot Loader man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant Boot Loader Screenshots:**
+N/A
