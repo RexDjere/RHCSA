@@ -8,10 +8,10 @@ Created Wednesday 08 August 2018
 [[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[A]]
 
 **KYWRD:** Autofs
@@ -40,10 +40,10 @@ Autofs is a utility that can be configured to automount  network shares or remov
 * note 3
 
 **Associated binary files: **
-* binary location 1: autofs: /usr/lib64/autofs /etc/autofs.conf
+* [[binary location]] 1: autofs: /usr/lib64/autofs /etc/autofs.conf
 
 **Associated man pages: **
-* man location: 
+* [[man location]]: 
 	* autofs: 
 		* /usr/share/man/man8/autofs.8.gz 
 		* /usr/share/man/man5/autofs.5.gz
