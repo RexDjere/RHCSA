@@ -20,10 +20,10 @@ command to get timestamp: __date '+%A %D %X'__
 **Summary:**
 This article describes the options available with the **Bourne shell**.
 
-**KEYWORD - options:**
+**Bourne shell - options:**
 * -a: describe option a.
 * -b: describe option b.
 * -c: decsribe option c.
 
-**Relevant KEYWORD Screenshots:**
+**Relevant Bourne shell Screenshots:**
 N/A

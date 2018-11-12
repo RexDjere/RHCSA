@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-12T09:53:01-05:00
+
+====== bash - example 3 ======
+Created Monday 12 November 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash:bash - examples]]
+
+**KYWRD:** bash "for" loop
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+[[~/Sync/PROJECTS/RHCSA/lectures/bash/bash_for_loops1.odp|Bash Shell "For" Loops - Lecture 1]]
+
+**Relevant bash "for" loop links:**
+N/A
+
+**Relevant bash "for" loop Screenshots:**
+{{./pasted_image.png?width=800}}

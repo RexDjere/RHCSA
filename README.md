@@ -46,6 +46,7 @@ To get the most out of this study guide, I recommend the following:
 	- CONTRIBUTING.md
 	- cpp_files (c++ files that I created)
 	- examples (holds all study guide examples)
+	- lectures - (contains lectures on a variety of GNU/Linux related topics)
 	- LICENSE.md (contains GPL v3 license text)
 	- lists (holds list text files that I use for examples)
 	- MILESTONES.md
