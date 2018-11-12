@@ -9,7 +9,6 @@ Created Wednesday 15 August 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]
-[[:Home]]
 [[:Home:000 TODO LIST]]
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[A:adduser:adduser - examples]]
