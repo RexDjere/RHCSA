@@ -24,6 +24,7 @@ This article contains examples that illustrate the correct use of the bash shell
 * [[+bash - example 1]] : Manipulate numerical variables in bash.
 * [[+bash - example 2]] : Write a simple bash command line that counts to 30.
 * [[+bash - example 3]] : Bash "For" Loops - Lecture 1
+* [[+bash - example 4]]: Bash "While" Loops - Lecture 1
 
 **Relevant bash links:**
 * N/A
