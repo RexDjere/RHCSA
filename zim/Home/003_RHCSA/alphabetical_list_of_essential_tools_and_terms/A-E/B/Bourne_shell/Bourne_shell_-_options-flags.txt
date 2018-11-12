@@ -5,14 +5,14 @@ Creation-Date: 2018-10-15T01:51:38-04:00
 ====== Bourne shell - options-flags ======
 Created Monday 15 October 2018
 
-[[Home:002 all templates:options template|options template]] version: Sunday 09/09/18 05:45:20 PM
+options template version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[Bourne shell]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+Bourne shell
 
 **KYWRD:** type the kywrd here.
 **RHCSA Objective: **Type the target RHCSA Objective here.
