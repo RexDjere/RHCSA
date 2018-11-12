@@ -5,14 +5,14 @@ Creation-Date: 2018-09-08T20:49:30-04:00
 ====== bg - example 3 ======
 Created Saturday 08 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+[[:Home:002 all templates:examples homepage template:examples template]]version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-RHCSA Objectives
-[[bg - examples]]
+[[:Home:002 all templates:examples homepage template:examples template]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bg:bg - examples]]
 
 **KYWRD:** bg - example 3
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
