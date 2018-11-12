@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:18:17-04:00
 ====== badblocks ======
 Created Tuesday 31 July 2018
 
-generic template version: Wednesday 08/15/18 08:48:19 PM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-B
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
 
 **KYWRD:** badblocks
 **RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
@@ -34,10 +34,10 @@ The badblocks utility is used to test storage devices for bad blocks.
 * N/A
 
 **Associated binary files: **
-* binary location 1: badblocks: /usr/sbin/badblocks
+* [[binary location]] 1: badblocks: /usr/sbin/badblocks
 
 **Associated man pages: **
-* man location 1: badblocks: /usr/share/man/man8/badblocks.8.gz
+* [[man location]] 1: badblocks: /usr/share/man/man8/badblocks.8.gz
 
 **Relevant badblocks Screenshots**
 N/A

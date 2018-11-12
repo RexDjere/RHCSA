@@ -5,20 +5,20 @@ Creation-Date: 2018-08-25T14:40:06-04:00
 ====== badblocks - options-flags ======
 Created Saturday 25 August 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+options template version: Wednesday 08/08/18 11:13:20 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[badblocks]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+badblocks
 
 **KYWRD:** badblocks
 **RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
 
 **Summary**
-This article illustrates the options available with the [[badblocks]] utility
+This article illustrates the options available with the badblocks utility
 
 **KEYWORD - options:**
 * -b //block_size//:
