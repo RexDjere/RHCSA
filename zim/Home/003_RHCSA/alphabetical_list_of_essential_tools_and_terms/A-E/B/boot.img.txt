@@ -16,8 +16,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB image files]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** boot.img
+**RHCSA Objective: **005k Modify the system bootloader
 
 **Summary:**
 boot.img is one of several F-J:G:GRUB:GRUB image files are used as bootstrap images during the boot process.  
