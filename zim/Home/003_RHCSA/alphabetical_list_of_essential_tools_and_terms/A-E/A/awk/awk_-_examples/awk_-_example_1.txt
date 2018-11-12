@@ -7,17 +7,17 @@ Created Saturday 18 August 2018
 
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[awk]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+awk
 
 **KYWRD:** awk - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-Use [[awk]] to search a text document, and return lines that match given search parameters.
+Use awk to search a text document, and return lines that match given search parameters.
 
 **Scenario**
 James is a RHEL sysadmin at Catholic Charities in Chicago, IL. His supervisor, Maria, gives him a [[https://raw.githubusercontent.com/RexDjere/RHCSA/master/examples/001b/001b%20-%20example%203/00_tech_companies_unsorted.txt|list]] of tech companies that may want to donate funds to the charity. Maria wants James to initially focus on the companies in California because they have an active group of representatives in several California cities. She asks him to search the list for all companies in California, and email her that as a separate list. The existing list is 00_tech_companies_unsorted.txt. He needs to send her 01_tech_companies_CA_sorted.txt.
@@ -26,9 +26,9 @@ What is James going to do?
 
 **awk - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. If you have not done [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:alias:alias - examples:alias - example 3|alias - example 3]] , download 00_tech_companies_unsorted.tst using this command: 
+2. If you have not done alias - example 3 , download 00_tech_companies_unsorted.tst using this command: 
 	a. __curl https://raw.githubusercontent.com/RexDjere/RHCSA/master/examples/001b/001b%20-%20example%203/00_tech_companies_unsorted.txt > 00_tech_companies_unsorted.txt__
-3. Otherwise, download 00_tech_companies_unsorted.txt using the alias that we created in [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:alias:alias - examples:alias - example 3|alias - example 3]]: __get_unsorted__
+3. Otherwise, download 00_tech_companies_unsorted.txt using the alias that we created in alias - example 3: __get_unsorted__
 4. Use awk to search 00_tech_companies_unsorted.txt for "CA", and redirect the output to a new file called 01_tech_companies_CA_unsorted.txt:
 	a. __awk '/CA/{print}' 00_tech_companies_unsorted.txt > 01_tech_companies_CA_unsorted.txt__
 5. Sort 01_tech_companies_CA_unsorted.txt, and redirect the output to 01_tech_companies_CA_sorted.txt:
