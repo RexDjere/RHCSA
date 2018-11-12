@@ -5,10 +5,48 @@ Creation-Date: 2018-07-12T14:02:23-04:00
 ====== block sorting text compression algorithm ======
 Created Thursday 12 July 2018
 
-[[Burrows-Wheeler algorithm]]
-B
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[Burrows-Wheeler algorithm]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** block sorting text compression algorithm
+**RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
+
+**Summary:**
 block sorting text compression algorithm
 * considers text in blocks
 * then reorders text
 * then compresses text
+
+
+**block sorting text compression algorithm:**
+* block sorting text compression algorithm - function: State the main function of the topic here.
+* block sorting text compression algorithm - description: Provide a more detail description here.
+* block sorting text compression algorithm - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the block sorting text compression algorithm examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* block sorting text compression algorithm - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the block sorting text compression algorithm options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant block sorting text compression algorithm links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant block sorting text compression algorithm notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated block sorting text compression algorithm binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated block sorting text compression algorithm man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant block sorting text compression algorithm Screenshots:**
+N/A
