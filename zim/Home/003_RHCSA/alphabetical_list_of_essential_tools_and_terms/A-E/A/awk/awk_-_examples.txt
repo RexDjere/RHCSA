@@ -5,25 +5,25 @@ Creation-Date: 2018-08-18T22:05:31-04:00
 ====== awk - examples ======
 Created Saturday 18 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Monday 08/13/18 06:01:29 PM
+examples homepage template version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[awk]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+awk
 
 **KYWRD:** awk
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-This article has examples of the correct usage of [[awk]] .
+This article has examples of the correct usage of awk .
 
 **awk - examples:**
 * [[+awk - example 1]] : Use awk to search a text document, and return lines that match given search parameters.
-* awk - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* awk - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* awk - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* awk - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant awk links:**
 * link 1
