@@ -5,7 +5,7 @@ Creation-Date: 2018-08-15T19:10:38-04:00
 ====== adduser - options-flags ======
 Created Wednesday 15 August 2018
 
-[[:Home:002 all templates:options template]]version: Wednesday 08/08/18 11:13:20 AM
+[[:Home:002 all templates:options template]] version: Wednesday 08/08/18 11:13:20 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]
