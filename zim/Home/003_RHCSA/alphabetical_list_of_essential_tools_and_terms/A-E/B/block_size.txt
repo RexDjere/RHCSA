@@ -5,14 +5,14 @@ Creation-Date: 2018-07-28T00:09:52-04:00
 ====== block size ======
 Created Saturday 28 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-B
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
 
 **KYWRD:** block size
 **RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
@@ -36,10 +36,10 @@ For examples:
 * N/A
 
 **Associated block size binary files: **
-* binary location 1: N/A
+* [[binary location]] 1: N/A
 
 **Associated block size man pages: **
-* man location 1: N/A
+* [[man location]] 1: N/A
 
 **Relevant block size Screenshots:**
 N/A
