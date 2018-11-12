@@ -5,10 +5,21 @@ Creation-Date: 2018-07-19T01:40:06-04:00
 ====== boot.img ======
 Created Thursday 19 July 2018
 
-F-J:G:GRUB:GRUB Stages:GRUB Stage 1
-F-J:G:GRUB:GRUB image files
-B
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB image files]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** type the kywrd here.
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 boot.img is one of several F-J:G:GRUB:GRUB image files are used as bootstrap images during the boot process.  
 
 boot.img
@@ -16,3 +27,25 @@ boot.img
 	* is contained in the Master Boot Record (K-O:M:MBR)
 	* since boot sector is 512 bytes, boot.img is 512 bytes as well => designed to fit in the boot sector
 	* boot.img has a simple function: read the first sector of the core image, and to then jump to loading C:core.img
+
+**boot.img:**
+* boot.img - function: State the main function of the topic here.
+* boot.img - description: Provide a more detail description here.
+* boot.img - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the boot.img examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* boot.img - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the boot.img options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant boot.img links:**
+* https://www.gnu.org/software/grub/manual/grub/html_node/Images.html
+
+**Relevant boot.img notes:**
+* N/A
+
+**Associated boot.img binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated boot.img man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant boot.img Screenshots:**
+N/A

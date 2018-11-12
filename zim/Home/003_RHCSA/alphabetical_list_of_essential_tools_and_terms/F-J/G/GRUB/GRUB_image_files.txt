@@ -5,39 +5,39 @@ Creation-Date: 2018-07-19T01:41:07-04:00
 ====== GRUB image files ======
 Created Thursday 19 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[GRUB]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+GRUB
 
 **KYWRD:** GRUB
 **RHCSA Objective: **005k Modify the system bootloader
 
 **GRUB image files:**
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:boot.img|boot.img]]:
-	* the first part of [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB|GRUB]] to start.
-	* is contained in the [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:MBR|Master Boot Record]].
+* boot.img:
+	* the first part of GRUB to start.
+	* is contained in the Master Boot Record.
 	* since boot sector is 512 bytes, boot.img is 512 bytes as well => designed to fit in the boot sector.
-	* boot.img has a simple function: to read the first sector of the core image and jump to it (the first sector of the core image contains [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:diskboot.img|diskboot.img]]).
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D:diskboot.img|diskboot.img]]:
+	* boot.img has a simple function: to read the first sector of the core image and jump to it (the first sector of the core image contains diskboot.img).
+* diskboot.img:
 	* is contained in the first sector of the core image.
 	* does not have file handling, so the location of core.img is hard coded into it.
 	* reads remainder of core image into memory and loads the operating system kernel.
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cdboot.img|cdboot.img]]:
+* cdboot.img:
 	* performs the same functions as diskboot image if booting from a CD-ROM.
 	* acts as first sector of core image when booting from CD-ROM.
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:pxeboot.img|pxeboot.img]]:
+* pxeboot.img:
 	* acts as stage of core image when booting from network using PXE boot.
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:L:lnxboot.img|lnxboot.img]]:
+* lnxboot.img:
 	* image that looks very similar to Linux kernel.
-	* when placed at start of core image, allows booting via [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:L:LILO|LILO]].
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:kernel.img|kernel.img]]:
+	* when placed at start of core image, allows booting via LILO.
+* kernel.img:
 	* contains GRUB's basic run-time facilities. Is rarely used.
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:core.img|core.img]]:
+* core.img:
 	* is the core image of GRUB.
 	* is built dynamically from the kernel image and kernel modules.
 	* is designed to be kept small.
@@ -49,10 +49,10 @@ command to get timestamp: __date '+%A %D %X'__
 * N/A
 
 **Associated GRUB binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated GRUB man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant GRUB Screenshots:**
 N/A
