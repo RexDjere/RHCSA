@@ -5,7 +5,7 @@ Creation-Date: 2018-08-08T11:38:28-04:00
 ====== Autofs ======
 Created Wednesday 08 August 2018
 
-generic template version: Wednesday 08/08/18 11:14:36 AM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
 Home
