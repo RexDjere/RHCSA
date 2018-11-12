@@ -5,13 +5,14 @@ Creation-Date: 2018-08-18T22:07:13-04:00
 ====== awk - example 1 ======
 Created Saturday 18 August 2018
 
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-awk
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[A:awk]]
 
 **KYWRD:** awk - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
