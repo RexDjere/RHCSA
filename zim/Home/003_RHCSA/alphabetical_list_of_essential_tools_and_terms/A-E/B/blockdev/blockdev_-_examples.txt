@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
 
 **Summary:**
-This article contains examples that illustrate the correct use of the **command_name/link_here **command.
+This article contains examples that illustrate the correct use of the **blockdev **command.
 1. Find and Replace any occurence of blockdev in this page with the actual word.
 2. Edit this paragraph to provide a summary of this page.
 3. N/A anything that is not applicable.
