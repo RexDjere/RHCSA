@@ -20,10 +20,10 @@ command to get timestamp: __date '+%A %D %X'__
 **Summary:**
 This article describes the options available with the **unalias **command.
 
-**KEYWORD - options:**
+**unalias - options:**
 * -a: describe option a.
 * -b: describe option b.
 * -c: decsribe option c.
 
-**Relevant KEYWORD Screenshots:**
+**Relevant unalias Screenshots:**
 N/A

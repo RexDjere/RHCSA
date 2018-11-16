@@ -5,14 +5,14 @@ Creation-Date: 2018-07-10T23:04:30-04:00
 ====== uname ======
 Created Tuesday 10 July 2018
 
-generic template version: Wednesday 08/08/18 11:14:36 AM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-RHCSA Objectives
-U
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U]]
 
 **KYWRD:** uname
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ The **uname** utility is used to print system information.  Uname is short for *
 * N/A
 
 **Associated binary files: **
-* binary location 1: uname: /usr/bin/uname
+* [[binary location]] 1: uname: /usr/bin/uname
 
 **Associated man pages: **
-* man location 1: 
+* [[man location]] 1: 
 	* uname: 
 		* /usr/share/man/man3p/uname.3p.gz 
 		* /usr/share/man/man2/uname.2.gz 
