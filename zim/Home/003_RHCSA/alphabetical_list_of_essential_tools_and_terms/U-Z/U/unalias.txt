@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T06:16:37-04:00
 ====== unalias ======
 Created Tuesday 31 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-U
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U]]
 
 **KYWRD:** unalias
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ The **unalias** command is a bash built-in command.  It is used to remove a name
 * N/A
 
 **Associated unalias binary files: **
-* binary location 1: unalias: /usr/bin/unalias
+* [[binary location]] 1: unalias: /usr/bin/unalias
 
 **Associated unalias man pages: **
-* man location 1: 
+* [[man location]] 1: 
 	* unalias: 
 		* /usr/share/man/man1/unalias.1.gz 
 		* /usr/share/man/man1p/unalias.1p.gz
