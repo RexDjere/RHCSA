@@ -5,20 +5,20 @@ Creation-Date: 2018-08-15T20:44:41-04:00
 ====== uname - examples ======
 Created Wednesday 15 August 2018
 
-examples homepage template version: Monday 08/13/18 06:01:29 PM
+[[:Home:002 all templates:examples homepage template]] version: Monday 08/13/18 06:01:29 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-uname
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uname]]
 
 **KYWRD:** uname
 **RHCSA Objective:** 001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-The article provides examples of how to use the uname command.
+The article provides examples of how to use the **uname** command.
 
 **uname - examples:**
 * [[+uname - example 1]] : Use uname to list the Linux kernel version on a Linux system.
