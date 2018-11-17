@@ -5,20 +5,20 @@ Creation-Date: 2018-08-15T20:54:45-04:00
 ====== uname - example 1 ======
 Created Wednesday 15 August 2018
 
-examples template version: Tuesday 08/14/18 05:44:11 PM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Tuesday 08/14/18 05:44:11 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-uname - examples
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uname:uname - examples]]
 
 **KYWRD:** uname - example 1
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-Use uname to list the Linux kernel version on a Linux system.
+Use **uname** to list the Linux kernel version on a Linux system.
 
 **uname - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
