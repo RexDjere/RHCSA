@@ -5,20 +5,20 @@ Creation-Date: 2018-08-15T20:44:13-04:00
 ====== uname - options-flags ======
 Created Wednesday 15 August 2018
 
-options template version: Wednesday 08/08/18 11:13:20 AM
+[[:Home:002 all templates:options template]] version: Wednesday 08/08/18 11:13:20 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-uname
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uname]]
 
 **KYWRD:** uname
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-This article lists and describes the options associated with uname.
+This article lists and describes the options associated with **uname**.
 
 **uname - options:**
 * -a, -all: print all information, in the following order, except omit -p and -i if unknown:
