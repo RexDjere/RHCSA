@@ -5,17 +5,17 @@ Creation-Date: 2018-08-08T12:14:46-04:00
 ====== bridge-utils ======
 Created Wednesday 08 August 2018
 
-generic template version: Wednesday 08/08/18 11:14:36 AM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-RHCSA Objectives
-B
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
 
 **KYWRD:** bridge-utils
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **002h Start, stop, and check the status of network services
 
 **Summary**
 bridge-utils is a deprecated network bridge creation suite that has been replaced by F-J:I:iproute2.
@@ -28,21 +28,15 @@ bridge-utils is a deprecated network bridge creation suite that has been replace
 
 **Relevant bridge-utils links:**
 * https://fedoramagazine.org/build-network-bridge-fedora/
-* link 2
-* link 3
 
 **Relevant bridge-utils notes**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated binary files: **
-* binary location 1:
-* binary location 2:
+* [[binary location]] 1: N/A
 
 **Associated man pages: **
-* man location 1:
-* man location 2:
+* [[man location]] 1: N/A
 
 **Relevant bridge-utils Screenshots**
-Paste any relevant screenshots here.
+N/A

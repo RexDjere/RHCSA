@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **002h Start, stop, and check the status of network services
 
 **Summary**
-A bridge is a network connection that combines two or more network adapters to allow the different adapters to communicate with each other.
+A **bridge** is a network connection that combines two or more network adapters to allow the different adapters to communicate with each other.
 
 **bridge:**
 * bridge - function: a network connection that combines 2 or more netowrk adapters.
