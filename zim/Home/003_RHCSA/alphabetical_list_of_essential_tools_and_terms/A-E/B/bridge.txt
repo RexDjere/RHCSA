@@ -33,13 +33,11 @@ A bridge is a network connection that combines two or more network adapters to a
 * N/A
 
 **Associated binary files: **
-* binary location 1: N/A
-
+* [[binary location]] 1: N/A
 
 **Associated man pages: **
-* man location 1: N/A
-
+* [[man location]] 1: N/A
 
 **Relevant bridge Screenshots**
-Paste any relevant screenshots here.
+N/A
 
