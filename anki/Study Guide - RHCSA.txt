@@ -274,3 +274,10 @@ What is in the /etc directory on Linux/Unix systems?	Configuration files for sys
 What is in the /home directory on Linux/Unix systems?	All of the home directory folders for the system's users. For example, there might be /home/elijah/ and /home/delilah/
 What is in the /lib directory on Linux/Unix systems?	32-bit library files used by applications installed on the computer system.
 What is in the /lib64 directory on Linux/Unix systems?	64-bit library files used by applications installed on the computer system.
+What is /dev/null also known as?	The null device.
+What kind of file is /dev/null?	A device file.
+What is the Unix file type of /dev/null?	character device file (as opposed to a block device file)<div><br /><div>See&nbsp;https://en.wikipedia.org/wiki/Unix_file_types</div></div>
+When was /dev/null introduced?	In Version 7 Unix, which was released by AT&amp;T in 1979.
+What are the 2 major uses of /dev/null?	Use 1: destroy unwanted output streams of a command/process.<div>Use 2: a convenient empty file for input streams.</div>
+What is used to process input and output streams via /dev/null?	Redirection:&nbsp;&gt;, &gt;&gt;, &lt;, or &lt;&lt;
+Give an example of destroying an output stream and receiving an empty input stream using /dev/null.	Destroying an output stream: ls -al &gt; /dev/null<div>Receiving an empty input stream: cat &lt; /dev/null</div>
