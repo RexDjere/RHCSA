@@ -12,26 +12,21 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:002 all templates]]
 [[:Home:000 TODO LIST]]
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[RAID 0]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** RAID 0
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
 
 **Summary:**
-This article contains examples that illustrate the correct use of the **command_name/link_here **command.
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+This article contains examples that illustrate the correct use of **RAID 0**.
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
-* KEYWORD - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
-* KEYWORD - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+**RAID 0 - examples:**
+* RAID 0 - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* RAID 0 - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* RAID 0 - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant RAID 0 links:**
+* https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_0
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant RAID 0 Screenshots:**
+{{~/Downloads/325px-RAID_0.svg.png}}
