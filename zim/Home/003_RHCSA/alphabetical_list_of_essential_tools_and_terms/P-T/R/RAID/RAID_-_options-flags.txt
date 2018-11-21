@@ -12,13 +12,13 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:002 all templates]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z]][[:Home:000 TODO LIST]]
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[RAID]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** RAID
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with **RAID**.
 
 **KEYWORD - options:**
 * -a: describe option a.
@@ -26,4 +26,4 @@ This article describes the options available with the **command_name/link_here *
 * -c: decsribe option c.
 
 **Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+N/A
