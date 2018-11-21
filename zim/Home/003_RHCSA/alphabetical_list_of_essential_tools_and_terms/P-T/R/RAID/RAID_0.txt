@@ -29,17 +29,16 @@ RAID 0:
 
 
 **RAID 0:**
-* RAID 0 - function: State the main function of the topic here.
-* RAID 0 - description: Provide a more detail description here.
-* RAID 0 - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAID 0 examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
-* RAID 0 - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAID 0 options page using this template:  [[:Home:002 all templates:options template]] ]
-
+* RAID 0 - function: Stripe data across a disk array with no redundancy or fault tolerance.
+* RAID 0 - description: N/A
+* [[+RAID 0 - examples]]
+* [[+RAID 0 - options-flags]]
 
 **Relevant RAID 0 links:**
 * https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_0
 
 **Relevant RAID 0 notes:**
-* N/A
+* [[~/Sync/PROJECTS/RHCSA/lectures/raid/RAID_0.odp]]
 
 **Associated RAID 0 binary files: **
 * [[:Home:binary location]] 1: N/A
@@ -48,4 +47,4 @@ RAID 0:
 * [[:Home:man location]] 1: N/A
 
 **Relevant RAID 0 Screenshots:**
-Paste any relevant screenshots here.
+{{./pasted_image.png?width=800}}
