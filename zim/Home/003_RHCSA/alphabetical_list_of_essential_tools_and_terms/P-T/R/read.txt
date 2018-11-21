@@ -20,8 +20,8 @@ The Linux/Unix **read** utlity is a Bash shell builtin that reads one line from 
 **read:**
 * read - function: Read a single line of text and assign the word(s) to variable(s).
 * read - description: N/A
-* [[read - examples]] 
-* [[read - options-flags]] 
+* [[+read - examples]] 
+* [[+read - options-flags]] 
 
 **Relevant read links:**
 * https://en.wikipedia.org/wiki/Read_(Unix)

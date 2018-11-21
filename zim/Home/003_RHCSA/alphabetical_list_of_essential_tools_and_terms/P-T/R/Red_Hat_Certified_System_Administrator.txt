@@ -12,7 +12,7 @@ Created Monday 16 July 2018
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
 
 **KYWRD:** RHCSA
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **N/A
 
 **Summary:**
 Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
@@ -28,20 +28,17 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * RHCSA - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RHCSA options page using this template: options template]
 
 **Relevant RHCSA links:**
-* link 1
-* link 2
-* link 3
+* https://www.redhat.com/en/services/certification/rhcsa
+* https://en.wikipedia.org/wiki/Red_Hat_Certification_Program
 
 **Relevant RHCSA notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated RHCSA binary files: **
-* [[:Home:binary location]] 1:
+* [[:Home:binary location]] 1: N/A
 
 **Associated RHCSA man pages: **
-* [[:Home:man location]] 1:
+* [[:Home:man location]] 1: N/A
 
 **Relevant RHCSA Screenshots:**
-Paste any relevant screenshots here.
+N/A
