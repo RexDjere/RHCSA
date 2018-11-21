@@ -12,21 +12,16 @@ Created Saturday 28 July 2018
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
 
 **KYWRD:** RAM disk
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
 
 **Summary:**
-Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
-1. Find and Replace any occurence of RAM disk in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+In Linux/Unix, the **RAM disk** is a memory-based file system that provides very  fast low-latency file access.
 
 **RAM disk:**
-* RAM disk - function: State the main function of the topic here.
-* RAM disk - description: Provide a more detail description here.
-* RAM disk - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAM disk examples page using this template:  examples homepage template]
-* RAM disk - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAM disk options page using this template: options template]
-
+* RAM disk - function: Fast low-latency file access in a RAM-based file system.
+* RAM disk - description: N/A
+* RAM disk - examples: N/A
+* RAM disk - options-flags: N/A
 **Relevant RAM disk links:**
 * https://en.wikipedia.org/wiki/RAM_drive
 
@@ -34,10 +29,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 * N/A
 
 **Associated RAM disk binary files: **
-* [[:Home:binary location]] location 1:
+* [[:Home:binary location]] location 1: N/A
 
 **Associated RAM disk man pages: **
-* [[:Home:man location]] 1:
+* [[:Home:man location]] 1: N/A
 
 **Relevant RAM disk Screenshots:**
-Paste any relevant screenshots here.
+N/A
