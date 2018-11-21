@@ -18,34 +18,34 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
 
 **Summary:**
-Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
-4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
-
-**KEYWORD:**
-* KEYWORD - function: State the main function of the topic here.
-* KEYWORD - description: Provide a more detail description here.
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template:  [[:Home:002 all templates:options template]] ]
+RAID 0:
+* Also known as **stripe set** or **striped volume**.
+* Splits the data evenly across 2 or more disks.
+* No parity information.
+* No redundancy.
+* No fault tolerance.
+* Since no fault tolerance or redundancy, the failure of one drive will cause the entire array to fail, resulting in a total loss of data.
+* Improved speed performance is the intended goal of RAID 0.
 
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**RAID 0:**
+* RAID 0 - function: State the main function of the topic here.
+* RAID 0 - description: Provide a more detail description here.
+* RAID 0 - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAID 0 examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* RAID 0 - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the RAID 0 options page using this template:  [[:Home:002 all templates:options template]] ]
 
-**Relevant KEYWORD notes:**
-* note 1
-* note 2
-* note 3
 
-**Associated KEYWORD binary files: **
-* [[:Home:binary location]] 1:
+**Relevant RAID 0 links:**
+* https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_0
 
-**Associated KEYWORD man pages: **
-* [[:Home:man location]] 1:
+**Relevant RAID 0 notes:**
+* N/A
 
-**Relevant KEYWORD Screenshots:**
+**Associated RAID 0 binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated RAID 0 man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant RAID 0 Screenshots:**
 Paste any relevant screenshots here.
