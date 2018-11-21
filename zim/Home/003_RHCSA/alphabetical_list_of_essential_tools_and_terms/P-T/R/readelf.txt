@@ -5,10 +5,13 @@ Creation-Date: 2018-07-31T05:46:46-04:00
 ====== readelf ======
 Created Tuesday 31 July 2018
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 R
 
 **KYWRD:** readelf
