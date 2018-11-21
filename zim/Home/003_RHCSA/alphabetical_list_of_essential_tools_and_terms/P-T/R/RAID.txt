@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-21T01:47:32-05:00
+
+====== RAID ======
+Created Wednesday 21 November 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
+
+**KYWRD:** RAID
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+**RAID** stands for **Redundant Array of Independent Disks**, or **Reduntant Array of Inexpensive Disks:**
+* Is a data storage virtualization technology.
+* It combines multiple physical disk drive compomemts into one or more logical units for the purposes of:
+	* Data redundancy.
+	* Performance improvement.
+
+
+**RAID:**
+* RAID - function: Use data storage virtualization technology to improve disk data redundancy and/or performance.
+* RAID - description: N/A
+* [[+RAID - examples]] 
+* [[+RAID - options-flags]] 
+
+**Relevant RAID links:**
+* [[+RAID 0]]
+* [[+RAID 1]]
+* [[+RAID 2]]
+* [[+RAID 3]]
+* [[+RAID 4]]
+* [[+RAID 5]]
+* [[+RAID 6]]
+
+**Relevant RAID notes:**
+* N/A
+
+**Associated RAID binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated RAID man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant RAID Screenshots:**
+N/A
