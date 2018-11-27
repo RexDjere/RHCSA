@@ -21,7 +21,7 @@ command to get timestamp: __date '+%A %D %X'__
 This article contains examples that illustrate the correct use of **regular expressions**.
 
 **regex - examples:**
-* regex - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* [[+regex - example 1]] : Regular expression LibreOffice Impress lecture.
 * regex - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
 * regex - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 

@@ -297,3 +297,12 @@ Who created grep?	Ken Thompson
 How long did Ken Thompson use grep personally before he released it to the public?	Several years.
 What is the official birthdate of grep?	March 3rd, 1973.
 You have a multi-national list of companies, tech_companies.lst. &nbsp;How do you use grep to search for the United States-based companies?	cat tech_companies.lst | grep “United States”
+Name 3 terms that are synonymous with regular expression.	regex<div>regexp</div><div>rational expression</div>
+Define regular expression.	A sequence of characters that defines a search pattern.
+State the 3 uses of regular expression string search patterns in string searching algorithms.	<div>find</div><div>find and replace</div><div>input validation</div>
+"These are the contents of the file gnu.txt:<div><span style=""font-family: Arial"">GNU is not UNIX.</span><div style=""font-family: Arial;"">UNIX is UNIX, not GNU.</div></div><div style=""font-family: Arial;""><br /></div><div style=""font-family: Arial;"">Write a command that will return only the line beginning with ""GNU"".</div>"	cat gnu.txt | grep “^GNU”
+Who originated the concept of regular expressions?	The concept of regular expressions was originated in 1951 by mathematician Stephen Cole Kleene.
+"What is the highlighted output of this command?<div>echo ""color colour"" | grep ""colou\?\r""</div>"	color colour
+"What is the highlighted output of this command?<div>echo ""ac abc abbbc"" | grep ""ab*c""</div>"	ac abc abbbc
+"What is the highlighted output of this command?<div>echo ""ac abc abbbc"" | grep ""ab\+\c""</div>"	abc abbbc
+"What is the highlighted output of this command?<div>echo ""The bumbling albatross walked across the street."" | grep ""a.b""</div>"	alb
