@@ -12,26 +12,21 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:002 all templates]]
 [[:Home:000 TODO LIST]]
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
-replace this with a link to the parent page 1 level above this page
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:regular expressions]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** regex
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
-This article contains examples that illustrate the correct use of the **command_name/link_here **command.
-1. Find and Replace any occurence of KEYWORD in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+This article contains examples that illustrate the correct use of **regular expressions**.
 
-**KEYWORD - examples:**
-* KEYWORD - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
-* KEYWORD - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
-* KEYWORD - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+**regex - examples:**
+* regex - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* regex - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* regex - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant regex links:**
+* N/A
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant regex Screenshots:**
+N/A
