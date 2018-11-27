@@ -5,14 +5,14 @@ Creation-Date: 2018-09-08T02:40:05-04:00
 ====== grep - example 2 ======
 Created Saturday 08 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+examples template version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[grep - examples]]
+grep - examples
 
 **KYWRD:** grep - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
@@ -21,7 +21,7 @@ RHCSA Objectives
 Search for all lines that contains a capital G in a list of names/phone numbers.
 
 **Scenario:**
-Mike is a RHEL sysadmin-in-training at a large North American insurance company. His boss, Deborah, wants to help him to master [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]].  She tasks him with searching a list of clients for any occurence of the letter capital G.  The file that he will be searching is **customers.info**.
+Mike is a RHEL sysadmin-in-training at a large North American insurance company. His boss, Deborah, wants to help him to master grep.  She tasks him with searching a list of clients for any occurence of the letter capital G.  The file that he will be searching is **customers.info**.
 
 What command will Mike use tomero conduct the search?
 

@@ -5,14 +5,14 @@ Creation-Date: 2018-09-08T02:39:20-04:00
 ====== grep - example 1 ======
 Created Saturday 08 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+examples template version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[grep - examples]]
+grep - examples
 
 **KYWRD:** grep - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
@@ -34,13 +34,13 @@ What **grep** command is he going to use?
 3. Open a terminal on your local machine.
 4. If not already done, clone this Github project to your local pc: https://github.com/RexDjere/RHCSA 
 5. The project should be cloned to this directory on your local pc: **/home/your_username/Sync/PROJECTS/RHCSA**
-6. change directory ([[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cd|cd]]) to the **lists/tech_companies **directory inside the RHCSA directory: 
+6. change directory (cd) to the **lists/tech_companies **directory inside the RHCSA directory: 
 	a. __cd ~/Sync/PROJECTS/RHCSA/lists/tech_companies__
-7. Send **00_tech_companies2_unsorted.txt **to your remote RHEL/CentOS pc's **tech_companies** directory using the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:scp|scp]] command in your local machine's terminal:
+7. Send **00_tech_companies2_unsorted.txt **to your remote RHEL/CentOS pc's **tech_companies** directory using the scp command in your local machine's terminal:
 	a. __scp 00_tech_companies2_unsorted.txt your_remote_username@your_remote_ip_address:~/tech_companies__
 8. Switch back to your RHEL/CentOS machine. Verify that **00_tech_companies2_unsorted.txt **now exists in the **tech_companies** directory:
 	a. __ls ~/tech_companies__
-9. Change directory ([[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cd|cd]]) to the tech_companies directory on your RHEL/CentOS machine:
+9. Change directory (cd) to the tech_companies directory on your RHEL/CentOS machine:
 	a. __cd ~/tech_companies__
 10. Search for the CEOs who assumed their position in 2014 using **grep**:
 	a. __cat 00_tech_companies2_unsorted.txt | grep 2014__
