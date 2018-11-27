@@ -5,6 +5,50 @@ Creation-Date: 2018-07-31T03:39:15-04:00
 ====== mount ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
-M
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M]]
+
+**KYWRD:** mount
+**RHCSA Objective: **005a Create, mount, unmount, and use vfat, ext4, and xfs file systems
+
+**Summary:**
+The **mount** command makes a file system ready for use, and then tells the computer's operating system that the file system is ready for use.
+
+**mount:**
+* mount - function: makes a file system ready for use, and tells the computer's operating system that the file system is ready for use.
+* mount - description: N/A
+* [[mount - examples]]
+* [[mount - options-flags]]
+
+**Relevant mount links:**
+* https://en.wikipedia.org/wiki/Mount_(Unix)
+
+**Relevant mount notes:**
+* N/A
+
+**Associated mount binary files: **
+* [[:Home:binary location]] 1:
+	* mount: 
+		* /usr/bin/mount /usr/sbin/mount.glusterfs 
+		* /usr/sbin/mount.ntfs-fuse /usr/sbin/mount.nfs 
+		* /usr/sbin/mount.lowntfs-3g /usr/sbin/mount.ntfs 
+		* /usr/sbin/mount.zfs 
+		* /usr/sbin/mount.fuse 
+		* /usr/sbin/mount.nfs4 
+		* /usr/sbin/mount.ntfs-3g 
+		* /usr/sbin/mount.cifs
+
+**Associated mount man pages: **
+* [[:Home:man location]] 1:
+	* mount: 
+		* /usr/share/man/man8/mount.8.gz 
+		* /usr/share/man/man2/mount.2.gz
+
+**Relevant mount Screenshots:**
+N/A
