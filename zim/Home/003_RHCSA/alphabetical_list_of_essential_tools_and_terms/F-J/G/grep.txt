@@ -5,14 +5,14 @@ Creation-Date: 2018-07-10T22:57:09-04:00
 ====== grep ======
 Created Tuesday 10 July 2018
 
-generic template version: Wednesday 09/05/18 01:25:38 AM
+[[:Home:002 all templates:generic template]] version: Wednesday 09/05/18 01:25:38 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-RHCSA Objectives
-G
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G]]
 
 **KYWRD:** grep
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
@@ -35,10 +35,10 @@ The **grep** utility (**Global Regular Expression Print)** is used to print the 
 * The first version of **grep** was released by [[https://en.wikipedia.org/wiki/Ken_Thompson|Ken Thompson]], a long time employee of Bell Labs, in November 1974. 
 
 **Associated grep binary files: **
-* binary location 1: grep: /usr/bin/grep
+* [[binary location]] 1: grep: /usr/bin/grep
 
 **Associated grep man pages: **
-* man location 1: 
+* [[man location]] 1: 
 	* grep: 
 		* /usr/share/man/man1/grep.1.gz 
 		* /usr/share/man/man1p/grep.1p.gz 
