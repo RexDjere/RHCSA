@@ -291,3 +291,9 @@ Discuss RAID parity information.	<div>- Uses a parity bit or check bit.</div><di
 Discuss RAID 0 redundancy.	<div>- RAID 0 has no redundancy.</div><div>- The failure of one disk in the array will cause the entire array to fail.</div><div>- Since data is striped across multiple disks, the failure of one disk will cause total data loss.</div><div>- Due to its lack of redundancy, RAID 0 is not appropriate for mission-critical data storage.</div>
 Discuss RAID 0 fault tolerance.	<div>- Fault tolerance allows a system to continue operating, even in the event of a failure or fault in one or more of its components.</div><div>- RAID 0 has no fault tolerance.</div><div>- A single fault (the failure of one disk) will cause a RAID 0 to fail (complete loss of data).</div>
 Discuss RAID 0 performance.	<div>- RAID 0 provides very good read/write performance.</div><div>- For example, a RAID 0 array with n number of drives can theoretically provide n times the read/write performance (speed) of a single drive.</div><div>- RAID 0 is used in applications that require high performance, but that can accept lower reliability (e.g. scientific computing and computer gaming).</div>
+In Linux/Unix, what is the purpose of the RAM disk?	In Linux/Unix, the RAM disk is a memory-based file system that provides very &nbsp;fast low-latency file access.
+In Linux/Unix, what is the purpose of the read command?	The Linux/Unix read utlity is a Bash shell builtin that reads one line from standard input, or from a file, and assigns the word(s) to variable name(s).
+Who created grep?	Ken Thompson
+How long did Ken Thompson use grep personally before he released it to the public?	Several years.
+What is the official birthdate of grep?	March 3rd, 1973.
+You have a multi-national list of companies, tech_companies.lst. &nbsp;How do you use grep to search for the United States-based companies?	cat tech_companies.lst | grep “United States”
