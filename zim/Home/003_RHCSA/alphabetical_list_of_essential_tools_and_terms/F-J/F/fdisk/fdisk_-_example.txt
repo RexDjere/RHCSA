@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T10:46:20-05:00
+
+====== fdisk - example ======
+Created Tuesday 27 November 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:F:fdisk]]
+
+**KYWRD:** command - example X
+**RHCSA Objective: **Replace this with the target RHCSA Objective.
+
+**Summary:**
+Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
+1. Find and Replace any occurence of fdisk - example in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**Relevant fdisk - example links:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/fdisk/fdisk.odp]]
+
+**Relevant fdisk - example Screenshots:**
+{{./pasted_image.png?width=800}}
