@@ -23,7 +23,7 @@ A **regular expression** is also known as a **regex** or **regexp**.  A regular 
 The concept of a regular expression was originally developed by American mathematician Stephen Cole Kleene during the 1950s.  Regular expressions are used widely by: 
 * search engines (e.g. Google, Yahoo, Baidu, Mojeek, and Bing)
 * word processors and text editors (e.g. LibreOffice Writer, Microsoft Word, AbiWord, gedit, Notepad++, and Corel WordPerfect)
-* text processing utilities (e.g. [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sed|sed]], [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:A:awk|awk]], and [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep|grep]])
+* text processing utilities (e.g. sed, awk, and grep)
 * computer programming languages (e.g. C, C++, Perl, Java, Bash shell scripting etc.)
 
 **regex:**
