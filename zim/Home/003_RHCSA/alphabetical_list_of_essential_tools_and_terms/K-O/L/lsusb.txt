@@ -8,4 +8,4 @@ Created Tuesday 10 July 2018
 Home:RHCSA:alphabetical list of essential tools and terms:F-J:H:hardware
 tasks template
 alphabetical list of essential tools
-[[L]]
+L

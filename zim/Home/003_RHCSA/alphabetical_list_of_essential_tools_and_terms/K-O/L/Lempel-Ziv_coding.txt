@@ -5,20 +5,20 @@ Creation-Date: 2018-07-22T22:10:04-04:00
 ====== Lempel-Ziv coding ======
 Created Sunday 22 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[L]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+L
 
 **KYWRD:** Lempel-Ziv coding
 **RHCSA Objective: **001f Archive, compress, unpack, and uncompress files using tar, star, gzip, and bzip2
 
 **Summary:**
-The **Lempel-Ziv-Welch** (**LZW**) compression algorithm is universal and lossless.  It is used by the [[Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:gzip|gzip]] compression program on Linux/Unix systems.
+The **Lempel-Ziv-Welch** (**LZW**) compression algorithm is universal and lossless.  It is used by the gzip compression program on Linux/Unix systems.
 
 **Lempel-Ziv coding:**
 * Lempel-Ziv coding - function: a universal lossless compression algorithm.
@@ -34,10 +34,10 @@ The **Lempel-Ziv-Welch** (**LZW**) compression algorithm is universal and lossle
 * N/A
 
 **Associated Lempel-Ziv coding binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: N/A
+* binary location 1: N/A
 
 **Associated Lempel-Ziv coding man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: N/A
+* man location 1: N/A
 
 **Relevant Lempel-Ziv coding Screenshots:**
 N/A

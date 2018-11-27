@@ -5,14 +5,14 @@ Creation-Date: 2018-09-02T12:13:16-04:00
 ====== ls ======
 Created Sunday 02 September 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Wednesday 08/15/18 08:48:19 PM
+generic template version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
+Home
+000 TODO LIST
+002 all templates
 RHCSA Objectives
-[[L]]
+L
 
 **KYWRD:** ls
 **RHCSA Objective: **001j List, set, and change standard ugorwx permissions
@@ -34,10 +34,10 @@ The Linux/Unix **ls** command is used to list the contents of a directory.
 * N/A
 
 **Associated binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ls: /usr/bin/ls
+* binary location 1: ls: /usr/bin/ls
 
 **Associated man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1:
+* man location 1:
 	* ls: 
 		* /usr/share/man/man1/ls.1.gz 
 		* /usr/share/man/man1p/ls.1p.gz

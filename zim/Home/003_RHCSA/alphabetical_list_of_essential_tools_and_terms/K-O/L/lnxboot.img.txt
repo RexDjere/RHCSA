@@ -6,7 +6,7 @@ Creation-Date: 2018-07-19T02:09:47-04:00
 Created Thursday 19 July 2018
 
 Home:RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB image files
-[[L]]
+L
 
 lnxboot.img
 	* image that looks very similar to Linux kernel

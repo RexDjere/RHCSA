@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T09:36:33-05:00
+
+====== LVM - example 1 ======
+Created Tuesday 27 November 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[LVM]]
+
+**KYWRD:** LVM - example 1
+**RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create
+and delete logical volumes
+
+**Summary:**
+Linux LVM Objectives:
+* Define the Logical Volume Manager (LVM).
+* Discuss the history of the LVM.
+* Describe physical volumes (PVs).
+* Describe logical volumes (LVs). 
+* Describe logical volume management.
+
+**Relevant LVM - example 1 links:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/lvm/linux_lvm.odp]]
+
+**Relevant LVM - example 1 Screenshots:**
+{{./pasted_image.png?width=800}}

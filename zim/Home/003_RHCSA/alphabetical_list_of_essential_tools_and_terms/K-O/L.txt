@@ -5,13 +5,13 @@ Creation-Date: 2018-08-05T21:49:27-04:00
 ====== L ======
 Created Sunday 05 August 2018
 
-A-Z pages template version: Tuesday 08/07/18 11:47:36 PM
+[[:Home:002 all templates:A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-K-O
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O]]
 
 **Summary**
 All commands, utilities and terms starting with the letter L are sub-pages to this page.
@@ -22,7 +22,7 @@ All commands, utilities and terms starting with the letter L are sub-pages to th
 * [[+ldd]]
 * [[+less]] , [[M:more]]
 * [[+LILO]]
-* [[+locate]] , P-T:S:slocate
+* [[+locate]] 
 * [[+lft]]
 * [[+ln]]
 * [[+login]]
@@ -40,3 +40,4 @@ All commands, utilities and terms starting with the letter L are sub-pages to th
 * [[+lsmod]]
 * [[+lspci]]
 * [[+lsusb]]
+* [[+LVM]]

@@ -306,3 +306,25 @@ Who originated the concept of regular expressions?	The concept of regular expres
 "What is the highlighted output of this command?<div>echo ""ac abc abbbc"" | grep ""ab*c""</div>"	ac abc abbbc
 "What is the highlighted output of this command?<div>echo ""ac abc abbbc"" | grep ""ab\+\c""</div>"	abc abbbc
 "What is the highlighted output of this command?<div>echo ""The bumbling albatross walked across the street."" | grep ""a.b""</div>"	alb
+Physical volumes (PVs) can be made up of x, y, or z. &nbsp;What are x,y, and z?	x. hard disks<div>y. hard disk partitions</div><div>z. logical unit numbers (LUNs) of an external storage device.</div>
+Physical volumes (PVs) are composed of?	physical extents (PEs)
+Norimally physical extents (PEs) map one-to-one to?	logical extents (LEs)
+Volume groups (VGs) are composed of one or more?	physical volumes (PVs)
+Logical volumes (LVs) can be thought of as?	"""logical partitions"" of volume groups (VGs)."
+Can a single logical volume (LV) span more than one volume group (VG)?	"No. &nbsp;A VG can be ""logically partitioned"" into one or more LVs."
+What command would you use to change the attributes of a Physical Volume?	pvchange
+What command would you use to check Physical Volume metadata?	pvck
+What command would you use to initialize a disk or partition for use by LVM?	pvcreate
+What command would you use to display the attributes of a Physical Volume (PV)?	pvdisplay
+What command would you use to move Physical Extents (PE)?	pvmove
+What command would you use to remove a Physical Volume?	pvremove
+What command would you use to resize a disk or partition used by LVM?	pvresize
+What command would you use to report information about Physical Volumes?	pvs
+What command would you use to scan all disks for Physical Volumes (PVs)?	pvscan
+What command would you use to backup the Volume Group descriptor area?	vgcfgbackup
+What command would you use to restore the Volume Group descriptor area?	vgcfgrestore
+What command would you use to change the attributes of a Volume Group (VG)?	vgchange
+What command would you use to check Volume Group metadata?	vgck
+What command would you use to convert Volume Group metadata format?	vgconvert
+What command would you use to create a Volume Group?	vgcreate
+What command would you use to display the attributes of Volume Groups?	vgdisplay

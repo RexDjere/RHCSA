@@ -5,5 +5,5 @@ Creation-Date: 2018-07-10T23:04:32-04:00
 ====== lsb release ======
 Created Tuesday 10 July 2018
 
-[[P-T:S:system information]]
-[[L]]
+P-T:S:system information
+L

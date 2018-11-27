@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T03:56:23-04:00
 ====== last ======
 Created Tuesday 31 July 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[L]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+L
 
 **KYWRD:** last
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -34,10 +34,10 @@ The **last** command displays a list of the last users who logged in to a partic
 * https://www.howtoforge.com/linux-last-command/
 
 **Associated last binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: last: /usr/bin/last
+* binary location 1: last: /usr/bin/last
 
 **Associated last man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: last: /usr/share/man/man1/last.1.gz
+* man location 1: last: /usr/share/man/man1/last.1.gz
 
 **Relevant last Screenshots:**
 N/A
