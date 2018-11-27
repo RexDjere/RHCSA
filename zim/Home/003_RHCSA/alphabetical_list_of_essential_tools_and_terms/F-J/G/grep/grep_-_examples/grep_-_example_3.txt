@@ -5,16 +5,16 @@ Creation-Date: 2018-09-08T02:40:08-04:00
 ====== grep - example 3 ======
 Created Saturday 08 September 2018
 
-examples template version: Wednesday 09/05/18 04:34:19 AM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-grep - examples
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep:grep - examples]]
 
-**KYWRD:** grep - example 3
+**KYWRD:** grep - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
