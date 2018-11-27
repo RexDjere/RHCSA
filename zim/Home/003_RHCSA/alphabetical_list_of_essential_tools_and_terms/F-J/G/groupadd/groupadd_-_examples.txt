@@ -8,10 +8,10 @@ Created Monday 06 August 2018
 Monday 08/06/18 10:50:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[groupadd]]
+Home
+002 all templates
+00 TODO LIST
+groupadd
 
 **KYWRD:** type the kywrd here.
 

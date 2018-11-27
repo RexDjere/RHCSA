@@ -9,10 +9,10 @@ Created Monday 06 August 2018
 options template version: Monday 08/06/18 10:37:52 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[groupadd]]
+Home
+002 all templates
+00 TODO LIST
+groupadd
 
 **KYWRD:** groupadd
 

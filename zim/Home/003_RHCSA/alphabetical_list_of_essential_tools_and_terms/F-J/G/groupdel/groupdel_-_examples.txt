@@ -5,25 +5,25 @@ Creation-Date: 2018-08-11T12:17:01-04:00
 ====== groupdel - examples ======
 Created Saturday 11 August 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Saturday 08/11/18 12:28:36 PM
+examples homepage template version: Saturday 08/11/18 12:28:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[RHCSA exam:objectives]]
-[[groupdel]]
+Home
+002 all templates
+00 TODO LIST
+RHCSA exam:objectives
+groupdel
 
 **KYWRD:** groupdel
 **RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
 
 **Summary**
-In this article, we will walk through several examples of how to use the [[groupdel]] command.
+In this article, we will walk through several examples of how to use the groupdel command.
 
 **groupdel - examples:**
 * [[+groupdel - example 1]] : Create a group called IT_linux_sysadmins, and thern delete it using groupdel.
-* groupdel - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template|this examples template,]] and then briefly describe example 2.
-* groupdel - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template|this examples template,]] and then briefly describe example 3.
+* groupdel - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* groupdel - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant groupdel links:**
 * N/A

@@ -14,7 +14,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep:grep - examples]]
 
-**KYWRD:** grep - example 1
+**KYWRD:** grep - example 2
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
@@ -25,7 +25,7 @@ Mike is a RHEL sysadmin-in-training at a large North American insurance company.
 
 What command will Mike use tomero conduct the search?
 
-**grep - example 1 - tasks **(command line commands are __highlighted__)**:**
+**grep - example 2 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
 2. Open your text editor of choice, and create the following list of customers.  Save the list in your home directory as **customers.info**:
 	a. Tentile, Alicia 167-231-9987
@@ -38,8 +38,8 @@ What command will Mike use tomero conduct the search?
 	a. __grep G customers.info__
 5. Cleanup: __rm customers.info__
 
-**Relevant grep - example 1 links:**
+**Relevant grep - example 2 links:**
 * N/A
 
-**Relevant grep - example 1 Screenshots:**
+**Relevant grep - example 2 Screenshots:**
 {{./pasted_image.png}}

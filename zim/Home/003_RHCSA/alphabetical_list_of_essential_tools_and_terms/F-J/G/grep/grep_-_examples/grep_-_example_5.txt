@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T04:20:11-05:00
+
+====== grep - example 5 ======
+Created Tuesday 27 November 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep:grep - examples]]
+
+**KYWRD:** grep - example 5
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+GREP Objectives:
+* Describe the purposes of grep.
+* Discuss the history of grep.
+* Demonstrate the usage of grep.
+
+**Relevant grep - example 5 links:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/grep/grep.odp]]
+[[~/Sync/PROJECTS/RHCSA/lectures/grep/tech_companies.lst]]
+
+**Relevant grep - example 5 Screenshots:**
+{{./pasted_image.png?width=800}}

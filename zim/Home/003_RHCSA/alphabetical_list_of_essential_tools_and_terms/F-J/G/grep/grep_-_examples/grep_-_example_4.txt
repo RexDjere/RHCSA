@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:grep:grep - examples]]
 
-**KYWRD:** grep - example 1
+**KYWRD:** grep - example 4
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary:**
