@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-28T15:39:10-05:00
+
+====== actuator ======
+Created Wednesday 28 November 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[hard drive]]
+
+**KYWRD:** actuator
+**RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
+
+**Summary:**
+* HDD stands for **hard disk drive**.
+* The HDD actuator contains a motor that moves the actuator arm.
+* The read/write head is attached to the end of the actuator arm.
+* The read/write head reads/writes data from/to the spinning magnetic hard disk platters which rotate on a central spindle.
+
+**actuator:**
+* actuator - function: The HDD actuator contains a motor that moves the actuator arm.
+* actuator - description: N/A
+* actuator - examples
+* actuator - options-flags
+
+**Relevant actuator links:**
+[[~/Sync/PROJECTS/RHCSA/lectures/hdd/hdd_actuactors.odp]]
+
+**Relevant actuator notes:**
+* N/A
+
+**Associated actuator binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated actuator man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant actuator Screenshots:**
+N/A

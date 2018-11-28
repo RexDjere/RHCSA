@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-28T15:30:21-05:00
+
+====== hard drive ======
+Created Wednesday 28 November 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:H]]
+
+**KYWRD:** hard drive
+**RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
+
+**Summary:**
+A **hard drive** is formally known as a **hard disk drive** (HDD).  It is also known as a **hard disk**, or **fixed disk**.  The magnetic properties of rotating disks (known as platters), and magnetics heads are used to store and retrieve data on the disks.
+
+A hard drive is comprised of four major parts:
+1. [[+actuator]]
+2. [[+heads]]
+3. [[+platters]]
+4. [[+spindle]]
+
+**hard drive:**
+* hard drive - function: store and retrieve data on rotating magnetic disks.
+* hard drive - description: N/A
+* hard drive - examples: N/A
+* hard drive - options-flags: N/A
+
+**Relevant hard drive links:**
+* https://en.wikipedia.org/wiki/Hard_disk_drive
+
+**Relevant hard drive notes:**
+* N/A
+
+**Associated hard drive binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated hard drive man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant hard drive Screenshots:**
+N/A
