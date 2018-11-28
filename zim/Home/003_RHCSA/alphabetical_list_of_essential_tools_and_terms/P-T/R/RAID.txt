@@ -39,6 +39,7 @@ command to get timestamp: __date '+%A %D %X'__
 * [[+RAID 4]]
 * [[+RAID 5]]
 * [[+RAID 6]]
+[[~/Sync/PROJECTS/RHCSA/lectures/raid/parity_drives.odp]]
 
 **Relevant RAID notes:**
 * N/A
