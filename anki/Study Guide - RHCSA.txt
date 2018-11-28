@@ -328,3 +328,10 @@ What command would you use to check Volume Group metadata?	vgck
 What command would you use to convert Volume Group metadata format?	vgconvert
 What command would you use to create a Volume Group?	vgcreate
 What command would you use to display the attributes of Volume Groups?	vgdisplay
+"In computer science, what does the word ""parity"" mean?"	&nbsp;The state of being even or odd.<div><br /></div>
+What is purpose of the parity bit?	Analysis of the evenness or oddness of a parity bit is used to determine whether or not binary data contains errors.
+Define the parity bit.	<div>Also known as the check bit.</div><div>Is added to a string of binary code.</div><div>Ensures that the total number of 1-bits in the string is even or odd.</div><div>Is used as the simplest form of error detecting code.</div><div>Comes in 2 variants: even parity bit or odd parity bit.</div>
+Discuss RAID parity computations.	<div>Uses the XOR operation.</div><div>RAID parity is created at the binary level using the XOR Boolean operation.</div><div>XOR: takes 2 binary inputs. If 1 (and only if) 1 input is TRUE, then the output of the XOR is TRUE.</div>
+What the XOR Truth Table with 2 inputs?	"<img src=""paste-777389080580.jpg"" /><div>If A or B is 1, then Q is 1. &nbsp;Otherwise, Q is 0.</div>"
+What is the XOR Truth Table with 3 inputs?	"<img src=""paste-841813590020.jpg"" /><div>If an odd number of Inputs are “1”s, then Q is 1. Otherwise, Q is 0.</div>"
+Discuss parity drives.	<div>Is a hard drive or SSD used in a RAID array to provide fault tolerance.</div><div>Uses exclusive or (XOR) Boolean logic.</div><div>XOR of all data drives in the RAID array is written to the parity drive.</div><div>If one of the data drives fail, then the XOR of the remaining drives is identical to the data on the lost drive.</div><div>To recover the data on the lost drive, XOR of the remaining drives is copied to a new disk.</div>
