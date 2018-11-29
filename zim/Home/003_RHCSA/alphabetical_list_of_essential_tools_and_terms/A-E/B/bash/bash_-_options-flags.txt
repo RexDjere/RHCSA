@@ -18,12 +18,13 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-This article describes the options available with the bash shell.
+This article describes the options available with the **bash** shell.
 
 **KEYWORD - options:**
-* -a: describe option a.
-* -b: describe option b.
-* -c: decsribe option c.
+* -c: rells bash to read a command from the string immediately following the "-c".  
+	* Example: __bash -c ls__ => 
+{{./pasted_image.png?width=1000}}
+* -b
 
 **Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+N/A

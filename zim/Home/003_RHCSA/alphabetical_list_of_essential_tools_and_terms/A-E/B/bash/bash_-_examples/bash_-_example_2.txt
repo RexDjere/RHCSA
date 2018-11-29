@@ -32,9 +32,7 @@ Briefly describe the scenario here, and describe the problem that we are going t
 3. Briefly describe task 3.
 
 **Relevant bash - example 2 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant bash - example 2 Screenshots:**
-Paste any relevant screenshots here.
+N/A
