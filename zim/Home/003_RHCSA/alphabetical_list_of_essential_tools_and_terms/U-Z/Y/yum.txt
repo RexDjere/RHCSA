@@ -5,6 +5,47 @@ Creation-Date: 2018-07-31T04:40:51-04:00
 ====== yum ======
 Created Tuesday 31 July 2018
 
-tasks template
-alphabetical list of essential tools
-Y
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:Y]]
+
+**KYWRD:** yum
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+Briefly describe this topic in 1 or 2 sentences. Once the description is complete, and the 4 bullets below are complete, you can delete this sentence, and the 4 bullets.
+1. Find and Replace any occurence of yum in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+4. If applicable, create the links to the options-flags page and examples page below, and populate those pages using their associated templates.
+
+**yum:**
+* yum - function: State the main function of the topic here.
+* yum - description: Provide a more detail description here.
+* yum - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the yum examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* yum - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the yum options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant yum links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant yum notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated yum binary files: **
+* [[:Home:binary location]] 1:
+
+**Associated yum man pages: **
+* [[:Home:man location]] 1:
+
+**Relevant yum Screenshots:**
+Paste any relevant screenshots here.
