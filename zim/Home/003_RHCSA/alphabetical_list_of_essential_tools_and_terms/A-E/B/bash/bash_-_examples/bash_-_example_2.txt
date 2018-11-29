@@ -15,7 +15,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:bash:bash - examples]]
 
 **KYWRD:** bash - example 2
-**RHCSA Objective: **Replace this with the target RHCSA Objective.
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
 Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
