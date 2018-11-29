@@ -1,9 +1,9 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2018-11-12T09:53:01-05:00
+Creation-Date: 2018-11-29T09:03:56-05:00
 
-====== bash - example 3 ======
-Created Monday 12 November 2018
+====== bash - example 5 ======
+Created Thursday 29 November 2018
 
 [[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
@@ -18,10 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-[[~/Sync/PROJECTS/RHCSA/lectures/bash/bash_for_loops1.odp]]
+[[~/Sync/PROJECTS/RHCSA/lectures/bash/bash_for_loops2.odp]]
 
-**Relevant bash "for" loop links:**
-N/A
-
-**Relevant bash "for" loop Screenshots:**
+**Relevant KEYWORD Screenshots:**
 {{./pasted_image.png?width=800}}

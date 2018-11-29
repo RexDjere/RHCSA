@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-[[~/Sync/PROJECTS/RHCSA/lectures/bash/bash_while_loops1.odp|Bash Shell "While" Loops - Lecture 1]]
+[[~/Sync/PROJECTS/RHCSA/lectures/bash/bash_while_loops1.odp]]
 
 **Relevant bash "while" loop links:**
 N/A
