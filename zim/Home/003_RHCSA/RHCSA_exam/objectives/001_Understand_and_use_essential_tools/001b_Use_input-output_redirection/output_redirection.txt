@@ -2,17 +2,17 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-09-11T08:47:49-04:00
 
-====== redirection output ======
+====== output redirection ======
 Created Tuesday 11 September 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-001b Use input-output redirection
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:RHCSA exam:objectives:001 Understand and use essential tools:001b Use input-output redirection]]
 
 **KYWRD:** outut redirection
 **RHCSA Objective: **001b Use input-output redirection

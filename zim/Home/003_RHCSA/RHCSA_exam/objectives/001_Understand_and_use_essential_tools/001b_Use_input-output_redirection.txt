@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001b Use input-output redirection
 
 **Summary**
-This article will demonstrate several examples of suing input-output redirection. This article discusses [[+redirection input]]. This article discusses [[+redirection output]].
+This article will demonstrate several examples of suing input-output redirection. This article discusses [[+input redirection]]. This article discusses [[+output redirection]].
 
 **001b - examples:**
 * [[+001b - example 1]] : Open a terminal on a CentOS/RHEL machine, echo "Hello World", and redirect it to a file called hello_world.txt.
