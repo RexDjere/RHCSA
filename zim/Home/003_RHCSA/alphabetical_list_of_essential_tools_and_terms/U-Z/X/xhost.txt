@@ -14,7 +14,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:X]]
 
-**KYWRD:** type the kywrd here.
+**KYWRD:** xhost
 **RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary:**
