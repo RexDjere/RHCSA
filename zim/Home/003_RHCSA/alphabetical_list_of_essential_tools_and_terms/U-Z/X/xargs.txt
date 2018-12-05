@@ -23,8 +23,8 @@ command to get timestamp: __date '+%A %D %X'__
 **xargs:**
 * xargs - function: build and execute commands from stdin.
 * xargs - description: N/A
-* [[xargs - examples]] 
-* [[xargs - options-flags]] 
+* [[+xargs - examples]] 
+* [[+xargs - options-flags]] 
 
 **Relevant xargs links:**
 * https://en.wikipedia.org/wiki/Xargs
