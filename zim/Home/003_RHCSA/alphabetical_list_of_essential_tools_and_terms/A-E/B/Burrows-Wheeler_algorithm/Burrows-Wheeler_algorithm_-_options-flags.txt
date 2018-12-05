@@ -5,16 +5,16 @@ Creation-Date: 2018-09-26T18:42:49-04:00
 ====== Burrows-Wheeler algorithm - options-flags ======
 Created Wednesday 26 September 2018
 
-options template version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Burrows-Wheeler algorithm]]
 
-**KYWRD:** type the kywrd here.
+**KYWRD:** Burrows-Wheeler algorithm
 **RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary:**
@@ -26,4 +26,4 @@ This article describes the options available with the **command_name/link_here *
 * -c: decsribe option c.
 
 **Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+N/A
