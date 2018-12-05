@@ -32,14 +32,10 @@ Briefly describe this topic in 1 or 2 sentences. Once the description is complet
 
 
 **Relevant yum links:**
-* link 1
-* link 2
-* link 3
+* https://en.wikipedia.org/wiki/Yum_(software)
 
 **Relevant yum notes:**
-* note 1
-* note 2
-* note 3
+* N/A
 
 **Associated yum binary files: **
 * [[:Home:binary location]] 1:
