@@ -5,14 +5,14 @@ Creation-Date: 2018-08-25T15:50:58-04:00
 ====== 001c - example 1 ======
 Created Saturday 25 August 2018
 
-examples template version: Wednesday 08/15/18 10:08:58 PM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 08/15/18 10:08:58 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-objectives
-001c Use grep and regular expressions to analyze text
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:RHCSA exam:objectives:001 Understand and use essential tools:001c Use grep and regular expressions to analyze text]]
 
 **KYWRD:** 001c - example 1
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
