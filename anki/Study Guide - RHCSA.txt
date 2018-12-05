@@ -343,3 +343,6 @@ HDD stands for ?	hard disk drive
 The HDD read/write head is attached to ?	The end of the actuator arm.
 The HDD read/write head does what?	Reads/writes data from/to the spinning magnetic hard disk platters which rotate on a central spindle.
 What are the four main parts of a hard disk drive (HDD)?	1. actuator/actuator arm<div>2. head</div><div>3. platters</div><div>4. spindle<br /><div><br /></div></div>
+What is the purpose of the xargs command?	It is used to build and execute commands from standard input (stdin).
+When did the xargs command first appear?	xargs first appeared in PWB/UNIX in 1977.
+What is PWB/UNIX?	- PWB/UNIX stands for Programmer’s Workbench UNIX.<div>- It was a 1977 version of UNIX created to provide a time-sharing computer operating system to a large group of computer programmers.</div><div>-&nbsp;PWB/UNIX was created by the Computer Science Research Group at AT&amp;T’s Bell Labs.</div><div>- It is now discontinued.</div>

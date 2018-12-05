@@ -24,9 +24,9 @@ This article contains examples that illustrate the correct use of the **command_
 3. N/A anything that is not applicable.
 
 **xargs - examples:**
-* xargs - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
-* xargs - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
-* xargs - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+* [[+xargs - example 1]] : xargs LibreOffice Impress lecture.
+* xargs - example 2 : Create example 2 using this [[:Home:002 all templates:examples homepage template:examples template]], and then briefly describe example 2.
+* xargs - example 3 : Create example 3 using this [[:Home:002 all templates:examples homepage template:examples template]], and then briefly describe example 3.
 
 **Relevant xargs links:**
 * N/A

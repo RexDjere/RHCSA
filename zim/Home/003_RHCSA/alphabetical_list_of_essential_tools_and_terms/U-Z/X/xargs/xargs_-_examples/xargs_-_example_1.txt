@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-05T07:53:55-05:00
+
+====== xargs - example 1 ======
+Created Wednesday 05 December 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+replace this with a link to the parent page 1 level above this page
+
+**KYWRD:** xargs - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+xargs LibreOffice Impress lecture.
+
+**Relevant xargs -e xample 1 links:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/xargs/xargs.odp]]
+
+**Relevant xargs -e xample 1 Screenshots:**
+{{./pasted_image.png?width=800}}
