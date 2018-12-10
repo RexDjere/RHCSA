@@ -5,12 +5,12 @@ Creation-Date: 2018-09-07T20:34:23-04:00
 ====== cd - example 2 ======
 Created Friday 07 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 09/05/18 04:34:19 AM
+examples template version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
 replace this with a link to the parent page 1 level above this example page
 
