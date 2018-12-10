@@ -5,25 +5,25 @@ Creation-Date: 2018-09-07T20:19:38-04:00
 ====== cd - examples ======
 Created Friday 07 September 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+examples homepage template version: Wednesday 09/05/18 01:56:46 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[cd]]
+cd
 
 **KYWRD:** cd
 **RHCSA Objective: **001h Create, delete, copy, and move files and directories
 
 **Summary:**
-This article contains examples that illustrate the correct use of the [[cd]] command.
+This article contains examples that illustrate the correct use of the cd command.
 
 **cd - examples:**
-* [[+cd - example 1]] : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
-* [[+cd - example 2]] : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* [[+cd - example 3]] : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* [[+cd - example 1]] : Create example 1 using this examples template, and then briefly describe example 1.
+* [[+cd - example 2]] : Create example 2 using this examples template, and then briefly describe example 2.
+* [[+cd - example 3]] : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant cd links:**
 * N/A
