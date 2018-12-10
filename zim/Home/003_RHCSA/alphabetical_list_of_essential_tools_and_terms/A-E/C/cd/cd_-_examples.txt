@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001h Create, delete, copy, and move files and directories
 
 **Summary:**
-This article contains examples that illustrate the correct use of the cd command.
+This article contains examples that illustrate the correct use of the **cd** command.
 
 **cd - examples:**
 * [[+cd - example 1]] : Create example 1 using this examples template, and then briefly describe example 1.
