@@ -5,20 +5,20 @@ Creation-Date: 2018-09-08T22:08:08-04:00
 ====== cat - options-flags ======
 Created Saturday 08 September 2018
 
-options template version: Wednesday 09/05/18 01:51:17 AM
+[[:Home:002 all templates:options template]] version: Wednesday 09/05/18 01:51:17 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA exam:objectives
-cat
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat]]
 
 **KYWRD:** cat
 **RHCSA Objective: **001g Create and edit text files
 
 **Summary:**
-This article describes the options available with the cat command.
+This article describes the options available with the **cat** command.
 
 **KEYWORD - options:**
 * -a: describe option a.
