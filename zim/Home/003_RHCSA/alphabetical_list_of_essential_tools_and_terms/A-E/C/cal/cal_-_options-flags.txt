@@ -5,25 +5,39 @@ Creation-Date: 2018-09-08T21:44:23-04:00
 ====== cal - options-flags ======
 Created Saturday 08 September 2018
 
-options template version: Wednesday 09/05/18 01:51:17 AM
+[[:Home:002 all templates:options template]] version: Wednesday 09/05/18 01:51:17 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-cal
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cal]]
 
 **KYWRD:** cal
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-This article describes the options available with the cal command.
+This article describes the options available with the **cal** command.
 
-**KEYWORD - options:**
-* -a: describe option a.
-* -b: describe option b.
-* -c: decsribe option c.
+**cal - options:**
+* -1, --one: shows only the current month (this is the default flag)
+* -3, --three: show three months spanning today's date
+* -n, --months <num>: show num months starting with date's month (this option is currently not available in RHEL/CentOS)
+* -S, --span: span the date when displaying multiple months (this option is currently not available in RHEL/CentOS)
+* -s, --sunday: Sunday as first day of week
+* -m, --monday: Monday as first day of week
+* -j, --julian: use day-of-year for all calendars
+* --reform <val>: Gregorian reform date (1752|gregorian|iso|julian) (this option is currently not available in RHEL/CentOS)
+* --iso: alias for --reform=iso (this option is currently not available in RHEL/CentOS)
+* -y, --year: show the whole year
+* -Y, --twelve          show the next twelve months (this option is currently not available in RHEL/CentOS)
+* -w, --week[=<num>]    show US or ISO-8601 week numbers (this option is currently not available in RHEL/CentOS)
+* --color[=<when>]  colorize messages (auto, always or never) (this option is currently not available in RHEL/CentOS)
+						 colors are enabled by default
+* -h, --help: display this help
+* -V, --version: display version
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+
+**Relevant cal Screenshots:**
+{{./pasted_image.png}}
