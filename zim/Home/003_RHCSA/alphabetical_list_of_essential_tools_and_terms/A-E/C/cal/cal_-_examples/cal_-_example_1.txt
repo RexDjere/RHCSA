@@ -5,36 +5,30 @@ Creation-Date: 2018-09-08T22:00:00-04:00
 ====== cal - example 1 ======
 Created Saturday 08 September 2018
 
-examples template version: Wednesday 09/05/18 04:34:19 AM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 09/05/18 04:34:19 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-cal - examples
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[cal - example 1]]
 
 **KYWRD:** cal - example 1
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
-1. Find and Replace any occurence of cal - example 1 in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+cal - example 1 demonstrates how to correctly use the **cal** command.
 
 **Scenario:**
-Briefly describe the scenario here, and describe the problem that we are going to solve.
+Bose is a RHEL sysadmin at Google.  She wants to display a calendar of the current month with the current day highlighted. What command will she issue?
 
 **cal - example 1 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Briefly describe task 2.
-3. Briefly describe task 3.
+2. At a command prompt, issue the cal command: __cal__
 
 **Relevant cal - example 1 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant cal - example 1 Screenshots:**
-Paste any relevant screenshots here.
+{{./pasted_image.png}}

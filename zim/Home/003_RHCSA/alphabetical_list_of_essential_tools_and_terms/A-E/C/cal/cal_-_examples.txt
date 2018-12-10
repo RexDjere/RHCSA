@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-This article contains examples that illustrate the correct use of the cal command.
+This article contains examples that illustrate the correct use of the **cal** command.
 
 **cal - examples:**
 * [[+cal - example 1]] : Use cal to display the current month with the current day highlighted.
