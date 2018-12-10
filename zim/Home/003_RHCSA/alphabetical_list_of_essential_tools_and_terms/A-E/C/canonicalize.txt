@@ -5,15 +5,16 @@ Creation-Date: 2018-08-07T23:39:57-04:00
 ====== canonicalize ======
 Created Tuesday 07 August 2018
 
-generic template version: Tuesday 08/07/18 08:47:27 PM
+[[:Home:002 all templates:generic template]] version: Tuesday 08/07/18 08:47:27 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-C
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** canonicalize
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
 Canonicalization is the process of making data that can be presented in many forms to be presented in one standard (canonical) form.
@@ -30,10 +31,10 @@ Canonicalization is the process of making data that can be presented in many for
 **Relevant canonicalize notes**
 * N/A
 
-**Associated binary files: **
+**Associated **[[binary location]]**: **
 * N/A
 
-**Associated man pages: **
+**Associated **[[man location]]**: **
 * N/A
 
 **Relevant canonicalize Screenshots**
