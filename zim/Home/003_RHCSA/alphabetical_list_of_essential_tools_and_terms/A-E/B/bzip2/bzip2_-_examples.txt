@@ -34,4 +34,4 @@ This article contains examples that illustrate the correct use of the **bzip2 **
 * link 3
 
 **Relevant bzip2 Screenshots:**
-Paste any relevant screenshots here.
+N/A
