@@ -18,23 +18,17 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
-1. Find and Replace any occurence of cal - example 2 in this page with the actual word.
-2. Edit this paragraph to provide a summary of this page.
-3. N/A anything that is not applicable.
+cal - example 2 demonstrates how to properly use the **cal** command.
 
 **Scenario:**
-Briefly describe the scenario here, and describe the problem that we are going to solve.
+Brody is a RHEL sysadmin at Facebook. He opens a terminal on his RHEL machine. He wants to display the previous month, the current month, and the next month.  The current day should be highlighted. What command will he issue?
 
 **cal - example 2 - tasks **(command line commands are __highlighted__)**:**
 1. Startup your CentOS/RHEL system, and login as a normal user.
-2. Briefly describe task 2.
-3. Briefly describe task 3.
+2. At a command prompt, issue this command: __cal -3__
 
 **Relevant cal - example 2 links:**
-* link 1
-* link 2
-* link 3
+* N/A
 
 **Relevant cal - example 2 Screenshots:**
-Paste any relevant screenshots here.
+{{./pasted_image.png}}
