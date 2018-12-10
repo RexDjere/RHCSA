@@ -5,14 +5,14 @@ Creation-Date: 2018-07-17T14:18:34-04:00
 ====== chcon ======
 Created Tuesday 17 July 2018
 
-generic template version: Wednesday 08/15/18 08:48:19 PM
+[[:Home:002 all templates:generic template]] version: Wednesday 08/15/18 08:48:19 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-RHCSA Objectives
-C
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** chcon
 **RHCSA Objective: **007d List and identify SELinux file and process context
@@ -33,10 +33,10 @@ C
 * N/A
 
 **Associated binary files: **
-* binary location 1: chcon: /usr/bin/chcon
+* [[binary location]] 1: chcon: /usr/bin/chcon
 
 **Associated man pages: **
-* man location 1: chcon: /usr/share/man/man1/chcon.1.gz
+* [[man location]] 1: chcon: /usr/share/man/man1/chcon.1.gz
 
 **Relevant chcon Screenshots**
 N/A
