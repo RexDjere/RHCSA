@@ -22,8 +22,8 @@ This article contains examples that illustrate the correct use of the **cal** co
 
 **cal - examples:**
 * [[+cal - example 1]] : Use cal to display the current month with the current day highlighted.
-* [[+cal - example 2]] : Create example 2 using this examples template, and then briefly describe example 2.
-* [[+cal - example 3]] : Create example 3 using this examples template, and then briefly describe example 3.
+* [[+cal - example 2]] : Use cal to display 3 months.
+* [[+cal - example 3]] : Use cal to display the entire year.
 
 **Relevant cal links:**
 * N/A
