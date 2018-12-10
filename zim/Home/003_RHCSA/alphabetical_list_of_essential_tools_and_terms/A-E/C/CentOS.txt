@@ -9,10 +9,10 @@ Created Monday 16 July 2018
 command to get timestamp: __date '+%A %D %X'__ 
 
 [[:Home]]
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-C
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** CentOS
 **RHCSA Objective: **N/A
@@ -34,10 +34,10 @@ C
 * N/A
 
 **Associated CentOS binary files: **
-* binary location 1: N/A
+* [[binary location]] 1: N/A
 
 **Associated CentOS man pages: **
-* man location 1: N/A
+* [[man location]] 1: N/A
 
 **Relevant CentOS Screenshots:**
 N/A
