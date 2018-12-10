@@ -5,9 +5,46 @@ Creation-Date: 2018-07-19T02:09:41-04:00
 ====== cdboot.img ======
 Created Thursday 19 July 2018
 
-F-J:G:GRUB:GRUB image files
-C
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** cdboot.img
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 cdboot.img
 	* performs the same functions as diskboot image if booting from a CD-ROM.
 	* acts as first sector of core image when booting from CD-ROM
+
+
+**cdboot.img:**
+* cdboot.img - function: State the main function of the topic here.
+* cdboot.img - description: Provide a more detail description here.
+* cdboot.img - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the cdboot.img examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* cdboot.img - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the cdboot.img options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant cdboot.img links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant cdboot.img notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated cdboot.img binary files: **
+* [[:Home:binary location]] 1:
+
+**Associated cdboot.img man pages: **
+* [[:Home:man location]] 1:
+
+**Relevant cdboot.img Screenshots:**
+Paste any relevant screenshots here.
