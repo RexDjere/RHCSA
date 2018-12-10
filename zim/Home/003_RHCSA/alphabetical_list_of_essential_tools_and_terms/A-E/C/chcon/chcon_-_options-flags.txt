@@ -5,20 +5,20 @@ Creation-Date: 2018-09-04T14:02:06-04:00
 ====== chcon - options-flags ======
 Created Tuesday 04 September 2018
 
-[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+options template version: Wednesday 08/08/18 11:13:20 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
+Home
+002 all templates
+00 TODO LIST
 RHCSA Objectives
-[[chcon]]
+chcon
 
 **KYWRD:** chcon
 **RHCSA Objective: **007d List and identify SELinux file and process context
 
 **Summary**
-This article explains the options available with the [[chcon]] command.
+This article explains the options available with the chcon command.
 
 **KEYWORD - options:**
 * −−dereference
