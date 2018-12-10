@@ -5,14 +5,14 @@ Creation-Date: 2018-09-04T14:09:06-04:00
 ====== chcon - example 1 ======
 Created Tuesday 04 September 2018
 
-examples template version: Wednesday 08/15/18 10:08:58 PM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 08/15/18 10:08:58 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-RHCSA Objectives
-chcon - examples
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:chcon:chcon - examples]]
 
 **KYWRD:** chcon - example 1
 **RHCSA Objective: **007d List and identify SELinux file and process context
