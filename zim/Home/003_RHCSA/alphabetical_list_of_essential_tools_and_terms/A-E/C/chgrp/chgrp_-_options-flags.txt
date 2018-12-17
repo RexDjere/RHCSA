@@ -5,25 +5,25 @@ Creation-Date: 2018-10-01T15:57:43-04:00
 ====== chgrp - options-flags ======
 Created Monday 01 October 2018
 
-options template version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:chgrp]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** chgrp
+**RHCSA Objective: **0006c Create, delete, and modify local groups and group memberships
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with the **chgrp **command.
 
-**KEYWORD - options:**
+**chgrp - options:**
 * -a: describe option a.
 * -b: describe option b.
 * -c: decsribe option c.
 
-**Relevant KEYWORD Screenshots:**
+**Relevant chgrp Screenshots:**
 Paste any relevant screenshots here.
