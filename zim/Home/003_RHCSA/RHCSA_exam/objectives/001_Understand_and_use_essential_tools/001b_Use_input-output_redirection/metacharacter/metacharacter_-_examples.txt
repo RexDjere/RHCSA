@@ -14,8 +14,8 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[:Home:003 RHCSA:RHCSA exam:objectives:001 Understand and use essential tools:001b Use input-output redirection:metacharacter]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** metacharacter
+**RHCSA Objective: **001b Use input-output redirection
 
 **Summary:**
 This article contains examples that illustrate the correct use of the **command_name/link_here **command.
