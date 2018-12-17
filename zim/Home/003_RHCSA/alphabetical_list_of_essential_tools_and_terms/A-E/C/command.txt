@@ -5,14 +5,14 @@ Creation-Date: 2018-08-02T10:14:39-04:00
 ====== command ======
 Created Thursday 02 August 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-C
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** command
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -33,10 +33,10 @@ C
 * N/A
 
 **Associated command binary files: **
-* binary location 1: command: /usr/bin/command
+* [[binary location]] 1: command: /usr/bin/command
 
 **Associated command man pages: **
-* man location 1:
+* [[man location]] 1:
 	* command: 
 		* /usr/share/man/man1/command.1.gz 
 		* /usr/share/man/man1p/command.1p.gz
