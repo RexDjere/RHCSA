@@ -5,14 +5,36 @@ Creation-Date: 2018-08-02T11:57:08-04:00
 ====== command - example 1 ======
 Created Thursday 02 August 2018
 
-command
+[[:Home:002 all templates:examples homepage template:examples template]] version: Sunday 09/09/18 10:13:39 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
-**Summary**
-Summarize the example here.
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:command:command - examples]]
 
-Tasks (NOTE: in examples, terminal commands are __highlighted__):
-* Step 1
-* Step 2
-* Step 3
+**KYWRD:** command - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
-Screenshot(s) go here.
+**Summary:**
+Write a short description of the example here. Once the description and the 3 bullets below are done, you can delete this sentence, and the 3 bullets below.
+1. Find and Replace any occurence of KEYWORD in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**Scenario:**
+Briefly describe the scenario here, and describe the problem that we are going to solve.
+
+**KEYWORD - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Briefly describe task 2.
+3. Briefly describe task 3.
+
+**Relevant KEYWORD links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant KEYWORD Screenshots:**
+Paste any relevant screenshots here.

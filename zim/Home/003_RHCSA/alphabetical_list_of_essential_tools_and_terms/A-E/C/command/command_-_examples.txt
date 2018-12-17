@@ -21,9 +21,9 @@ command to get timestamp: __date '+%A %D %X'__
 This article contains examples that illustrate the correct use of the **command **command.
 
 **command - examples:**
-* command - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
-* command - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
-* command - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+* [[+command - example 1]] : Create example 1 using this examples template, and then briefly describe example 1.
+* [[+command - example 2]] : Create example 2 using this examples template, and then briefly describe example 2.
+* [[+command - example 3]] : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant command links:**
 * link 1
