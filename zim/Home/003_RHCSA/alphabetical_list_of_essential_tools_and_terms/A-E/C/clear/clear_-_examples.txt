@@ -5,13 +5,13 @@ Creation-Date: 2018-10-02T15:47:31-04:00
 ====== clear - examples ======
 Created Tuesday 02 October 2018
 
-[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+examples homepage template version: Wednesday 09/05/18 01:56:46 AM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
 replace this with a link to the parent page 1 level above this page
 
 **KYWRD:** type the kywrd here.
@@ -24,9 +24,9 @@ This article contains examples that illustrate the correct use of the **command_
 3. N/A anything that is not applicable.
 
 **KEYWORD - examples:**
-* KEYWORD - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
-* KEYWORD - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
-* KEYWORD - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+* KEYWORD - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* KEYWORD - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* KEYWORD - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
 
 **Relevant KEYWORD links:**
 * link 1
