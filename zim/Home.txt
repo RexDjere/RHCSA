@@ -15,7 +15,7 @@ Created Tuesday 10 July 2018
 **KYWRD:** Home
 
 **Summary**
-This is the homepage for the RHCSA Study Guide.  This guide is designed to prepare prospective Linux system administrators for the [[Home:003 RHCSA:RHCSA exam|RHCSA exam]].
+This is the homepage for the **RHCSA Study Guide**.  This guide is designed to prepare prospective Linux system administrators for the [[Home:003 RHCSA:RHCSA exam|RHCSA exam]].
 
 **Home:**
 * Home - function: The homepage is the starting point for this study guide.
