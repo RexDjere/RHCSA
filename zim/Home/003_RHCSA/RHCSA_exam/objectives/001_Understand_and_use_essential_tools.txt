@@ -18,9 +18,8 @@ command to get timestamp: __date '+%A %D %X'__
 
 **Summary**
 This article discusses the essential tools associated with Linux/Unix operating systems. The Linux/Unix family of operating systems are designed to be portable. This means that the user experience does not significantly change from platform to platorm. For example, running Red Hat Enterprise Linux on x86 64-bit processors will be essentially the same experience as running it on an ARM microprocessor. This portability is ensured by the basic Unix philosophy. The Unix philosophy states that any computer consists of only two parts:
-* Part 1: the processes
-* Part 2: the data
-
+* **Part 1:** the processes
+* **Part 2:** the data
 
 **001 essential tools - tasks:**
 	a. [[+001a Access a shell prompt and issue commands with correct syntax]]
