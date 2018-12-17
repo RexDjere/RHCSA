@@ -33,10 +33,10 @@ See [[CMOS]].
 * See [[CMOS]].
 
 **Associated CMOS binary files: **
-* binary location 1: See [[CMOS]].
+* [[binary location]] 1: See [[CMOS]].
 
 **Associated CMOS man pages: **
-* man location 1: See [[CMOS]].
+* [[man location]] 1: See [[CMOS]].
 
 **Relevant CMOS Screenshots:**
 See [[CMOS]].
