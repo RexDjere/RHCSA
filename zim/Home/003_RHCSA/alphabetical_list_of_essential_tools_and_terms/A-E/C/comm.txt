@@ -5,15 +5,14 @@ Creation-Date: 2018-07-31T02:48:36-04:00
 ====== comm ======
 Created Tuesday 31 July 2018
 
-
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-C
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** comm
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -35,10 +34,10 @@ The Linux/Unix **comm** utility is used to compare two sorted files line by line
 * N/A
 
 **Associated comm binary files: **
-* binary location 1: comm: /usr/bin/comm
+* [[binary location]] 1: comm: /usr/bin/comm
 
 **Associated comm man pages: **
-* man location 1:
+* [[man location]] 1:
 	* comm: 
 		* /usr/share/man/man1p/comm.1p.gz 
 		* /usr/share/man/man1/comm.1.gz
