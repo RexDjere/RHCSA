@@ -5,20 +5,20 @@ Creation-Date: 2018-09-04T15:06:57-04:00
 ====== cmp - example 1 ======
 Created Tuesday 04 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 08/15/18 10:08:58 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-RHCSA Objectives
-[[cmp - examples]]
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cmp:cmp - examples]]
 
 **KYWRD:** cmp - example 1
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-Login to a CentOS/RHEL VM, create 2 files, and compare them using [[cmp]].
+Login to a CentOS/RHEL VM, create 2 files, and compare them using **cmp**.
 
 **Scenario**
 Andreas is a RHEL sysadmin for the Chicago Cubs. He creates two text files in the **examples** directory using nano: **ex1.txt** and **ext2.txt.**
