@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T05:50:38-04:00
 ====== chgrp ======
 Created Tuesday 31 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-C
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
 
 **KYWRD:** chgrp
 **RHCSA Objective: **0006c Create, delete, and modify local groups and group memberships
