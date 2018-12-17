@@ -11,6 +11,7 @@ command to get timestamp: __date '+%A %D %X'__
 [[:Home]]
 [[002 all templates]]
 [[000 TODO LIST]]
+[[003 RHCSA:alphabetical list of essential tools and terms:U-Z:W:whereis]]
 
 **Summary**
 Man pages can be located using the **whereis** command with the -m option. For example, if we wanted to find the locations of the gzip man pages, we will invoke this command:
