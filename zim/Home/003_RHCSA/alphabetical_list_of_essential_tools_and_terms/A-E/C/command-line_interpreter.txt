@@ -17,7 +17,6 @@ command to get timestamp: __date '+%A %D %X'__
 **KYWRD:** command-line interpreter
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
-
 **Summary:**
 A **command-line interpreter** is designed to read lines of text entered by the computer's user, and to execute them.
 
