@@ -18,7 +18,7 @@ command to get timestamp: __date '+%A %D %X'__
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary**
-This article describes the options available with the cmp command.
+This article describes the options available with the **cmp** command.
 
 **cmp - options:**
 * −b, −−print−bytes
