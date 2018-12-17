@@ -18,8 +18,6 @@ https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-admin
 
 **KYWRD:** RHCSA Objectives
 
-
-
 **Summary**
 This page lists all of the RHCSA Exam Objectives.
 --------------------
