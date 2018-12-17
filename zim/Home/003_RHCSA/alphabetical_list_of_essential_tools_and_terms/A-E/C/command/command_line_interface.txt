@@ -5,7 +5,33 @@ Creation-Date: 2018-07-19T22:44:08-04:00
 ====== command line interface ======
 Created Thursday 19 July 2018
 
-C
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** command line interface
+**RHCSA Objective: **Type the target RHCSA Objective here.
 
 **Summary**
-In contrast to the F-J:G:graphical user interface (F-J:G:GUI), the command line interface provides a text-based method for the Linux system administrator to interact with the Linux computer.
+In contrast to the **graphical user interface**, the **command line interface** provides a text-based method for the Linux system administrator to interact with the Linux computer.
+
+**command line interface:**
+* command line interface - function: State the main function of the topic here.
+* command line interface - description: Provide a more detail description here.
+* command line interface - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the command line interface examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* command line interface - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the command line interface options page using this template:  [[:Home:002 all templates:options template]] ]
+
+**Relevant command line interface links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant command line interface notes:**
+* note 1
+* note 2
+* note 3
