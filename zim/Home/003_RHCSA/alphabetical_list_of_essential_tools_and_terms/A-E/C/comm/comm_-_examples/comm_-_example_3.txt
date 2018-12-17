@@ -5,14 +5,14 @@ Creation-Date: 2018-09-10T21:59:29-04:00
 ====== comm - example 3 ======
 Created Monday 10 September 2018
 
-[[002 all templates:examples homepage template:examples template|examples template]] version: Sunday 09/09/18 10:13:39 PM
+examples template version: Sunday 09/09/18 10:13:39 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[002 all templates]]
-[[00 TODO LIST]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[comm - examples]]
+Home
+002 all templates
+00 TODO LIST
+003 RHCSA:RHCSA exam:objectives
+comm - examples
 
 **KYWRD:** com - example 3
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
