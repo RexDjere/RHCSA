@@ -12,6 +12,7 @@ Created Thursday 02 August 2018
 **Summary**
 This TODO list helps me to keep track of items that I decided to leave for later completion.
 
-TODO LIST
+TODO LIST:
+Add [[~/Sync/PROJECTS/RHCSA/lectures/network_services/chrony.odp]] to [[003 RHCSA:alphabetical list of essential tools and terms:A-E:C:chrony]]
 
 

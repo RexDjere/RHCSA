@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-19T16:31:59-05:00
+
+====== chrony ======
+Created Wednesday 19 December 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** chrony
+**RHCSA Objective: **005h Configure a system to use time services
+
+**Summary:**
+**chrony **is an implementation of the Network Time Protocol (NTP).  It is often used so synchronize the local time on a Linux/Unix machine to network time provided by a remote NTP server.  chrony can also be used as an NTP server which provides network time for remote clients.
+
+**chrony:**
+* chrony - function: network time synchronization.
+* chrony - description: N/A
+* [[+chrony - examples]] 
+* [[+chrony - options-flags]]
+
+
+**Relevant chrony links:**
+* https://chrony.tuxfamily.org/index.html
+
+**Relevant chrony notes:**
+* N/A
+
+**Associated chrony binary files: **
+* [[:Home:binary location]] 1: chronyd: /usr/sbin/chronyd
+
+**Associated chronyd man pages: **
+* [[:Home:man location]] 1: chronyd: /usr/share/man/man8/chronyd.8.gz
+
+**Relevant chrony Screenshots:**
+N/A

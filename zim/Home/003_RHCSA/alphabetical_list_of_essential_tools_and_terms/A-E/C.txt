@@ -28,6 +28,7 @@ All commands, utilities and terms starting with the letter C are sub-pages to th
 [[+chgrp]]
 [[+chmod]]
 [[+chown]]
+[[+chrony]]
 [[+chsh]]
 [[+clear]]
 [[+CMOS]]
