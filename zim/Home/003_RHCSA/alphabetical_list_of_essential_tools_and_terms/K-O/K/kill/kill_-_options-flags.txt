@@ -5,20 +5,20 @@ Creation-Date: 2018-10-17T10:37:01-04:00
 ====== kill - options-flags ======
 Created Wednesday 17 October 2018
 
-options template version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:kill]]
 
 **KYWRD:** kill
 **RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with the **kill **command.
 
 **KEYWORD - options:**
 * -a: describe option a.
@@ -26,4 +26,4 @@ This article describes the options available with the **command_name/link_here *
 * -c: decsribe option c.
 
 **Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+N/A
