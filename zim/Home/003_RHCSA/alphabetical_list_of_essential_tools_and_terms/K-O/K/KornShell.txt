@@ -5,20 +5,20 @@ Creation-Date: 2018-10-15T02:07:48-04:00
 ====== KornShell ======
 Created Monday 15 October 2018
 
-[[Home:002 all templates:generic template|generic template]] version: Sunday 09/09/18 05:29:36 PM
+generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-[[Home]]
-[[000 TODO LIST]]
-[[002 all templates]]
-[[003 RHCSA:RHCSA exam:objectives]]
-[[K]]
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+K
 
 **KYWRD:** KornShell
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-The **KornShell** is a [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:command-line interpreter|command-line interpreter]] for Linux/Unix that was developed by David Korn at Bell Labs in the early 1980s.  The KornShell was initially based on the source code for the [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:Bourne shell|Bourne shell]].  
+The **KornShell** is a command-line interpreter for Linux/Unix that was developed by David Korn at Bell Labs in the early 1980s.  The KornShell was initially based on the source code for the Bourne shell.  
 
 **KornShell:**
 * KornShell - function: a command-line interpreter for Linux/Unix.
@@ -33,10 +33,10 @@ The **KornShell** is a [[Home:003 RHCSA:alphabetical list of essential tools and
 * N/A
 
 **Associated KornShell binary files: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B:binary location|binary location]] 1: ksh: /usr/bin/ksh
+* binary location 1: ksh: /usr/bin/ksh
 
 **Associated KornShell man pages: **
-* [[Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:M:man location|man location]] 1: ksh: /usr/share/man/man1/ksh.1.gz
+* man location 1: ksh: /usr/share/man/man1/ksh.1.gz
 
 **Relevant KornShell Screenshots:**
 N/A
