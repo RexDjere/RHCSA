@@ -5,25 +5,25 @@ Creation-Date: 2018-10-16T23:44:12-04:00
 ====== kernel.img - options-flags ======
 Created Tuesday 16 October 2018
 
-options template version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:kernel.img]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** kernel.img
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with the **kernel.img **command.
 
-**KEYWORD - options:**
+**kernel.img - options:**
 * -a: describe option a.
 * -b: describe option b.
 * -c: decsribe option c.
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant kernel.img Screenshots:**
+N/A
