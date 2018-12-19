@@ -14,8 +14,8 @@ Home
 003 RHCSA:RHCSA exam:objectives
 replace this with a link to the parent page 1 level above this page
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** kill
+**RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
 
 **Summary:**
 This article describes the options available with the **command_name/link_here **command.
