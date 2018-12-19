@@ -5,12 +5,12 @@ Creation-Date: 2018-07-31T16:20:45-04:00
 ====== Kernel-based Virtual Machine ======
 Created Tuesday 31 July 2018
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
 [[KVM]]
-K
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K]]
 
 **KYWRD:** KVM
 **RHCSA Objective: **002f Access a virtual machine's console
