@@ -355,3 +355,13 @@ Define canonicalize?	Canonicalization is the process of making data that can be 
 In GNU/Linux and Unix, what command is used to concatenate files, and to print out the contents of a file?	cat
 On Linux/Unix systems, what command is used to move from one directory to another?	cd
 What Linux/Unix command is used to change the SELinux security context of a file?	chcon
+What is the purpose of chrony?	chrony is an implementation of the Network Time Protocol (NTP). It is used to synchronize a Linux/Unix computer's local time to time provided by a remote NTP server.
+What is the purpose of this command: cat /proc/cpuinfo	Presents the cpuinfo of the computer's microprocessor. &nbsp;Provides microprocessor details.
+What is the purpose of the top command?	top displays statistics about the computer system's microprocessor, running processes, and RAM.
+What is the purpose of the free command?	The free command displays statistics related to the computer system's RAM.
+What is the purpose of the free -m command?	free -m shows RAM statistics in units of MB.
+What is the purpose of the free -g command?	free -g shows RAM statistics in units of GB.
+What is the purpose of the dmidecode command?	The dmidecode command displays details about a computer system's BIOS, motherboard, microprocessor, and RAM.
+What is the purpose of the df command?	The df command is used to view the amount of free space on a disk drive.
+What is the purpose of the df -h command?	The df -h command is used to show the amount of free space on a disk drive in human-readable format.
+What is the purpose of the lsblk command?	The lsblk command is used to view all block devices (e.g. hard disks) attached to a computer system.
