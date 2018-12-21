@@ -5,25 +5,25 @@ Creation-Date: 2018-09-18T17:30:03-04:00
 ====== uniq - options-flags ======
 Created Tuesday 18 September 2018
 
-options template version: Sunday 09/09/18 05:45:20 PM
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-002 all templates
-00 TODO LIST
-003 RHCSA:RHCSA exam:objectives
-replace this with a link to the parent page 1 level above this page
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U:uniq]]
 
-**KYWRD:** type the kywrd here.
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**KYWRD:** uniq
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
 
 **Summary:**
-This article describes the options available with the **command_name/link_here **command.
+This article describes the options available with the **uniq **command.
 
-**KEYWORD - options:**
+**uniq - options:**
 * -a: describe option a.
 * -b: describe option b.
 * -c: decsribe option c.
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant uniq Screenshots:**
+N/A
