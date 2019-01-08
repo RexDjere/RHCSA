@@ -5,35 +5,35 @@ Creation-Date: 2018-07-31T02:57:27-04:00
 ====== gawk ======
 Created Tuesday 31 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-G
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
 
 **KYWRD:** gawk
 **RHCSA Objective: **001c Use grep and regular expressions to analyze text
 
 **Summary**
-See awk.
+See [[A-E:A:awk]]
 
 **gawk:**
-See awk.
+See [[A-E:A:awk]]
 
 **Relevant gawk links:**
-See awk.
+See [[A-E:A:awk]]
 
 **Relevant gawk notes:**
-See awk.
+See [[A-E:A:awk]]
 
 **Associated gawk binary files: **
-* binary location 1: See awk.
+* [[binary location]] 1: See [[A-E:A:awk]]
 
 **Associated gawk man pages: **
-* man location 1: See awk.
+* [[man location]] 1: See [[A-E:A:awk]]
 
 **Relevant gawk Screenshots:**
 N/A
