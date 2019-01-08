@@ -5,14 +5,14 @@ Creation-Date: 2018-07-31T04:39:59-04:00
 ====== g++ ======
 Created Tuesday 31 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-G
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
 
 **KYWRD:** g++
 **RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
@@ -34,10 +34,10 @@ G
 * N/A
 
 **Associated g++ binary files: **
-* binary location 1: g++: /usr/bin/g++
+* [[binary location]] 1: g++: /usr/bin/g++
 
 **Associated g++ man pages: **
-* man location 1: g++: /usr/share/man/man1/g++.1.gz
+* [[man location]] 1: g++: /usr/share/man/man1/g++.1.gz
 
 **Relevant g++ Screenshots:**
 N/A
