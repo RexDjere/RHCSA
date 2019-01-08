@@ -5,44 +5,39 @@ Creation-Date: 2018-07-30T21:25:03-04:00
 ====== GB ======
 Created Monday 30 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-G
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
 
 **KYWRD:** GB
-**RHCSA Objective: **Type the target RHCSA Objective here.
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
 
-**Summary:**
 **Summary:**
 See [[gigabyte]].
 
-**KEYWORD:**
-* KEYWORD - function: State the main function of the topic here.
-* KEYWORD - description: Provide a more detail description here.
-* KEYWORD - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD examples page using this template:  examples homepage template]
-* KEYWORD - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the KEYWORD options page using this template: options template]
+**GB:**
+* GB - function: See [[gigabyte]].
+* GB - description: See [[gigabyte]].
+* GB - examples: See [[gigabyte]].
+* GB - options-flags: See [[gigabyte]].
 
-**Relevant KEYWORD links:**
-* link 1
-* link 2
-* link 3
+**Relevant GB links:**
+* https://en.wikipedia.org/wiki/Gigabyte
 
-**Relevant KEYWORD notes:**
-* note 1
-* note 2
-* note 3
+**Relevant GB notes:**
+* See [[gigabyte]].
 
-**Associated KEYWORD binary files: **
-* binary location 1:
+**Associated GB binary files: **
+* [[binary location]] 1: See [[gigabyte]].
 
-**Associated KEYWORD man pages: **
-* man location 1:
+**Associated GB man pages: **
+* [[man location]] 1: See [[gigabyte]].
 
-**Relevant KEYWORD Screenshots:**
-Paste any relevant screenshots here.
+**Relevant GB Screenshots:**
+See [[gigabyte]].
 
