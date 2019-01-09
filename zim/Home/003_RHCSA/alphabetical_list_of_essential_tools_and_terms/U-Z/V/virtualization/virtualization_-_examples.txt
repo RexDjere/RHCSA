@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T00:33:53-05:00
+
+====== virtualization - examples ======
+Created Wednesday 09 January 2019
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[virtualization]]
+
+**KYWRD:** virtualization
+**RHCSA Objective: **005e Install Red Hat Enterprise Linux systems as virtual guests
+
+**Summary:**
+This article contains examples that illustrate the correct use of **virtualization**.
+
+**virtualization - examples:**
+* virtualization - example 1 : Create example 1 using this [[:Home:002 all templates:examples homepage template:examples template]], and then briefly describe example 1.
+* virtualization - example 2 : Create example 2 using this [[:Home:002 all templates:examples homepage template:examples template]], and then briefly describe example 2.
+* virtualization - example 3 :Create example 3 using this [[:Home:002 all templates:examples homepage template:examples template]], and then briefly describe example 3.
+
+**Relevant virtualization links:**
+* N/A
+
+**Relevant virtualization Screenshots:**
+Paste any relevant screenshots here.

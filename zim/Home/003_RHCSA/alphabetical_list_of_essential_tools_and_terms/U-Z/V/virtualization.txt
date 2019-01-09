@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T00:23:16-05:00
+
+====== virtualization ======
+Created Wednesday 09 January 2019
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[V]]
+
+**KYWRD:** virtualization
+**RHCSA Objective: **005e Install Red Hat Enterprise Linux systems as virtual guests
+
+**Summary:**
+**virtualization** is a technology used to create virtual computers that run in virtualization software using some of the hardware resources of a physical computer system.  For example, a physical computer could run one virtual computer system running the CentOS operating sytem, and another virtual computer system running the FreeBSD operating system.  Both systems could be independently alloted a portion of the physical hardware resources of the host physical computer.
+
+**virtualization:**
+* virtualization - function: create virtual computer systems that run on a physical host computer system.
+* virtualization - description: N/A
+* [[+virtualization - examples]]
+* [[virtualization - options-flags]] 
+
+**Relevant virtualization links:**
+* https://en.wikipedia.org/wiki/Virtualization
+
+**Relevant virtualization notes:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/virtualization/intel_vt-x.odp]]
+
+**Associated virtualization binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated virtualization man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant virtualization Screenshots:**
+N/A
