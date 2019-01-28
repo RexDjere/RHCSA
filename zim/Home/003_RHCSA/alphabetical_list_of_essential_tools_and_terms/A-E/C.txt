@@ -44,9 +44,9 @@ All commands, utilities and terms starting with the letter C are sub-pages to th
 [[+cpuinfo]]
 [[+cron]]
 [[+csplit]]
-[[+Ctrl-C]]
-[[+Ctrl-D]]
-[[+Ctrl-Z]]
+[[+Ctrl+C]]
+[[+Ctrl+D]]
+[[+Ctrl+Z]]
 [[+curl]]
 [[+cut]]
 
