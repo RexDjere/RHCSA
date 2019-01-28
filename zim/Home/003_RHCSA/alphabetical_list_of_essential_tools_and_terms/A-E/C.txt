@@ -41,6 +41,7 @@ All commands, utilities and terms starting with the letter C are sub-pages to th
 [[+core.img]]
 [[+cp]]
 [[+cpio]]
+[[+cpuinfo]]
 [[+cron]]
 [[+csplit]]
 [[+Ctrl-C]]
