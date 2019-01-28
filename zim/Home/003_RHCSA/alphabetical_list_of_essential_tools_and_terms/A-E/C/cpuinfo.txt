@@ -32,15 +32,7 @@ __cat /proc/cpuinfo__
 
 
 **Relevant cpuinfo links:**
-* link 1
-* link 2
-* link 3
+* https://www.binarytides.com/linux-cpu-information/
 
 **Relevant cpuinfo notes:**
-* note 1
-* note 2
-* note 3
-
-
-
-
+* N/A
