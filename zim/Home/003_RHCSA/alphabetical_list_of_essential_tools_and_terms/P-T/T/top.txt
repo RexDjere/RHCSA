@@ -5,14 +5,15 @@ Creation-Date: 2018-07-10T23:04:27-04:00
 ====== top ======
 Created Tuesday 10 July 2018
 
-generic template version: Sunday 09/09/18 05:29:36 PM
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-T
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[F-J:H:hardware]]
+[[T]]
 
 **KYWRD:** top
 **RHCSA Objective: **002d Identify CPU-memory intensive processes, adjust process priority with renice, and kill processes
@@ -33,10 +34,11 @@ T
 * N/A
 
 **Associated top binary files: **
-* binary location 1: top: /usr/bin/top
+* [[binary location]] 1: top: /usr/bin/top
 
 **Associated top man pages: **
-* man location 1: top: /usr/share/man/man1/top.1.gz
+* [[man location]] 1: top: /usr/share/man/man1/top.1.gz
 
 **Relevant top Screenshots:**
 N/A
+

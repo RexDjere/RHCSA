@@ -7,3 +7,4 @@ Created Tuesday 10 July 2018
 
 Home:RHCSA:alphabetical list of essential tools and terms:F-J:H:hardware
 I
+[[H:hardware]]

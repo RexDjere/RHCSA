@@ -4,11 +4,43 @@ Creation-Date: 2019-01-16T23:30:51-05:00
 
 ====== cpuinfo ======
 Created Wednesday 16 January 2019
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
 
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[F-J:H:hardware]]
+[[C]]
+
+**KYWRD:** cpuinfo
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
 The cpuinfo file contains information on the computer's microprocessor.  It is found in this directory:
 [[/proc/cpuinfo]]
 
 You can view the cpuinfo file as follows:
-cat [[/proc/cpuinfo]]
+__cat /proc/cpuinfo__
+
+**cpuinfo:**
+* cpuinfo - function: State the main function of the topic here.
+* cpuinfo - description: Provide a more detail description here.
+* cpuinfo - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the cpuinfo examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* cpuinfo - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the cpuinfo options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant cpuinfo links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant cpuinfo notes:**
+* note 1
+* note 2
+* note 3
+
+
 
 
