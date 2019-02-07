@@ -8,11 +8,11 @@ Created Sunday 16 September 2018
 generic template version: Sunday 09/09/18 05:29:36 PM
 command to get timestamp: __date '+%A %D %X'__ 
 
-Home
-000 TODO LIST
-002 all templates
-003 RHCSA:RHCSA exam:objectives
-H
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[H]]
 
 **KYWRD:** halt
 **RHCSA Objective: **002a Boot, reboot, and shut down a system normally
@@ -33,10 +33,10 @@ The **halt** utility is used to shutdown or reboot Linux/Unix systems.
 * N/A
 
 **Associated halt binary files: **
-* binary location 1: halt: /usr/sbin/halt
+* [[binary location]] 1: halt: /usr/sbin/halt
 
 **Associated halt man pages: **
-* man location 1: halt: /usr/share/man/man8/halt.8.gz
+* [[man location]] 1: halt: /usr/share/man/man8/halt.8.gz
 
 **Relevant halt Screenshots:**
 N/A
