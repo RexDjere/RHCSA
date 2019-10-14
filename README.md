@@ -10,6 +10,10 @@ About the RHCSA Exam:
 - The exam consists of about 10 to 15 questions.
 - The exam objectives are here: https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam
 - More information on the exam can be found here: https://www.redhat.com/en/services/certification/rhcsa
+- 10/13/2019 Update: I had to take a few months off due to work-related issues, but I do plan on continuing this project, as time allows.
+	- RHEL 8 was recently released. There don't seem to be any changes to the objectives.
+	- I recently moved from Syncthing to Dropbox because I needed a cloud backup of all my important files, so you will notice that
+	I will slowly change links from /Sync to /Dropbox/sync0001. Please change them to whatever is appropriate on your system.
 ________________________________________________________________________________________________________________________________________
 
 To build this study guide, I am using the following <a href="https://www.fsf.org/about/what-is-free-software" target="_blank">free software</a>:
