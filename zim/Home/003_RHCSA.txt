@@ -9,7 +9,7 @@ Created Tuesday 10 July 2018
 [[002 all templates:generic template]]
 [[002 all templates]]
 [[000 TODO LIST]]
-[[~/Sync/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
+[[~/Dropbox/sync0001/PROJECTS/RHCSA/mindmaps/RHCSA.mm]]
 [[+RHCSA exam:objectives]]
 [[+alphabetical list of essential tools and terms]]
 
